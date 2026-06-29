@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu!haberler</value>
+    <value>hotia!haberler</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>Daha yeni gönderiler</value>
@@ -98,7 +98,7 @@
     <value>Aylık Beatmapping Yarışmaları</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>osu! ürünleri</value>
+    <value>hotia! ürünleri</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>çeşitli duyurular</value>
@@ -119,7 +119,7 @@
     <value>sıralama sistemi güncellemeleri</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>osu! Dünya Kupaları</value>
+    <value>hotia! Dünya Kupaları</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>{0} tarafından</value>

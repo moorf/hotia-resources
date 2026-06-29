@@ -503,7 +503,7 @@
     <value>A classificação do perfil e os resultados exibidos nesta página são baseados nas suas notas mais altas "padronizadas" (também conhecido como "lazer") em beatmaps.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrar por {0} requer uma osu!supporter tag ativa</value>
+    <value>Filtrar por {0} requer uma hotia!supporter tag ativa</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>nenhum resultado</value>
@@ -572,7 +572,7 @@
     <value>Filtrar por {0} requer uma {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>procurar por tags de usuário</value>

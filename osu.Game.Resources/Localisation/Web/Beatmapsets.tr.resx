@@ -68,7 +68,7 @@
     <value>Daha fazla bilgi için buraya göz atın.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Bu beatmap üzerinde yer alan bazı varlıklar osu!'da kullanıma uygun olmadığına karar verildikten sonra kaldırıldı.</value>
+    <value>Bu beatmap üzerinde yer alan bazı varlıklar hotia!'da kullanıma uygun olmadığına karar verildikten sonra kaldırıldı.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Silinmiş beatmap</value>
@@ -101,7 +101,7 @@
     <value>videosuz indir</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>osu!direct'de aç</value>
+    <value>hotia!direct'de aç</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Deneme sürecindeki aday göstericiler birden fazla kural seti aday gösteremez.</value>
@@ -332,7 +332,7 @@
     <value>Aldığınız tüm süslü özellikleri görmek için buraya &lt;a href="{0}"&gt;tıklayın&lt;/a&gt;!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Arkadaş ve ülke sıralamasına erişebilmek için osu!supporter olman gerekiyor!</value>
+    <value>Arkadaş ve ülke sıralamasına erişebilmek için hotia!supporter olman gerekiyor!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Takım Sıralaması</value>

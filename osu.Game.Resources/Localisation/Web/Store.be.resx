@@ -107,7 +107,7 @@
     <value>У дадзены момант у нас шмат заказаў. Вы можаце заказваць, але помніце, што яго апрацоўка можа займаць дадатковыя 1-2 тадні.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Схаваць усе паведамленні аб тэгах osu!supporter з секцыі актыўнасці ў маім профілі пасля куплі</value>
+    <value>Схаваць усе паведамленні аб тэгах hotia!supporter з секцыі актыўнасці ў маім профілі пасля куплі</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Ваш кошык, здаецца, састарэў і быў перазагружаны, паспрабуйце нанова.</value>
@@ -149,7 +149,7 @@
     <value>Аплата праз eCheck была адхіленая PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>паведамленні аб тэгах osu!supporter пасля куплі не будуць адлюстраваны ў вашым профілі.</value>
+    <value>паведамленні аб тэгах hotia!supporter пасля куплі не будуць адлюстраваны ў вашым профілі.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Адпраўлена праз:</value>
@@ -170,7 +170,7 @@
     <value>Калі вы не адмянялі заказ самастойна, калі ласка, звяжыцеся з {0}, паказаўшы нумар вашага заказу (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>падтрымкай osu!store</value>
+    <value>падтрымкай hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Ваш заказ дастаўлены! Спадзяемся, ён вам спадабаецца!</value>
@@ -179,7 +179,7 @@
     <value>Калі ў вас узніклі праблемы з пакупкай, калі ласка, звяжыцеся з {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>падтрымкай osu!store</value>
+    <value>падтрымкай hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Ваш заказ рыхтуецца да адпраўкі!</value>
@@ -356,7 +356,7 @@
     <value>дадайце паведамленне да вашага падарунку! (да {0} знакаў)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Вы павінны {0}, каб атрымаць тэг osu!supporter!</value>
+    <value>Вы павінны {0}, каб атрымаць тэг hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>увайсці</value>

@@ -62,13 +62,13 @@
     <value>Mag-import</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Kung mayroon kang installation ng isang nakaraang osu! bersyon, maaari mong piliing i-migrate ang iyong kasalukuyang nilalaman. Tandaan na lilikha ito ng kopya, at hindi makakaapekto sa iyong kasalukuyang installation.</value>
+    <value>Kung mayroon kang installation ng isang nakaraang hotia! bersyon, maaari mong piliing i-migrate ang iyong kasalukuyang nilalaman. Tandaan na lilikha ito ng kopya, at hindi makakaapekto sa iyong kasalukuyang installation.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>nakaraang install ng osu!</value>
+    <value>nakaraang install ng hotia!</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>I-click para maghanap ng isang nakaraang install ng osu!</value>
+    <value>I-click para maghanap ng isang nakaraang install ng hotia!</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Mag-import ng nilalaman mula sa nakaraang bersyon</value>
@@ -92,9 +92,9 @@
     <value>Ang magaan na pag-link ng mga file ay hindi pa sinusuportahan sa iyong operating system, kaya isang kopya ng lahat ng mga file ay gagawin sa panahon ng pag-import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng lazer ay nasa parehong drive ng iyong nakaraang install ng osu! (at ang file system ay NTFS).</value>
+    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng lazer ay nasa parehong drive ng iyong nakaraang install ng hotia! (at ang file system ay NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng lazer ay nasa parehong drive ng iyong nakaraang install ng osu! (at ang file system ay sumusuporta sa mga hard link).</value>
+    <value>Ang pangalawang kopya ng lahat ng mga file ay gagawin habang nag-i-import. Upang maiwasan ito, pakitiyak na ang folder ng data ng lazer ay nasa parehong drive ng iyong nakaraang install ng hotia! (at ang file system ay sumusuporta sa mga hard link).</value>
   </data>
 </root>

@@ -62,7 +62,7 @@
     <value>Odtwórz następny utwór automatycznie</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - rytm jest tylko o *klik* stąd! Z Ouendanem/EBA, Taiko i oryginalnymi trybami gry, a także w pełni funkcjonalnym edytorem!</value>
+    <value>hotia! - rytm jest tylko o *klik* stąd! Z Ouendanem/EBA, Taiko i oryginalnymi trybami gry, a także w pełni funkcjonalnym edytorem!</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapa</value>
@@ -191,7 +191,7 @@
     <value>Beatmapy</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Pobierz osu!</value>
+    <value>Pobierz hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Pomoc i społeczność</value>
@@ -311,7 +311,7 @@
     <value>Pobierz</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Pobierz osu!, aby utworzyć swoje własne konto!</value>
+    <value>Pobierz hotia!, aby utworzyć swoje własne konto!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Nie posiadasz konta?</value>
@@ -329,7 +329,7 @@
     <value>Tryb „lazer”</value>
   </data>
   <data name="popup_user.links.legacy_score_only_toggle_tooltip" xml:space="preserve">
-    <value>Tryb „lazer” uwzględnia wyniki ustanowione w osu!lazer, które wykorzystują nowy algorytm punktacji</value>
+    <value>Tryb „lazer” uwzględnia wyniki ustanowione w hotia!lazer, które wykorzystują nowy algorytm punktacji</value>
   </data>
   <data name="popup_user.links.logout" xml:space="preserve">
     <value>Wyloguj się</value>

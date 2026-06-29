@@ -275,9 +275,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString LoginPassword => new TranslatableString(getKey(@"login.password"), @"Password");
 
         /// <summary>
-        /// "Don&#39;t have an osu! account? Make a new one"
+        /// "Don&#39;t have an hotia! account? Make a new one"
         /// </summary>
-        public static LocalisableString LoginRegister => new TranslatableString(getKey(@"login.register"), @"Don't have an osu! account? Make a new one");
+        public static LocalisableString LoginRegister => new TranslatableString(getKey(@"login.register"), @"Don't have an hotia! account? Make a new one");
 
         /// <summary>
         /// "Remember this computer"
@@ -300,9 +300,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString LoginBetaMain => new TranslatableString(getKey(@"login.beta.main"), @"Beta access is currently restricted to privileged users.");
 
         /// <summary>
-        /// "(osu!supporters will get in soon)"
+        /// "(hotia!supporters will get in soon)"
         /// </summary>
-        public static LocalisableString LoginBetaSmall => new TranslatableString(getKey(@"login.beta.small"), @"(osu!supporters will get in soon)");
+        public static LocalisableString LoginBetaSmall => new TranslatableString(getKey(@"login.beta.small"), @"(hotia!supporters will get in soon)");
 
         /// <summary>
         /// "Active"
@@ -415,9 +415,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ReportDmcaMessage1Default(LocalisableString mail, LocalisableString policy) => new TranslatableString(getKey(@"report.dmca.message_1._"), @"Please report copyright infringement through a DMCA claim to {0} as per {1}.", mail, policy);
 
         /// <summary>
-        /// "the osu! copyright policy"
+        /// "the hotia! copyright policy"
         /// </summary>
-        public static LocalisableString ReportDmcaMessage1Policy => new TranslatableString(getKey(@"report.dmca.message_1.policy"), @"the osu! copyright policy");
+        public static LocalisableString ReportDmcaMessage1Policy => new TranslatableString(getKey(@"report.dmca.message_1.policy"), @"the hotia! copyright policy");
 
         /// <summary>
         /// "This applies to cases where audio tracks, visual content or beatmap level content is used without correct permission."
@@ -500,14 +500,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowFirstMembers => new TranslatableString(getKey(@"show.first_members"), @"Here since the beginning");
 
         /// <summary>
-        /// "osu!developer"
+        /// "hotia!developer"
         /// </summary>
-        public static LocalisableString ShowIsDeveloper => new TranslatableString(getKey(@"show.is_developer"), @"osu!developer");
+        public static LocalisableString ShowIsDeveloper => new TranslatableString(getKey(@"show.is_developer"), @"hotia!developer");
 
         /// <summary>
-        /// "osu!supporter"
+        /// "hotia!supporter"
         /// </summary>
-        public static LocalisableString ShowIsSupporter => new TranslatableString(getKey(@"show.is_supporter"), @"osu!supporter");
+        public static LocalisableString ShowIsSupporter => new TranslatableString(getKey(@"show.is_supporter"), @"hotia!supporter");
 
         /// <summary>
         /// "Joined {0}"
@@ -685,9 +685,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowEditCoverUploadRestrictionInfoDefault(LocalisableString link) => new TranslatableString(getKey(@"show.edit.cover.upload.restriction_info._"), @"Upload available for {0} only", link);
 
         /// <summary>
-        /// "osu!supporters"
+        /// "hotia!supporters"
         /// </summary>
-        public static LocalisableString ShowEditCoverUploadRestrictionInfoLink => new TranslatableString(getKey(@"show.edit.cover.upload.restriction_info.link"), @"osu!supporters");
+        public static LocalisableString ShowEditCoverUploadRestrictionInfoLink => new TranslatableString(getKey(@"show.edit.cover.upload.restriction_info.link"), @"hotia!supporters");
 
         /// <summary>
         /// "default game mode"
@@ -715,9 +715,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowEditHueSupporterDefault(LocalisableString link) => new TranslatableString(getKey(@"show.edit.hue.supporter._"), @"Custom colour themes available for {0} only", link);
 
         /// <summary>
-        /// "osu!supporters"
+        /// "hotia!supporters"
         /// </summary>
-        public static LocalisableString ShowEditHueSupporterLink => new TranslatableString(getKey(@"show.edit.hue.supporter.link"), @"osu!supporters");
+        public static LocalisableString ShowEditHueSupporterLink => new TranslatableString(getKey(@"show.edit.hue.supporter.link"), @"hotia!supporters");
 
         /// <summary>
         /// "none"
@@ -875,9 +875,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowExtraKudosuRecentEntries => new TranslatableString(getKey(@"show.extra.kudosu.recent_entries"), @"Recent Kudosu History");
 
         /// <summary>
-        /// "Kudosu!"
+        /// "Kudhotia!"
         /// </summary>
-        public static LocalisableString ShowExtraKudosuTitle => new TranslatableString(getKey(@"show.extra.kudosu.title"), @"Kudosu!");
+        public static LocalisableString ShowExtraKudosuTitle => new TranslatableString(getKey(@"show.extra.kudosu.title"), @"Kudhotia!");
 
         /// <summary>
         /// "Total Kudosu Earned"
@@ -890,9 +890,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowExtraKudosuEntryAmount(LocalisableString amount) => new TranslatableString(getKey(@"show.extra.kudosu.entry.amount"), @"{0} kudosu", amount);
 
         /// <summary>
-        /// "This user hasn&#39;t received any kudosu!"
+        /// "This user hasn&#39;t received any kudhotia!"
         /// </summary>
-        public static LocalisableString ShowExtraKudosuEntryEmpty => new TranslatableString(getKey(@"show.extra.kudosu.entry.empty"), @"This user hasn't received any kudosu!");
+        public static LocalisableString ShowExtraKudosuEntryEmpty => new TranslatableString(getKey(@"show.extra.kudosu.entry.empty"), @"This user hasn't received any kudhotia!");
 
         /// <summary>
         /// "Received {0} from kudosu deny repeal of modding post {1}"
@@ -1255,9 +1255,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowPageRestrictionInfoDefault(LocalisableString link) => new TranslatableString(getKey(@"show.page.restriction_info._"), @"You need to be an {0} to unlock this feature.", link);
 
         /// <summary>
-        /// "osu!supporter"
+        /// "hotia!supporter"
         /// </summary>
-        public static LocalisableString ShowPageRestrictionInfoLink => new TranslatableString(getKey(@"show.page.restriction_info.link"), @"osu!supporter");
+        public static LocalisableString ShowPageRestrictionInfoLink => new TranslatableString(getKey(@"show.page.restriction_info.link"), @"hotia!supporter");
 
         /// <summary>
         /// "Contributed {0}"
@@ -1420,9 +1420,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString StoreFromClient => new TranslatableString(getKey(@"store.from_client"), @"please register via the game client instead!");
 
         /// <summary>
-        /// "please complete registration using the osu! website"
+        /// "please complete registration using the hotia! website"
         /// </summary>
-        public static LocalisableString StoreFromWeb => new TranslatableString(getKey(@"store.from_web"), @"please complete registration using the osu! website");
+        public static LocalisableString StoreFromWeb => new TranslatableString(getKey(@"store.from_web"), @"please complete registration using the hotia! website");
 
         /// <summary>
         /// "User created"

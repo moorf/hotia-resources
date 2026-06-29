@@ -62,14 +62,14 @@
     <value>Увези</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Ако имате инсталацију претходне верзије osu!, можете одабрати да мигрирате свој постојећи садржај. Имајте на уму да ће ово створити копију и да неће утицати на вашу постојећу инсталацију.
+    <value>Ако имате инсталацију претходне верзије hotia!, можете одабрати да мигрирате свој постојећи садржај. Имајте на уму да ће ово створити копију и да неће утицати на вашу постојећу инсталацију.
 </value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>претходни osu! install</value>
+    <value>претходни hotia! install</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Кликните да бисте лоцирали претходни osu! install
+    <value>Кликните да бисте лоцирали претходни hotia! install
 </value>
   </data>
   <data name="import_button" xml:space="preserve">

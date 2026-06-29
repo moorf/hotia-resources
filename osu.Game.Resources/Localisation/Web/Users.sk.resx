@@ -203,7 +203,7 @@
     <value>Heslo</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Nemáš osu! účet? Vytvor si nový</value>
+    <value>Nemáš hotia! účet? Vytvor si nový</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Pamätať si tento počítač</value>
@@ -218,7 +218,7 @@
     <value>Beta prístup je momentálne obmedzený pre oprávnených užívateľov.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporters sa dostanú dnu skorej)</value>
+    <value>(hotia!supporters sa dostanú dnu skorej)</value>
   </data>
   <data name="posts.title" xml:space="preserve">
     <value>{0}'s príspevky</value>
@@ -296,10 +296,10 @@
     <value>Od samého začiatku</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!vývojár</value>
+    <value>hotia!vývojár</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Registroval sa {0}</value>
@@ -353,7 +353,7 @@
     <value>Nahrávanie je k dispozícií len pre {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporteri</value>
+    <value>hotia!supporteri</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>štandardný herný mód</value>
@@ -446,7 +446,7 @@
     <value>Nedávna Kudosu História</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Celkovo Získané Kudosu</value>
@@ -455,7 +455,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Tento užívateľ zatiaľ neobdržal žiadne kudosu!</value>
+    <value>Tento užívateľ zatiaľ neobdržal žiadne kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Obdržal si {0} kudosu z odmietnutí kudosu z modding príspevku {1}</value>
@@ -629,7 +629,7 @@
     <value>Musíš byť {0} aby si mohol využívať túto funkciu.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Prispel {0}</value>

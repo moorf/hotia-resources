@@ -449,7 +449,7 @@
     <value>Viac možností hladania</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrovanie podľa {0} vyžaduje aktívny osu!supporter tag</value>
+    <value>Filtrovanie podľa {0} vyžaduje aktívny hotia!supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>bez výsledkov</value>
@@ -518,7 +518,7 @@
     <value>Filtrovanie podľa {0} vyžaduje aktívny {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Zahrnúť konvertované beatmapy</value>

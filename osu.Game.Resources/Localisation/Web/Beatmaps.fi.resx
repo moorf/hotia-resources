@@ -503,7 +503,7 @@
     <value>Profiilin huippusijoitusten määrät ja tällä sivulla näkyvät tulokset perustuvat korkeimpiin ”standardoituihin” (eli ”lazer”) tuloksiisi rytmikartoissa.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Tunnisteella {0} rajaaminen vaatii aktiivisen osu!supporter-tagin</value>
+    <value>Tunnisteella {0} rajaaminen vaatii aktiivisen hotia!supporter-tagin</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>ei tuloksia</value>
@@ -572,7 +572,7 @@
     <value>Rajataksesi tunnisteella {0} sinulla on oltava aktiivinen {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!tukijamerkki</value>
+    <value>hotia!tukijamerkki</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>selaa käyttäjätunnisteita</value>

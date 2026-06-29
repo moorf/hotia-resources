@@ -62,13 +62,13 @@
     <value>Nhập</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Nếu bạn có một phiên bản osu! được cài đặt trước đó, bạn có thể chọn nhập dữ liệu có sẵn. Chú ý là việc này sẽ tạo ra một bản sao và không ảnh hưởng đến cài đặt trước của bạn.</value>
+    <value>Nếu bạn có một phiên bản hotia! được cài đặt trước đó, bạn có thể chọn nhập dữ liệu có sẵn. Chú ý là việc này sẽ tạo ra một bản sao và không ảnh hưởng đến cài đặt trước của bạn.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
     <value>phiên bản osu trước đó</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Nhấn để chọn một phiên bản cài đặt osu! trước đó</value>
+    <value>Nhấn để chọn một phiên bản cài đặt hotia! trước đó</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Nhập dữ liệu từ phiên bản trước</value>
@@ -92,9 +92,9 @@
     <value>Hệ điều hành của bạn chưa hỗ trợ liên kết nhẹ giữa các tệp, do đó bản sao của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Bản sao thứ hai của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu. Để tránh điều này xảy ra, vui lòng đảm bảo thư mục dữ liệu của lazer nằm trên cùng ổ đĩa với phiên bản osu! trước đó của bạn (và hệ thống tệp là NTFS).</value>
+    <value>Bản sao thứ hai của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu. Để tránh điều này xảy ra, vui lòng đảm bảo thư mục dữ liệu của lazer nằm trên cùng ổ đĩa với phiên bản hotia! trước đó của bạn (và hệ thống tệp là NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Một bản sao thứ hai của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu. Để tránh điều này xảy ra, vui lòng đảm bảo thư mục dữ liệu lazer nằm trên cùng ổ đĩa với phiên bản osu! trước đó của bạn (và hệ thống tệp hỗ trợ hard links).</value>
+    <value>Một bản sao thứ hai của tất cả các tệp sẽ được tạo trong quá trình nhập dữ liệu. Để tránh điều này xảy ra, vui lòng đảm bảo thư mục dữ liệu lazer nằm trên cùng ổ đĩa với phiên bản hotia! trước đó của bạn (và hệ thống tệp hỗ trợ hard links).</value>
   </data>
 </root>

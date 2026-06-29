@@ -203,7 +203,7 @@
     <value>עם וידיאו אם אפשר</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>לפתוח ב-osu!direct</value>
+    <value>לפתוח ב-hotia!direct</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>בלי וידיאו</value>

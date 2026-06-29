@@ -68,7 +68,7 @@
     <value>Klikkaa nähdäksesi lisätietoja.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Osa tämän rytmikartan sisältämistä resursseista on poistettu, koska on katsottu, että ne eivät sovi osu!ssa käytettäväksi.</value>
+    <value>Osa tämän rytmikartan sisältämistä resursseista on poistettu, koska on katsottu, että ne eivät sovi hotia!ssa käytettäväksi.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Poistettu rytmikartta</value>
@@ -101,7 +101,7 @@
     <value>lataa ilman videota</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>avaa osu!directissä</value>
+    <value>avaa hotia!directissä</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Koeajalla olevat ehdollepanijat eivät voi asettaa ehdolle useita pelimuotoja.</value>
@@ -332,7 +332,7 @@
     <value>Klikkaa &lt;a href="{0}"&gt;tästä&lt;/a&gt; nähdäksesi kaikki hienot ominaisuudet mitä saat!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Sinun täytyy olla osu!n tukija nähdäksesi kaveri-, maa- ja muunnelmakohtaiset sijoitukset!</value>
+    <value>Sinun täytyy olla hotia!n tukija nähdäksesi kaveri-, maa- ja muunnelmakohtaiset sijoitukset!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Tiimin Sijoitukset</value>

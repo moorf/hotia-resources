@@ -74,7 +74,7 @@
     <value>หน้าที่คุณเรียกไม่สามารถหาพบเจอได้ในภาษาที่คุณเรียกอยู่ในขณะนี้</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>หน้านี้ไม่ผ่านมาตรฐานของ osu! wiki และต้องการการปรับปรุงหรือเขียนใหม่ หากคุณช่วยได้ กรุณาอัพเดตบทความนี้</value>
+    <value>หน้านี้ไม่ผ่านมาตรฐานของ hotia! wiki และต้องการการปรับปรุงหรือเขียนใหม่ หากคุณช่วยได้ กรุณาอัพเดตบทความนี้</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>ค้นหาหน้าที่มีอยู่สำหรับ {0}.</value>

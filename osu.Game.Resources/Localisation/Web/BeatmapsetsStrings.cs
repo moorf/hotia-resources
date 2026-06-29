@@ -25,9 +25,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString AvailabilityMoreInfo => new TranslatableString(getKey(@"availability.more-info"), @"Check here for more information.");
 
         /// <summary>
-        /// "Some assets contained within this map have been removed after being judged as not being suitable for use in osu!."
+        /// "Some assets contained within this map have been removed after being judged as not being suitable for use in hotia!."
         /// </summary>
-        public static LocalisableString AvailabilityRuleViolation => new TranslatableString(getKey(@"availability.rule_violation"), @"Some assets contained within this map have been removed after being judged as not being suitable for use in osu!.");
+        public static LocalisableString AvailabilityRuleViolation => new TranslatableString(getKey(@"availability.rule_violation"), @"Some assets contained within this map have been removed after being judged as not being suitable for use in hotia!.");
 
         /// <summary>
         /// "Deleted beatmap"
@@ -80,9 +80,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PanelDownloadNoVideo => new TranslatableString(getKey(@"panel.download.no_video"), @"download without video");
 
         /// <summary>
-        /// "open in osu!direct"
+        /// "open in hotia!direct"
         /// </summary>
-        public static LocalisableString PanelDownloadDirect => new TranslatableString(getKey(@"panel.download.direct"), @"open in osu!direct");
+        public static LocalisableString PanelDownloadDirect => new TranslatableString(getKey(@"panel.download.direct"), @"open in hotia!direct");
 
         /// <summary>
         /// "Probationary nominators cannot nominate multiple rulesets."
@@ -230,9 +230,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowDetailsDownloadDefault => new TranslatableString(getKey(@"show.details.download._"), @"Download");
 
         /// <summary>
-        /// "osu!direct"
+        /// "hotia!direct"
         /// </summary>
-        public static LocalisableString ShowDetailsDownloadDirect => new TranslatableString(getKey(@"show.details.download.direct"), @"osu!direct");
+        public static LocalisableString ShowDetailsDownloadDirect => new TranslatableString(getKey(@"show.details.download.direct"), @"hotia!direct");
 
         /// <summary>
         /// "without Video"
@@ -470,9 +470,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowScoreboardSupporterLink(LocalisableString link) => new TranslatableString(getKey(@"show.scoreboard.supporter-link"), @"Click <a href=""{0}"">here</a> to see all the fancy features that you get!", link);
 
         /// <summary>
-        /// "You need to be an osu!supporter to access the friend, country, or mod-specific rankings!"
+        /// "You need to be an hotia!supporter to access the friend, country, or mod-specific rankings!"
         /// </summary>
-        public static LocalisableString ShowScoreboardSupporterOnly => new TranslatableString(getKey(@"show.scoreboard.supporter-only"), @"You need to be an osu!supporter to access the friend, country, or mod-specific rankings!");
+        public static LocalisableString ShowScoreboardSupporterOnly => new TranslatableString(getKey(@"show.scoreboard.supporter-only"), @"You need to be an hotia!supporter to access the friend, country, or mod-specific rankings!");
 
         /// <summary>
         /// "Team Ranking"

@@ -77,7 +77,7 @@
     <value>ลองเปลี่ยนโหมดปรับขนาดสเกลหน้าจอดูสิ แม้จะใช้ Fullscreen ก็เถอะ!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>osu!direct ตอนนี้ใช้ฟรีได้แล้วนะ จะโหลดแมพกด {0} ที่ไหนก็ได้!</value>
+    <value>hotia!direct ตอนนี้ใช้ฟรีได้แล้วนะ จะโหลดแมพกด {0} ที่ไหนก็ได้!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>ตอนนี้กรอตอนดูรีเพลย์ได้นะ</value>

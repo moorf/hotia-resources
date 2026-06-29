@@ -107,7 +107,7 @@
     <value>We zijn momenteel overweldigd met bestellingen! Je kunt nog steeds bestellingen plaatsen maar verwacht dan **een vertraging van 1-2 weken** terwijl wij de bestaande bestellingen verwerken.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Verberg alle osu!supporter tags in deze bestelling van mijn activiteit</value>
+    <value>Verberg alle hotia!supporter tags in deze bestelling van mijn activiteit</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Je winkelwagen lijkt verouderd te zijn en wordt herladen, probeer het opnieuw.</value>
@@ -146,7 +146,7 @@
     <value>Aangezien uw betaling een eCheck was, Wacht maximaal 10 dagen extra om de betaling veilig via PayPal te laten gaan!</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter tags in deze bestelling worden niet weergegeven in je recente activiteiten.</value>
+    <value>hotia!supporter tags in deze bestelling worden niet weergegeven in je recente activiteiten.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Gestuurd Via:</value>
@@ -167,7 +167,7 @@
     <value>Als je geen annulering hebt aangevraagd, neem dan contact op met {0} en vermeld je bestelnummer (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Je bestelling is geleverd! We hopen dat je ervan geniet!</value>
@@ -176,7 +176,7 @@
     <value>Als je problemen hebt met je aankoop, neem dan contact op met de {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Je bestelling wordt voorbereid!</value>
@@ -350,7 +350,7 @@
     <value>voeg een optioneel bericht toe aan uw geschenk! (maximaal {0} tekens)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Je moet {0} zijn om een osu!supporter tag te krijgen!</value>
+    <value>Je moet {0} zijn om een hotia!supporter tag te krijgen!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>ingelogd</value>

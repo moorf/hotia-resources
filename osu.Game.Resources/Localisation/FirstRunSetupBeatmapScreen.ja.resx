@@ -62,13 +62,13 @@
     <value>ビートマップの取得</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>「ビートマップ」はプレイ可能な譜面のことです。osu!にプリロードされたビートマップはありません。このステップではビートマップを集めることを手助けします。</value>
+    <value>「ビートマップ」はプレイ可能な譜面のことです。hotia!にプリロードされたビートマップはありません。このステップではビートマップを集めることを手助けします。</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>初めてプレイする場合、ゲームプレイの前にチュートリアルをプレイすることをお勧めします。</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>osu!のチュートリアルを入手</value>
+    <value>hotia!のチュートリアルを入手</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>初めに、おすすめのビートマップを用意しました。</value>

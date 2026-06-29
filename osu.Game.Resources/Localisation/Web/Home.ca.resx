@@ -308,13 +308,13 @@
     <value>resseteja {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Descarrega l'osu!</value>
+    <value>Descarrega l'hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Dona suport a l'osu!</value>
+    <value>Dona suport a l'hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Directes destacats</value>

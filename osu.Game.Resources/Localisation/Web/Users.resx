@@ -218,7 +218,7 @@
     <value>Password</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Don't have an osu! account? Make a new one</value>
+    <value>Don't have an hotia! account? Make a new one</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Remember this computer</value>
@@ -233,7 +233,7 @@
     <value>Beta access is currently restricted to privileged users.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporters will get in soon)</value>
+    <value>(hotia!supporters will get in soon)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Active</value>
@@ -302,7 +302,7 @@
     <value>Please report copyright infringement through a DMCA claim to {0} as per {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>the osu! copyright policy</value>
+    <value>the hotia! copyright policy</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>This applies to cases where audio tracks, visual content or beatmap level content is used without correct permission.</value>
@@ -353,10 +353,10 @@
     <value>Here since the beginning</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Joined {0}</value>
@@ -464,7 +464,7 @@
     <value>Upload available for {0} only</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>default game mode</value>
@@ -482,7 +482,7 @@
     <value>Custom colour themes available for {0} only</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>none</value>
@@ -578,7 +578,7 @@
     <value>Recent Kudosu History</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Total Kudosu Earned</value>
@@ -587,7 +587,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>This user hasn't received any kudosu!</value>
+    <value>This user hasn't received any kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Received {0} from kudosu deny repeal of modding post {1}</value>
@@ -806,7 +806,7 @@
     <value>You need to be an {0} to unlock this feature.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Contributed {0}</value>
@@ -905,7 +905,7 @@
     <value>please register via the game client instead!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>please complete registration using the osu! website</value>
+    <value>please complete registration using the hotia! website</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>User created</value>

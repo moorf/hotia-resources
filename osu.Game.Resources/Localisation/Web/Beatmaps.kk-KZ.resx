@@ -476,7 +476,7 @@
     <value>Көбірек Іздеу Баптаулары</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>{0} бойынша сүзу үшін белсенді osu!supporter тегі қажет</value>
+    <value>{0} бойынша сүзу үшін белсенді hotia!supporter тегі қажет</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>нәтиже жоқ</value>
@@ -545,7 +545,7 @@
     <value>{0} бойынша сүзу үшін белсенді {1} қажет</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter тегі</value>
+    <value>hotia!supporter тегі</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Конвертерленген карталарды қосу</value>

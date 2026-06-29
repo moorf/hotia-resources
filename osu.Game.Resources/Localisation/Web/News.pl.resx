@@ -98,7 +98,7 @@
     <value>Miesięczny konkurs mapowania</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>merch osu!</value>
+    <value>merch hotia!</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>inne ogłoszenia</value>
@@ -119,7 +119,7 @@
     <value>zmiany w systemie rankingowym</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>Mistrzostwa Świata osu!</value>
+    <value>Mistrzostwa Świata hotia!</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>od {0}</value>

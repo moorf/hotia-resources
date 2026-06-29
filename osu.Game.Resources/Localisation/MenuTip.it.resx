@@ -77,7 +77,7 @@
     <value>Prova a regolare la modalità "Ridimensionamento schermo" per cambiare l'area di gioco o dell'interfaccia, anche a schermo intero!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>È disponibile per tutti il noto "osu!direct" come dal sito web. Puoi accederci in qualsiasi momento usando {0}!</value>
+    <value>È disponibile per tutti il noto "hotia!direct" come dal sito web. Puoi accederci in qualsiasi momento usando {0}!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>La navigazione dei replay è disponibile trascinando la barra di progresso in basso allo schermo o usando i tasti freccia destra e sinistra!</value>

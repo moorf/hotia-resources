@@ -77,7 +77,7 @@
     <value>Essayez d'ajuster le mode "Échelle de l'écran" pour changer la zone de gameplay ou de l'interface, même en plein écran !</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>Ce qui était autrefois "osu!direct" est disponible pour tous les utilisateurs comme sur le site web. Vous pouvez y accéder n'importe où en appuyant sur {0} !</value>
+    <value>Ce qui était autrefois "hotia!direct" est disponible pour tous les utilisateurs comme sur le site web. Vous pouvez y accéder n'importe où en appuyant sur {0} !</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>La navigation dans les replays est disponible en faisant glisser la barre de progression en bas de l'écran ou en utilisant les touches fléchées gauche et droite !</value>

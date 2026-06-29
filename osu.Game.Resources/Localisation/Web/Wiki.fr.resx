@@ -74,7 +74,7 @@
     <value>La page demandée n'a pas pu être trouvée pour la langue sélectionnée.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Cette page ne répond pas aux normes de l'osu! wiki et doit être améliorée ou réécrite. Si vous souhaitez aider, vous pouvez mettre à jour l'article !</value>
+    <value>Cette page ne répond pas aux normes de l'hotia! wiki et doit être améliorée ou réécrite. Si vous souhaitez aider, vous pouvez mettre à jour l'article !</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Rechercher des pages existantes pour {0}.</value>

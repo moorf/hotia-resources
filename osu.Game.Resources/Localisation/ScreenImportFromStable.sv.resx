@@ -62,13 +62,13 @@
     <value>Importera</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Om du har en installation av en tidigare osu!-version kan du välja att migrera ditt befintliga innehåll. Observera att detta inte kommer att påverka din befintliga installations filer på något sätt.</value>
+    <value>Om du har en installation av en tidigare hotia!-version kan du välja att migrera ditt befintliga innehåll. Observera att detta inte kommer att påverka din befintliga installations filer på något sätt.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>tidigare osu!-installation</value>
+    <value>tidigare hotia!-installation</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klicka för att hitta en tidigare osu!-installation</value>
+    <value>Klicka för att hitta en tidigare hotia!-installation</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Importera innehåll från tidigare version</value>
@@ -92,9 +92,9 @@
     <value>Lättviktslänkning av filer stöds inte av ditt operativsystem ännu, så en kopia av alla filer kommer att göras under importen.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att lazer datamappen är på samma enhet som din föregående osu! installation (och att filsystemet är NTFS).</value>
+    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att lazer datamappen är på samma enhet som din föregående hotia! installation (och att filsystemet är NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att lazer datamappen är på samma enhet som din föregående osu! installation (och att filsystemet stöder hårda länkar).</value>
+    <value>En ytterligare kopia av alla filer kommer att göras under importeringen. För att undvika detta, var god och se till att lazer datamappen är på samma enhet som din föregående hotia! installation (och att filsystemet stöder hårda länkar).</value>
   </data>
 </root>

@@ -293,13 +293,13 @@
     <value>se resetira za {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Preuzmi osu!</value>
+    <value>Preuzmi hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Podrži osu!</value>
+    <value>Podrži hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!trgovina</value>
+    <value>hotia!trgovina</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Otvori admin konzolu</value>

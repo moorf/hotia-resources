@@ -503,7 +503,7 @@
     <value>Profilens højeste rangerings-tællinger og resultater er vist på denne side baseret på din højeste "standardiserede" (aka "lazer") scores på beatmaps.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrering af {0} kræver et aktivt osu! supporter tag</value>
+    <value>Filtrering af {0} kræver et aktivt hotia! supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>ingen resultater</value>
@@ -572,7 +572,7 @@
     <value>Filtrering af {0} kræver et aktivt {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>udforsk brugertags</value>

@@ -71,7 +71,7 @@
     <value>Hindi! Bawiin ang misyon</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Hindi nahanap ng awtomatiko ang osu!stable installation.</value>
+    <value>Hindi nahanap ng awtomatiko ang hotia!stable installation.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Hindi mahanap ang install. Kung alam mo kung nasaan ito, maaari mo itong hanapin.</value>
@@ -80,7 +80,7 @@
     <value>Sige! Alam ko kung nasaan ito!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Sa totoo lang wala akong osu!stable na naka-install.</value>
+    <value>Sa totoo lang wala akong hotia!stable na naka-install.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Lahat ng local score sa {0}</value>
@@ -92,7 +92,7 @@
     <value>Sigurado ka bang gusto mo itigil ang match na ito?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Sigurado ka bang gusto mo umalis sa osu!?</value>
+    <value>Sigurado ka bang gusto mo umalis sa hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Huling pagkakataon para bumalik</value>

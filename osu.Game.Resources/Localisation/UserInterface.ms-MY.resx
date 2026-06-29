@@ -83,7 +83,7 @@
     <value>Suara antara muka</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>Muzik tema osu!</value>
+    <value>Muzik tema hotia!</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Babak permulaan</value>
@@ -95,7 +95,7 @@
     <value>Latar musiman</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Perubahan pada tetapan ini hanya akan diterapkan dengan tag osu!supporter yang giat.</value>
+    <value>Perubahan pada tetapan ini hanya akan diterapkan dengan tag hotia!supporter yang giat.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Pemilih Lagu</value>

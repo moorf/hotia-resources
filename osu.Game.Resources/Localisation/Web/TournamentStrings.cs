@@ -45,9 +45,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowBanner => new TranslatableString(getKey(@"show.banner"), @"Support Your Team");
 
         /// <summary>
-        /// "You are registered for this tournament.&lt;br&gt;&lt;br&gt;Please note that this does &lt;b&gt;not&lt;/b&gt; mean you have been assigned to a team.&lt;br&gt;&lt;br&gt;Further instructions will be sent to you via email closer to the tournament date, so please ensure your osu! account&#39;s email address is valid!"
+        /// "You are registered for this tournament.&lt;br&gt;&lt;br&gt;Please note that this does &lt;b&gt;not&lt;/b&gt; mean you have been assigned to a team.&lt;br&gt;&lt;br&gt;Further instructions will be sent to you via email closer to the tournament date, so please ensure your hotia! account&#39;s email address is valid!"
         /// </summary>
-        public static LocalisableString ShowEntered => new TranslatableString(getKey(@"show.entered"), @"You are registered for this tournament.<br><br>Please note that this does <b>not</b> mean you have been assigned to a team.<br><br>Further instructions will be sent to you via email closer to the tournament date, so please ensure your osu! account's email address is valid!");
+        public static LocalisableString ShowEntered => new TranslatableString(getKey(@"show.entered"), @"You are registered for this tournament.<br><br>Please note that this does <b>not</b> mean you have been assigned to a team.<br><br>Further instructions will be sent to you via email closer to the tournament date, so please ensure your hotia! account's email address is valid!");
 
         /// <summary>
         /// "Information Page"

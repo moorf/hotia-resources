@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; telah kehilangan kedudukan pertama pada &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; telah sekali lagi memilih untuk menyokong osu! - terima kasih atas budi baik anda!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; telah sekali lagi memilih untuk menyokong hotia! - terima kasih atas budi baik anda!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; telah menyokong osu! - terima kasih atas budi baik anda!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; telah menyokong hotia! - terima kasih atas budi baik anda!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; telah dihadiahi osu!supporter!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; telah dihadiahi hotia!supporter!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; telah mengubah nama penggunanya ke &lt;strong&gt;&lt;em&gt;{1}&lt;/em&gt;&lt;/strong&gt;!</value>

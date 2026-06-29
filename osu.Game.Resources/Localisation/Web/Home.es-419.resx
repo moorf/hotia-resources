@@ -293,13 +293,13 @@
     <value>nuevo mapa {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Descargar osu!</value>
+    <value>Descargar hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Apoyar a osu!</value>
+    <value>Apoyar a hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Abrir la consola de administración</value>

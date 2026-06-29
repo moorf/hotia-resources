@@ -62,7 +62,7 @@
     <value>Redă automat melodia următoare</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritmul este doar la un *clic* distanță! Cu Ouendan/EBA, Taiko și moduri de joc originale,  precum și un editor de nivel complet funcțional.</value>
+    <value>hotia! - Ritmul este doar la un *clic* distanță! Cu Ouendan/EBA, Taiko și moduri de joc originale,  precum și un editor de nivel complet funcțional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Lista Beatmap-uri</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Descarcă osu!</value>
+    <value>Descarcă hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ajutor &amp; Comunitate</value>
@@ -305,7 +305,7 @@
     <value>Descarcă</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Descarcă osu! pentru a-ți crea propriul cont!</value>
+    <value>Descarcă hotia! pentru a-ți crea propriul cont!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Nu ai un cont?</value>

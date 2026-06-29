@@ -218,7 +218,7 @@
     <value>Contraseña</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>¿No tienes una cuenta de osu!? Crea una nueva</value>
+    <value>¿No tienes una cuenta de hotia!? Crea una nueva</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Recordar esta computadora</value>
@@ -233,7 +233,7 @@
     <value>El acceso a la beta está actualmente limitado a usuarios con acceso autorizado.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(los osu!supporters tendrán acceso pronto)</value>
+    <value>(los hotia!supporters tendrán acceso pronto)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Activas</value>
@@ -302,7 +302,7 @@
     <value>Por favor, reporta la infracción de derechos de autor a través de una reclamación de DMCA a {0} según {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>la política de derechos de autor de osu!</value>
+    <value>la política de derechos de autor de hotia!</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Esto se aplica a los casos en los que se usan pistas de audio, contenido visual o contenido de los mapas sin el permiso correcto.</value>
@@ -353,10 +353,10 @@
     <value>Aquí desde el comienzo</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Se unió en {0}</value>
@@ -464,7 +464,7 @@
     <value>Carga disponible solo para {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>modo de juego predeterminado</value>
@@ -473,7 +473,7 @@
     <value>establecer {0} como el modo de juego predeterminado del perfil</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>¿Restablecer al color predeterminado? Se necesitará una etiqueta de osu!supporter para cambiar el color.</value>
+    <value>¿Restablecer al color predeterminado? Se necesitará una etiqueta de hotia!supporter para cambiar el color.</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>Color</value>
@@ -482,7 +482,7 @@
     <value>Los colores personalizados solo están disponibles para {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ninguno</value>
@@ -575,7 +575,7 @@
     <value>Historial de Kudosu reciente</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Total de Kudosu obtenido</value>
@@ -584,7 +584,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>¡Este usuario no ha recibido ningún kudosu!</value>
+    <value>¡Este usuario no ha recibido ningún kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Recibió {0} de revocación de la negación de kudosu por la publicación de modding {1}</value>
@@ -791,7 +791,7 @@
     <value>Debes ser un {0} para desbloquear esta función.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Contribuyó con {0}</value>
@@ -890,7 +890,7 @@
     <value>¡regístrate a través del cliente del juego en su lugar!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>completa tu registro en el sitio web de osu!</value>
+    <value>completa tu registro en el sitio web de hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Usuario creado</value>

@@ -62,10 +62,10 @@
     <value>Importer</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Dersom du har en tidligere osu! versjon installert, kan du velge å migrere det eksisterende innholdet ditt. Merk at dette ikke vil påvirke filene til den eksisterende installasjonen på noen måte.</value>
+    <value>Dersom du har en tidligere hotia! versjon installert, kan du velge å migrere det eksisterende innholdet ditt. Merk at dette ikke vil påvirke filene til den eksisterende installasjonen på noen måte.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>forrige osu! installasjon</value>
+    <value>forrige hotia! installasjon</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
     <value>Trykk for å finne en tidligere osu installasjon</value>
@@ -92,9 +92,9 @@
     <value>Lettvektig sammenkobling av filer støttes ikke på operativsystemet ditt enda, så en kopi av alle filene vil bli gjort under import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til lazer er på samme disk som din tidligere osu! installasjon (og filsystemet er NTFS).</value>
+    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til lazer er på samme disk som din tidligere hotia! installasjon (og filsystemet er NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til lazer er på samme disk som din tidligere osu! installasjon (og filsystemet støtter harde lenker).</value>
+    <value>En annen kopi av alle filene vil bli gjort under import. For å unngå dette må du sørge for at datamappen til lazer er på samme disk som din tidligere hotia! installasjon (og filsystemet støtter harde lenker).</value>
   </data>
 </root>

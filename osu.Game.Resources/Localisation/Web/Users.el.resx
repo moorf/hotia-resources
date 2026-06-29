@@ -218,7 +218,7 @@
     <value>Κωδικός</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Δεν έχετε λογαριασμό στο osu!; Φτιάξτε ένα νέο</value>
+    <value>Δεν έχετε λογαριασμό στο hotia!; Φτιάξτε ένα νέο</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Απομνημόνευση της σύνδεσης</value>
@@ -233,7 +233,7 @@
     <value>Η πρόσβαση στην έκδοση Beta είναι περιορισμένη σε προνομιούχους χρήστες.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(οι osu!supporters θα έχουν πρόσβαση σύντομα)</value>
+    <value>(οι hotia!supporters θα έχουν πρόσβαση σύντομα)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Ενεργό</value>
@@ -299,7 +299,7 @@
     <value>Άκυρο</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>η πολιτική osu! πνευματικών δικαιωμάτων</value>
+    <value>η πολιτική hotia! πνευματικών δικαιωμάτων</value>
   </data>
   <data name="report.options.cheating" xml:space="preserve">
     <value>Παράτυπος τρόπος παιχνιδιού / Κλέψιμο</value>
@@ -341,10 +341,10 @@
     <value>Εδώ από την αρχή</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Μέλος από {0}</value>
@@ -422,7 +422,7 @@
     <value>Φόρτωση διαθέσιμη μόνο για {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>προεπιλεγμένο game mode</value>
@@ -431,7 +431,7 @@
     <value>όρισε το {0} ως το προεπιλεγμένο game mode</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>Επαναφορά χρώματος στην προεπιλογή; Η ετικέτα υποστηρικτή (osu!supporter tag) θα χρειαστεί για να το αλλάξεις σε άλλο χρώμα.</value>
+    <value>Επαναφορά χρώματος στην προεπιλογή; Η ετικέτα υποστηρικτή (hotia!supporter tag) θα χρειαστεί για να το αλλάξεις σε άλλο χρώμα.</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>Χρώμα</value>
@@ -440,7 +440,7 @@
     <value>Προσαρμοσμένα θέματα χρωμάτων διαθέσιμα μόνο για {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>κανένα</value>
@@ -533,7 +533,7 @@
     <value>Πρόσφατο Ιστορικό Kudosu</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Σύνολο Εξασφαλισμένων Kudosu</value>
@@ -542,7 +542,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Αυτός ο χρήστης δεν έχει κερδίσει kudosu!</value>
+    <value>Αυτός ο χρήστης δεν έχει κερδίσει kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Λάβατε {0} kudosu από την άρνηση κατάργησης για την επεξεργασία του post {1}</value>
@@ -749,7 +749,7 @@
     <value>Πρέπει να είστε ένα {0} για να ξεκλειδώσετε αυτό το χαρακτηριστικό.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Συνεισφορά {0}</value>
@@ -848,7 +848,7 @@
     <value>παρακαλώ εγγραφείτε μέσω του πελάτη του παιχνιδιού!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>παρακαλώ ολοκληρώστε την εγγραφή μέσω της ιστοσελίδας του osu!</value>
+    <value>παρακαλώ ολοκληρώστε την εγγραφή μέσω της ιστοσελίδας του hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Ο χρήστης δημιουργήθηκε</value>

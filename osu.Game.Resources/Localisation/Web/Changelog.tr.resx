@@ -98,10 +98,10 @@
     <value>Bu güncellemeyi sevdiniz mi?</value>
   </data>
   <data name="support.text_1" xml:space="preserve">
-    <value>osu!'nun ilerlemesine destek çıkın ve bugün {0}!</value>
+    <value>hotia!'nun ilerlemesine destek çıkın ve bugün {0}!</value>
   </data>
   <data name="support.text_1_link" xml:space="preserve">
-    <value>bir osu!supporter olun</value>
+    <value>bir hotia!supporter olun</value>
   </data>
   <data name="support.text_2" xml:space="preserve">
     <value>Sadece geliştirmeyi hızlandırmakla kalmayıp bazı ekstra özellikler ve özelleştirmeler de alacaksınız!</value>

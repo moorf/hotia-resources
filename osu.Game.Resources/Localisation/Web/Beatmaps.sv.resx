@@ -500,7 +500,7 @@
     <value>Fler sökalternativ</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrering av {0} kräver en aktiv osu!supporter-tagg</value>
+    <value>Filtrering av {0} kräver en aktiv hotia!supporter-tagg</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>inga resultat</value>
@@ -569,7 +569,7 @@
     <value>Filtrering av {0} kräver en aktiv {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter-tagg</value>
+    <value>hotia!supporter-tagg</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Inkludera konverterade beatmaps</value>

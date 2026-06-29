@@ -305,13 +305,13 @@
     <value>återställer {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Ladda ner osu!</value>
+    <value>Ladda ner hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Stötta osu!</value>
+    <value>Stötta hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Öppna administratörskonsol</value>

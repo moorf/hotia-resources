@@ -83,7 +83,7 @@
     <value>Arayüz sesleri</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! müzik teması</value>
+    <value>hotia! müzik teması</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Açılış müziği</value>
@@ -98,7 +98,7 @@
     <value>Dönemsel arka planlar</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Bu ayardaki değişiklikler yalnızca aktif bir osu!supporter etiketiniz varsa geçerli olacaktır.</value>
+    <value>Bu ayardaki değişiklikler yalnızca aktif bir hotia!supporter etiketiniz varsa geçerli olacaktır.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Şarkı Seçimi</value>

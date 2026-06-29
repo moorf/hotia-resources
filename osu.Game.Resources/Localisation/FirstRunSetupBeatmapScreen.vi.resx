@@ -62,13 +62,13 @@
     <value>Tải Beatmap</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>"Beatmap" là cách chúng tôi gọi những ván bạn chơi được. osu! không đi kèm sẵn với bất cứ beatmap nào. Bước này sẽ giúp bạn bắt đầu quá trình sưu tầm beatmap.</value>
+    <value>"Beatmap" là cách chúng tôi gọi những ván bạn chơi được. hotia! không đi kèm sẵn với bất cứ beatmap nào. Bước này sẽ giúp bạn bắt đầu quá trình sưu tầm beatmap.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Nếu bạn là người chơi mới, chúng tôi khuyên bạn nên chơi qua hướng dẫn để làm quen với lối chơi.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Tải hướng dẫn osu!</value>
+    <value>Tải hướng dẫn hotia!</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Để giúp bạn bắt đầu, chúng tôi có một vài beatmap gợi ý.</value>

@@ -209,7 +209,7 @@
     <value>darovať hráčovi</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Musíš byť {0} aby si dostal osu!supporter tag!</value>
+    <value>Musíš byť {0} aby si dostal hotia!supporter tag!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>prihlásený</value>

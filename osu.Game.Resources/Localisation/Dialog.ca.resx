@@ -71,7 +71,7 @@
     <value>No! Avorta la missió</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>No s'ha pogut localitzar automàticament la instal·lació d'osu!stable.</value>
+    <value>No s'ha pogut localitzar automàticament la instal·lació d'hotia!stable.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>No s'ha pogut trobar cap instal·lació local. Si sabeu on és, podeu ajudar a localitzar-la.</value>
@@ -80,7 +80,7 @@
     <value>Segur! Sé on es troba!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>En veritat no tinc osu!estable instal·lat.</value>
+    <value>En veritat no tinc hotia!estable instal·lat.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Totes les puntiacions locals de {0}</value>
@@ -92,7 +92,7 @@
     <value>Esteu segur que voleu cancel·lar la partida?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Esteu segur que voleu sortir de l'osu!?</value>
+    <value>Esteu segur que voleu sortir de l'hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Última oportunitat per a tornar</value>

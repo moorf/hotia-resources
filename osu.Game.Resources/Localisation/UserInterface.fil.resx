@@ -83,7 +83,7 @@
     <value>Mga boses sa interface</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! music theme</value>
+    <value>hotia! music theme</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Panimulang sekwensya</value>
@@ -95,7 +95,7 @@
     <value>Napapanahong background</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Mga pagbabago sa setting na ito ay magkaka-epekto lamang kapag may aktibong osu!supporter tag.</value>
+    <value>Mga pagbabago sa setting na ito ay magkaka-epekto lamang kapag may aktibong hotia!supporter tag.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Song Select</value>

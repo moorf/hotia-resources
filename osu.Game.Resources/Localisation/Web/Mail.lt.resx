@@ -89,25 +89,25 @@
     <value>Jei turite kokių klausimų ar atsiliepimų, galite atsakyti į šį laišką. Atrašysiu artimiausiu galimu metu!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Dėka tokių žmonių kaip jūs osu! gali palaikyti žaidimo ir bendruomenės sklandų veikimą be reklamų ir priverstinių mokėjimų.</value>
+    <value>Dėka tokių žmonių kaip jūs hotia! gali palaikyti žaidimo ir bendruomenės sklandų veikimą be reklamų ir priverstinių mokėjimų.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Jūsų parama palaiko osu! veikimą apie {0}! Gal neatrodo daug bet viskas susideda :).</value>
+    <value>Jūsų parama palaiko hotia! veikimą apie {0}! Gal neatrodo daug bet viskas susideda :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Ačiū, osu! &lt;3 tave</value>
+    <value>Ačiū, hotia! &lt;3 tave</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Bendruomenės pateiktas vertimas informaciniais tikslais:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Tavo dovanotasis dabar turės  priėjimą prie osu!direct ir daugybės kitų rėmėjo privalumų.</value>
+    <value>Tavo dovanotasis dabar turės  priėjimą prie hotia!direct ir daugybės kitų rėmėjo privalumų.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Dabar turėsite priėjimą prie osu!direct ir daugybės kitų rėmėjo privalumų {0} laikotarpiui.</value>
+    <value>Dabar turėsite priėjimą prie hotia!direct ir daugybės kitų rėmėjo privalumų {0} laikotarpiui.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Dėkojame už jūsų {0} į osu!.</value>
+    <value>Dėkojame už jūsų {0} į hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>paramą</value>
@@ -119,7 +119,7 @@
     <value>Tiesiog leidžiam žinoti, kad yra naujas atsakymas tarp "{0}" nuo jūsų paskutinio apsilankymo.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Naujas atsakymas temoje "{0}"</value>
+    <value>[hotia!] Naujas atsakymas temoje "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Jeigu daugiau nebenorite prenumeruoti šios temos, paspauskite ant nuorodos "Atsisakyti temos" minėtoje temoje arba ant šios nuorodos:</value>
@@ -131,10 +131,10 @@
     <value>Jūsų patvirtinimo kodas yra:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Jūs arba kažkas apsimetantis jumis prašo slaptažodžio atstatymo jūsų osu! paskyrai.</value>
+    <value>Jūs arba kažkas apsimetantis jumis prašo slaptažodžio atstatymo jūsų hotia! paskyrai.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>osu! paskyros atkūrimas</value>
+    <value>hotia! paskyros atkūrimas</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Mes gavome jūsų mokėjimą ir dabar ruošiame pristatymui. Priklausomai nuo užsakymų kiekio, jūsų užsakymo išsiuntimas gali užtrukti kelias dienas. Galite sekti savo užsakymą su sekimo informacija čia:</value>
@@ -149,10 +149,10 @@
     <value>Pristatymas</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Mes gavome jūsų osu!parduotuvės užsakymą!</value>
+    <value>Mes gavome jūsų hotia!parduotuvės užsakymą!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Dėkojame už jūsų užsakymą osu! parduotuvėje!</value>
+    <value>Dėkojame už jūsų užsakymą hotia! parduotuvėje!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Iš viso</value>
@@ -164,31 +164,31 @@
     <value>Bet jūs tikriausiai jau žinote kas tai galėtu būti ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Jo ar jos dėka, jūs turite priėjimą prie osu!direct ir kitų osu!rėmėjo privalumų {0} laikotarpiui. </value>
+    <value>Jo ar jos dėka, jūs turite priėjimą prie hotia!direct ir kitų hotia!rėmėjo privalumų {0} laikotarpiui. </value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Daugiau informacijos apie šiuos privalumus galite rasti čia:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Kažkas jums padovanojo osu!rėmėjo žymą!</value>
+    <value>Kažkas jums padovanojo hotia!rėmėjo žymą!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Asmuo padovanojęs jums šią žymą, paliko jums žinutę: </value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Jums buvo padovanota osu!rėmėjo žyma!</value>
+    <value>Jums buvo padovanota hotia!rėmėjo žyma!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Tai patvirtinimo laiškas informuojantis, kad jūsų osu! el. pašto adresas buvo pakeistas į "{0}".</value>
+    <value>Tai patvirtinimo laiškas informuojantis, kad jūsų hotia! el. pašto adresas buvo pakeistas į "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Prašome užtikrinti el. laiško gavimą naujuoju adresu, kad apsisaugotume  nuo osu! paskyros prieigos praradimo.</value>
+    <value>Prašome užtikrinti el. laiško gavimą naujuoju adresu, kad apsisaugotume  nuo hotia! paskyros prieigos praradimo.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Dėl saugumo priežasčių, šis el. laiškas išsiųstas senuoju ir naujuoju adresu.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>osu! el. pašto keitimo patvirtinimas</value>
+    <value>hotia! el. pašto keitimo patvirtinimas</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Įtariame, kad jūsų paskyra yra pažeista, dėl įtartinos pastarosios veiklos arba LABAI silpno slaptažodžio. Todėl turite nustatyti naują slaptažodį. Prašome užtikrinti, kad šis slaptažodis bus SAUGUS.</value>
@@ -200,7 +200,7 @@
     <value>Priežastis:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>Reikalingas osu! Paskyros Suaktyvinimas</value>
+    <value>Reikalingas hotia! Paskyros Suaktyvinimas</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Tiesiog leidžiame žinoti, kad yra pakitimų tarp stebimų prekių.</value>
@@ -209,13 +209,13 @@
     <value>Keisti el. pašto pranešimų pasirinkimai:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nauji osu! pranešimai</value>
+    <value>Nauji hotia! pranešimai</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Čia tik patvirtinimas, kad jūsų osu! paskyros slaptažodis buvo pakeistas.</value>
+    <value>Čia tik patvirtinimas, kad jūsų hotia! paskyros slaptažodis buvo pakeistas.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>osu! slaptažodžio keitimo patvirtinimas</value>
+    <value>hotia! slaptažodžio keitimo patvirtinimas</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Jūsų patvirtinimo kodas yra:</value>
@@ -230,7 +230,7 @@
     <value>Jei neprašėte šito, prašome NEDELSIANT ATSAKYTI, nes jūsų paskyra gali būti pavojuje.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>osu! paskyros patvirtinimas</value>
+    <value>hotia! paskyros patvirtinimas</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Veiksmas atliktas jūsų paskyroje iš {0} reikalauja patvirtinimo.</value>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>¿Qué tal si en vez de eso jugamos un poco de osu!?</value>
+    <value>¿Qué tal si en vez de eso jugamos un poco de hotia!?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Por favor, inicia sesión para continuar.</value>
@@ -323,7 +323,7 @@
     <value>No es miembro del equipo.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>Se requiere una etiqueta de osu!supporter para crear un equipo.</value>
+    <value>Se requiere una etiqueta de hotia!supporter para crear un equipo.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>La página de usuario está bloqueada.</value>
@@ -332,7 +332,7 @@
     <value>Solo puedes editar tu página de usuario.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>Necesitas una etiqueta de osu!supporter.</value>
+    <value>Necesitas una etiqueta de hotia!supporter.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>la dirección de correo está bloqueada</value>

@@ -143,7 +143,7 @@
     <value>ažuriraj</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Ako doprinosiš osu! open-source repozitorijima, povezivanjem svojeg GitHub računa ovdje ćeš asocirati svoje dnevnike promjena sa svojim osu! profilom. GitHub računi sa praznom povijesti doprinosa za osu! se ne mogu povezati.</value>
+    <value>Ako doprinosiš hotia! open-source repozitorijima, povezivanjem svojeg GitHub računa ovdje ćeš asocirati svoje dnevnike promjena sa svojim hotia! profilom. GitHub računi sa praznom povijesti doprinosa za hotia! se ne mogu povezati.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>Poveži GitHub Račun</value>
@@ -158,7 +158,7 @@
     <value>Ovaj GitHub račun je već povezan s drugim korisnikom.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>Nije moguće povezati GitHub račun bez povijesti doprinosa u osu! repozitoriju.</value>
+    <value>Nije moguće povezati GitHub račun bez povijesti doprinosa u hotia! repozitoriju.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Molimo te povrdi svoj glavni email na GitHubu te zatim pokušaj ponovo povezati račun.</value>
@@ -233,7 +233,7 @@
     <value>sa videom ako je dostupno</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>otvori u osu!direct</value>
+    <value>otvori u hotia!direct</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>bez videa</value>

@@ -68,7 +68,7 @@
     <value>Tignan dito para sa karagdagang impormasyon.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Iilang bagay sa map na ito ang tinanggal pagkatapos ituring na hindi angkop para gamitin sa osu!.</value>
+    <value>Iilang bagay sa map na ito ang tinanggal pagkatapos ituring na hindi angkop para gamitin sa hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Tinanggal na beatmap</value>
@@ -101,7 +101,7 @@
     <value>i-download nang walang bidyo</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>buksan sa osu!direct</value>
+    <value>buksan sa hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Ang mga Probationary nominators ay hindi pwedeng mag-nominate ng maramihan na rulesets.</value>
@@ -332,7 +332,7 @@
     <value>I-click &lt;a href="{0}"&gt;ito&lt;/a&gt; para makita ang mga feature na iyong matatamasa!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Kailangan mong maging osu!supporter para mabuksan ang Ranggo sa Kaibigan at Pambansang Ranggo!</value>
+    <value>Kailangan mong maging hotia!supporter para mabuksan ang Ranggo sa Kaibigan at Pambansang Ranggo!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Team Ranking</value>

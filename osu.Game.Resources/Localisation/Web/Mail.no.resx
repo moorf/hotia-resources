@@ -89,25 +89,25 @@
     <value>Viss du har noen spørsmål eller tilbakemeldinger, ikke nøl med å svare på denne mailen; Vi svarer deg så fort som mulig!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Det er takkket være folk som deg at osu! har muligheten til å beholde spillet og samfunnet sitt kjørende smooth uten reklame eller betalinger.</value>
+    <value>Det er takkket være folk som deg at hotia! har muligheten til å beholde spillet og samfunnet sitt kjørende smooth uten reklame eller betalinger.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Din støtte får osu! til å kjøre for rundt {0}! det virker kanskje ikke som mye, men det legges fort opp :).</value>
+    <value>Din støtte får hotia! til å kjøre for rundt {0}! det virker kanskje ikke som mye, men det legges fort opp :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Takk, osu! &lt;3 deg</value>
+    <value>Takk, hotia! &lt;3 deg</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>En bruker sørget for å oversette for informasjons grunnlag som følger: </value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Din(e) mottaker(e) vil nå ha tilgang til å osu!direct og mange andre supporter fordeler.</value>
+    <value>Din(e) mottaker(e) vil nå ha tilgang til å hotia!direct og mange andre supporter fordeler.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Du vil nå ha tilgang til osu!direct og mange andre supporter fordeler i {0}.</value>
+    <value>Du vil nå ha tilgang til hotia!direct og mange andre supporter fordeler i {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Tusen takk for din {0} mot osu!.</value>
+    <value>Tusen takk for din {0} mot hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>support
@@ -120,7 +120,7 @@
     <value>Bare så du vet det så har det vært et nytt svar i "{0}" siden ditt siste besøk.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nytt svar for emnet "{0}"</value>
+    <value>[hotia!] Nytt svar for emnet "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Viss du ikke lenger ønske å følge dette emnet, så kan du enten klikke "Unsubscribe topic" lenken funnet på bunnen av emnet ovenfor, eller på fulgte emner oversikts siden:</value>
@@ -132,10 +132,10 @@
     <value>Din verifikasjonskode er:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Enten du eller noen som later som de er deg har forespurt et passord reset på din osu! bruker.</value>
+    <value>Enten du eller noen som later som de er deg har forespurt et passord reset på din hotia! bruker.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>gjenopprettelse av osu! konto</value>
+    <value>gjenopprettelse av hotia! konto</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Vi har mottatt din betaling og vi forbereder din ordre for frakt. Det kan ta et par dager for oss for å sende det ut, spørs på mengden ordre. Du kan følge prosessen av din ordre her, inkludert sporings detaljer om det er tilgjengelig:</value>
@@ -150,10 +150,10 @@
     <value>Frakt</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>We har mottatt din osu!butikk ordre!</value>
+    <value>We har mottatt din hotia!butikk ordre!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Takk for din osu!store order!</value>
+    <value>Takk for din hotia!store order!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Total</value>
@@ -165,31 +165,31 @@
     <value>Men du vet vell sikkert hvem det er allerede ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Takk til de, så har du nå tilgang til osu!direct og andre supporter fordeler for de neste {0}.</value>
+    <value>Takk til de, så har du nå tilgang til hotia!direct og andre supporter fordeler for de neste {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Du kan finne ut mere detaljer på disse fordelene her:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Noen har gitt deg en osu!supporter tag!</value>
+    <value>Noen har gitt deg en hotia!supporter tag!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Personen som ga deg denne taggen etterlot seg en melding:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Du har fått en osu!supporter tag i gave!</value>
+    <value>Du har fått en hotia!supporter tag i gave!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Dette er en konfirmasjons epost som skal informere deg om at din osu! epost-addresse har blitt forandret til "{0}".</value>
+    <value>Dette er en konfirmasjons epost som skal informere deg om at din hotia! epost-addresse har blitt forandret til "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Vennligst pass på at du har fått denne mailen på din nye addresse for å forhindre at du mister tilgang til din osu! bruker i fremtiden.</value>
+    <value>Vennligst pass på at du har fått denne mailen på din nye addresse for å forhindre at du mister tilgang til din hotia! bruker i fremtiden.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>For sikkerhetsgrunner så har denne eposten blitt sendt til din gamle og nye epost-addresse.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>osu! e-post endringsbekreftelse</value>
+    <value>hotia! e-post endringsbekreftelse</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Din bruker er mistenkt å ha blitt kompromittert, har nylig mistenkelig aktivitet eller et VELDIG svakt passord. Som et resultat av dette, må vi kreve at du angir ett nytt passord. Vennligst sørg for å velge et SIKKERT passord.</value>
@@ -201,7 +201,7 @@
     <value>Grunn:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>osu! Konto Reaktivering kreves</value>
+    <value>hotia! Konto Reaktivering kreves</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Bare lar deg vite at det har vært nye oppdateringer på elementer du ser på.</value>
@@ -210,13 +210,13 @@
     <value>Endre preferanser for e-postmeldinger:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Ny osu! varsler</value>
+    <value>Ny hotia! varsler</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Dette er bare en bekreftelse på at osu!-passordet ditt er endret.</value>
+    <value>Dette er bare en bekreftelse på at hotia!-passordet ditt er endret.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>bekreft endring av osu! passord</value>
+    <value>bekreft endring av hotia! passord</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Bekreftelseskoden din er:</value>
@@ -231,7 +231,7 @@
     <value>Hvis du ikke ba om dette, vennligst SVAR UMDDELBART siden kontoen din kan være i fare.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>bekreftelse av osu! konto</value>
+    <value>bekreftelse av hotia! konto</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>En handling utført på din konto fra {0} krever verifikasjon.</value>

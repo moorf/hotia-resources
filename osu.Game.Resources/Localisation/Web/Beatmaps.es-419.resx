@@ -500,7 +500,7 @@
     <value>Más opciones de búsqueda</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrar por {0} requiere una etiqueta de osu!supporter activa</value>
+    <value>Filtrar por {0} requiere una etiqueta de hotia!supporter activa</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>no hay resultados</value>
@@ -569,7 +569,7 @@
     <value>Necesitas una {0} activa para filtrar por {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>etiqueta de osu!supporter</value>
+    <value>etiqueta de hotia!supporter</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Incluir mapas convertidos</value>

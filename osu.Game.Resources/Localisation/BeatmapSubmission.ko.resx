@@ -137,7 +137,7 @@
     <value>제출 후 브라우저에서 로드하기</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>참고: 모든 버전의 osu! 클라이언트에서 비트맵을 즐길 수 있도록 하기 위해, 하위 호환이 가능한 형식으로 내보낼게요. 이 과정은 본 비트맵을 본래의 의도된 형식대로 즐길 수 있도록 하는 최선의 방안이지만, 이전 버전의 osu! 에서 지원하지 않는 몇 가지의 기능들은 누락될 수도 있다는 점을 참고해 주세요.</value>
+    <value>참고: 모든 버전의 hotia! 클라이언트에서 비트맵을 즐길 수 있도록 하기 위해, 하위 호환이 가능한 형식으로 내보낼게요. 이 과정은 본 비트맵을 본래의 의도된 형식대로 즐길 수 있도록 하는 최선의 방안이지만, 이전 버전의 hotia! 에서 지원하지 않는 몇 가지의 기능들은 누락될 수도 있다는 점을 참고해 주세요.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>빈 비트맵은 제출할 수 없어요.</value>

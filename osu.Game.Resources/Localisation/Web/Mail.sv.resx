@@ -89,25 +89,25 @@
     <value>Om du har några frågor eller synpunkter, tveka inte att svara på detta mejlet, jag återkommer till dig så snart som möjligt!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Det är tack vare människor som du som osu! kan hålla spelet och gemenskapen välfungerande utan reklam eller påtvingade betalningar.</value>
+    <value>Det är tack vare människor som du som hotia! kan hålla spelet och gemenskapen välfungerande utan reklam eller påtvingade betalningar.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Ditt stöd håller osu! igång i runt {0}! Det kanske inte verkar som mycket, men allt hjälper :).</value>
+    <value>Ditt stöd håller hotia! igång i runt {0}! Det kanske inte verkar som mycket, men allt hjälper :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Tack, osu! &lt;3 dig</value>
+    <value>Tack, hotia! &lt;3 dig</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>En volontär-skapad översättning för din information följer:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Din(a) gåvomottagare kommer nu att ha tillgång till osu!direct och många andra supporterfördelar.</value>
+    <value>Din(a) gåvomottagare kommer nu att ha tillgång till hotia!direct och många andra supporterfördelar.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Du kommer nu att ha tillgång till osu!direct och många andra supporterfördelar i {0}.</value>
+    <value>Du kommer nu att ha tillgång till hotia!direct och många andra supporterfördelar i {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Tack så mycket för din {0} till osu!.</value>
+    <value>Tack så mycket för din {0} till hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>support</value>
@@ -119,7 +119,7 @@
     <value>Bara så att du vet finns det ett nytt svar i "{0}" sedan ditt senaste besök.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nytt svar på ämne "{0}"</value>
+    <value>[hotia!] Nytt svar på ämne "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Om du inte längre vill följa detta ämnet, kan du antingen klicka på länken "Avsluta prenumeration" längst ned i ämnet ovan, eller från ämnes-prenumerationshanteringssidan:</value>
@@ -131,10 +131,10 @@
     <value>Din verifieringskod är:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Antingen du eller någon som låtsas vara du har begärt en lösenordsåterställning på ditt osu!-konto.</value>
+    <value>Antingen du eller någon som låtsas vara du har begärt en lösenordsåterställning på ditt hotia!-konto.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>osu!-kontoåterhämtning</value>
+    <value>hotia!-kontoåterhämtning</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Vi har fått din betalning och förbereder din beställning för frakt. Det kan ta några dagar för oss att skicka ut det, beroende på antalet beställningar. Du kan följa utvecklingen av din beställning här, inklusive spårningsdetaljer där det finns:</value>
@@ -149,10 +149,10 @@
     <value>Frakt</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Vi har tagit emot din osu!store-beställning!</value>
+    <value>Vi har tagit emot din hotia!store-beställning!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Tack för din osu!store-beställning!</value>
+    <value>Tack för din hotia!store-beställning!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Totalt</value>
@@ -164,31 +164,31 @@
     <value>Men du vet förmodligen redan vem det är ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Tack vare dem har du tillgång till osu!direct och andra osu!supporter-fördelar för de kommande {0}.</value>
+    <value>Tack vare dem har du tillgång till hotia!direct och andra hotia!supporter-fördelar för de kommande {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Du kan läsa mer om dessa funktioner här:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Någon har precis gett dig en osu!supporter-tagg!</value>
+    <value>Någon har precis gett dig en hotia!supporter-tagg!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Personen som gav dig den här taggen lämnade dig ett meddelande:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Du har fått en osu!supporter-tagg!</value>
+    <value>Du har fått en hotia!supporter-tagg!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Detta är ett bekräftelsemail för att informera dig om att din e-postadress för osu! har ändrats till: "{0}".</value>
+    <value>Detta är ett bekräftelsemail för att informera dig om att din e-postadress för hotia! har ändrats till: "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Vänligen se till att du fick detta e-postmeddelande på din nya adress för att förhindra att förlora tillgång till ditt osu!-konto i framtiden.</value>
+    <value>Vänligen se till att du fick detta e-postmeddelande på din nya adress för att förhindra att förlora tillgång till ditt hotia!-konto i framtiden.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Av säkerhetsskäl har detta e-postmeddelande skickats till både din nya och din gamla e-postadress.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>bekräfta ändrad e-postadress för osu!</value>
+    <value>bekräfta ändrad e-postadress för hotia!</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Ditt konto misstänks ha blivit infiltrerat, har nyligen misstänkt aktivitet eller har ett MYCKET svagt lösenord. Därför kräver vi att du anger ett nytt lösenord. Se till att du väljer ett SÄKERT lösenord.</value>
@@ -200,7 +200,7 @@
     <value>Orsak:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>Återaktivering av osu!-konto krävs</value>
+    <value>Återaktivering av hotia!-konto krävs</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Vi ville bara låta dig veta att det har skett nya uppdateringar på objekt du följer.</value>
@@ -209,13 +209,13 @@
     <value>Ändra preferenser för e-postnotifikationer:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nya osu!-aviseringar</value>
+    <value>Nya hotia!-aviseringar</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Detta är bara en bekräftelse på att ditt osu!-lösenord har ändrats.</value>
+    <value>Detta är bara en bekräftelse på att ditt hotia!-lösenord har ändrats.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>bekräfta ändrat osu! lösenord</value>
+    <value>bekräfta ändrat hotia! lösenord</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Din verifieringskod är:</value>
@@ -230,7 +230,7 @@
     <value>Om du inte efterfrågade detta, vänligen SVARA OMEDELBART då ditt konto kan vara i fara.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>osu! kontobekräftelse</value>
+    <value>hotia! kontobekräftelse</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>En åtgärd som utförs på ditt konto från {0} kräver verifiering.</value>

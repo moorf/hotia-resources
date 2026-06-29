@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu!новости</value>
+    <value>hotia!новости</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>Новые записи</value>
@@ -98,7 +98,7 @@
     <value>ежемесячный конкурс маппинга (Monthly Beatmapping Contest)</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>фирменная продукция osu!</value>
+    <value>фирменная продукция hotia!</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>прочие объявления</value>
@@ -119,7 +119,7 @@
     <value>обновления рейтинговой системы</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>официальные турниры osu! World Cup</value>
+    <value>официальные турниры hotia! World Cup</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>от {0}</value>

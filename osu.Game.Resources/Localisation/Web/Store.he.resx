@@ -242,7 +242,7 @@
     <value>תן מתנה לשחקן</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>הינך צריך להיות {0} כדי להשיג תג osu!supporter!</value>
+    <value>הינך צריך להיות {0} כדי להשיג תג hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>מחובר</value>

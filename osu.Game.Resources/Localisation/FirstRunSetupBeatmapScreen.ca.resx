@@ -62,13 +62,13 @@
     <value>Obtenció de mapes</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Els «mapes» són el que anomenem conjunts de nivells jugables. osu! no ve amb cap mapa precarregat. Aquest pas t'ajudarà a començar la teva col·lecció de mapes.</value>
+    <value>Els «mapes» són el que anomenem conjunts de nivells jugables. hotia! no ve amb cap mapa precarregat. Aquest pas t'ajudarà a començar la teva col·lecció de mapes.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Si sou un jugador nou, recomanem jugar a través de la guia d'aprenentatge per a acostumar-vos a la jugabilitat.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Obté el tutorial d'osu!</value>
+    <value>Obté el tutorial d'hotia!</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Per començar, tenim alguns mapes recomanats.</value>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>А може, пограємо трішки в osu! натомість?</value>
+    <value>А може, пограємо трішки в hotia! натомість?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Увійдіть до акаунту, щоб продовжити.</value>
@@ -323,7 +323,7 @@
     <value>Не є членом команди.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>для створення команди потрібен тег osu!supporter.</value>
+    <value>для створення команди потрібен тег hotia!supporter.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Сторінку користувача заблоковано.</value>
@@ -332,7 +332,7 @@
     <value>Можна редагувати лише власну сторінку.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>необхідний тег osu!supporter.</value>
+    <value>необхідний тег hotia!supporter.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>адресу електронної пошти заблоковано</value>

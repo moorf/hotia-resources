@@ -77,7 +77,7 @@
     <value>Tam ekranda bile oynanış ya da kullanıcı arayüzü bölgesini değiştirmek için "Ekran ölçeği" modunu değiştirmeyi deneyin!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>Eskiden "osu!direct" olan şey şimdi web sitesinde olduğu gibi herkese açıktır. Herhangi bir yerde Ctrl-B yaparak ulaşabilirsiniz!</value>
+    <value>Eskiden "hotia!direct" olan şey şimdi web sitesinde olduğu gibi herkese açıktır. Herhangi bir yerde Ctrl-B yaparak ulaşabilirsiniz!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>Replay içinde gezinmek için progressbarı sürükleyebilir veya sol ve sağ ok tuşlarını kullanabilirsiniz!</value>

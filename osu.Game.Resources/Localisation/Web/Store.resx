@@ -107,7 +107,7 @@
     <value>We are currently overwhelmed with orders! You are welcome to place your order, but please expect an **additional 1-2 week delay** while we catch up with existing orders.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Hide all osu!supporter tags in this order from my activity</value>
+    <value>Hide all hotia!supporter tags in this order from my activity</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Your cart appears to be out of date and has been reloaded, please try again.</value>
@@ -149,7 +149,7 @@
     <value>The eCheck payment was rejected by PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter tags in this order are not displayed in your recent activities.</value>
+    <value>hotia!supporter tags in this order are not displayed in your recent activities.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Sent Via:</value>
@@ -170,7 +170,7 @@
     <value>If you didn't request a cancellation please contact {0} quoting your order number (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Your order has been delivered! We hope you are enjoying it!</value>
@@ -179,7 +179,7 @@
     <value>If you have any issues with your purchase, please contact the {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Your order is being prepared!</value>
@@ -359,7 +359,7 @@
     <value>add an optional message to your gift! (up to {0} characters)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>You need to be {0} to get an osu!supporter tag!</value>
+    <value>You need to be {0} to get an hotia!supporter tag!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>signed in</value>
@@ -386,6 +386,6 @@
     <value>signed in</value>
   </data>
   <data name="xsolla.distributor" xml:space="preserve">
-    <value>Xsolla is an authorised&lt;br&gt;global distributor of osu!</value>
+    <value>Xsolla is an authorised&lt;br&gt;global distributor of hotia!</value>
   </data>
 </root>

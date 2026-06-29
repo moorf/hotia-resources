@@ -119,7 +119,7 @@
     <value>Отблокиране</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Подари osu!supporter</value>
+    <value>Подари hotia!supporter</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Зареждане...</value>
@@ -218,7 +218,7 @@
     <value>Парола</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Нямате osu! акаунт? Направете си един</value>
+    <value>Нямате hotia! акаунт? Направете си един</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Запомни ме на този компютър</value>
@@ -233,7 +233,7 @@
     <value>Ранният достъп е ограничен само за привилегировани потребители.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporter ще има достъп скоро)</value>
+    <value>(hotia!supporter ще има достъп скоро)</value>
   </data>
   <data name="ogp.modding_description" xml:space="preserve">
     <value>Бийтмапове: {0}</value>
@@ -335,10 +335,10 @@
     <value>Тук от началото</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Потребител от {0}</value>
@@ -446,7 +446,7 @@
     <value>Качването е налично само за {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>стандартен режим на игра</value>
@@ -464,7 +464,7 @@
     <value>Цветните теми са налични само за {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>няма</value>
@@ -557,7 +557,7 @@
     <value>Скорошна Kudosu история</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Общо получено Kudosu</value>
@@ -566,7 +566,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Този потребител все още няма kudosu!</value>
+    <value>Този потребител все още няма kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Получено {0} от молбата за забрана на kudosu в редакторска публикация {1}</value>
@@ -773,7 +773,7 @@
     <value>Трябва да сте {0}, за да отключите тази функционалност.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Приноси {0}</value>
@@ -872,7 +872,7 @@
     <value>Моля, регистрирайте се от клиента за игра!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>моля, завършете регистрацията от уебсайта на osu!</value>
+    <value>моля, завършете регистрацията от уебсайта на hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Потребител създаден</value>

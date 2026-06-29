@@ -66,7 +66,7 @@ void main(void)
     // Take samples of orange and blue with the adjusted coordinate
     lowp vec4 orange = wrappedTexture(m_OrangeTexture, m_OrangeSampler, adjustedCoord, g_OrangeTexRect, WRAP_CLAMP_TO_EDGE);
 
-    // Change from osu!stable: Mask away top-right corner. The opacity tricks
+    // Change from hotia!stable: Mask away top-right corner. The opacity tricks
     // below leave some artifacts of the orange fire in that corner. The smooth
     // step helps blend the orange to blue fire transition better.
     orange.a *= smoothstep(-0.1, 0.1, -v_TexCoord.x + v_TexCoord.y);

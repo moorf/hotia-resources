@@ -71,7 +71,7 @@
     <value>Hayır! Görevi iptal et</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>osu!stable kurulum yeri otomatik olarak tespit edilemedi.</value>
+    <value>hotia!stable kurulum yeri otomatik olarak tespit edilemedi.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Var olan bir kurulum tespit edilemedi. Eğer nerede olduğunu biliyorsanız yerini gösterebilirsiniz.</value>
@@ -80,7 +80,7 @@
     <value>Elbette! Nerede olduğunu biliyorum!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Aslında bende osu!stable yüklü değil.</value>
+    <value>Aslında bende hotia!stable yüklü değil.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>{0} için tüm yerel skorlar</value>
@@ -92,7 +92,7 @@
     <value>Maçı iptal etmek istediğinden emin misin?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>osu!'dan çıkmak istediğinden emin misin?</value>
+    <value>hotia!'dan çıkmak istediğinden emin misin?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Geri dönmek için son şans</value>

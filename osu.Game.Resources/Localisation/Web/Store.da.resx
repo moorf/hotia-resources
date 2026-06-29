@@ -107,7 +107,7 @@
     <value>Vi bliver overvældet med ordrer lige nu! Du skal stadig være velkommen til at afgive din ordre, men forvent **yderligere 1-2 ugers forsinkelse** mens vi forsøger at indhente alle andre ordre.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Skjul alle osu!supporter tags i denne ordre fra min aktivitet</value>
+    <value>Skjul alle hotia!supporter tags i denne ordre fra min aktivitet</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Din indkøbskurv ser ud til at være forældet og er blevet genindlæst, prøv venligst igen.</value>
@@ -149,7 +149,7 @@
     <value>eCheck betalingen blev afvist af PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter tags i denne rækkefølge vises ikke i dine seneste aktiviteter.</value>
+    <value>hotia!supporter tags i denne rækkefølge vises ikke i dine seneste aktiviteter.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Sent Vha:</value>
@@ -170,7 +170,7 @@
     <value>Hvis du ikke har anmodet om afslysning, bedes du kontakte {0} med dit ordrenummer(# {1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Din ordre er blevet leveret! Vi håber, du nyder det!</value>
@@ -179,7 +179,7 @@
     <value>Hvis du har problemer med dit køb, bedes du kontakte {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Din ordre forberedes!</value>

@@ -80,7 +80,7 @@
     <value>A regra atual não tem um autoplay disponível!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! Não parece reproduzir áudio corretamente.
+    <value>hotia! Não parece reproduzir áudio corretamente.
 
 Favor tenta mudando o dispositivo de áudio para uma definição funcional.</value>
   </data>
@@ -121,7 +121,7 @@ Favor tenta mudando o dispositivo de áudio para uma definição funcional.</val
     <value>A sua cópia local do beatmap para este replay parece ser diferente do esperado. Você pode precisar atualizá-lo ou baixá-lo novamente.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Agora você está executando o osu! {0}.
+    <value>Agora você está executando o hotia! {0}.
 Clique para ver o que há de novo!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

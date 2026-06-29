@@ -77,7 +77,7 @@
     <value>Vänligen välj en ny plats</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>Den valda mappen verkar redan ha osu! installerat. Vill du använda den datan istället?</value>
+    <value>Den valda mappen verkar redan ha hotia! installerat. Vill du använda den datan istället?</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Radera ALLA beatmaps</value>
@@ -128,6 +128,6 @@
     <value>Inga modförinställningar hittades att återställa!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Välj din osu!stable installationsplats</value>
+    <value>Välj din hotia!stable installationsplats</value>
   </data>
 </root>

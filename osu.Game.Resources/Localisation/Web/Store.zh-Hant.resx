@@ -107,7 +107,7 @@
     <value>感謝您的訂購，由於近期湧入訂單過多，故該訂單恐將**延後1~2週的時間**</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>不要在最近活動中顯示這項 osu! 贊助者標籤訂單</value>
+    <value>不要在最近活動中顯示這項 hotia! 贊助者標籤訂單</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>您的購物車已過期，請重試。</value>
@@ -149,7 +149,7 @@
     <value>您的電子支票付款已被 PayPal 拒絕。</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>這項 osu! 贊助者訂單未在您的最近活動中顯示。</value>
+    <value>這項 hotia! 贊助者訂單未在您的最近活動中顯示。</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>透過:</value>
@@ -170,7 +170,7 @@
     <value>如果不是您本人所取消，請聯絡 {0} 並提供您的訂單編號 (#{1})。</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store 支援</value>
+    <value>hotia!store 支援</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>您的貨已送達！希望你能喜歡！</value>
@@ -179,7 +179,7 @@
     <value>如果您對於您的購買有任何疑問，請咨詢 {0}。</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store 支援</value>
+    <value>hotia!store 支援</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>正在準備您的訂單！</value>
@@ -359,7 +359,7 @@
     <value>為這份禮物寫些留言吧！ (最多 {0} 個字符)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>您需要 {0} 以獲得 osu!贊助者標籤！</value>
+    <value>您需要 {0} 以獲得 hotia!贊助者標籤！</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>已登入</value>

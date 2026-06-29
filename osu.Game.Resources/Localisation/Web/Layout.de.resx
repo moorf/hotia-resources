@@ -62,7 +62,7 @@
     <value>Nächstes Lied automatisch abspielen</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rhythmus ist nur ein *Klick* entfernt! Mit Ouendan/EBA, Taiko und originalen Spielmodi, zusätzlich zu einem voll funktionalen Level-Editor.</value>
+    <value>hotia! - Rhythmus ist nur ein *Klick* entfernt! Mit Ouendan/EBA, Taiko und originalen Spielmodi, zusätzlich zu einem voll funktionalen Level-Editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>Beatmap-Sets</value>
@@ -191,7 +191,7 @@
     <value>Beatmap-Auflistung</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>osu! herunterladen</value>
+    <value>hotia! herunterladen</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Hilfe &amp; Community</value>
@@ -311,7 +311,7 @@
     <value>Herunterladen</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Lade dir osu! herunter, um dir einen eigenen Account zu erstellen!</value>
+    <value>Lade dir hotia! herunter, um dir einen eigenen Account zu erstellen!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Noch keinen Account?</value>

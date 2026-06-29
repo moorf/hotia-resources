@@ -137,7 +137,7 @@
     <value>Otwórz w przeglądarce po przesłaniu</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Uwaga: Aby umożliwić użytkownikom wszystkich wersji osu! korzystanie z beatmapy, zostanie ona wyeksportowana w formacie kompatybilnym wstecz. Chociaż dołożyliśmy starań, aby proces ten umożliwiał zagranie beatmapy w zamierzonej formie, niektóre dane związane z funkcjami, których poprzednie wersje osu! nie obsługują, mogą zostać utracone.</value>
+    <value>Uwaga: Aby umożliwić użytkownikom wszystkich wersji hotia! korzystanie z beatmapy, zostanie ona wyeksportowana w formacie kompatybilnym wstecz. Chociaż dołożyliśmy starań, aby proces ten umożliwiał zagranie beatmapy w zamierzonej formie, niektóre dane związane z funkcjami, których poprzednie wersje hotia! nie obsługują, mogą zostać utracone.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Nie możesz przesyłać pustych beatmap.</value>

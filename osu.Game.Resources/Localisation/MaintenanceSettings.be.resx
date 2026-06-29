@@ -78,7 +78,7 @@
     <value>Калі ласка, абярыце новае месцазнаходжанне</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>Абраная тэчка ўжо змяшчае файлы osu!. Выкарыстоўваць іх?</value>
+    <value>Абраная тэчка ўжо змяшчае файлы hotia!. Выкарыстоўваць іх?</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Выдаліць УСЕ бітмапы</value>
@@ -129,6 +129,6 @@
     <value>У пресетов модов няма чаго аднаўляць!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Калі ласка, абярыце месцазнаходжанне файлаў osu!stable</value>
+    <value>Калі ласка, абярыце месцазнаходжанне файлаў hotia!stable</value>
   </data>
 </root>

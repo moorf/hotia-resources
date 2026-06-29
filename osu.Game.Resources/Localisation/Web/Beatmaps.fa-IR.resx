@@ -365,7 +365,7 @@
     <value>تنظیمات بیشتر</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>صافی‌کردن با {0} نیازمند تگ osu!supporter فعال است</value>
+    <value>صافی‌کردن با {0} نیازمند تگ hotia!supporter فعال است</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>نتیجه ای یافت نشد</value>
@@ -434,7 +434,7 @@
     <value>صافی کردن با {0} نیازمند {1} فعال است</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>تگ osu!supporter</value>
+    <value>تگ hotia!supporter</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>بیت‌مپ‌های تبدیل‌شده</value>

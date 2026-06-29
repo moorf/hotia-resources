@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Što kažeš na to da zaigraš malo osu! umjesto toga?</value>
+    <value>Što kažeš na to da zaigraš malo hotia! umjesto toga?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Molimo da se prijaviš kako bi nastavio/la.</value>
@@ -323,7 +323,7 @@
     <value>Nije član tima.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>osu!supporter oznaka je potrebna za stvaranje tima.</value>
+    <value>hotia!supporter oznaka je potrebna za stvaranje tima.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Korisnička stranica je zaključana.</value>
@@ -332,7 +332,7 @@
     <value>Možeš urediti samo svoju korisničku stranicu.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>Potrebna je osu!supporter oznaka.</value>
+    <value>Potrebna je hotia!supporter oznaka.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>email adresa je zaključana</value>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Можа, лепш у osu! пагуляеш?</value>
+    <value>Можа, лепш у hotia! пагуляеш?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Каб працягнуць, увайдзіце.</value>
@@ -320,7 +320,7 @@
     <value>Вы не з'яўляецеся ўдзельнікам каманды.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>каб стварыць каманду патрэбны osu!supporter tag.</value>
+    <value>каб стварыць каманду патрэбны hotia!supporter tag.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Старонка карыстальніка заблакаваная.</value>
@@ -329,7 +329,7 @@
     <value>Магчыма рэдагаваць толькі ўласную старонку.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>неабходны osu!supporter.</value>
+    <value>неабходны hotia!supporter.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>адрас электроннай пошты заблакаваны</value>

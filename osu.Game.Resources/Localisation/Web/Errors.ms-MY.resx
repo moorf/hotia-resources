@@ -71,7 +71,7 @@
     <value>Parameter {0} tidak boleh melebihi {1} butir</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>Anda mesti menjadi osu!supporter untuk menggunakan ciri ini.</value>
+    <value>Anda mesti menjadi hotia!supporter untuk menggunakan ciri ini.</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>Ralat tidak diketahui berlaku.</value>

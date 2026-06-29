@@ -107,7 +107,7 @@
     <value>Attualmente siamo sommersi dagli ordini! Sei libero di effettuare ordini, ma ci si aspetta un **ritardo aggiuntivo di 1-2 settimane** mentre completiamo gli ordini già esistenti.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Nascondi tutti i tag osu!supporter in questo ordine dalla mia attività</value>
+    <value>Nascondi tutti i tag hotia!supporter in questo ordine dalla mia attività</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Il tuo carrello sembra essere obsoleto ed è stato ricaricato, per favore riprova.</value>
@@ -149,7 +149,7 @@
     <value>Il pagamento eCheck è stato rifiutato da PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>I tag osu!supporter in questo ordine non verranno mostrati nella tua attività recente.</value>
+    <value>I tag hotia!supporter in questo ordine non verranno mostrati nella tua attività recente.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Inviato con:</value>
@@ -170,7 +170,7 @@
     <value>Se non hai richiesto la cancellazione contatta il {0} menzionando il tuo numero d'ordine (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>supporto di osu!store</value>
+    <value>supporto di hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Il tuo ordine è stato consegnato! Speriamo ti piaccia!</value>
@@ -179,7 +179,7 @@
     <value>Se hai problemi con il tuo acquisto, contatta il {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>supporto di osu!store</value>
+    <value>supporto di hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Il tuo ordine è in preparazione!</value>

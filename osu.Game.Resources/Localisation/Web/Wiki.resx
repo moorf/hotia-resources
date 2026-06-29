@@ -74,7 +74,7 @@
     <value>Requested page could not be found for currently selected language.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>This page does not meet the standards of the osu! wiki and needs to be cleaned up or rewritten. If you are able to help out, please consider updating the article!</value>
+    <value>This page does not meet the standards of the hotia! wiki and needs to be cleaned up or rewritten. If you are able to help out, please consider updating the article!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Search existing pages for {0}.</value>

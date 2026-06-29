@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Vypnutím filtru "Oficiální umělci" se zobrazí veškerý uživatelský obsah.
 
-Toto zahrnuje obsah, který nemusí být licencován pro osu!. Procházej na vlastní riziko.</value>
+Toto zahrnuje obsah, který nemusí být licencován pro hotia!. Procházej na vlastní riziko.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Rozumím</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Oficiální umělci jsou hudební tvůrci, kteří spolupracovali s osu! na poskytnutí výběru svých skladeb pro použití v beatmapách. Pro některá vydání osu! zobrazujeme pouze beatmapy od oficiálních umělců, abychom lépe podpořili ekosystém dané platformy.</value>
+    <value>Oficiální umělci jsou hudební tvůrci, kteří spolupracovali s hotia! na poskytnutí výběru svých skladeb pro použití v beatmapách. Pro některá vydání hotia! zobrazujeme pouze beatmapy od oficiálních umělců, abychom lépe podpořili ekosystém dané platformy.</value>
   </data>
 </root>

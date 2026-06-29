@@ -68,7 +68,7 @@
     <value>Klik hier voor meer informatie.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Sommige activa in deze map zijn verwijderd nadat ze zijn beschouwd als niet geschikt voor gebruik in osu!.</value>
+    <value>Sommige activa in deze map zijn verwijderd nadat ze zijn beschouwd als niet geschikt voor gebruik in hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap verwijderd</value>
@@ -98,7 +98,7 @@
     <value>download zonder video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>open in osu!direct</value>
+    <value>open in hotia!direct</value>
   </data>
   <data name="nominate.hybrid_requires_modes" xml:space="preserve">
     <value>Een hybride beatmapset vereist dat je minimaal één speelmodus selecteert om voor te nomineren.</value>
@@ -293,7 +293,7 @@
     <value>Klik &lt;a href="{0}"&gt;hier&lt;/a&gt; om alle chique functies die je krijgt te zien!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Je moet een osu!supporter zijn om toegang te krijgen tot land- en vriendenrankings, net als mod-specifieke ranglijsten!</value>
+    <value>Je moet een hotia!supporter zijn om toegang te krijgen tot land- en vriendenrankings, net als mod-specifieke ranglijsten!</value>
   </data>
   <data name="show.scoreboard.title" xml:space="preserve">
     <value>Scorebord</value>

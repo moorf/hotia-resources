@@ -220,7 +220,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>パスワード</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>osu!アカウントを持っていませんか？新しいアカウントを作るにはこちらから</value>
+    <value>hotia!アカウントを持っていませんか？新しいアカウントを作るにはこちらから</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>ログイン状態を保持する</value>
@@ -235,7 +235,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>ベータアクセスは権限があるユーザーのみに付与されます。</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!サポーターはすぐ手に入ります)</value>
+    <value>(hotia!サポーターはすぐ手に入ります)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>アクティブ</value>
@@ -304,7 +304,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>著作権侵害については、 {0} に従い、DMCA申請を通じて {1} までご報告ください。</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu!の著作権ポリシー</value>
+    <value>hotia!の著作権ポリシー</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>これは、オーディオトラック、ビジュアルコンテンツ、または譜面データが適切な許可なく使用されている場合に適用されます。</value>
@@ -356,10 +356,10 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>創設時からのメンバー</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!開発者</value>
+    <value>hotia!開発者</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!サポーター</value>
+    <value>hotia!サポーター</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>登録日 {0}</value>
@@ -467,7 +467,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>アップロードは {0} でのみ可能です</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!サポーター</value>
+    <value>hotia!サポーター</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>メインのゲームモード</value>
@@ -485,7 +485,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>カラーテーマをカスタムできるのは {0} のみです</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>なし</value>
@@ -581,7 +581,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>最近のKudosu履歴</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kudosuの累計獲得数</value>
@@ -590,7 +590,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>このユーザーはまだkudosu!を獲得していません！</value>
+    <value>このユーザーはまだkudhotia!を獲得していません！</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Modding投稿{0} のkudosu獲得拒否の取り消しにより {1} 獲得</value>
@@ -803,7 +803,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>この機能を解除するには{0}する必要があります。</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!サポーター</value>
+    <value>hotia!サポーター</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>フォーラム投稿数 {0}</value>
@@ -902,7 +902,7 @@ CAPTCHA認証を成功させてから再試行してください。
     <value>代わりにゲームクライアントから登録してください！</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>osu!のウェブサイトで登録を完了してください</value>
+    <value>hotia!のウェブサイトで登録を完了してください</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>ユーザーが作成されました</value>

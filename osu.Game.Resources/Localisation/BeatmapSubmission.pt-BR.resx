@@ -137,7 +137,7 @@
     <value>Carregar no navegador após a submissão</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Nota: Para tornar possível que usuários de todas as versões do osu! desfrutem do seu beatmap, ele será exportado em um formato compatível com backward. Embora tenhamos feito esforços para garantir que o processo mantenha o beatmap jogável na sua forma pretendida. alguns dados relacionados a recursos que versões anteriores do osu! não há suporte que possa ser perdido.</value>
+    <value>Nota: Para tornar possível que usuários de todas as versões do hotia! desfrutem do seu beatmap, ele será exportado em um formato compatível com backward. Embora tenhamos feito esforços para garantir que o processo mantenha o beatmap jogável na sua forma pretendida. alguns dados relacionados a recursos que versões anteriores do hotia! não há suporte que possa ser perdido.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Beatmaps vazios não podem ser enviados.</value>

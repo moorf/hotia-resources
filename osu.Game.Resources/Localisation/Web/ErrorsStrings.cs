@@ -30,9 +30,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ParamTooLarge(LocalisableString name, LocalisableString countDelimited) => new TranslatableString(getKey(@"param_too_large"), @"{0} parameter has a maximum of {1} item|{0} parameter has a maximum of {1} items", name, countDelimited);
 
         /// <summary>
-        /// "You must be an osu!supporter to use this feature."
+        /// "You must be an hotia!supporter to use this feature."
         /// </summary>
-        public static LocalisableString SupporterOnly => new TranslatableString(getKey(@"supporter_only"), @"You must be an osu!supporter to use this feature.");
+        public static LocalisableString SupporterOnly => new TranslatableString(getKey(@"supporter_only"), @"You must be an hotia!supporter to use this feature.");
 
         /// <summary>
         /// "Unknown error occurred."

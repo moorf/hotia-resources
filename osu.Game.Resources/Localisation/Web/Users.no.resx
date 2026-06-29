@@ -119,7 +119,7 @@
     <value>Fjern blokkering</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Gi osu!supporter i gave</value>
+    <value>Gi hotia!supporter i gave</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Laster...</value>
@@ -218,7 +218,7 @@
     <value>Passord</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Har du ikke en osu!-konto? Lag en ny en</value>
+    <value>Har du ikke en hotia!-konto? Lag en ny en</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Husk denne datamaskinen</value>
@@ -233,7 +233,7 @@
     <value>Tilgang til beta er for øyeblikket begrenset til privilegerte brukere.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supportere vil komme inn snart)</value>
+    <value>(hotia!supportere vil komme inn snart)</value>
   </data>
   <data name="ogp.modding_description" xml:space="preserve">
     <value>Beatmaps: {0}</value>
@@ -335,10 +335,10 @@
     <value>Her siden begynnelsen</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!utvikler</value>
+    <value>hotia!utvikler</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Ble med {0}</value>
@@ -446,7 +446,7 @@
     <value>Oppdatering er bare tilgjengelig for {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supportere</value>
+    <value>hotia!supportere</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>standard spillmodus</value>
@@ -464,7 +464,7 @@
     <value>Egendefinerte fargetemaer kun tilgjengelig for {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supportere</value>
+    <value>hotia!supportere</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ingen</value>
@@ -557,7 +557,7 @@
     <value>Nylig Kudosu Historie</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Total Kudosu Opptjent</value>
@@ -566,7 +566,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Denne brukeren har ikke mottatt noen kudosu!</value>
+    <value>Denne brukeren har ikke mottatt noen kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Mottok {0} fra opphevelse av nektet kudosu i modding innlegget {1}</value>
@@ -773,7 +773,7 @@
     <value>Du må være en {0} for å låse opp denne funksjonen.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Bidratt med {0}</value>
@@ -872,7 +872,7 @@
     <value>vennligst registrer deg via spillklienten i stedet!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>vennligst fullfør registrering på osu!-nettsiden</value>
+    <value>vennligst fullfør registrering på hotia!-nettsiden</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Bruker opprettet</value>

@@ -89,25 +89,25 @@
     <value>Kapag mayroon ka pang tanong o maipupuna, huwag mag-aalangan na tumugon sa mail na ito; Babalikan ko to sa madaling panahon!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Ito ay salamat sa mga taong katulad mo na ang osu! ay kayang magpanatili sa laro at komunidad na tumakbo nang maayos nang walang anumang mga advertisements o mga sapilitang pagbabayad.</value>
+    <value>Ito ay salamat sa mga taong katulad mo na ang hotia! ay kayang magpanatili sa laro at komunidad na tumakbo nang maayos nang walang anumang mga advertisements o mga sapilitang pagbabayad.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Ang iyong suporta ay napapanatili ang osu! ng hanggang {0}! Ito'y mukhang mang hindi marami ngunit lahat ito ay dumadagdag :).</value>
+    <value>Ang iyong suporta ay napapanatili ang hotia! ng hanggang {0}! Ito'y mukhang mang hindi marami ngunit lahat ito ay dumadagdag :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Salamat! &lt;3 ka ni osu!</value>
+    <value>Salamat! &lt;3 ka ni hotia!</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Ang sumusunod ay ang pagsalin ng nasa community para sa layuning pang-impormasyon:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Ang iyong (mga) niregaluhan ay mayroon nang access sa osu!direct at marami pang mga benepisyo ng supporter.</value>
+    <value>Ang iyong (mga) niregaluhan ay mayroon nang access sa hotia!direct at marami pang mga benepisyo ng supporter.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Ikaw ay mayroon nang access sa osu!direct at marami pang mga benepisyo ng supporter sa loob ng {0}.</value>
+    <value>Ikaw ay mayroon nang access sa hotia!direct at marami pang mga benepisyo ng supporter sa loob ng {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Maraming salamat sa iyong {0} tungo sa osu!.</value>
+    <value>Maraming salamat sa iyong {0} tungo sa hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>suporta</value>
@@ -119,7 +119,7 @@
     <value>Pinapaalam lang sa iyo na mayroong bagong tugon sa "{0}" noong huling bisita mo dito.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Bagong tugon para sa paksang "{0}"</value>
+    <value>[hotia!] Bagong tugon para sa paksang "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Kung ayaw mo nang bantayan ang paksang ito, maaari mong pindutin ang "Itigil ang pagbantay sa paksa" na link na matatagpuan sa ibaba ng paksa sa itaas, o sa tala-pamahalaan ng binabantayang mga paksa:</value>
@@ -131,10 +131,10 @@
     <value>Ang verification code mo ay:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Ikaw o iba na nagpapanggap na ikaw ay nagrequest ng password reset para sa iyong osu! account.</value>
+    <value>Ikaw o iba na nagpapanggap na ikaw ay nagrequest ng password reset para sa iyong hotia! account.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>osu! account recover</value>
+    <value>hotia! account recover</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Natanggap namin ang iyong payment at hinahanda ang iyong order na maship. Maaaring tumagal ng ilang araw bago namin maipadala ito, depende kung ilan ang iyong inorder. Pwede mo tignan ang progress ng order nyo dito, kasama ang tracking details kung saan available:</value>
@@ -149,10 +149,10 @@
     <value>Ipinapadala</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Natanggap namin ang osu!store order mo!</value>
+    <value>Natanggap namin ang hotia!store order mo!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Salamat sa iyong osu!store order!</value>
+    <value>Salamat sa iyong hotia!store order!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Kabuuan</value>
@@ -164,31 +164,31 @@
     <value>Pero siguro kilala mo kung sino ito ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Salamat sa kanila, may access ka na sa osu!direct at iba pang osu!supporter na benepisyo para sa sususnod na {0}.</value>
+    <value>Salamat sa kanila, may access ka na sa hotia!direct at iba pang hotia!supporter na benepisyo para sa sususnod na {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Maaari mong malaman ang higit pang mga detalye tungkol sa mga features dito:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>May nagregalo sa'yo ng osu!supporter tag!</value>
+    <value>May nagregalo sa'yo ng hotia!supporter tag!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Ang taong nagbigay sa iyo ng tag na ito ay ng-iwan sa iyo ng mensahe:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Ikaw ay binigyan ng osu!supporter tag!</value>
+    <value>Ikaw ay binigyan ng hotia!supporter tag!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Ito ay isang kumpirmasyon na email na ipinapaalam sa iyo na ang iyong osu! email address ay napalitan para sa email na ito: "{0}".</value>
+    <value>Ito ay isang kumpirmasyon na email na ipinapaalam sa iyo na ang iyong hotia! email address ay napalitan para sa email na ito: "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Siguraduhin na ikaw ang nakakuha ng email na ito sa bagong mong address upang hindi mawala ang access ng iyong osu! account para sa kinabukasan.</value>
+    <value>Siguraduhin na ikaw ang nakakuha ng email na ito sa bagong mong address upang hindi mawala ang access ng iyong hotia! account para sa kinabukasan.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Para sa kasiguruhan, ang email na ito ay pinasa sa parehong iyong luma at bagong email address.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>kumpirmasyon ng osu! para sa pagpalit ng email</value>
+    <value>kumpirmasyon ng hotia! para sa pagpalit ng email</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Ang iyong account ay hinahalaang nakomprimiso, may kahina-hinalang aktibidad o NAPAKA-hinang passwork, Dahil dito, kinakailangan namin kayo na magpalit ng password, Mangyaring tiyaking pumili ng isang Secure na password.</value>
@@ -200,7 +200,7 @@
     <value>Ang dahilan:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>osu! Account Reactivation Required</value>
+    <value>hotia! Account Reactivation Required</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Ipinapaalam lang na may pagbabago sa mga items na iyong sinusundan.</value>
@@ -209,13 +209,13 @@
     <value>Baguhin ang preperensya sa pagtanggap ng abiso sa email:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Bagong osu! notipikasyon</value>
+    <value>Bagong hotia! notipikasyon</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Ito ay isang kumpirmasyon na ang iyong osu! password ay napalitan na.</value>
+    <value>Ito ay isang kumpirmasyon na ang iyong hotia! password ay napalitan na.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>kumpirmasyon para sa pagpalit ng password sa osu!</value>
+    <value>kumpirmasyon para sa pagpalit ng password sa hotia!</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Ang verification code mo ay:</value>
@@ -230,7 +230,7 @@
     <value>Kapag hindi ikaw ang humiling nito, nakikiusap kami na TUMUGON AGAD sa kadahilanang ang iyong account ay maaring nasa peligro.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>beripikasyon ng osu! account</value>
+    <value>beripikasyon ng hotia! account</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Ang aksyon na ginawa sa iyong account galing {0} ay kina-kailangan ng beripikasyon.

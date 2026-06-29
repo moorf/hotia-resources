@@ -62,22 +62,22 @@
     <value>Aš įtikintas! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>paremk osu!</value>
+    <value>paremk hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>arba padovanok kitiems žaidėjams</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>paspausk širdutę, kad nueitum į osu!parduotuvę</value>
+    <value>paspausk širdutę, kad nueitum į hotia!parduotuvę</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Kodėl aš turėčiau paremti osu!? Kur mano pinigai keliaus?</value>
+    <value>Kodėl aš turėčiau paremti hotia!? Kur mano pinigai keliaus?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Paremk Komandą</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Maža komanda kuria ir palaiko osu! Jūsų parama padės jiems žinote... pragyventi.</value>
+    <value>Maža komanda kuria ir palaiko hotia! Jūsų parama padės jiems žinote... pragyventi.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Serverių Infrastruktūra</value>
@@ -89,13 +89,13 @@
     <value>Ryškieji Atlikėjai</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Su jūsų parama, mes galime susisiekti su daugiau šaunių atlikėjų ir licencijuoti daugiau geros muzikos osu! naudojimui!</value>
+    <value>Su jūsų parama, mes galime susisiekti su daugiau šaunių atlikėjų ir licencijuoti daugiau geros muzikos hotia! naudojimui!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Rodyti dabartinį sąrašą &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Išlaikyk osu! savarankiška</value>
+    <value>Išlaikyk hotia! savarankiška</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Jūsų įnašai padeda išlaikyti žaidimą savarankiška ir visiškai laisva nuo reklamų ir išorinių rėmėjų.</value>
@@ -104,7 +104,7 @@
     <value>Oficialus Turnyrai</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Padėk finansuoti oficialaus osu! Pasaulinio turnyro veikimą ir prizus.</value>
+    <value>Padėk finansuoti oficialaus hotia! Pasaulinio turnyro veikimą ir prizus.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Naršyk turnyrus &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Atviro Kodo Premijų Programa</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Paremk bendruomenės pagalbininkus, kurie panaudojo savo laiką ir pastangas, kad osu! būtu geresnis.</value>
+    <value>Paremk bendruomenės pagalbininkus, kurie panaudojo savo laiką ir pastangas, kad hotia! būtu geresnis.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Sužinok daugiau &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Šaunu! Kokis privalumus gaunu?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Gauk greitą ir lengvą prieigą į beatmap'ų paiešką ir atsiuntimus nepaliekant žaidimo.</value>
@@ -185,7 +185,7 @@
     <value>Greiti atsiuntimai</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Laisvesni atsiuntimų apribojimai, ypač naudojant osu!direct.</value>
+    <value>Laisvesni atsiuntimų apribojimai, ypač naudojant hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Keisk Vartotojo Vardą</value>
@@ -239,13 +239,13 @@
     <value>Ačiū už jūsų tęsiamą rėmimą! Per šį laiką prisidėjote {0} kas yra verta {1} "Rėmėjo" žymos.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Jūs dar nesate turėjęs osu!rėmėjo žymos :(</value>
+    <value>Jūs dar nesate turėjęs hotia!rėmėjo žymos :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Jūsų osu!rėmėjo žyma galioja iki {0}!</value>
+    <value>Jūsų hotia!rėmėjo žyma galioja iki {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Jūsų osu!rėmėjo žyma buvo galiojanti {0}.</value>
+    <value>Jūsų hotia!rėmėjo žyma buvo galiojanti {0}.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>Iš jūsų viso prisidėjimo dovanota {0} kas yra verta {1}, tai apima {2}. Tai labai dosnu!</value>

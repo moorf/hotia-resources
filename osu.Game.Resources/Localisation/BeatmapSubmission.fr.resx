@@ -137,7 +137,7 @@
     <value>Ouvrir dans le navigateur une fois la beatmap publiée</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Remarque : Afin de permettre aux utilisateurs de toutes les versions d'osu! de profiter de votre beatmap, elle sera exportée dans un format rétrocompatible. Bien que nous ayons fait des efforts pour garantir que le processus conserve la beatmap dans sa forme prévue, quelques données liées aux fonctionnalités non disponibles sur les précédentes versions d'osu! peuvent être perdues.</value>
+    <value>Remarque : Afin de permettre aux utilisateurs de toutes les versions d'hotia! de profiter de votre beatmap, elle sera exportée dans un format rétrocompatible. Bien que nous ayons fait des efforts pour garantir que le processus conserve la beatmap dans sa forme prévue, quelques données liées aux fonctionnalités non disponibles sur les précédentes versions d'hotia! peuvent être perdues.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Vous ne pouvez pas mettre en ligne une beatmap vide !</value>

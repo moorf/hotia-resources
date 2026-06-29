@@ -71,7 +71,7 @@
     <value>{0} parameter har ett maximum av{1} artikel|{0} parameter har ett maximum av {1} artiklar</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>Du måste vara en osu!supporter för att använda denna funktion.</value>
+    <value>Du måste vara en hotia!supporter för att använda denna funktion.</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>Okänt fel uppstod.</value>

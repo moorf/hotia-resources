@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; a perdu la première place sur &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; a de nouveau choisi de soutenir osu! - merci pour votre générosité !</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; a de nouveau choisi de soutenir hotia! - merci pour votre générosité !</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; a soutenu osu! - merci pour votre générosité !</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; a soutenu hotia! - merci pour votre générosité !</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; a reçu le osu!supporter en cadeau !</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; a reçu le hotia!supporter en cadeau !</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; a changé son pseudo en &lt;strong&gt;&lt;em&gt;{1}&lt;/em&gt;&lt;/strong&gt; !</value>

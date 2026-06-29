@@ -489,7 +489,7 @@
     <value>Flere søkemuligheter</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrering ved bruk av {0} krever en aktiv osu!supporter tag</value>
+    <value>Filtrering ved bruk av {0} krever en aktiv hotia!supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>ingen treff</value>
@@ -558,7 +558,7 @@
     <value>Filtrering ved bruk av {0} krever en aktiv {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Inkluder konverterte beatmaps</value>

@@ -74,7 +74,7 @@
     <value>A kért oldal nem található a jelenleg kiválasztott nyelven.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Ez az oldal elavult fordítást tartalmaz az eredeti osu! wikiről! Ha képes vagy rá, fontold meg a fordítás frissítését!</value>
+    <value>Ez az oldal elavult fordítást tartalmaz az eredeti hotia! wikiről! Ha képes vagy rá, fontold meg a fordítás frissítését!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Létező oldalak keresése {0} után.</value>

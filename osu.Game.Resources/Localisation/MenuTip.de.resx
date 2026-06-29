@@ -77,7 +77,7 @@
     <value>Versuche, die Bildschirmskalierung anzupassen, um den Bereich der Benutzeroberfläche oder des Gameplays zu ändern, sogar im Vollbildmodus!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>Was früher "osu!direct" war, ist nun wie auf der Webseite für alle Nutzer verfügbar. Du kannst es überall mit {0} aufrufen!</value>
+    <value>Was früher "hotia!direct" war, ist nun wie auf der Webseite für alle Nutzer verfügbar. Du kannst es überall mit {0} aufrufen!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>Du kannst durch Replays springen, indem du die linke oder rechte Pfeiltaste drückst oder den Cursor über die Fortschrittsleiste am unteren Bildschirmrand ziehst!</value>

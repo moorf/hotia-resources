@@ -503,7 +503,7 @@
     <value>Los grados y los resultados que aparecen en esta página se basan en tus puntuaciones «estandarizadas» (también conocidas como puntuaciones de «lazer») más altas en los mapas.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrar por {0} requiere una etiqueta de osu!supporter activa</value>
+    <value>Filtrar por {0} requiere una etiqueta de hotia!supporter activa</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>no hay resultados</value>
@@ -572,7 +572,7 @@
     <value>Necesitas un {0} activo para filtrar por {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>etiqueta de osu!supporter</value>
+    <value>etiqueta de hotia!supporter</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>explora las etiquetas de los usuarios</value>

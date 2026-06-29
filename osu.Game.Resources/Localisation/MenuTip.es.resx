@@ -77,7 +77,7 @@
     <value>Prueba a ajustar el modo «Escalado de pantalla» para cambiar la zona de juego o la interfaz de usuario, ¡incluso en pantalla completa!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>Lo que antes era «osu!direct» está disponible para todos los usuarios igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar presionando {0}!</value>
+    <value>Lo que antes era «hotia!direct» está disponible para todos los usuarios igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar presionando {0}!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>¡Puedes desplazarte por las repeticiones arrastrando la barra de progreso situada en la parte inferior de la pantalla o usando las teclas de flecha izquierda y derecha!</value>

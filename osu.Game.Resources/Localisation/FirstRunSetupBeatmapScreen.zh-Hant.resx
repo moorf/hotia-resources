@@ -62,13 +62,13 @@
     <value>獲取圖譜</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>「圖譜」指的是遊戲中可遊玩的關卡。osu! 預設並未包含任何圖譜。這個步驟將協助您開始建立您的圖譜收藏。</value>
+    <value>「圖譜」指的是遊戲中可遊玩的關卡。hotia! 預設並未包含任何圖譜。這個步驟將協助您開始建立您的圖譜收藏。</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>如果您是新手，我們建議您遊玩教學以熟悉遊戲玩法。</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>下載 osu! 新手教學</value>
+    <value>下載 hotia! 新手教學</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>我們準備了幾張推薦的圖譜，好讓您快速上手。</value>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu!news</value>
+    <value>hotia!news</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>최근 글</value>
@@ -98,7 +98,7 @@
     <value>월간 매핑 콘테스트</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>osu! 굿즈</value>
+    <value>hotia! 굿즈</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>기타 소식</value>
@@ -119,7 +119,7 @@
     <value>랭킹 시스템 업데이트</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>osu! 월드컵</value>
+    <value>hotia! 월드컵</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>{0}님이 작성</value>

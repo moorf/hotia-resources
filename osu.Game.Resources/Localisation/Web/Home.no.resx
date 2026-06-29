@@ -275,12 +275,12 @@
     <value>av {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Last ned osu!</value>
+    <value>Last ned hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Støtt osu!</value>
+    <value>Støtt hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!butikken</value>
+    <value>hotia!butikken</value>
   </data>
 </root>

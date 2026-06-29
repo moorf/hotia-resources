@@ -218,7 +218,7 @@
     <value>Slaptažodis</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Neturi osu! profilio? Susikurk</value>
+    <value>Neturi hotia! profilio? Susikurk</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Prisiminti šį kompiuterį</value>
@@ -233,7 +233,7 @@
     <value>Šiuo metu beta prieiga galima tik išskirtiniams vartotojams.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu! rėmėjai bus įleisti greitu metu)</value>
+    <value>(hotia! rėmėjai bus įleisti greitu metu)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktyvus</value>
@@ -302,7 +302,7 @@
     <value>Prašome pranešti apie autorinių teisių pažeidimus su DMCA skundu į {0} kaip numatyta {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu! autorinių teisių politikoje</value>
+    <value>hotia! autorinių teisių politikoje</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Taikoma atvejams kai garso takeliai, vizualus turinys arba beatmap'o lygio turinys naudojamas be tinkamo leidimo.</value>
@@ -353,10 +353,10 @@
     <value>Čia nuo pat pradžių</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!programuotojas</value>
+    <value>hotia!programuotojas</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!rėmėjas</value>
+    <value>hotia!rėmėjas</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Prisijungė {0}</value>
@@ -464,7 +464,7 @@
     <value>Įkelti gali tik {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!rėmėjai</value>
+    <value>hotia!rėmėjai</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>pagrindinis žaidimo rėžimas</value>
@@ -482,7 +482,7 @@
     <value>Spalvų pasirinkimas galimas tik {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!rėmėjai</value>
+    <value>hotia!rėmėjai</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>nėra</value>
@@ -575,7 +575,7 @@
     <value>Paskutinių Kudosu Istorija</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Visi uždirbti Kudosu</value>
@@ -584,7 +584,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Naudotojas negavo nei kiek kudosu!</value>
+    <value>Naudotojas negavo nei kiek kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Gauta {0} už kudosu atmetimo anuliavimą taisymų įrašą tarp {1}</value>
@@ -791,7 +791,7 @@
     <value>Tu turi būti {0}, kad atrakinti šia funkciją.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!rėmėjas</value>
+    <value>hotia!rėmėjas</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Indėlis {0}</value>

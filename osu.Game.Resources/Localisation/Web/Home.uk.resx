@@ -308,13 +308,13 @@
     <value>скидується {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Завантажити osu!</value>
+    <value>Завантажити hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Підтримати osu!</value>
+    <value>Підтримати hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>Магазин osu!</value>
+    <value>Магазин hotia!</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Пряма трансляція</value>

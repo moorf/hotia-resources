@@ -3,12 +3,12 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
-    <Title>osu!resources</Title>
-    <Product>osu!resources</Product>
+    <Title>hotia!resources</Title>
+    <Product>hotia!resources</Product>
     <Company>ppy Pty Ltd</Company>
   </PropertyGroup>
   <PropertyGroup Label="Nuget">
-    <Title>osu!resources</Title>
+    <Title>hotia!resources</Title>
     <PackageId>ppy.osu.Game.Resources</PackageId>
     <Authors>ppy Pty Ltd</Authors>
     <PackageLicenseUrl>https://github.com/ppy/osu-resources/blob/master/LICENCE.md</PackageLicenseUrl>

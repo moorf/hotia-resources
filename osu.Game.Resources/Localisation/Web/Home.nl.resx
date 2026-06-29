@@ -275,12 +275,12 @@
     <value>door {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Download osu!</value>
+    <value>Download hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Ondersteun osu!</value>
+    <value>Ondersteun hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
 </root>

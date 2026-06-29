@@ -68,7 +68,7 @@
     <value>เช็คที่นี่เพื่อดูรายละเอียดเพิ่มเติม</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>เนื้อหาบางส่วนในแมพนี้ได้ถูกนำออกเนื่องจากถูกตัดสินว่าไม่เหมาะสมใน osu!</value>
+    <value>เนื้อหาบางส่วนในแมพนี้ได้ถูกนำออกเนื่องจากถูกตัดสินว่าไม่เหมาะสมใน hotia!</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>บีทแมพที่ถูกลบ</value>
@@ -101,7 +101,7 @@
     <value>ดาวน์โหลดโดยไม่มีวิดีโอ</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>เปิดใน osu!direct</value>
+    <value>เปิดใน hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Probationary nominators cannot nominate multiple rulesets.</value>

@@ -308,13 +308,13 @@
     <value>fin {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Télécharger osu!</value>
+    <value>Télécharger hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Soutenir osu!</value>
+    <value>Soutenir hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Livestream en vedette</value>

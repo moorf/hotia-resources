@@ -71,7 +71,7 @@
     <value>Não! Abortar missão</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Falha ao tentar localizar automaticamente uma instalação do osu!stable.</value>
+    <value>Falha ao tentar localizar automaticamente uma instalação do hotia!stable.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Não foi possível encontrar uma instalação existente. Se você sabe onde está, pode ajudar a localizá-la.</value>
@@ -80,7 +80,7 @@
     <value>Claro! Eu sei onde está localizada!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Na verdade, eu não tenho o osu!stable instalado.</value>
+    <value>Na verdade, eu não tenho o hotia!stable instalado.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Todas as pontuações locais em {0}</value>
@@ -92,7 +92,7 @@
     <value>Certeza que deseja abortar a partida?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Certeza que deseja sair do osu!?</value>
+    <value>Certeza que deseja sair do hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Última chance de voltar atrás</value>

@@ -62,13 +62,13 @@
     <value>Indhenter Beatmaps</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>"Beatmaps" er, hvad vi kalder spilbare niveauer. osu! kommer ikke med nogen beatmaps. Dette trin vil hjælpe dig med at komme i gang med din beatmap samling.</value>
+    <value>"Beatmaps" er, hvad vi kalder spilbare niveauer. hotia! kommer ikke med nogen beatmaps. Dette trin vil hjælpe dig med at komme i gang med din beatmap samling.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Hvis du er en ny spiller, anbefaler vi at spille gennem tutorialen for at blive vant til spillet.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Få osu! tutorialen</value>
+    <value>Få hotia! tutorialen</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>For at få dig i gang, har vi nogle anbefalede beatmaps.</value>

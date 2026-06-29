@@ -107,7 +107,7 @@
     <value>Vi är för nuvarande överväldigade med ordrar! Du får gärna placera din order, men kommer kanske få en **extra 1-2 veckors försening** medan vi kommer ikapp alla ordrar.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Dölj alla osu!supporter taggar i denna ordning från min aktivitet</value>
+    <value>Dölj alla hotia!supporter taggar i denna ordning från min aktivitet</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Din varukorg verkar vara inaktuell och har blivit återladdad, var god försök igen.</value>
@@ -149,7 +149,7 @@
     <value>eCheck-betalningen avvisades av PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter taggar i denna ordning visas inte i dina senaste aktiviteter.</value>
+    <value>hotia!supporter taggar i denna ordning visas inte i dina senaste aktiviteter.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Skickat Via:</value>
@@ -170,7 +170,7 @@
     <value>Om du inte bad om en avbrytning var god kontakta {0} med ditt order nummer (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Din beställning har levererats! Vi hoppas att du tycker om den!</value>
@@ -179,7 +179,7 @@
     <value>Om du har några problem med ditt köp, vänligen kontakta {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store support</value>
+    <value>hotia!store support</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Din beställning förbereds!</value>
@@ -359,7 +359,7 @@
     <value>lägg till ett valfritt meddelande till din gåva! (upp till {0} tecken)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Du behöver vara {0} för att kunna få en osu!supporter tagg!</value>
+    <value>Du behöver vara {0} för att kunna få en hotia!supporter tagg!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>inloggad</value>

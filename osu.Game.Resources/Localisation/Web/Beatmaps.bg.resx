@@ -500,7 +500,7 @@
     <value>Повече опции за търсене</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Подреждане по {0} изисква активен osu!supporter</value>
+    <value>Подреждане по {0} изисква активен hotia!supporter</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>няма намерени резултати</value>
@@ -569,7 +569,7 @@
     <value>Подреждане по {0} изисква активен {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Включи конвертирани бийтмапове</value>

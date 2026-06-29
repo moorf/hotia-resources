@@ -77,7 +77,7 @@
     <value>フルスクリーンでもゲームプレイやUIエリアを変更するには、「画面の拡大縮小」モードを調整してみてください！</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>以前「osu!direct」だったものは全てのユーザーがWebサイトと同じように使えます。Ctrl+Bでどこでもアクセスできます！</value>
+    <value>以前「hotia!direct」だったものは全てのユーザーがWebサイトと同じように使えます。Ctrl+Bでどこでもアクセスできます！</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>画面下部のプログレスバーをドラッグするか矢印キーの左右を使用してリプレイをシークすることができます！</value>

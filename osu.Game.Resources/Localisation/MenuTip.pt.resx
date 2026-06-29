@@ -77,7 +77,7 @@
     <value>Experimente ajustar o modo "Dimensionamento do Ecrã" para alterar a área de jogo ou da interface, mesmo em modo de ecrã inteiro!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>O que antes era o "osu!direct" está agora disponível para todos os utilizadores, tal como na página. Pode aceder‑lhe em qualquer lugar usando {0}!</value>
+    <value>O que antes era o "hotia!direct" está agora disponível para todos os utilizadores, tal como na página. Pode aceder‑lhe em qualquer lugar usando {0}!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>A pesquisa em repetições está disponível ao arrastar a barra de progresso na parte inferior do ecrã ou utilizando as teclas de seta esquerda e direita!</value>

@@ -212,7 +212,7 @@
     <value>Geslo</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Nimaš še osu! računa? Ustvari novega</value>
+    <value>Nimaš še hotia! računa? Ustvari novega</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Zapomni si ta računalnik</value>
@@ -227,7 +227,7 @@
     <value>Dostop do beta različice je trenutno omejen na uporabnike z določenimi pravicami.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporterji bodo kmalu imeli dostop)</value>
+    <value>(hotia!supporterji bodo kmalu imeli dostop)</value>
   </data>
   <data name="posts.title" xml:space="preserve">
     <value>objave igralca {0}</value>
@@ -311,10 +311,10 @@
     <value>Tu že od samega začetka</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!razvijalec</value>
+    <value>hotia!razvijalec</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Pridružil {0}</value>
@@ -380,7 +380,7 @@
     <value>Nalaganje možno le za {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter-je</value>
+    <value>hotia!supporter-je</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>privzeti način igre</value>
@@ -479,7 +479,7 @@
     <value>Nedavna zgodovina Kudosu točk</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Skupno število zasluženih Kudosu točk</value>
@@ -488,7 +488,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Ta igralec še ni prejel nobenega kudosu!</value>
+    <value>Ta igralec še ni prejel nobenega kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Prejeto {0} od kudosu zavrnitvene razveljavitve modding objave {1}</value>
@@ -692,7 +692,7 @@
     <value>Za odklepanje te funkcije moraš biti {0}.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Prispeval {0}</value>
@@ -782,7 +782,7 @@
     <value>namesto tega se registriraj prek odjemalca igre!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>prosimo dokončaj registracijo s pomočjo osu! spletne strani</value>
+    <value>prosimo dokončaj registracijo s pomočjo hotia! spletne strani</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Uporabnik ustvarjen</value>

@@ -107,7 +107,7 @@
     <value>نحن حالياََ غارقون في الطلبات! انت مرحب بوضع طلبك, ولكن ارجوك انتظر **1-2 اسابيع اضافية اخرى** حتى ننتهي من الطلبات الحالية.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>إخفاء جميع علامات osu!supporter في هذا الترتيب من نشاطي</value>
+    <value>إخفاء جميع علامات hotia!supporter في هذا الترتيب من نشاطي</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>سلة التسوق الخاصة بك تبدو منتهية الصلاحية وتم اعادة شحنها, الرجاء المحاولة مجدداََ.</value>
@@ -146,7 +146,7 @@
     <value>نظرًا لأن عملية الدفع كانت عبر eCheck، يُرجى الانتظار حتى 10 أيام إضافية حتى تتم معالجة الدفع عبر PayPal!</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>إشارات osu!supporter لن تعرض بهذا الترتيب في نشاطك.</value>
+    <value>إشارات hotia!supporter لن تعرض بهذا الترتيب في نشاطك.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>ارسلت بواسطة:</value>
@@ -167,7 +167,7 @@
     <value>إذا لم تطلب إلغاء، يرجى الاتصال بـ {0} واقتبس رقم طلبك في الرسالة (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>دعم متجر osu!</value>
+    <value>دعم متجر hotia!</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>لقد تم تسليم طلبك! نأمل أن تستمتع به!</value>
@@ -176,7 +176,7 @@
     <value>إذا كان لديك أي مشاكل في عملية الشراء الخاصة بك، يرجى الاتصال بـ {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>دعم متجر osu!</value>
+    <value>دعم متجر hotia!</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>يتم إعداد طلبك!</value>
@@ -356,7 +356,7 @@
     <value>أضف رسالة اختيارية إلى هديتك! (بحد اقصى {0} حرفا)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>يجب ان تكون {0} لتحصل على شارة osu!supporter!</value>
+    <value>يجب ان تكون {0} لتحصل على شارة hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>مُسَجَل</value>

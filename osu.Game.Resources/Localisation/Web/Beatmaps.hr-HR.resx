@@ -464,7 +464,7 @@
     <value>Još opcija pretraživanja</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtriranje prema {0} zahtijeva aktivnu osu!supporter oznaku</value>
+    <value>Filtriranje prema {0} zahtijeva aktivnu hotia!supporter oznaku</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>nema rezultata</value>
@@ -533,7 +533,7 @@
     <value>Filtriranje prema {0} zahtijeva aktivnu {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter oznaku</value>
+    <value>hotia!supporter oznaku</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Uključi pretvorene beatmape</value>

@@ -68,7 +68,7 @@
     <value>Clique aqui para mais informações.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Alguns arquivos contidos neste mapa foram removidos depois de serem julgados como não sendo adequados para uso no osu!.</value>
+    <value>Alguns arquivos contidos neste mapa foram removidos depois de serem julgados como não sendo adequados para uso no hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap excluído</value>
@@ -101,7 +101,7 @@
     <value>baixar sem vídeo</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>abrir no osu!direct</value>
+    <value>abrir no hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Os nomeadores probacionários não podem nomear várias regras.</value>
@@ -332,7 +332,7 @@
     <value>Clique &lt;a href="{0}"&gt;aqui&lt;/a&gt; para ver todas as novas funções às quais você ganha acesso!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Você precisa ser um osu!supporter para acessar rankings de amigos e de países!</value>
+    <value>Você precisa ser um hotia!supporter para acessar rankings de amigos e de países!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Classificação dos equipes</value>

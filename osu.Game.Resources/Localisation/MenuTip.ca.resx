@@ -77,7 +77,7 @@
     <value>Prova d'ajustar el mode "Escalat de pantalla" per canviar la teva àrea de joc or de la UI, fins i tot en pantalla completa!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>El que solia ser «osu!direct» està disponible per a tots els jugadors just com al lloc web. Podeu accedir-hi en qualsevol moment usant {0}!</value>
+    <value>El que solia ser «hotia!direct» està disponible per a tots els jugadors just com al lloc web. Podeu accedir-hi en qualsevol moment usant {0}!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>Cercar en les repeticions és accessible arrossegant la barra de progrés al peu de la pantalla o usant les tecles de dreta i esquerra!</value>

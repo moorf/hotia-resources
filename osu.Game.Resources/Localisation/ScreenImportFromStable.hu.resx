@@ -62,13 +62,13 @@
     <value>Importálás</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Ha egy korábbi osu!-verzió van telepítve, választhatod a meglévő tartalmak áthozását. Vedd figyelembe, hogy ez egy másolatot hoz létre, és nem érinti a meglévő telepítést.</value>
+    <value>Ha egy korábbi hotia!-verzió van telepítve, választhatod a meglévő tartalmak áthozását. Vedd figyelembe, hogy ez egy másolatot hoz létre, és nem érinti a meglévő telepítést.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>előző osu! telepítés</value>
+    <value>előző hotia! telepítés</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Kattints ide egy korábbi osu! telepítés megkereséséhez</value>
+    <value>Kattints ide egy korábbi hotia! telepítés megkereséséhez</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Tartalom importálása az előző verzióból</value>
@@ -92,9 +92,9 @@
     <value>Az operációs rendszered még nem támogatja a fájlok egyszerű összekapcsolását, ezért az importálás során minden fájlról másolat készül.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a Lazer adatmappa ugyanazon a meghajtón van, mint az előző osu! telepítésed (és a fájlrendszer NTFS).</value>
+    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a Lazer adatmappa ugyanazon a meghajtón van, mint az előző hotia! telepítésed (és a fájlrendszer NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a Lazer adatmappa ugyanazon a meghajtón van, mint az előző osu! telepítésed (és a fájlrendszered támogatja a kemény linkeket).</value>
+    <value>Az importálás során minden fájlról egy másolat készül. Ennek elkerülése érdekében győződj meg arról, hogy a Lazer adatmappa ugyanazon a meghajtón van, mint az előző hotia! telepítésed (és a fájlrendszered támogatja a kemény linkeket).</value>
   </data>
 </root>

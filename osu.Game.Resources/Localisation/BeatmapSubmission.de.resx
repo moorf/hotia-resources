@@ -137,7 +137,7 @@
     <value>Nach der Veröffentlichung im Browser öffnen</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Anmerkung: Damit Nutzer aller osu!-Versionen Spaß an deiner Beatmap haben können, wird sie in einem rückwärtskompatiblen Format exportiert. Wir versuchen, sicherzustellen, dass die Beatmap in ihrer originalen Form spielbar bleibt. Manche Daten zu Funktionen, die frühere osu!-Versionen nicht unterstützen, gehen jedoch möglicherweise verloren.</value>
+    <value>Anmerkung: Damit Nutzer aller hotia!-Versionen Spaß an deiner Beatmap haben können, wird sie in einem rückwärtskompatiblen Format exportiert. Wir versuchen, sicherzustellen, dass die Beatmap in ihrer originalen Form spielbar bleibt. Manche Daten zu Funktionen, die frühere hotia!-Versionen nicht unterstützen, gehen jedoch möglicherweise verloren.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Leere Beatmaps können nicht veröffentlicht werden.</value>

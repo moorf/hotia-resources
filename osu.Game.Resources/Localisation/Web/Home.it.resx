@@ -308,13 +308,13 @@
     <value>si resetta {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Scarica osu!</value>
+    <value>Scarica hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Supporta osu!</value>
+    <value>Supporta hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Diretta streaming in evidenza</value>

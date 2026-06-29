@@ -68,7 +68,7 @@
     <value>Підфоруми</value>
   </data>
   <data name="title" xml:space="preserve">
-    <value>osu! форуми</value>
+    <value>hotia! форуми</value>
   </data>
   <data name="covers.edit" xml:space="preserve">
     <value>Редагувати обкладинку</value>
@@ -537,7 +537,7 @@
     <value>запропонована ідея</value>
   </data>
   <data name="topics.show.feature_vote.info.supporters" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="topics.show.feature_vote.user.count" xml:space="preserve">
     <value>{0} немає голосів|{1} {0} голос|[2,4] {0} голоси|[5,*] {0} голосів</value>

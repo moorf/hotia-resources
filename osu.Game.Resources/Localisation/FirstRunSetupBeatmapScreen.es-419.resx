@@ -62,13 +62,13 @@
     <value>Obtener mapas</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Los «mapas» (beatmaps) son lo que llamamos niveles jugables. osu! no viene con ningún mapa precargado. Este paso te ayudará a empezar tu colección de mapas.</value>
+    <value>Los «mapas» (beatmaps) son lo que llamamos niveles jugables. hotia! no viene con ningún mapa precargado. Este paso te ayudará a empezar tu colección de mapas.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Si eres un jugador nuevo, te recomendamos que juegues el tutorial para acostumbrarte al juego.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Obtener el tutorial de osu!</value>
+    <value>Obtener el tutorial de hotia!</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Para empezar, te recomendamos algunos mapas.</value>

@@ -62,13 +62,13 @@
     <value>Beatmap'lere Sahip ol</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>"Beatmapler" oynanabilir seviyeler dediğimiz şeydir. osu! önceden yüklenmiş herhangi bir beatmap ile gelmiyor. Bu adım, beatmap koleksiyonunuza başlamanıza yardımcı olacaktır.</value>
+    <value>"Beatmapler" oynanabilir seviyeler dediğimiz şeydir. hotia! önceden yüklenmiş herhangi bir beatmap ile gelmiyor. Bu adım, beatmap koleksiyonunuza başlamanıza yardımcı olacaktır.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Yeni bir oyuncuysanız, oyuna alışmak için öğreticiyi oynamanızı öneririz.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Osu! öğreticisini alın</value>
+    <value>hotia! öğreticisini alın</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Başlangıçta oynamanız için önerilen bazı beatmap'lerimiz var.</value>

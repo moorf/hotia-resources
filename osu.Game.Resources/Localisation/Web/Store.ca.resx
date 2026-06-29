@@ -107,7 +107,7 @@
     <value>Ara mateix no podem atendre totes les comandes! La teva compra és benvinguda, però considera un **retard addicional d'1-2 setmanes** mentre ens posem al dia amb les comandes actuals.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Amaga totes les etiquetes osu!supporter en aquesta ordre de la meva activitat</value>
+    <value>Amaga totes les etiquetes hotia!supporter en aquesta ordre de la meva activitat</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>La teva cistella sembla desactualitzada i s'ha reiniciat, torna-ho a intentar.</value>
@@ -149,7 +149,7 @@
     <value>PayPal ha rebutjat el pagament amb eCheck.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>les etiquetes osu!supporter en aquesta ordre no es mostren a les teves activitats recents.</value>
+    <value>les etiquetes hotia!supporter en aquesta ordre no es mostren a les teves activitats recents.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Enviat via:</value>
@@ -170,7 +170,7 @@
     <value>Si no has sol·licitat una cancel·lació, posa't en contacte amb el {0} indicant el teu número de comanda (núm. {1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>suport de la osu!store</value>
+    <value>suport de la hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>La teva comanda ha estat lliurada! Esperem que l'estiguis gaudint!</value>
@@ -179,7 +179,7 @@
     <value>Si tens algun problema amb la teva compra, posa't en contacte amb el {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>suport de la osu!store</value>
+    <value>suport de la hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Estem processant la teva comanda!</value>
@@ -359,7 +359,7 @@
     <value>afegeix un missatge opcional al teu regal! (fins a {0} caràcters)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Has de ser {0} per obtenir una etiqueta osu!supporter!</value>
+    <value>Has de ser {0} per obtenir una etiqueta hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>sessió iniciada</value>

@@ -89,13 +89,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; је изгубио/ла прво место на &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; је поново одлучио/ла да подржи osu! - хвала вам на вашој великодушности!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; је поново одлучио/ла да подржи hotia! - хвала вам на вашој великодушности!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; је подржао/ла osu! - хвала вам на вашој великодушности!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; је подржао/ла hotia! - хвала вам на вашој великодушности!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; је добио/ла osu!supporter поклон!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; је добио/ла hotia!supporter поклон!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; је променио/ла корисничко име у &lt;strong&gt;&lt;em&gt;{1}&lt;/em&gt;&lt;/strong&gt;!</value>

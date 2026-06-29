@@ -219,7 +219,7 @@
     <value>รหัสผ่าน</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>ไม่มีแอคเคาท์ osu! หรอ? สร้างเลยสิ</value>
+    <value>ไม่มีแอคเคาท์ hotia! หรอ? สร้างเลยสิ</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>จดจำคอมพิวเตอร์นี้</value>
@@ -303,7 +303,7 @@
     <value>ตาม {0} กรุณารายงานการละเมิดลิขสิทธิ์มาที่ {1}</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>นโยบายลิขสิทธิ์ osu!</value>
+    <value>นโยบายลิขสิทธิ์ hotia!</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>ในกรณีที่มีการใช้ภาพ เสียง หรือเนื้อหาบีทแมพโดยไม่ได้รับอนุญาต</value>
@@ -354,10 +354,10 @@
     <value>อยู่ตั้งแต่โอสุเริ่มต้น</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>ผู้พัฒนา osu!</value>
+    <value>ผู้พัฒนา hotia!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน hotia!</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>เข้าร่วมเมื่อ {0}</value>
@@ -465,7 +465,7 @@
     <value>อัพโหลดได้เฉพาะ {0} เท่านั้น</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน hotia!</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>เกมโหมดหลัก</value>
@@ -483,7 +483,7 @@
     <value>ธีมสีที่กำหนดเองมีให้เฉพาะสำหรับ {0} เท่านั้น</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน hotia!</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ไม่มี</value>
@@ -579,7 +579,7 @@
     <value>ประวัติ Kudosu ล่าสุด</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kudosu ที่ได้รับ</value>
@@ -588,7 +588,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>ผู้ใช้คนนี้ยังไม่เคยได้รับ kudosu!</value>
+    <value>ผู้ใช้คนนี้ยังไม่เคยได้รับ kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>ได้รับ {0} kudosu จากการไม่ยกเลิก modding โพสต์ {1}</value>
@@ -798,7 +798,7 @@
     <value>คุณจำเป็นจะต้อง {0} เพื่อที่จะปลดล็อกสิ่งนี้</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>ผู้สนับสนุน osu!</value>
+    <value>ผู้สนับสนุน hotia!</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>การมีส่วนร่วม {0}</value>
@@ -897,7 +897,7 @@
     <value>โปรดลงทะเบียนผ่านในเกมแทน!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>กรุณาลงทะเบียนโดยใช้เว็บไซต์ osu! </value>
+    <value>กรุณาลงทะเบียนโดยใช้เว็บไซต์ hotia! </value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>ผู้ใช้ถูกสร้างขึ้น</value>

@@ -138,7 +138,7 @@
     <value>Mở trong trình duyệt sau khi gửi đi</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Lưu ý: Để người dùng của tất cả các phiên bản osu! có thể thưởng thức beatmap của bạn, nó sẽ được xuất ở định dạng tương thích ngược. Mặc dù chúng tôi đã nỗ lực để đảm bảo quá trình này giữ cho beatmap có thể chơi được ở dạng dự định, một số dữ liệu liên quan đến các tính năng mà các phiên bản trước của osu! không hỗ trợ có thể bị mất.</value>
+    <value>Lưu ý: Để người dùng của tất cả các phiên bản hotia! có thể thưởng thức beatmap của bạn, nó sẽ được xuất ở định dạng tương thích ngược. Mặc dù chúng tôi đã nỗ lực để đảm bảo quá trình này giữ cho beatmap có thể chơi được ở dạng dự định, một số dữ liệu liên quan đến các tính năng mà các phiên bản trước của hotia! không hỗ trợ có thể bị mất.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Beatmap trống không thể đăng lên.</value>

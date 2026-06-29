@@ -137,7 +137,7 @@
     <value>Gönderim sonrası tarayıcıda aç</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Not: Tüm osu! sürümlerinin kullanıcılarının beatmap'inizin keyfini çıkarmasını mümkün kılmak için, beatmap geriye dönük uyumluluğa sahip bir biçimde dışa aktarılacaktır. Bu işlemin beatmapi amaçlanan biçimde oynanabilir tutmasını sağlamak için çaba sarf etmiş olsak da, önceki osu! sürümlerinin desteklemediği özelliklerle ilgili bazı veriler kaybolabilir.</value>
+    <value>Not: Tüm hotia! sürümlerinin kullanıcılarının beatmap'inizin keyfini çıkarmasını mümkün kılmak için, beatmap geriye dönük uyumluluğa sahip bir biçimde dışa aktarılacaktır. Bu işlemin beatmapi amaçlanan biçimde oynanabilir tutmasını sağlamak için çaba sarf etmiş olsak da, önceki hotia! sürümlerinin desteklemediği özelliklerle ilgili bazı veriler kaybolabilir.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Boş beatmapler gönderilemez.</value>

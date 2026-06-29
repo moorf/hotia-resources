@@ -83,7 +83,7 @@
     <value>أصوات الواجهة</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>سِمة الموسيقى في osu!</value>
+    <value>سِمة الموسيقى في hotia!</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>تسلسل المُقدِمة</value>
@@ -95,7 +95,7 @@
     <value>خلفيات حسب الموسم</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>سيتم تطبيق التغييرات على هذا الإعداد فقط مع علامة osu!supporter.</value>
+    <value>سيتم تطبيق التغييرات على هذا الإعداد فقط مع علامة hotia!supporter.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>تحديد الأغنية</value>

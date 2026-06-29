@@ -71,7 +71,7 @@
     <value>O parâmetro {0} tem um máximo de {1} item|O parâmetro {0} tem um máximo de {1} itens</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>Você precisa ser um osu!supporter para usar esta função.</value>
+    <value>Você precisa ser um hotia!supporter para usar esta função.</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>Ocorreu um erro desconhecido.</value>

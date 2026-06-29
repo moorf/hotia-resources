@@ -74,7 +74,7 @@
     <value>İstenilen sayfa seçilen dilde bulunamadı.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Bu sayfa osu! wiki standartlarına uymamaktadır, bu nedenle düzenlenmeli veya yeniden yazılmalıdır. Eğer yardımcı olabilirseniz, lütfen makaleyi güncellemeyi bir düşünün!</value>
+    <value>Bu sayfa hotia! wiki standartlarına uymamaktadır, bu nedenle düzenlenmeli veya yeniden yazılmalıdır. Eğer yardımcı olabilirseniz, lütfen makaleyi güncellemeyi bir düşünün!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>{0} için mevcut sayfaları ara.</value>

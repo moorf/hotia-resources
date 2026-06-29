@@ -467,7 +467,7 @@
     <value>Више опција за тражење</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Филтеровање по {0} захтева да имате активну osu!supporter претплату</value>
+    <value>Филтеровање по {0} захтева да имате активну hotia!supporter претплату</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>нема резултата</value>
@@ -536,7 +536,7 @@
     <value>Филтеровање по {0} захтева да имате активну {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter претплату</value>
+    <value>hotia!supporter претплату</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Укључујући конвертоване мапе</value>

@@ -308,13 +308,13 @@
     <value>{0}にリセット</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu!をダウンロード</value>
+    <value>hotia!をダウンロード</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu!を支援する</value>
+    <value>hotia!を支援する</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!ストア</value>
+    <value>hotia!ストア</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>注目のライブ配信</value>

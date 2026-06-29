@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Prin oprirea filtrului "Artiști Oficiali", tot conținutul încărcat de utilizatori va fi afișat.
 
-Acesta include conținut care poate să nu fie licențiat corect pentru utilizarea în osu!. Navigați pe propriul risc.</value>
+Acesta include conținut care poate să nu fie licențiat corect pentru utilizarea în hotia!. Navigați pe propriul risc.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Am înţeles</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Artiștii Oficiali sunt artiști muzicali care au colaborat cu osu! pentru a face o selecție a pieselor lor disponibilă pentru utilizarea în beatmap-uri. În unele versiuni osu! afișăm doar beatmap-uri create pe piese ale artiștilor oficiali pentru a sprijini mai bine ecosistemul din jur.</value>
+    <value>Artiștii Oficiali sunt artiști muzicali care au colaborat cu hotia! pentru a face o selecție a pieselor lor disponibilă pentru utilizarea în beatmap-uri. În unele versiuni hotia! afișăm doar beatmap-uri create pe piese ale artiștilor oficiali pentru a sprijini mai bine ecosistemul din jur.</value>
   </data>
 </root>

@@ -74,7 +74,7 @@
     <value>Den anmodede side kunne ikke blive fundet på det valgte sprog.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Denne side lever ikke op til standarderne for osu! wiki og har brug for oprydning og omskrivning. Hvis du har mulighed for at hjælpe til, overvej venligst at opdatere artiklen!</value>
+    <value>Denne side lever ikke op til standarderne for hotia! wiki og har brug for oprydning og omskrivning. Hvis du har mulighed for at hjælpe til, overvej venligst at opdatere artiklen!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Søg eksisterende sider for {0}.</value>

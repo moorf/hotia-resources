@@ -750,9 +750,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ListingSearchRankFilterNote => new TranslatableString(getKey(@"listing.search.rank_filter_note"), @"Profile top rank counts and results shown on this page are based on your highest ""standardised"" (aka ""lazer"") scores on beatmaps.");
 
         /// <summary>
-        /// "Filtering by {0} requires an active osu!supporter tag"
+        /// "Filtering by {0} requires an active hotia!supporter tag"
         /// </summary>
-        public static LocalisableString ListingSearchSupporterFilter(LocalisableString filters) => new TranslatableString(getKey(@"listing.search.supporter_filter"), @"Filtering by {0} requires an active osu!supporter tag", filters);
+        public static LocalisableString ListingSearchSupporterFilter(LocalisableString filters) => new TranslatableString(getKey(@"listing.search.supporter_filter"), @"Filtering by {0} requires an active hotia!supporter tag", filters);
 
         /// <summary>
         /// "no results"
@@ -865,9 +865,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ListingSearchSupporterFilterQuoteDefault(LocalisableString filters, LocalisableString link) => new TranslatableString(getKey(@"listing.search.supporter_filter_quote._"), @"Filtering by {0} requires an active {1}", filters, link);
 
         /// <summary>
-        /// "osu!supporter tag"
+        /// "hotia!supporter tag"
         /// </summary>
-        public static LocalisableString ListingSearchSupporterFilterQuoteLinkText => new TranslatableString(getKey(@"listing.search.supporter_filter_quote.link_text"), @"osu!supporter tag");
+        public static LocalisableString ListingSearchSupporterFilterQuoteLinkText => new TranslatableString(getKey(@"listing.search.supporter_filter_quote.link_text"), @"hotia!supporter tag");
 
         /// <summary>
         /// "browse user tags"
@@ -915,24 +915,24 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ModeAny => new TranslatableString(getKey(@"mode.any"), @"Any");
 
         /// <summary>
-        /// "osu!"
+        /// "hotia!"
         /// </summary>
-        public static LocalisableString ModeOsu => new TranslatableString(getKey(@"mode.osu"), @"osu!");
+        public static LocalisableString ModeOsu => new TranslatableString(getKey(@"mode.osu"), @"hotia!");
 
         /// <summary>
-        /// "osu!taiko"
+        /// "hotia!taiko"
         /// </summary>
-        public static LocalisableString ModeTaiko => new TranslatableString(getKey(@"mode.taiko"), @"osu!taiko");
+        public static LocalisableString ModeTaiko => new TranslatableString(getKey(@"mode.taiko"), @"hotia!taiko");
 
         /// <summary>
-        /// "osu!catch"
+        /// "hotia!catch"
         /// </summary>
-        public static LocalisableString ModeFruits => new TranslatableString(getKey(@"mode.fruits"), @"osu!catch");
+        public static LocalisableString ModeFruits => new TranslatableString(getKey(@"mode.fruits"), @"hotia!catch");
 
         /// <summary>
-        /// "osu!mania"
+        /// "hotia!mania"
         /// </summary>
-        public static LocalisableString ModeMania => new TranslatableString(getKey(@"mode.mania"), @"osu!mania");
+        public static LocalisableString ModeMania => new TranslatableString(getKey(@"mode.mania"), @"hotia!mania");
 
         /// <summary>
         /// "not set"

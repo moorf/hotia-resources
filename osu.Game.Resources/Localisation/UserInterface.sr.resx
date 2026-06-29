@@ -80,7 +80,7 @@
     <value>Гласови сучења</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! музичка тема</value>
+    <value>hotia! музичка тема</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Уводна секвенца</value>
@@ -92,7 +92,7 @@
     <value>Сезонске позадине</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Промене овог подешавања ће се применити само са активном ознаком osu!supporter.</value>
+    <value>Промене овог подешавања ће се применити само са активном ознаком hotia!supporter.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Избор Песама</value>

@@ -62,13 +62,13 @@
     <value>Skaffa Beatmaps</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>"Beatmaps" är vad vi kallar spelbara banor. osu! kommer inte med några beatmaps installerade. Detta steg hjälper dig att komma igång med din beatmapsamling.</value>
+    <value>"Beatmaps" är vad vi kallar spelbara banor. hotia! kommer inte med några beatmaps installerade. Detta steg hjälper dig att komma igång med din beatmapsamling.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
-    <value>Om du är en ny spelare rekommenderar vi att du spelar osu! tutorialen för att vänja dig vid spelet.</value>
+    <value>Om du är en ny spelare rekommenderar vi att du spelar hotia! tutorialen för att vänja dig vid spelet.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Skaffa osu! tutorialen</value>
+    <value>Skaffa hotia! tutorialen</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>För att komma igång har vi några rekommenderade beatmaps.</value>

@@ -62,22 +62,22 @@
     <value>Ich bin überzeugt! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>unterstütze osu!</value>
+    <value>unterstütze hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>oder verschenke Supporter an andere Spieler</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>klick auf das Herz, um zum osu!store zu gelangen</value>
+    <value>klick auf das Herz, um zum hotia!store zu gelangen</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Warum sollte ich osu! unterstützen? Wohin fließt das Geld?</value>
+    <value>Warum sollte ich hotia! unterstützen? Wohin fließt das Geld?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Unterstütze das Team</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Ein kleines Team entwickelt und betreibt osu!. Deine Unterstützung hilft ihnen dabei, zu, du weißt schon... leben.</value>
+    <value>Ein kleines Team entwickelt und betreibt hotia!. Deine Unterstützung hilft ihnen dabei, zu, du weißt schon... leben.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Server-Infrastruktur</value>
@@ -89,13 +89,13 @@
     <value>Featured Artists</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Mit deiner Unterstützung können wir noch mehr großartige Künstler ansprechen und somit mehr gute Musik in osu! lizenzieren!</value>
+    <value>Mit deiner Unterstützung können wir noch mehr großartige Künstler ansprechen und somit mehr gute Musik in hotia! lizenzieren!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Sieh dir die aktuelle Liste an &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Halte osu! aufrecht</value>
+    <value>Halte hotia! aufrecht</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Deine Beiträge tragen dazu bei, das Spiel unabhängig und völlig frei von Werbung und externen Sponsoren zu halten.</value>
@@ -104,7 +104,7 @@
     <value>Offizielle Turniere</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Hilf mit, die Durchführung (und die Preise) der offiziellen osu!-Weltmeisterschaft-Turniere zu finanzieren.</value>
+    <value>Hilf mit, die Durchführung (und die Preise) der offiziellen hotia!-Weltmeisterschaft-Turniere zu finanzieren.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Erkunde Turniere &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Open-Source-Prämien-Programm</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Unterstütze Mitwirkende der Community, die ihre Zeit und Mühe investiert haben, um osu! besser zu machen.</value>
+    <value>Unterstütze Mitwirkende der Community, die ihre Zeit und Mühe investiert haben, um hotia! besser zu machen.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Erfahre mehr &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Cool! Was bekommt man denn?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Schneller und einfacher Zugriff zum Suchen und Herunterladen von Beatmaps, ohne das Spiel verlassen zu müssen.</value>
@@ -185,7 +185,7 @@
     <value>Schnelle Downloads</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Geringere Downloadbeschränkungen, insbesondere bei der Verwendung von osu!direct.</value>
+    <value>Geringere Downloadbeschränkungen, insbesondere bei der Verwendung von hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Benutzernamen ändern</value>
@@ -236,16 +236,16 @@
     <value>Konkurriere dich mit deinen Freunden und sieh dir an, wie du dich gegen sie behauptest!</value>
   </data>
   <data name="support.supporter_status.contribution_with_duration" xml:space="preserve">
-    <value>Danke für deine ständige Unterstützung! Bis jetzt hast du insgesamt {0} beigetragen, wodurch du das osu!supporter-Tag für {1} bekommen hast.</value>
+    <value>Danke für deine ständige Unterstützung! Bis jetzt hast du insgesamt {0} beigetragen, wodurch du das hotia!supporter-Tag für {1} bekommen hast.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Du hast noch kein osu!supporter-Tag :(</value>
+    <value>Du hast noch kein hotia!supporter-Tag :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Dein aktuelles osu!supporter-Tag endet am {0}!</value>
+    <value>Dein aktuelles hotia!supporter-Tag endet am {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Dein osu!supporter-Tag war bis {0} gültig.</value>
+    <value>Dein hotia!supporter-Tag war bis {0} gültig.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>Von deinem Gesamtbeitrag hast du Tags im Wert von {0} an {1} verschenkt, die {2} abdecken. Wie großzügig!</value>

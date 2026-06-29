@@ -80,7 +80,7 @@
     <value>チームを応援する</value>
   </data>
   <data name="show.entered" xml:space="preserve">
-    <value>このトーナメントへの参加登録は完了しています。&lt;br&gt;&lt;br&gt;これによって出場メンバーになれたわけでは &lt;b&gt;ない&lt;/b&gt;のでご注意ください。&lt;br&gt;&lt;br&gt;トーナメントの詳細は開催日に近づくとメールに送信されます。osu!アカウントに登録されているメールアドレスが有効なメールアドレスであるか確認して下さい！</value>
+    <value>このトーナメントへの参加登録は完了しています。&lt;br&gt;&lt;br&gt;これによって出場メンバーになれたわけでは &lt;b&gt;ない&lt;/b&gt;のでご注意ください。&lt;br&gt;&lt;br&gt;トーナメントの詳細は開催日に近づくとメールに送信されます。hotia!アカウントに登録されているメールアドレスが有効なメールアドレスであるか確認して下さい！</value>
   </data>
   <data name="show.info_page" xml:space="preserve">
     <value>詳細ページ</value>

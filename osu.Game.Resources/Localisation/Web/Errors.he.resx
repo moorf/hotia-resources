@@ -62,7 +62,7 @@
     <value>אינך יכול לבצע את הפעולה הזאת כאשר החשבון שלך במצב מוגבל.</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>אתה חייב להיות osu!supporter כדי להשתמש בתכונה זו.</value>
+    <value>אתה חייב להיות hotia!supporter כדי להשתמש בתכונה זו.</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>אירעה שגיאה לא ידועה.</value>

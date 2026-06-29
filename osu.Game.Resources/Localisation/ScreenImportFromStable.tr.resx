@@ -62,13 +62,13 @@
     <value>İçe aktar</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Bir önceki osu! sürümünden kurulumuz varsa, mevcut içeriğinizi taşımayı seçebilirsiniz. Bunun bir kopya oluşturacağını ve mevcut kurulumunuzu etkilemeyeceğini unutmayın.</value>
+    <value>Bir önceki hotia! sürümünden kurulumuz varsa, mevcut içeriğinizi taşımayı seçebilirsiniz. Bunun bir kopya oluşturacağını ve mevcut kurulumunuzu etkilemeyeceğini unutmayın.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>önceki osu! kurulumu</value>
+    <value>önceki hotia! kurulumu</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Bir önceki osu! kurulumunu bulmak için tıklayın</value>
+    <value>Bir önceki hotia! kurulumunu bulmak için tıklayın</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>İçeriği önceki sürümden içe aktarın</value>
@@ -92,9 +92,9 @@
     <value>Dosyaların hafif bağlanması henüz işletim sisteminde desteklenmemekte, bu nedenle içe aktarma sırasında tüm dosyaların bir kopyası oluşturulacak.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>İçe aktarma sırasında tüm dosyaların ikinci bir kopyası oluşturulacak. Bunu önlemek için, lütfen osu!lazer veri klasörünün önceki osu! kurulumunla aynı sürücüde olduğundan (ve dosya sisteminin NTFS olduğundan) emin ol.</value>
+    <value>İçe aktarma sırasında tüm dosyaların ikinci bir kopyası oluşturulacak. Bunu önlemek için, lütfen hotia!lazer veri klasörünün önceki hotia! kurulumunla aynı sürücüde olduğundan (ve dosya sisteminin NTFS olduğundan) emin ol.</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>İçe aktarma sırasında tüm dosyaların ikinci bir kopyası oluşturulacak. Bunu önlemek için, lütfen osu!lazer veri klasörünün önceki osu! kurulumunla aynı sürücüde olduğundan (ve dosya sisteminin sabit bağlantıları desteklediğinden) emin ol.</value>
+    <value>İçe aktarma sırasında tüm dosyaların ikinci bir kopyası oluşturulacak. Bunu önlemek için, lütfen hotia!lazer veri klasörünün önceki hotia! kurulumunla aynı sürücüde olduğundan (ve dosya sisteminin sabit bağlantıları desteklediğinden) emin ol.</value>
   </data>
 </root>

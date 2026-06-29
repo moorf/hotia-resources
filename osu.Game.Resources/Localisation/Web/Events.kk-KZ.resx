@@ -80,13 +80,13 @@
     <value>&lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;{1}&lt;/em&gt; ({2}) картасында бірінші орынды жоғалтты</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; тағы да osu!-ды қолдады - колдауыңызға рахмет!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; тағы да hotia!-ды қолдады - колдауыңызға рахмет!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; osu!-ды қолдады - қолдауыңызға рахмет!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; hotia!-ды қолдады - қолдауыңызға рахмет!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>&lt;strong&gt;{0}&lt;/strong&gt; osu!supporter сыйлық ретінде алды!</value>
+    <value>&lt;strong&gt;{0}&lt;/strong&gt; hotia!supporter сыйлық ретінде алды!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>&lt;strong&gt;{0}&lt;/strong&gt; пайдаланушы атын &lt;strong&gt;&lt;em&gt;{1}&lt;/em&gt;&lt;/strong&gt;-ға өзгертті!</value>

@@ -89,25 +89,25 @@
     <value>Si tienes alguna pregunta o comentario, no dudes en responder a este correo; ¡te responderé lo antes posible!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Es gracias a personas como tú que osu! es capaz de mantener el juego y la comunidad funcionando sin ningún tipo de anuncios ni pagos forzados.</value>
+    <value>Es gracias a personas como tú que hotia! es capaz de mantener el juego y la comunidad funcionando sin ningún tipo de anuncios ni pagos forzados.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>¡Tu contribución hace que osu! funcione durante unos {0}! Puede que no parezca mucho, pero todo suma :).</value>
+    <value>¡Tu contribución hace que hotia! funcione durante unos {0}! Puede que no parezca mucho, pero todo suma :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Gracias, osu! te &lt;3</value>
+    <value>Gracias, hotia! te &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>A continuación, se muestra una traducción realizada por la comunidad con fines informativos:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>La persona o personas que reciban el regalo tendrán acceso a osu!direct y a muchas otras ventajas.</value>
+    <value>La persona o personas que reciban el regalo tendrán acceso a hotia!direct y a muchas otras ventajas.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>A partir de ahora tendrás acceso a osu!direct y a muchas otras ventajas para los supporters durante {0}.</value>
+    <value>A partir de ahora tendrás acceso a hotia!direct y a muchas otras ventajas para los supporters durante {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Muchas gracias por tu {0} a osu!.</value>
+    <value>Muchas gracias por tu {0} a hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>apoyo</value>
@@ -119,7 +119,7 @@
     <value>Te informamos de que ha habido una nueva respuesta en «{0}» desde tu última visita.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nueva respuesta en el tema «{0}»</value>
+    <value>[hotia!] Nueva respuesta en el tema «{0}»</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Si ya no quieres recibir más notificaciones de este tema, puedes hacer clic en el enlace «Cancelar suscripción al tema» que se encuentra  en la parte inferior del tema de arriba, o desde la página de gestión de suscripciones al tema:</value>
@@ -131,10 +131,10 @@
     <value>Tu código de verificación es:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Tú o alguien que se ha hecho pasar por ti ha solicitado que se restablezca la contraseña de tu cuenta de osu!.</value>
+    <value>Tú o alguien que se ha hecho pasar por ti ha solicitado que se restablezca la contraseña de tu cuenta de hotia!.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>Recuperación de tu cuenta de osu!</value>
+    <value>Recuperación de tu cuenta de hotia!</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Hemos recibido tu pago y estamos preparando tu pedido para realizar el envío. El envío puede tardar unos días, dependiendo de la cantidad de pedidos. Puedes seguir el progreso de tu pedido aquí, incluidos los detalles de seguimiento cuando estén disponibles:</value>
@@ -149,10 +149,10 @@
     <value>Envío</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>¡Hemos recibido tu pedido de la osu!store!</value>
+    <value>¡Hemos recibido tu pedido de la hotia!store!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>¡Gracias por tu compra en la osu!store!</value>
+    <value>¡Gracias por tu compra en la hotia!store!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Total</value>
@@ -164,31 +164,31 @@
     <value>Pero es probable que ya sepas quién es ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Gracias a esa persona, tendrás acceso a osu!direct y a otros ventajas de osu!supporter durante {0}.</value>
+    <value>Gracias a esa persona, tendrás acceso a hotia!direct y a otros ventajas de hotia!supporter durante {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Puedes encontrar más detalles sobre estas ventajas aquí:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>¡Alguien te acaba de regalar una etiqueta de osu!supporter!</value>
+    <value>¡Alguien te acaba de regalar una etiqueta de hotia!supporter!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>La persona que te regaló esta etiqueta te dejó un mensaje:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>¡Te han regalado una etiqueta de osu!supporter!</value>
+    <value>¡Te han regalado una etiqueta de hotia!supporter!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Este es un correo de confirmación para informarte que tu dirección de correo electrónico de osu! ha sido cambiada a: «{0}».</value>
+    <value>Este es un correo de confirmación para informarte que tu dirección de correo electrónico de hotia! ha sido cambiada a: «{0}».</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Asegúrate de haber recibido este correo electrónico en tu nueva dirección para evitar perder el acceso a tu cuenta de osu! en el futuro.</value>
+    <value>Asegúrate de haber recibido este correo electrónico en tu nueva dirección para evitar perder el acceso a tu cuenta de hotia! en el futuro.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Por razones de seguridad, este correo electrónico se ha enviado tanto a tu nueva dirección de correo electrónico como a la antigua.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>Confirmación del cambio de correo electrónico de osu!</value>
+    <value>Confirmación del cambio de correo electrónico de hotia!</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Se sospecha que tu cuenta ha sido comprometida, tiene actividad sospechosa reciente o una contraseña MUY poco segura. Por este motivo, te pedimos que establezcas una nueva contraseña. Asegúrate de elegir una contraseña SEGURA.</value>
@@ -200,7 +200,7 @@
     <value>Motivo:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>Reactivación de tu cuenta de osu! requerida</value>
+    <value>Reactivación de tu cuenta de hotia! requerida</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Te informamos de que se han producido nuevas actualizaciones en los elementos que estás viendo.</value>
@@ -209,13 +209,13 @@
     <value>Cambiar las preferencias de notificación por correo electrónico:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nuevas notificaciones de osu!</value>
+    <value>Nuevas notificaciones de hotia!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Esto es solo una confirmación de que tu contraseña de osu! ha sido cambiada.</value>
+    <value>Esto es solo una confirmación de que tu contraseña de hotia! ha sido cambiada.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>Confirmación del cambio de contraseña de osu!</value>
+    <value>Confirmación del cambio de contraseña de hotia!</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Tu código de verificación es:</value>
@@ -230,7 +230,7 @@
     <value>Si no has solicitado esto, RESPONDE INMEDIATAMENTE, ya que tu cuenta puede estar en peligro.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>Verificación de la cuenta de osu!</value>
+    <value>Verificación de la cuenta de hotia!</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Una acción realizada en tu cuenta desde {0} requiere verificación.</value>

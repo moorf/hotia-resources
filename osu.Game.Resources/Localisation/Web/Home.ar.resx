@@ -309,10 +309,10 @@
     <value>إعادة تعيين {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>حَمِّل osu!</value>
+    <value>حَمِّل hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>ادعم osu!</value>
+    <value>ادعم hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
     <value>متجر!osu</value>

@@ -266,7 +266,7 @@
     <value>ניתן לערוך את דף המשתמש שלכם בלבד.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>התג osu!supporter נדרש.</value>
+    <value>התג hotia!supporter נדרש.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>כתבות האימייל נעולה</value>

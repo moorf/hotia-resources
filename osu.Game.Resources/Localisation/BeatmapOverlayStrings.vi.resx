@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Bằng cách tắt bộ lọc "Nghệ sĩ tiêu biểu", tất cả nội dung do người dùng tải lên sẽ được hiển thị.
 
-Nó sẽ bao gồm những nội dung có thể không được cấp phép đúng cách cho osu!. Bạn sẽ tự chịu rủi ro khi duyệt.</value>
+Nó sẽ bao gồm những nội dung có thể không được cấp phép đúng cách cho hotia!. Bạn sẽ tự chịu rủi ro khi duyệt.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Tôi hiểu</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Nghệ Sĩ Nổi Bật là những nghệ sĩ âm nhạc đã hợp tác với osu! để cung cấp tuyển chọn các tác phẩm của họ cho phép sử dụng trong các beatmap. Đối với một số phiên bản phát hành của osu!, chúng tôi chỉ giới thiệu các beatmap của các nghệ sĩ nổi bật nhằm hỗ trợ tốt hơn cho hệ sinh thái xung quanh.</value>
+    <value>Nghệ Sĩ Nổi Bật là những nghệ sĩ âm nhạc đã hợp tác với hotia! để cung cấp tuyển chọn các tác phẩm của họ cho phép sử dụng trong các beatmap. Đối với một số phiên bản phát hành của hotia!, chúng tôi chỉ giới thiệu các beatmap của các nghệ sĩ nổi bật nhằm hỗ trợ tốt hơn cho hệ sinh thái xung quanh.</value>
   </data>
 </root>

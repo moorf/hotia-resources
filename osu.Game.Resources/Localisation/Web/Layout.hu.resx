@@ -62,7 +62,7 @@
     <value>Következő zene automatikus lejátszása</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritmus csak egy *kattintásra*! Quendan/EBA, Taiko és más eredeti játékmódok, emellett egy teljes pálya szerkesztő.</value>
+    <value>hotia! - Ritmus csak egy *kattintásra*! Quendan/EBA, Taiko és más eredeti játékmódok, emellett egy teljes pálya szerkesztő.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Beatmap lista</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>osu! letöltése</value>
+    <value>hotia! letöltése</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Segítség &amp; Közösség</value>

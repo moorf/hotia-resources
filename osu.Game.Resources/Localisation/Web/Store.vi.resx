@@ -107,7 +107,7 @@
     <value>Hiện tại chúng tôi đang có một lượng đơn hàng rất lớn! Bạn vẫn có thể thoải mái đặt hàng, nhưng vui lòng đợi **thêm 1-2 tuần** trong khi chúng tôi bắt kịp với những đơn hàng hiện tại.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Ẩn tất cả thẻ osu!supporter trong đơn hàng này khỏi hoạt động của tôi</value>
+    <value>Ẩn tất cả thẻ hotia!supporter trong đơn hàng này khỏi hoạt động của tôi</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Giỏ hàng của bạn đã hết hạn và đã được nạp lại, vui lòng thử lại sau.</value>
@@ -149,7 +149,7 @@
     <value>Thanh toán eCheck đã bị PayPal từ chối.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>thẻ osu!supporter ở trong đơn hàng này sẽ không được hiện lên ở trong hoạt động gần đây của bạn.</value>
+    <value>thẻ hotia!supporter ở trong đơn hàng này sẽ không được hiện lên ở trong hoạt động gần đây của bạn.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Đã gửi qua:</value>
@@ -170,7 +170,7 @@
     <value>Nếu bạn không yêu cầu hủy, vui lòng liên hệ {0} trích dẫn số đơn hàng của bạn (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>hỗ trợ osu!store</value>
+    <value>hỗ trợ hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Đơn hàng của bạn đã được giao! Chúng tôi hy vọng bạn thích nó!</value>
@@ -179,7 +179,7 @@
     <value>Nếu bạn có bất kỳ vấn đề gì khi mua hàng, vui lòng liên hệ {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>hỗ trợ osu!store</value>
+    <value>hỗ trợ hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Đơn hàng của bạn đang được chuẩn bị!</value>
@@ -359,7 +359,7 @@
     <value>thêm một lời nhắn vào món quà của bạn!( lên tới {0} chữ)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Bạn cần phải {0} để nhận một osu!supporter tag!</value>
+    <value>Bạn cần phải {0} để nhận một hotia!supporter tag!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>đăng nhập</value>

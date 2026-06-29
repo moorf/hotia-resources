@@ -308,13 +308,13 @@
     <value>{0} tarihinde sıfırlanır</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu!'yu indir</value>
+    <value>hotia!'yu indir</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu!'yu destekle</value>
+    <value>hotia!'yu destekle</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Öne Çıkan Canlı Yayın</value>

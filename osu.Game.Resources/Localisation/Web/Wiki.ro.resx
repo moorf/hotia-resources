@@ -74,7 +74,7 @@
     <value>Pagina solicitată nu a putut fi găsită pentru limba selectată momentan.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Această pagină nu îndeplinește standardele wiki-ului osu! și trebuie curățată sau rescrisă. Daca puteți ajuta, vă rugăm să luați în considerare actualizarea articolului!</value>
+    <value>Această pagină nu îndeplinește standardele wiki-ului hotia! și trebuie curățată sau rescrisă. Daca puteți ajuta, vă rugăm să luați în considerare actualizarea articolului!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Căută pagini existente pentru {0}.</value>

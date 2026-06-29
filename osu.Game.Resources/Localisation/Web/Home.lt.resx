@@ -293,13 +293,13 @@
     <value>pasikeis {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Atsisiųsti osu!</value>
+    <value>Atsisiųsti hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Paremti osu!</value>
+    <value>Paremti hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!parduotuvė</value>
+    <value>hotia!parduotuvė</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Atidaryti administracinę konsole</value>

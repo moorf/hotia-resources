@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu! 新闻</value>
+    <value>hotia! 新闻</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>下一条新闻</value>
@@ -100,7 +100,7 @@
 </value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>osu! 周边</value>
+    <value>hotia! 周边</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>其他公告</value>
@@ -121,7 +121,7 @@
     <value>排名系统更新</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>osu! 世界杯</value>
+    <value>hotia! 世界杯</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>作者：{0}</value>

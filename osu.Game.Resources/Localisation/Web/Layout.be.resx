@@ -62,7 +62,7 @@
     <value>Прайграйце наступны трэк аўтаматычна</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Рытм у адным *націсканні* ад вас! Гульня з Ouendan/EBA, Taiko і арыгінальнымі гульнявымі рэжымамі, а таксама з поўным вартасным рэдактарам бітмап.</value>
+    <value>hotia! - Рытм у адным *націсканні* ад вас! Гульня з Ouendan/EBA, Taiko і арыгінальнымі гульнявымі рэжымамі, а таксама з поўным вартасным рэдактарам бітмап.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>калекцыя бітмапаў</value>
@@ -191,7 +191,7 @@
     <value>Спіс бітмап</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Спампаваць osu!</value>
+    <value>Спампаваць hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Дапамога і супольнасць</value>
@@ -311,7 +311,7 @@
     <value>Спампаваць</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Скачай osu!, каб зарэгістраваць акаўнт!</value>
+    <value>Скачай hotia!, каб зарэгістраваць акаўнт!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Не маеш акаўнту?</value>

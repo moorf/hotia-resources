@@ -89,25 +89,25 @@
     <value>Pokud máš jakékoliv dotazy nebo zpětnou vazbu, neváhej se odpovědět na tento e-mail; ozvu se ti zpátky co nejdříve co můžu!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Je to díky lidem jako jsti ty, proč osu! může běžet hladce bez jakýkoliv reklam nebo nucených plateb.</value>
+    <value>Je to díky lidem jako jsti ty, proč hotia! může běžet hladce bez jakýkoliv reklam nebo nucených plateb.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Tvoje podpora udržuje osu! po dobu {0}! Možná se to nezdá jako mnoho, ale to všechno se sčítá :).</value>
+    <value>Tvoje podpora udržuje hotia! po dobu {0}! Možná se to nezdá jako mnoho, ale to všechno se sčítá :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Díky, osu! tě &lt;3luje</value>
+    <value>Díky, hotia! tě &lt;3luje</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Překlad poskytovaný komunitou pro informační účely takto:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Tvoji obdarovaní budou mít nyní přístup k osu!direct a mnoho dalších podpůrných výhod.</value>
+    <value>Tvoji obdarovaní budou mít nyní přístup k hotia!direct a mnoho dalších podpůrných výhod.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Nyní máte přístup k osu!direct a mnoha dalším výhodám supporter tagu, po dobu {0}.</value>
+    <value>Nyní máte přístup k hotia!direct a mnoha dalším výhodám supporter tagu, po dobu {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Mnohokrát děkujeme za {0} vůči osu!.</value>
+    <value>Mnohokrát děkujeme za {0} vůči hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>podpora</value>
@@ -119,7 +119,7 @@
     <value>Jen vám chceme dát vědět, že od vaší poslední návštěvy byla nová odpověď v "{0}".</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nová odpověd téma "{0}"</value>
+    <value>[hotia!] Nová odpověd téma "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Pokud již nechcete sledovat toto téma, můžete kliknout na odkaz "Odhlásit téma" nalezený v dolní části tématu výše, nebo ze stránky pro správu předplatného tématu:</value>
@@ -131,10 +131,10 @@
     <value>Tvůj ověřovací kód je:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Buď Vy, nebo někdo předstírající, že jste to Vy požádal o obnovení hesla na vašem osu! účtu.</value>
+    <value>Buď Vy, nebo někdo předstírající, že jste to Vy požádal o obnovení hesla na vašem hotia! účtu.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>obnovení osu! účtu</value>
+    <value>obnovení hotia! účtu</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Obdrželi jsme Vaši platbu a připravujeme Vaši objednávku k odeslání. Může nám to trvat několik dní, než jí pošleme v závislosti na množství objednávek. Zde můžete sledovat průběh objednávky, včetně sledovacích údajů, pokud jsou k dispozici:</value>
@@ -149,10 +149,10 @@
     <value>Doručení</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Obdrželi jsme tvou osu!store objednávku!</value>
+    <value>Obdrželi jsme tvou hotia!store objednávku!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Děkujeme za vaši osu!store objednávku!</value>
+    <value>Děkujeme za vaši hotia!store objednávku!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Celkem</value>
@@ -164,31 +164,31 @@
     <value>Ale už asi víte, kdo to je ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Díky nim máte přístup k osu!direct a dalším osu!supporter výhod na další {0}.</value>
+    <value>Díky nim máte přístup k hotia!direct a dalším hotia!supporter výhod na další {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Více informací o těchto funkcích naleznete zde:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Někdo vám právě daroval osu!supporter tag!</value>
+    <value>Někdo vám právě daroval hotia!supporter tag!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>K tomuto dárku byla napsaná tato zpráva:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Dostal si status osu!podporovatele jako dárek!</value>
+    <value>Dostal si status hotia!podporovatele jako dárek!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Toto je potvrzovací e-mail, který vás informuje, že vaše osu! e-mailová adresa byla změněna na: "{0}".</value>
+    <value>Toto je potvrzovací e-mail, který vás informuje, že vaše hotia! e-mailová adresa byla změněna na: "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Ujistěte se, že jste obdrželi tento e-mail na svou novou adresu, abyste v budoucnu zabránili ztrátě přístupu k vašemu osu! účtu.</value>
+    <value>Ujistěte se, že jste obdrželi tento e-mail na svou novou adresu, abyste v budoucnu zabránili ztrátě přístupu k vašemu hotia! účtu.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Z důvodu bezpečnosti byl tento email odeslán na obě emailové adresy, jak na starou, tak i na novou.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>potvrzení změny osu! e-mailu</value>
+    <value>potvrzení změny hotia! e-mailu</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Tvůj účet je v podezření, že je ohrožen, má nedávnou podezřelou aktivitu nebo VELMI slabé heslo. V důsledku vyžadujeme, abyste si nastavili nové heslo. Ujistěte se prosím, že jste si vybrali bezpečné heslo.</value>
@@ -200,7 +200,7 @@
     <value>Důvod:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>osu! Vyžadována reaktivace účtu</value>
+    <value>hotia! Vyžadována reaktivace účtu</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Jen vám chceme dát vědět, že se objevily nové aktualizace položek, které sledujete.</value>
@@ -209,13 +209,13 @@
     <value>Změnit předvolby e-mailových oznámení:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nová osu! oznámení</value>
+    <value>Nová hotia! oznámení</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Toto je pouze potvrzení toho, že od Vašeho osu! účtu bylo změněno heslo.</value>
+    <value>Toto je pouze potvrzení toho, že od Vašeho hotia! účtu bylo změněno heslo.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>potvrzení změny osu! hesla</value>
+    <value>potvrzení změny hotia! hesla</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Tvůj ověřovací kód je:</value>
@@ -230,7 +230,7 @@
     <value>Pokud jste o toto nepožádali, prosím IHNED ODPOVĚZTE, protože může být Váš účet v ohrožení.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>ověření osu! účtu</value>
+    <value>ověření hotia! účtu</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Akce provedená na vašem účtu z {0} vyžaduje ověření.</value>

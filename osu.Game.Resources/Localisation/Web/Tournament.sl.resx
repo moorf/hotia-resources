@@ -80,7 +80,7 @@
     <value>Podpri svojo ekipo</value>
   </data>
   <data name="show.entered" xml:space="preserve">
-    <value>Registracija na turnir je bila uspešna.&lt;br&gt;&lt;br&gt;Prosimo upoštevaj, da to &lt;b&gt;ne&lt;/b&gt; pomeni, da si bil dodeljen ekipi.&lt;br&gt;&lt;br&gt;Nadaljna navodila bodo poslana na tvoj e-poštni naslov, ko bo dan turnirja blizu, zato te prosimo, da preveriš svoj e-poštni naslov osu! računa, če je veljaven!</value>
+    <value>Registracija na turnir je bila uspešna.&lt;br&gt;&lt;br&gt;Prosimo upoštevaj, da to &lt;b&gt;ne&lt;/b&gt; pomeni, da si bil dodeljen ekipi.&lt;br&gt;&lt;br&gt;Nadaljna navodila bodo poslana na tvoj e-poštni naslov, ko bo dan turnirja blizu, zato te prosimo, da preveriš svoj e-poštni naslov hotia! računa, če je veljaven!</value>
   </data>
   <data name="show.info_page" xml:space="preserve">
     <value>Informacije</value>

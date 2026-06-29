@@ -221,7 +221,7 @@
     <value>са видео клипом ако је доступан</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>отвори у osu!direct</value>
+    <value>отвори у hotia!direct</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>без видео клипа</value>

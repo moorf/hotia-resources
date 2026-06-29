@@ -83,7 +83,7 @@
     <value>Voci dell'interfaccia</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>Tema musicale di osu!</value>
+    <value>Tema musicale di hotia!</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Sequenza introduttiva</value>
@@ -98,7 +98,7 @@
     <value>Sfondi stagionali</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Le modifiche a questa impostazione verranno applicate solo con un tag osu!supporter attivo.</value>
+    <value>Le modifiche a questa impostazione verranno applicate solo con un tag hotia!supporter attivo.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Selezione Brano</value>

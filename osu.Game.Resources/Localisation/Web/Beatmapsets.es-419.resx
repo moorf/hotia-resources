@@ -68,7 +68,7 @@
     <value>Haz clic aquí para obtener más información.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Algunos de los elementos de este mapa han sido eliminados por no ser adecuados para su uso en osu!.</value>
+    <value>Algunos de los elementos de este mapa han sido eliminados por no ser adecuados para su uso en hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Mapa eliminado</value>
@@ -101,7 +101,7 @@
     <value>descargar sin video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>abrir en osu!direct</value>
+    <value>abrir en hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Los nominadores provisionales no pueden nominar varios modos de juego.</value>
@@ -326,7 +326,7 @@
     <value>¡Haz clic &lt;a href="{0}"&gt;aquí&lt;/a&gt; para ver todas las ventajas que ofrece!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>¡Necesitas ser osu!supporter para acceder a las clasificaciones nacionales y entre amigos!</value>
+    <value>¡Necesitas ser hotia!supporter para acceder a las clasificaciones nacionales y entre amigos!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Clasificación por equipos</value>

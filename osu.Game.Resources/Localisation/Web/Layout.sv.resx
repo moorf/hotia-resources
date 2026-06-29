@@ -62,7 +62,7 @@
     <value>Spela nästa låt automatiskt</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytmen är bara ett *klick* bort!  Med Ouendan/EBA, Taiko och originella spellägen, dessutom med en fullt funktionell nivåredigerare.</value>
+    <value>hotia! - Rytmen är bara ett *klick* bort!  Med Ouendan/EBA, Taiko och originella spellägen, dessutom med en fullt funktionell nivåredigerare.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -188,7 +188,7 @@
     <value>Beatmap-listningar</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Ladda ner osu!</value>
+    <value>Ladda ner hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Hjälp &amp; gemenskap</value>
@@ -308,7 +308,7 @@
     <value>Ladda ner</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Ladda ner osu! för att skapa ditt eget konto!</value>
+    <value>Ladda ner hotia! för att skapa ditt eget konto!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Har du inte ett konto?</value>

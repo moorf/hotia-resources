@@ -68,7 +68,7 @@
     <value>تحقق هنا للمزيد من المعلومات.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>تمت إزالة بعض المحتويات من هذه الخريطة بعد معرفة آنها غير ملائمة لـosu!.</value>
+    <value>تمت إزالة بعض المحتويات من هذه الخريطة بعد معرفة آنها غير ملائمة لـhotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>خريطة محذوفة</value>
@@ -101,7 +101,7 @@
     <value>تنزيل بدون فيديو</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>فتح في osu!direct</value>
+    <value>فتح في hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>لا يمكن للمرشِّح تحت فترة التجربة ترشيح عدة قواعد.</value>
@@ -329,7 +329,7 @@
     <value>اضغط &lt;a href="{0}"&gt;هنا&lt;/a&gt; لمشاهدة كل الميزات الرائعة التي تحصل عليها!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>تحتاج ان تكون osu!supporter للوصول الى ترتيب الدولة والأصدقاء!</value>
+    <value>تحتاج ان تكون hotia!supporter للوصول الى ترتيب الدولة والأصدقاء!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>ترتيب الفريق</value>

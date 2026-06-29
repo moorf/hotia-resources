@@ -503,7 +503,7 @@
     <value>Bu sayfada gösterilen profildeki en iyi derece sayıları ve sonuçları, beatmap’lerdeki en yüksek “standartlaştırılmış” (yani “lazer”) skorlarına dayanır.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>{0} ile filtrelemek için aktif bir osu!supporter etiketi gereklidir</value>
+    <value>{0} ile filtrelemek için aktif bir hotia!supporter etiketi gereklidir</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>sonuç bulunamadı</value>
@@ -572,7 +572,7 @@
     <value>{0} ile filtrelemek için aktif bir {1} gerekli</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter etiketi</value>
+    <value>hotia!supporter etiketi</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>kullanıcı etiketlerine göz at</value>

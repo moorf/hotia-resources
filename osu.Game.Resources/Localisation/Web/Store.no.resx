@@ -107,7 +107,7 @@
     <value>Vi er for tiden overveldet av bestillinger! Du er velkommen til å bestille, men vennligst ta hensyn til at bestillingen kan ta **ytterlige 1-2 uke lenger** mens vi fullfører de eksisterende bestillingene.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Skjul alle osu!supporter tags i denne bestillingen fra min aktivitet</value>
+    <value>Skjul alle hotia!supporter tags i denne bestillingen fra min aktivitet</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Det ser ut til at handlevognen din er utdatert og har blitt oppdatert, prøv igjen.</value>
@@ -146,7 +146,7 @@
     <value>Ettersom betalingen din var en eCheck, vennligst tillatt opp til 10 ekstra dager for at betalingen skal kunne komme gjennom PayPal!</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter tag i denne bestillingen vises ikke i dine nylige aktiviteter.</value>
+    <value>hotia!supporter tag i denne bestillingen vises ikke i dine nylige aktiviteter.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Sendt Via:</value>
@@ -167,7 +167,7 @@
     <value>Hvis du ikke forespurte en kansellering, vennligst kontakt {0} med ordrenummeret ditt (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store støtte</value>
+    <value>hotia!store støtte</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Bestillingen din har blitt levert! Vi håper du liker den!</value>
@@ -176,7 +176,7 @@
     <value>Hvis du har problemer med kjøpet, vennligst kontakt {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store støtte</value>
+    <value>hotia!store støtte</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Bestillingen din behandles for øyeblikket!</value>
@@ -353,7 +353,7 @@
     <value>legg inn en valgfri melding til din gave! (opptil {0} tegn)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Du må være {0} for å få tak i en osu!supporter tag!</value>
+    <value>Du må være {0} for å få tak i en hotia!supporter tag!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>logget inn</value>

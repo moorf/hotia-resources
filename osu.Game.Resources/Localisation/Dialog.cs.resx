@@ -71,7 +71,7 @@
     <value>Ne! Zruš operaci</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Nepodařilo se automaticky najít instalaci osu!stable.</value>
+    <value>Nepodařilo se automaticky najít instalaci hotia!stable.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Existující instalaci se nepodařilo najít. Pokud víš, kde je, tak nám ji můžeš pomoct najít.</value>
@@ -80,7 +80,7 @@
     <value>Jasně! Vím, kde se nachází!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Vlastně nemám nainstalované osu!stable.</value>
+    <value>Vlastně nemám nainstalované hotia!stable.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Všechna lokální skóre na {0}</value>
@@ -92,7 +92,7 @@
     <value>Opravdu chceš zrušit tento zápas?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Opravdu chcete ukončit osu!?</value>
+    <value>Opravdu chcete ukončit hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Poslední šance vrátit se zpět</value>

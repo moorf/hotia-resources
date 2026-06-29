@@ -104,7 +104,7 @@
     <value>Дәл қазір біздегі тапсырыстар тым көп! Сіз тапсырыс бере аласыз, әрине, алайда біз жиналған тапсырыстармен әуре болып жүргенде жеткізу **1-2 аптаға кешігіп** келе алатындығын ескеріңіз.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Осы тапсырыстағы барлық osu!supporter тегтерін менің әрекеттерімнен жасыру </value>
+    <value>Осы тапсырыстағы барлық hotia!supporter тегтерін менің әрекеттерімнен жасыру </value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Сіздің себетіңіз ескірген немесе қайта жүктелген көрінеді. Өтініш, қайта қайталап көріңіз.</value>
@@ -140,7 +140,7 @@
     <value>Төлеміңіз eCheck арқылы жүргізілгендіктен төлемнің Paypal арқылы расталуы 10 күнге дейін созылуы мүмкін!</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>Осы тапсырыстағы osu!supporter тегтері сіздің соңғы әрекеттеріңізде көрсетілмеген.</value>
+    <value>Осы тапсырыстағы hotia!supporter тегтері сіздің соңғы әрекеттеріңізде көрсетілмеген.</value>
   </data>
   <data name="invoice.title" xml:space="preserve">
     <value>Чек</value>

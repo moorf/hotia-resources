@@ -89,13 +89,13 @@
     <value>Карыстальнік &lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt; страціў лідэрства на бітмапе &lt;em&gt;{1}&lt;/em&gt; ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>Карыстальнік &lt;strong&gt;{0}&lt;/strong&gt; зноў набыў тэг osu!supporter. Дзякуем за вашу падтрымку!</value>
+    <value>Карыстальнік &lt;strong&gt;{0}&lt;/strong&gt; зноў набыў тэг hotia!supporter. Дзякуем за вашу падтрымку!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>Карыстальнік &lt;strong&gt;{0}&lt;/strong&gt; набыў тэг osu!supporter. Дзякуем за вашу падтрымку!</value>
+    <value>Карыстальнік &lt;strong&gt;{0}&lt;/strong&gt; набыў тэг hotia!supporter. Дзякуем за вашу падтрымку!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>Карыстальнік &lt;strong&gt;{0}&lt;/strong&gt; атрымаў тэг osu!supporter як падарунак!</value>
+    <value>Карыстальнік &lt;strong&gt;{0}&lt;/strong&gt; атрымаў тэг hotia!supporter як падарунак!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>Карыстальнік &lt;strong&gt;{0}&lt;/strong&gt; змяніў сваё імя карыстальніка на &lt;strong&gt;&lt;em&gt;{1}&lt;/strong&gt;&lt;/em&gt;!</value>

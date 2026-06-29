@@ -62,7 +62,7 @@
     <value>Играть следующий трек автоматически</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ритм всего лишь в *клике* от тебя! С Ouendan/EBA, Taiko и оригинальными режимами игры, а также многофункциональным редактором карт.</value>
+    <value>hotia! - Ритм всего лишь в *клике* от тебя! С Ouendan/EBA, Taiko и оригинальными режимами игры, а также многофункциональным редактором карт.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>карта</value>
@@ -191,7 +191,7 @@
     <value>Библиотека карт</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Скачать osu!</value>
+    <value>Скачать hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Помощь и сообщество</value>
@@ -311,7 +311,7 @@
     <value>Скачать</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Скачайте osu!, чтобы его создать!</value>
+    <value>Скачайте hotia!, чтобы его создать!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Нет аккаунта?</value>

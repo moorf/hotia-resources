@@ -62,13 +62,13 @@
     <value>A obter mapas</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Os mapas são o que chamamos aos conjuntos de níveis jogáveis. O osu! não inclui nenhum mapa pré-instalado. Este passo ajudá-lo-á a começar a sua coleção de mapas.</value>
+    <value>Os mapas são o que chamamos aos conjuntos de níveis jogáveis. O hotia! não inclui nenhum mapa pré-instalado. Este passo ajudá-lo-á a começar a sua coleção de mapas.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Se é um novo jogador, recomendamos que jogue o tutorial para se familiarizar com a jogabilidade.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Obtenha o tutorial do osu!</value>
+    <value>Obtenha o tutorial do hotia!</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Para começar, dispomos de alguns mapas recomendados.</value>

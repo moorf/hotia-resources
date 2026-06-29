@@ -68,7 +68,7 @@
     <value>Nhấp vào đây để biết thêm thông tin.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Một số nội dung có trong map này đã bị xóa sau khi bị đánh giá là không phù hợp để sử dụng trong osu!.</value>
+    <value>Một số nội dung có trong map này đã bị xóa sau khi bị đánh giá là không phù hợp để sử dụng trong hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap đã bị xóa</value>
@@ -101,7 +101,7 @@
     <value>tải xuống không video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>mở trong osu!direct</value>
+    <value>mở trong hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Những người đề cử tập sự không thể đề cử nhiều ruleset cùng lúc.</value>

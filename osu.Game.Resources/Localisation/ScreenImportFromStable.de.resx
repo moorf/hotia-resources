@@ -62,13 +62,13 @@
     <value>Import</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Wenn du eine vorherige osu!-Version installiert hast, kannst du wählen, ob du bereits bestehende Inhalte migrieren möchtest. Beachte, dass dies die Dateien deiner existierenden Installation nicht beeinflusst.</value>
+    <value>Wenn du eine vorherige hotia!-Version installiert hast, kannst du wählen, ob du bereits bestehende Inhalte migrieren möchtest. Beachte, dass dies die Dateien deiner existierenden Installation nicht beeinflusst.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>vorherige osu!-Installation</value>
+    <value>vorherige hotia!-Installation</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klicke, um eine vorherige osu!-Installation zu finden</value>
+    <value>Klicke, um eine vorherige hotia!-Installation zu finden</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Importiere Inhalte aus der vorherigen Version</value>
@@ -92,9 +92,9 @@
     <value>Die effiziente Verlinkung von Dateien wird von deinem Betriebsystem noch nicht unterstützt, sodass während des Imports eine Kopie aller Dateien angelegt wird.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Während des Imports wird eine zweite Kopie aller Dateien erstellt. Stelle bitte sicher, dass sich der Datenordner von lazer auf demselben Laufwerk befindet wie die vorherige osu!-Installation (und dass das Dateisystem NTFS ist).</value>
+    <value>Während des Imports wird eine zweite Kopie aller Dateien erstellt. Stelle bitte sicher, dass sich der Datenordner von lazer auf demselben Laufwerk befindet wie die vorherige hotia!-Installation (und dass das Dateisystem NTFS ist).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Während des Imports wird eine zweite Kopie aller Dateien erstellt. Stelle bitte sicher, dass sich der Datenordner von lazer auf demselben Laufwerk befindet wie die vorherige osu!-Installation (und dass das Dateisystem harte Links unterstützt).</value>
+    <value>Während des Imports wird eine zweite Kopie aller Dateien erstellt. Stelle bitte sicher, dass sich der Datenordner von lazer auf demselben Laufwerk befindet wie die vorherige hotia!-Installation (und dass das Dateisystem harte Links unterstützt).</value>
   </data>
 </root>

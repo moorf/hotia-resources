@@ -62,7 +62,7 @@
     <value>Spill neste spor automatisk</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytmen er bare et *klikk* unna! Med Ouendan/EBA, Taiko og originale spillmoduser, samt en fullt funskjonell nivåredigerer.</value>
+    <value>hotia! - Rytmen er bare et *klikk* unna! Med Ouendan/EBA, Taiko og originale spillmoduser, samt en fullt funskjonell nivåredigerer.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapsett</value>
@@ -185,7 +185,7 @@
     <value>Beatmapliste</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Last ned osu!</value>
+    <value>Last ned hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Hjelp &amp; Samfunn</value>

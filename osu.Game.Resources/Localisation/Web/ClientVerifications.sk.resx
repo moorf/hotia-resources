@@ -65,9 +65,9 @@
     <value>Už môžeš túto kartu/okno zatvoriť</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>Verifikácia osu! clienta bola dokončená</value>
+    <value>Verifikácia hotia! clienta bola dokončená</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>Verifikácia osu! clienta</value>
+    <value>Verifikácia hotia! clienta</value>
   </data>
 </root>

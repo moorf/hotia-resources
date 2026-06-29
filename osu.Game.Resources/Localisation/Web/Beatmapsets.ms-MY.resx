@@ -68,7 +68,7 @@
     <value>Semak sini untuk maklumat lanjut.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Beberapa aset dalam peta ini telah dipadam setelah dinilai tidak sesuai digunakan dalam osu!.</value>
+    <value>Beberapa aset dalam peta ini telah dipadam setelah dinilai tidak sesuai digunakan dalam hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Peta rentak yang dipadam</value>
@@ -101,7 +101,7 @@
     <value>muat turun tanpa video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>buka di osu!direct</value>
+    <value>buka di hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Pencalon percubaan tidak boleh mencalonkan lebih daripada satu cara main.</value>
@@ -326,7 +326,7 @@
     <value>Klik di &lt;a href="{0}"&gt;sini&lt;/a&gt; untuk lihat semua ciri menarik yang anda dapat!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Anda perlu menjadi osu!supporter untuk mencapai kedudukan penyesuai tertentu, kebangsaan atau kawan!</value>
+    <value>Anda perlu menjadi hotia!supporter untuk mencapai kedudukan penyesuai tertentu, kebangsaan atau kawan!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Pangkat Pasukan</value>

@@ -218,7 +218,7 @@
     <value>Adgangskode</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Har du ikke en osu! konto? Opret en ny én!</value>
+    <value>Har du ikke en hotia! konto? Opret en ny én!</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Husk denne computer</value>
@@ -233,7 +233,7 @@
     <value>Adgang til betaversionen er i øjeblikket begrænset til priveligerede brugere.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supportere ville kunne komme ind snart)</value>
+    <value>(hotia!supportere ville kunne komme ind snart)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktive</value>
@@ -302,7 +302,7 @@
     <value>Anmeld venligst ophavsretskrænkelser igennem et DMCA-claim til {0} jævnfør {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu! ophavsretspolitik</value>
+    <value>hotia! ophavsretspolitik</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Dette gælder i tilfælde hvor lydspor, visuelt indhold eller beapmap level indhold anvendes uden tilladelse.</value>
@@ -353,10 +353,10 @@
     <value>Var her fra starten</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Blev medlem {0}</value>
@@ -464,7 +464,7 @@
     <value>Upload er kun tilgængelig for {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>standardspiltilstand</value>
@@ -482,7 +482,7 @@
     <value>Tilpassede farvetemaer er kun tilgængelige for {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ingen</value>
@@ -578,7 +578,7 @@
     <value>Seneste Kudosu Historik</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Total Kudosu Optjent</value>
@@ -587,7 +587,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Denne bruger har ikke modtaget nogen kudosu!</value>
+    <value>Denne bruger har ikke modtaget nogen kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Modtog {0} fra kudosu benægtelsesophævelse af moddingopslaget {1}</value>
@@ -800,7 +800,7 @@
     <value>Du skal være en {0} for at bruge denne funktion.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Skrevet {0}</value>
@@ -899,7 +899,7 @@
     <value>registrér dig gennem spilklienten i stedet!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>fuldfør venligst registrationen via osu!s website</value>
+    <value>fuldfør venligst registrationen via hotia!s website</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Bruger Oprettet</value>

@@ -503,7 +503,7 @@
     <value>Profile top rank counts and results shown on this page are based on your highest "standardised" (aka "lazer") scores on beatmaps.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtering by {0} requires an active osu!supporter tag</value>
+    <value>Filtering by {0} requires an active hotia!supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>no results</value>
@@ -572,7 +572,7 @@
     <value>Filtering by {0} requires an active {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>browse user tags</value>
@@ -602,16 +602,16 @@
     <value>Any</value>
   </data>
   <data name="mode.osu" xml:space="preserve">
-    <value>osu!</value>
+    <value>hotia!</value>
   </data>
   <data name="mode.taiko" xml:space="preserve">
-    <value>osu!taiko</value>
+    <value>hotia!taiko</value>
   </data>
   <data name="mode.fruits" xml:space="preserve">
-    <value>osu!catch</value>
+    <value>hotia!catch</value>
   </data>
   <data name="mode.mania" xml:space="preserve">
-    <value>osu!mania</value>
+    <value>hotia!mania</value>
   </data>
   <data name="mode.undefined" xml:space="preserve">
     <value>not set</value>

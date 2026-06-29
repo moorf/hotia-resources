@@ -62,13 +62,13 @@
     <value>Ottenere Beatmap</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Con "beatmap" ci riferiamo ad un insieme di livelli giocabili. osu! non include alcuna beatmap di base. Questo passaggio ti aiuterà a cominciare la tua collezione di beatmap.</value>
+    <value>Con "beatmap" ci riferiamo ad un insieme di livelli giocabili. hotia! non include alcuna beatmap di base. Questo passaggio ti aiuterà a cominciare la tua collezione di beatmap.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Se sei un nuovo giocatore, ti consigliamo di giocare il tutorial per familiarizzare con il gioco.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Ottieni il tutorial di osu!</value>
+    <value>Ottieni il tutorial di hotia!</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Per iniziare, abbiamo alcune beatmap consigliate.</value>

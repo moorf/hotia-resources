@@ -149,7 +149,7 @@
     <value>การชำระเงิน eCheck ถูกปฏิเสธโดย PayPal</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>แท็กผู้สนับสนุน osu! ในคำสั่งซื้อนี้จะไม่แสดงในกิจกรรมล่าสุดของคุณ</value>
+    <value>แท็กผู้สนับสนุน hotia! ในคำสั่งซื้อนี้จะไม่แสดงในกิจกรรมล่าสุดของคุณ</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>ส่งทาง:</value>
@@ -170,7 +170,7 @@
     <value>หากคุณไม่ได้ขอยกเลิก โปรดติดต่อ {0} โดยแจ้งหมายเลขคำสั่งซื้อของคุณ (#{1})</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store สนับสนุน</value>
+    <value>hotia!store สนับสนุน</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>คำสั่งซื้อของคุณถูกส่งแล้ว! เราหวังว่าคุณจะสนุกกับมัน!</value>
@@ -179,7 +179,7 @@
     <value>หากคุณมีปัญหาใดๆ เกี่ยวกับการซื้อของคุณ โปรดติดต่อ {0}</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store สนับสนุน</value>
+    <value>hotia!store สนับสนุน</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>คำสั่งซื้อของคุณอยู่ระหว่างเตรียมการ!</value>
@@ -359,7 +359,7 @@
     <value>เพิ่มข้อความเพิ่มเติมในของขวัญของคุณ! (สูงสุด {0} ตัวอักษร)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>คุณจะเป็นต้อง {0} จึงจะได้รับป้าย osu!supporter</value>
+    <value>คุณจะเป็นต้อง {0} จึงจะได้รับป้าย hotia!supporter</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>เข้าสู่ระบบ</value>

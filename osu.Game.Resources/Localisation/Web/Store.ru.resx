@@ -107,7 +107,7 @@
     <value>Сейчас у нас слишком много заказов! Вы можете закать что-нибудь, но учтите, что доставка займёт **на 1-2 недели больше**, пока мы отправляем уже накопившиеся заказы.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Скрыть все сообщения о тегах osu!supporter из секции активности в моём профиле после покупки</value>
+    <value>Скрыть все сообщения о тегах hotia!supporter из секции активности в моём профиле после покупки</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Ваша корзина, кажется, устарела и была перезагружена, пожалуйста попробуйте еще раз.</value>
@@ -149,7 +149,7 @@
     <value>Оплата через eCheck была отклонена PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>сообщения о тегах osu!supporter после покупки не будут отображены в вашем профиле.</value>
+    <value>сообщения о тегах hotia!supporter после покупки не будут отображены в вашем профиле.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Отправлено через:</value>
@@ -170,7 +170,7 @@
     <value>Если вы не отменяли заказ самостоятельно, пожалуйста, свяжитесь с {0}, указав номер вашего заказа (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>поддержкой osu!store</value>
+    <value>поддержкой hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Ваш заказ доставлен! Мы надеемся, что он вам понравится!</value>
@@ -179,7 +179,7 @@
     <value>Если у вас возникли проблемы с покупкой, пожалуйста, свяжитесь с {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>поддержкой osu!store</value>
+    <value>поддержкой hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Ваш заказ готовится к отправке!</value>
@@ -359,7 +359,7 @@
     <value>добавьте сообщение к вашему подарку! (до {0} символов)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Вы должны {0} для покупки osu!supporter!</value>
+    <value>Вы должны {0} для покупки hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>войти в аккаунт</value>

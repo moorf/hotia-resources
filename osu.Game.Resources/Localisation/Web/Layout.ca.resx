@@ -62,7 +62,7 @@
     <value>Reprodueix la següent pista automàticament</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - El ritme només a un sol *clic*! Amb Ouendan/EBA, Taiko i modes de joc originals, així com un editor de nivells totalment funcional.</value>
+    <value>hotia! - El ritme només a un sol *clic*! Amb Ouendan/EBA, Taiko i modes de joc originals, així com un editor de nivells totalment funcional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>col·lecció de mapes</value>
@@ -191,7 +191,7 @@
     <value>Llistat de mapes</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Descarregar osu!</value>
+    <value>Descarregar hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ajuda i comunitat</value>
@@ -314,7 +314,7 @@
     <value>Descarregar</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Descarrega osu! per crear el teu propi compte!</value>
+    <value>Descarrega hotia! per crear el teu propi compte!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>No tens un compte?</value>

@@ -35,9 +35,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowMissingTranslation => new TranslatableString(getKey(@"show.missing_translation"), @"Requested page could not be found for currently selected language.");
 
         /// <summary>
-        /// "This page does not meet the standards of the osu! wiki and needs to be cleaned up or rewritten. If you are able to help out, please consider updating the article!"
+        /// "This page does not meet the standards of the hotia! wiki and needs to be cleaned up or rewritten. If you are able to help out, please consider updating the article!"
         /// </summary>
-        public static LocalisableString ShowNeedsCleanupOrRewrite => new TranslatableString(getKey(@"show.needs_cleanup_or_rewrite"), @"This page does not meet the standards of the osu! wiki and needs to be cleaned up or rewritten. If you are able to help out, please consider updating the article!");
+        public static LocalisableString ShowNeedsCleanupOrRewrite => new TranslatableString(getKey(@"show.needs_cleanup_or_rewrite"), @"This page does not meet the standards of the hotia! wiki and needs to be cleaned up or rewritten. If you are able to help out, please consider updating the article!");
 
         /// <summary>
         /// "Search existing pages for {0}."

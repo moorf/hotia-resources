@@ -113,7 +113,7 @@
     <value>Бұғаттан шығару</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Osu! supporter тегін сыйлау</value>
+    <value>hotia! supporter тегін сыйлау</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Жүктеуде...</value>
@@ -176,10 +176,10 @@
     <value>Жалғастыру үшін аккаунтыңызға кіріңіз.</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.lastvisit_online" xml:space="preserve">
     <value>Қазір онлайн</value>
@@ -191,7 +191,7 @@
     <value>Ойындар</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.amount" xml:space="preserve">
     <value>{0} кудосу</value>

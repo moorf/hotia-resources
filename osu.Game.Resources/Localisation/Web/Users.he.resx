@@ -176,7 +176,7 @@
     <value>סיסמה</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>אין לך חשבון osu!? צור אחד חדש</value>
+    <value>אין לך חשבון hotia!? צור אחד חדש</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>זכור מחשב זה</value>
@@ -191,7 +191,7 @@
     <value>גישת בטא כרגע מוגבלת למשתמשים נבחרים.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporters ייכנסו בקרוב)</value>
+    <value>(hotia!supporters ייכנסו בקרוב)</value>
   </data>
   <data name="posts.title" xml:space="preserve">
     <value>פוסטים של {0}</value>
@@ -269,10 +269,10 @@
     <value>כאן מההתחלה</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>מפתח osu!</value>
+    <value>מפתח hotia!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>הצטרף {0}</value>
@@ -421,7 +421,7 @@
     <value>היסטוריית Kudosu אחרונה</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kudosu כולל שהושג</value>

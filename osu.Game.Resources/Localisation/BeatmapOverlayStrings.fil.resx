@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Sa pamamagitan ng pag-off sa filter na "Itinatampok na Artist," lahat ng nilalaman na-upload ng user ay ipapakita.
 
-Kabilang na dito ang nilalaman na maaaring hindi wastong nalisensyahan para sa paggamit sa osu!. Mag-browse sa iyong sariling peligro.</value>
+Kabilang na dito ang nilalaman na maaaring hindi wastong nalisensyahan para sa paggamit sa hotia!. Mag-browse sa iyong sariling peligro.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Naiintindihan ko</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Itinatampok na mga Artist ay mga musikero na nagsanib sa osu! upang gumawa ng seleksyon ng kanilang kanta na handang gamitin sa beatmaps. Para sa ibang ipinalabas, ipinapakita namin ang "Itinatampok na Artist" lamang upang maging magtiyaga ang integridad.</value>
+    <value>Itinatampok na mga Artist ay mga musikero na nagsanib sa hotia! upang gumawa ng seleksyon ng kanilang kanta na handang gamitin sa beatmaps. Para sa ibang ipinalabas, ipinapakita namin ang "Itinatampok na Artist" lamang upang maging magtiyaga ang integridad.</value>
   </data>
 </root>

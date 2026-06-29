@@ -68,7 +68,7 @@
     <value>Vezi aici pentru mai multe informații.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Unele elemente din această hartă au fost șterse după ce au fost considerate ca fiind improprii pentru a fi utilizate în osu!.</value>
+    <value>Unele elemente din această hartă au fost șterse după ce au fost considerate ca fiind improprii pentru a fi utilizate în hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap șters</value>
@@ -101,7 +101,7 @@
     <value>descarcă fără video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>deschide în osu!direct</value>
+    <value>deschide în hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Nominalizatorii temporari nu pot nominaliza ruleset-uri multiple.</value>

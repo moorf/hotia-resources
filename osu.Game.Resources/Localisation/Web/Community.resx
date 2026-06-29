@@ -62,22 +62,22 @@
     <value>I'm convinced! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>support osu!</value>
+    <value>support hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>or gift supporter to other players</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>click the heart button to proceed to the osu!store</value>
+    <value>click the heart button to proceed to the hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Why should I support osu!? Where does the money go?</value>
+    <value>Why should I support hotia!? Where does the money go?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Support the Team</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>A small team develops and runs osu!. Your support helps them to, you know... live.</value>
+    <value>A small team develops and runs hotia!. Your support helps them to, you know... live.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Server Infrastructure</value>
@@ -89,13 +89,13 @@
     <value>Featured Artists</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>With your support, we can approach even more awesome artists and license more great music for use in osu!</value>
+    <value>With your support, we can approach even more awesome artists and license more great music for use in hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>View the current roster &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Keep osu! self-sustaining</value>
+    <value>Keep hotia! self-sustaining</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Your contributions help keep the game independent and completely free from ads and outside sponsors.</value>
@@ -104,7 +104,7 @@
     <value>Official Tournaments</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Help fund the running of (and the prizes for) the official osu! World Cup tournaments.</value>
+    <value>Help fund the running of (and the prizes for) the official hotia! World Cup tournaments.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Explore tournaments &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Open Source Bounty Program</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Support the community contributors that have given their time and effort to help make osu! better.</value>
+    <value>Support the community contributors that have given their time and effort to help make hotia! better.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Find out more &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Cool! What perks do I get?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Gain quick and easy access to search for and download beatmaps without having to leave the game.</value>
@@ -185,7 +185,7 @@
     <value>Speedy Downloads</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>More lenient download restrictions, especially when using osu!direct.</value>
+    <value>More lenient download restrictions, especially when using hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Change Username</value>
@@ -239,13 +239,13 @@
     <value>Thank you for your ongoing support! So far, you've contributed a total of {0}, earning you the "Supporter" tag for {1}.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>You haven't ever had an osu!supporter tag :(</value>
+    <value>You haven't ever had an hotia!supporter tag :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Your current osu!supporter tag is valid until {0}!</value>
+    <value>Your current hotia!supporter tag is valid until {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Your osu!supporter tag was valid until {0}.</value>
+    <value>Your hotia!supporter tag was valid until {0}.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>Out of your total contributions, you’ve gifted {0} worth of tags to {1} covering {2}. That’s incredibly generous!</value>

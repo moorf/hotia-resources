@@ -80,7 +80,7 @@
     <value>رول‌ست فعلی ماد اجرای خودکار ندارد!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! ظاهرا قادر به پخش صحیح صدا نیست. لطفا خروجی صدای دستگاه خود را به تنظیماتی که کار کند تغییر دهید.</value>
+    <value>hotia! ظاهرا قادر به پخش صحیح صدا نیست. لطفا خروجی صدای دستگاه خود را به تنظیماتی که کار کند تغییر دهید.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>پوشش امتیاز غیرفعال است. شما میتوانید آن را با فشردن {0} فعال کنید.</value>

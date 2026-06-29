@@ -107,7 +107,7 @@
     <value>Тренутно имамо превише наруџбина! И даље можете поручити, али молимо Вас да очекујете **закашњење од 1-2 недеље** док не прођемо кроз све наруџбине.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Сакриј све ознаке osu!supporter у овом редоследу из мојих активности</value>
+    <value>Сакриј све ознаке hotia!supporter у овом редоследу из мојих активности</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Изгледа да су ваша колица застарела и поново су учитана, молимо Вас да пробате поново.</value>
@@ -149,7 +149,7 @@
     <value>еCheck плаћање је прихваћено од стране PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter ознаке овим редоследом се не приказују у вашим недавним активностима.</value>
+    <value>hotia!supporter ознаке овим редоследом се не приказују у вашим недавним активностима.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Пошаљи преко:</value>
@@ -171,7 +171,7 @@
 </value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>подршку osu!продавнице</value>
+    <value>подршку hotia!продавнице</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Ваша поруџбина је испоручена! Надамо се да ћете уживати!</value>
@@ -180,7 +180,7 @@
     <value>Ако имате било каквих проблема са куповином, контактирајте {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>подршку osu!продавнице</value>
+    <value>подршку hotia!продавнице</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Ваша поруџбина је спремна!</value>
@@ -357,7 +357,7 @@
     <value>додајте опционалну поруку свом поклону! (до {0} знакова)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Морате бити {0} да би сте добили osu!supporter ознаку!</value>
+    <value>Морате бити {0} да би сте добили hotia!supporter ознаку!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>пријављени</value>

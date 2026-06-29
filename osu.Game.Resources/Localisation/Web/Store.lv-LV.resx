@@ -107,7 +107,7 @@
     <value>Mēs pašlaik esam pārslogoi ar pasūtījumiem! Tu droši vari izpildīt savu pasūtījumu, bet vari sagaidīt **papildus 1-2 nedēļu aizkavi** kamēr mēs pierausimies esošajiem pasūtījumiem.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Slēpt visus osu!supporter tagus šajā pasūtījumā no manas aktivitātes</value>
+    <value>Slēpt visus hotia!supporter tagus šajā pasūtījumā no manas aktivitātes</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Izskatās ka tavs grozs ir pārāk vecs, un tas tika pārlādēts, lūdzu mēģini atkal.</value>
@@ -149,7 +149,7 @@
     <value>PayPal noraidīja eČeka maksājumu.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter tagi šajā pasūtījumā netiek rādīti jūsu nesenajās aktivitātēs.</value>
+    <value>hotia!supporter tagi šajā pasūtījumā netiek rādīti jūsu nesenajās aktivitātēs.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Aizsūtīt Caur:</value>
@@ -170,7 +170,7 @@
     <value>Ja tu nepieprasīji atcelšanu, lūdzu sazināties ar {0} citējot savu pasūtIjuma nummuru (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!veikala atbalsts</value>
+    <value>hotia!veikala atbalsts</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Tavs pasūtījums tika piegādāts! Mēc ceram, ka tu to izbaudi!</value>
@@ -179,7 +179,7 @@
     <value>Ja tev ir jebkādas problēmas ar savu pasūtījmu, lūdzam sazināties ar {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!veikala atbalsts</value>
+    <value>hotia!veikala atbalsts</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Jūsu pasūtījums tiek sagatavots!</value>
@@ -359,7 +359,7 @@
     <value>pēc izvēles pievienot ziņu savai dāvanai! (līdz {0} rakstzīmēm)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Jums ir nepieciešams būt {0}, lai iegūtu osu!supporter!</value>
+    <value>Jums ir nepieciešams būt {0}, lai iegūtu hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>pierakstījies</value>

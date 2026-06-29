@@ -293,13 +293,13 @@
     <value>se resetează {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Descarcă osu!</value>
+    <value>Descarcă hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Sprijină osu!</value>
+    <value>Sprijină hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>Magazinul osu!</value>
+    <value>Magazinul hotia!</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Deschide consola de administrator</value>

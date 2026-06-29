@@ -83,7 +83,7 @@
     <value>Grænseflade stemmer</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! musiktema</value>
+    <value>hotia! musiktema</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Introsekvens</value>
@@ -98,7 +98,7 @@
     <value>Sæsonbestemte baggrunde</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Ændringer i denne indstilling vil kun gælde med et aktivt osu!supporter tag.</value>
+    <value>Ændringer i denne indstilling vil kun gælde med et aktivt hotia!supporter tag.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Valg af Sang</value>

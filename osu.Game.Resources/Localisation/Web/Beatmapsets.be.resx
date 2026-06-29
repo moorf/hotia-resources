@@ -68,7 +68,7 @@
     <value>Для падрабязнасцей націсніце тут.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Некаторыя актывы, якія змяшчаюцца на гэтай карце, былі выдалены пасля прызнання непрыдатнымі для выкарыстання ў osu!.</value>
+    <value>Некаторыя актывы, якія змяшчаюцца на гэтай карце, былі выдалены пасля прызнання непрыдатнымі для выкарыстання ў hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Выдаленыя карты</value>
@@ -101,7 +101,7 @@
     <value>спампаваць без відэа</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>адкрыць у osu!direct</value>
+    <value>адкрыць у hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Намінатары, размешчаныя на выпрабаванні, не могуць намінаваць некалькі рэжымаў гульні адначасова.</value>
@@ -323,7 +323,7 @@
     <value>Націсніце &lt;a href="{0}"&gt;тут&lt;/a&gt;, каб праглядзець усе магчымасці, якія вы атрымліваеце!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Каб мець доступ да рэйтынгу краін і сяброў вам трэба быць osu!supporter</value>
+    <value>Каб мець доступ да рэйтынгу краін і сяброў вам трэба быць hotia!supporter</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Камандны рэйтынг</value>

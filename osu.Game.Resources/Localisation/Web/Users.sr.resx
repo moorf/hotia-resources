@@ -119,7 +119,7 @@
     <value>Одблокирај</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Поклони osu!supporter ознаку</value>
+    <value>Поклони hotia!supporter ознаку</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Учитавање...</value>
@@ -218,7 +218,7 @@
     <value>Лозинка</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Немате osu! налог? Направите нови</value>
+    <value>Немате hotia! налог? Направите нови</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Упамти ме на овом рачунару</value>
@@ -233,7 +233,7 @@
     <value>Приступ beta верзији је тренутно дозвољено само привилегованим корисницима.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporters ће ускоро добити приступ)</value>
+    <value>(hotia!supporters ће ускоро добити приступ)</value>
   </data>
   <data name="ogp.modding_description" xml:space="preserve">
     <value>Мапе {0}</value>
@@ -332,10 +332,10 @@
     <value>Овде од почетка</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!програмер</value>
+    <value>hotia!програмер</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Придружио/ла се {0}</value>
@@ -443,7 +443,7 @@
     <value>Слање достуно само за {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter-е</value>
+    <value>hotia!supporter-е</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>подразумевани мод игре</value>
@@ -452,7 +452,7 @@
     <value>подесите {0} као подразумевани мод</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>Желите да промените боју на подразумевану? osu!supporter ће бити потребна да би сте променили у другу боју.</value>
+    <value>Желите да промените боју на подразумевану? hotia!supporter ће бити потребна да би сте променили у другу боју.</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>Боја</value>
@@ -461,7 +461,7 @@
     <value>Прилагођене теме боја доступне су само за {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>ниједан</value>
@@ -554,7 +554,7 @@
     <value>Скорија kudosu историја</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Укупан број зарађених kudosu-а</value>
@@ -563,7 +563,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Овај корисник није добио kudosu!</value>
+    <value>Овај корисник није добио kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Примио {0} kudosu за порицање укидања мод поста {1}</value>
@@ -770,7 +770,7 @@
     <value>Морате бити {0} да би сте откључали ову опцију.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Допринели {0}</value>
@@ -860,7 +860,7 @@
     <value>молимо Вас да се региструјете преко клијента игре!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>молимо довршите регистрацију користећи osu! веб сајт</value>
+    <value>молимо довршите регистрацију користећи hotia! веб сајт</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Корисник је креиран</value>

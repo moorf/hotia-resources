@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Kun "Esitellyt artistit" -suodatin poistetaan käytöstä, näytetään kaikki käyttäjien lähettämä sisältö.
 
-Osassa tästä voi olla sisältöä, jota ei ole lisensoitu osu!ssa käytettäväksi. Selaa omalla vastuullasi.</value>
+Osassa tästä voi olla sisältöä, jota ei ole lisensoitu hotia!ssa käytettäväksi. Selaa omalla vastuullasi.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Ymmärrän</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Esitellyt artistit ovat musiikkiartisteja, jotka ovat tehneet yhteistyötä osu!:n kanssa tarjotakseen valikoiman kappaleitaan käytettäväksi rytmikartoissa. Joissakin osu!-julkaisuissa esittelemme vain esiteltyjen artistien rytmikarttoja tukeaksemme paremmin ympäröivää ekosysteemiä.</value>
+    <value>Esitellyt artistit ovat musiikkiartisteja, jotka ovat tehneet yhteistyötä hotia!:n kanssa tarjotakseen valikoiman kappaleitaan käytettäväksi rytmikartoissa. Joissakin hotia!-julkaisuissa esittelemme vain esiteltyjen artistien rytmikarttoja tukeaksemme paremmin ympäröivää ekosysteemiä.</value>
   </data>
 </root>

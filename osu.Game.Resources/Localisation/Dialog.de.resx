@@ -71,7 +71,7 @@
     <value>Nein! Mission abbrechen</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Fehler beim automatischen Auffinden einer osu!stable-Installation.</value>
+    <value>Fehler beim automatischen Auffinden einer hotia!stable-Installation.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Eine vorhandene Installation konnte nicht gefunden werden. Hilf gerne, wenn du weißt, wo sie ist.</value>
@@ -80,7 +80,7 @@
     <value>Ich weiß, wo sie ist!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>osu!stable ist aktuell nicht installiert.</value>
+    <value>hotia!stable ist aktuell nicht installiert.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Alle lokalen Punktestände auf {0}</value>
@@ -92,7 +92,7 @@
     <value>Bist du sicher, dass du das Spiel abbrechen möchtest?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Bist du sicher, dass du osu! verlassen möchtest?</value>
+    <value>Bist du sicher, dass du hotia! verlassen möchtest?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Letzte Chance zum Umkehren</value>

@@ -143,7 +143,7 @@
     <value>speichern</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Wenn du zu den Open-Source-Repositories von osu! beiträgst, kannst du dein GitHub-Konto hier verlinken, um deine Changelog-Einträge mit deinem osu!-Profil zu verknüpfen. GitHub-Konten ohne Beitragshistorie zu osu! können nicht verknüpft werden.</value>
+    <value>Wenn du zu den Open-Source-Repositories von hotia! beiträgst, kannst du dein GitHub-Konto hier verlinken, um deine Changelog-Einträge mit deinem hotia!-Profil zu verknüpfen. GitHub-Konten ohne Beitragshistorie zu hotia! können nicht verknüpft werden.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>GitHub-Konto verknüpfen</value>
@@ -158,7 +158,7 @@
     <value>Dein GitHub-Konto ist bereits mit einem anderen Benutzerkonto verknüpft.</value>
   </data>
   <data name="github_user.error.no_contribution" xml:space="preserve">
-    <value>GitHub-Konto ohne Beitragshistorie in osu!-Repositories kann nicht verknüpft werden.</value>
+    <value>GitHub-Konto ohne Beitragshistorie in hotia!-Repositories kann nicht verknüpft werden.</value>
   </data>
   <data name="github_user.error.unverified_email" xml:space="preserve">
     <value>Bitte verifiziere deine primäre E-Mail-Adresse auf GitHub und versuche dann, dein Konto erneut zu verknüpfen.</value>
@@ -245,7 +245,7 @@
     <value>mit Video, falls verfügbar</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>in osu!direct öffnen</value>
+    <value>in hotia!direct öffnen</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>ohne Video</value>
@@ -272,7 +272,7 @@
     <value>Online-Status verbergen</value>
   </data>
   <data name="privacy.hide_online_info" xml:space="preserve">
-    <value>Dies entspricht dem "Offline"-Modus in osu!lazer</value>
+    <value>Dies entspricht dem "Offline"-Modus in hotia!lazer</value>
   </data>
   <data name="privacy.title" xml:space="preserve">
     <value>Privatsphäre</value>

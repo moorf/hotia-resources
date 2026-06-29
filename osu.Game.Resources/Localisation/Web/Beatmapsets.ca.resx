@@ -68,7 +68,7 @@
     <value>Fes clic aquí per a més informació.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Alguns continguts d'aquest mapa han estat eliminats després de ser considerats no aptes pel seu ús a osu!.</value>
+    <value>Alguns continguts d'aquest mapa han estat eliminats després de ser considerats no aptes pel seu ús a hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Mapa eliminat</value>
@@ -101,7 +101,7 @@
     <value>descarregar sense vídeo</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>obre a osu!direct</value>
+    <value>obre a hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Els nominadors provisionals no poden nominar diferents modes de joc.</value>
@@ -332,7 +332,7 @@
     <value>Feu clic &lt;a href="{0}"&gt;aquí&lt;/a&gt; per veure totes les funcions de luxe que teniu!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Has de ser un osu!supporter per accedir a les classificacions per amics, països o mods!</value>
+    <value>Has de ser un hotia!supporter per accedir a les classificacions per amics, països o mods!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Classificació per equips</value>

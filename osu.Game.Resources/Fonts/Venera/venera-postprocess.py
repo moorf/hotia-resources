@@ -2,7 +2,7 @@
 
 # This is a python script leveraging fontforge.
 # The purpose of this script is to process files for the Venera font in a way that fixes several issues
-# with osu!'s usage of the font.
+# with hotia!'s usage of the font.
 
 # This script implicitly assumes the folder structure:
 # - The original font files should be in `./venera` relative to the script.

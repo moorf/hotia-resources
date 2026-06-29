@@ -62,22 +62,22 @@
     <value>Ik ben overtuigd! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>steun osu!</value>
+    <value>steun hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>of geef supporter als geschenk aan andere spelers</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>klik op het hartje om naar de osu!store te gaan</value>
+    <value>klik op het hartje om naar de hotia!store te gaan</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Waarom zou ik osu! steunen? Waar gaat het geld naartoe?</value>
+    <value>Waarom zou ik hotia! steunen? Waar gaat het geld naartoe?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Steun het team</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Een klein team zorgt voor het onderhoud en de ontwikkeling van osu!. Jouw steun helpt hen, wel... te leven.</value>
+    <value>Een klein team zorgt voor het onderhoud en de ontwikkeling van hotia!. Jouw steun helpt hen, wel... te leven.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Serverinfrastructuur</value>
@@ -89,22 +89,22 @@
     <value>Uitgelichte artiesten</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Met de hulp van jouw steun kunnen we nóg meer geweldige artiesten aanspreken. Dit laat ons toe licenties voor het gebruik van hun muziek in osu! te bemachtigen.</value>
+    <value>Met de hulp van jouw steun kunnen we nóg meer geweldige artiesten aanspreken. Dit laat ons toe licenties voor het gebruik van hun muziek in hotia! te bemachtigen.</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Huidige artiestenlijst verkennen &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Houd osu! zelfvoorzienend</value>
+    <value>Houd hotia! zelfvoorzienend</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
-    <value>Jouw bijdragen helpen het spel onafhankelijk te houden. Dit betekent dat er geen advertenties of externe sponsors te bespeuren (zullen) zijn in osu!.</value>
+    <value>Jouw bijdragen helpen het spel onafhankelijk te houden. Dit betekent dat er geen advertenties of externe sponsors te bespeuren (zullen) zijn in hotia!.</value>
   </data>
   <data name="support.why-support.tournaments.title" xml:space="preserve">
     <value>Officiële toernooien</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Help het beheren van (en de prijzen voor) het officiële osu! wereldkampioenschap te financieren.</value>
+    <value>Help het beheren van (en de prijzen voor) het officiële hotia! wereldkampioenschap te financieren.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Toernooien verkennen &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Open source beloningsprogramma </value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Geef de communityleden die hun tijd en moeite hebben gegeven om osu! beter te maken een duwtje in de rug.</value>
+    <value>Geef de communityleden die hun tijd en moeite hebben gegeven om hotia! beter te maken een duwtje in de rug.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Meer lezen &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Cool! Welke extra's krijg ik?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Snel en makkelijk beatmaps zoeken zonder het spel te moeten verlaten.</value>
@@ -185,7 +185,7 @@
     <value>Snellere downloads</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Mildere downloadbeperkingen, al helemaal wanneer je osu!direct gebruikt.</value>
+    <value>Mildere downloadbeperkingen, al helemaal wanneer je hotia!direct gebruikt.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Gebruikersnaam veranderen</value>
@@ -236,12 +236,12 @@
     <value>Ga de strijd aan met je vrienden en bekijk hoe je scoort tegenover hen!</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Je hebt nog nooit een osu!supporter tag gehad :(</value>
+    <value>Je hebt nog nooit een hotia!supporter tag gehad :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Je huidige osu!supporter tag is geldig tot {0}!</value>
+    <value>Je huidige hotia!supporter tag is geldig tot {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Je osu!supporter tag was geldig tot {0}.</value>
+    <value>Je hotia!supporter tag was geldig tot {0}.</value>
   </data>
 </root>

@@ -77,7 +77,7 @@
     <value>กรุณาเลือกตำแหน่งใหม่</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>ไดเร็กทอรีที่เลือกดูเหมือนจะมี osu! ติดตั้งอยู่แล้ว. ใช้ข้อมูลนั้นแทนหรือไม่</value>
+    <value>ไดเร็กทอรีที่เลือกดูเหมือนจะมี hotia! ติดตั้งอยู่แล้ว. ใช้ข้อมูลนั้นแทนหรือไม่</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>ลบบีทแมพทั้งหมด</value>
@@ -128,6 +128,6 @@
     <value>ไม่พบพรีเซ็ตม็อดที่สามารถกู้คืนได้!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>โปรดเลือกตำแหน่งติดตั้ง osu!stable ของคุณ</value>
+    <value>โปรดเลือกตำแหน่งติดตั้ง hotia!stable ของคุณ</value>
   </data>
 </root>

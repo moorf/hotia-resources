@@ -69,7 +69,7 @@
     <value>Кликни овде за више информација.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Нека средства садржана у овој мапи су уклоњена након што су сматрана неприкладним за употребу у osu!.</value>
+    <value>Нека средства садржана у овој мапи су уклоњена након што су сматрана неприкладним за употребу у hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Обрисана мапа</value>
@@ -99,7 +99,7 @@
     <value>преузмите без видеа</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>отвори у osu!direct</value>
+    <value>отвори у hotia!direct</value>
   </data>
   <data name="nominate.hybrid_requires_modes" xml:space="preserve">
     <value>Хибридне мапе захтевају да изаберете најмање један режим играња за номинацију.</value>
@@ -291,7 +291,7 @@
     <value>Кликните &lt;a href="{0}"&gt;овде&lt;/a&gt; да видите све фенси функције које добијате!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Мораш бити osu!supporter да приступите рангирању специфичним за пријатеље, државу или мод!</value>
+    <value>Мораш бити hotia!supporter да приступите рангирању специфичним за пријатеље, државу или мод!</value>
   </data>
   <data name="show.scoreboard.title" xml:space="preserve">
     <value>Scoreboard</value>

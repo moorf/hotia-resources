@@ -293,13 +293,13 @@
     <value>επαναφέρεται σε {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Λήψη osu!</value>
+    <value>Λήψη hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Υποστηρίξτε το osu!</value>
+    <value>Υποστηρίξτε το hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!κατάστημα</value>
+    <value>hotia!κατάστημα</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Άνοιγμα κονσόλας διαχειριστή</value>

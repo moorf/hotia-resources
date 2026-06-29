@@ -77,10 +77,10 @@
     <value>الرجاء تحديد موقع جديد</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>يبدو ان هذا المسار يحوي على نسخة osu! مثبتة مسبقاََ, هل تفضل إستعمال هذه البيانات؟</value>
+    <value>يبدو ان هذا المسار يحوي على نسخة hotia! مثبتة مسبقاََ, هل تفضل إستعمال هذه البيانات؟</value>
   </data>
   <data name="restart_and_re_open_required_for_completion" xml:space="preserve">
-    <value>لإكمال هذه العملية، سيتم إغلاق osu!. الرجاء فتحها مرة أخرى لاستخدام موقع البيانات الجديد.</value>
+    <value>لإكمال هذه العملية، سيتم إغلاق hotia!. الرجاء فتحها مرة أخرى لاستخدام موقع البيانات الجديد.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>حذف جميع الخرائط</value>
@@ -128,6 +128,6 @@
     <value>لم يُعثر على أي تعديلات معدّة لاستعادتها!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>الرجاء تحديد موقع تثبيت osu!stable الخاص بك</value>
+    <value>الرجاء تحديد موقع تثبيت hotia!stable الخاص بك</value>
   </data>
 </root>

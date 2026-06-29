@@ -119,7 +119,7 @@
     <value>Entblocken</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Verschenke ein osu!supporter-Tag</value>
+    <value>Verschenke ein hotia!supporter-Tag</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Lädt...</value>
@@ -218,7 +218,7 @@
     <value>Passwort</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Noch keinen osu!-Account? Erstell' einen</value>
+    <value>Noch keinen hotia!-Account? Erstell' einen</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Diesen Computer merken</value>
@@ -233,7 +233,7 @@
     <value>Beta-Zugang ist momentan privilegierten Benutzern vorbehalten.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporter kommen bald dazu)</value>
+    <value>(hotia!supporter kommen bald dazu)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktiv</value>
@@ -302,7 +302,7 @@
     <value>Bitte melde Urheberrechtsverstöße durch einen DMCA-Antrag an {0} wie in {1} beschrieben.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>der osu!-Urheberrechtsrichtlinie</value>
+    <value>der hotia!-Urheberrechtsrichtlinie</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Dies betrifft Fälle, in denen Audiospuren, visuelle Inhalte oder Inhalte aus Beatmapleveln ohne korrekte Genehmigung verwendet werden.</value>
@@ -353,10 +353,10 @@
     <value>Seit dem Anfang hier</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!-Entwickler</value>
+    <value>hotia!-Entwickler</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!-Supporter</value>
+    <value>hotia!-Supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>{0} beigetreten</value>
@@ -464,7 +464,7 @@
     <value>Hochladen nur für {0} verfügbar</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>Standard-Spielmodus</value>
@@ -482,7 +482,7 @@
     <value>Eigene Farbschemata nur für {0} verfügbar</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>nichts</value>
@@ -578,7 +578,7 @@
     <value>Kudosu-Verlauf</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kudosu insgesamt</value>
@@ -788,7 +788,7 @@
     <value>Profil bearbeiten</value>
   </data>
   <data name="show.page.description" xml:space="preserve">
-    <value>&lt;strong&gt;me!&lt;/strong&gt; ist ein persönlicher Bereich auf deinem osu!-Profil, den du nach deinem Belieben anpassen kannst.</value>
+    <value>&lt;strong&gt;me!&lt;/strong&gt; ist ein persönlicher Bereich auf deinem hotia!-Profil, den du nach deinem Belieben anpassen kannst.</value>
   </data>
   <data name="show.page.edit_big" xml:space="preserve">
     <value>me! bearbeiten</value>
@@ -800,7 +800,7 @@
     <value>Du musst ein {0} sein, um diese Funktion freizuschalten.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>{0} beigetragen</value>
@@ -899,7 +899,7 @@
     <value>Bitte registriere dich stattdessen über den Spiel-Client!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>Bitte melde dich über die osu!-Webseite an</value>
+    <value>Bitte melde dich über die hotia!-Webseite an</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Benutzer erstellt</value>

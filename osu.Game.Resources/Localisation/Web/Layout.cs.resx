@@ -62,7 +62,7 @@
     <value>Přehrát další skladbu automaticky</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytmus je na dosah jen jednoho *kliknutí*! Spolu s Ouendan/EBA, Taikem, originálními herními módy a také plně funkčním level editorem.</value>
+    <value>hotia! - Rytmus je na dosah jen jednoho *kliknutí*! Spolu s Ouendan/EBA, Taikem, originálními herními módy a také plně funkčním level editorem.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Seznam beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Stáhnout osu!</value>
+    <value>Stáhnout hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Nápověda &amp; Komunita</value>
@@ -311,7 +311,7 @@
     <value>Stáhnout</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Stáhněte si osu! pro vytvoření vlastního účtu!</value>
+    <value>Stáhněte si hotia! pro vytvoření vlastního účtu!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Nemáte účet?</value>

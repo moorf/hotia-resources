@@ -83,7 +83,7 @@
     <value>Efekty dźwiękowe z głosem</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>Używaj motywu muzycznego osu!</value>
+    <value>Używaj motywu muzycznego hotia!</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Sekwencja intro</value>
@@ -98,7 +98,7 @@
     <value>Tła sezonowe</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Zmiany tego ustawienia odniosą skutek tylko dla posiadaczy aktywnego statusu donatora osu!.</value>
+    <value>Zmiany tego ustawienia odniosą skutek tylko dla posiadaczy aktywnego statusu donatora hotia!.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Ekran wyboru piosenki</value>

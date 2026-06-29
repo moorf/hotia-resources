@@ -194,7 +194,7 @@
     <value>z videoposnetkom</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>odpri v osu!direct</value>
+    <value>odpri v hotia!direct</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>brez videoposnetka</value>

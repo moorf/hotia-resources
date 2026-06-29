@@ -536,7 +536,7 @@
     <value>sol·licitud de funcionalitats</value>
   </data>
   <data name="topics.show.feature_vote.info.supporters" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="topics.show.feature_vote.user.count" xml:space="preserve">
     <value>{0} sense vots|{1} {0} vot|[2,*] {0} vots</value>

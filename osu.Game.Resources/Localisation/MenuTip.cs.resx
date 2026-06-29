@@ -77,7 +77,7 @@
     <value>Zkus upravit režim "škálování obrazovky" pro změnu oblasti hry nebo uživatelského rozhraní, a to i v režimu celé obrazovky!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>Co bývalo "osu!direct" je k dispozici všem uživatelům stejně jako na webové stránce. Můžeš na něj kdekoli přejít pomocí {0}!</value>
+    <value>Co bývalo "hotia!direct" je k dispozici všem uživatelům stejně jako na webové stránce. Můžeš na něj kdekoli přejít pomocí {0}!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>Pohybování se v záznamech je možné tažením na panelu postupu v dolní části obrazovky nebo pomocí kláves šipek vlevo a vpravo!</value>

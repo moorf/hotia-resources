@@ -275,12 +275,12 @@
     <value>ni {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>I-download ang osu!</value>
+    <value>I-download ang hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Suportahan ang osu!</value>
+    <value>Suportahan ang hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
 </root>

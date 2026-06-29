@@ -68,7 +68,7 @@
     <value>Klicka här för mer information.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Vissa delar av denna map har tagits bort då de anses vara olämpliga i osu!.</value>
+    <value>Vissa delar av denna map har tagits bort då de anses vara olämpliga i hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Raderad beatmap</value>
@@ -101,7 +101,7 @@
     <value>ladda ner utan video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>öppna i osu!direct</value>
+    <value>öppna i hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Probationära nominatörer kan ej nominera flera regelset.</value>

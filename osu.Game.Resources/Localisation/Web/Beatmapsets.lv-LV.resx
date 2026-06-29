@@ -68,7 +68,7 @@
     <value>Lai iegūtu papildu informāciju, noklikšķiniet šeit.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Daži šajā ritma-kartē ietvertie resursi ir izņemti pēc tam, kad tie tika novērtēti kā nepiemēroti izmantošanai osu!.</value>
+    <value>Daži šajā ritma-kartē ietvertie resursi ir izņemti pēc tam, kad tie tika novērtēti kā nepiemēroti izmantošanai hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Izdzēsta ritma-karte</value>
@@ -101,7 +101,7 @@
     <value>lejupielādēt bez video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>atvērt ar osu!direct</value>
+    <value>atvērt ar hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Prakses nominātori nevar nominēt vairākus pamatlikumus.</value>

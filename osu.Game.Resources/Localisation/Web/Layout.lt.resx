@@ -62,7 +62,7 @@
     <value>Groti kitą takelį automatiškai</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritmas yra tik per vieną *paspaudimą* nuo tavęs! Su Ouendan/EBA, Taiko ir originaliais žaidimo režimais, taip pat pilnai veikiančiu lygių redagavimo įrankių.</value>
+    <value>hotia! - Ritmas yra tik per vieną *paspaudimą* nuo tavęs! Su Ouendan/EBA, Taiko ir originaliais žaidimo režimais, taip pat pilnai veikiančiu lygių redagavimo įrankių.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmap'ų setas</value>
@@ -185,7 +185,7 @@
     <value>Beatmap'ų sąrašas</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Atsisiūsti osu!</value>
+    <value>Atsisiūsti hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Pagalba ir Bendruomenė</value>
@@ -305,7 +305,7 @@
     <value>Atsisiųsti</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Atsisiųsk osu!, kad susikurti paskyrą!</value>
+    <value>Atsisiųsk hotia!, kad susikurti paskyrą!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Neturite paskyros?</value>

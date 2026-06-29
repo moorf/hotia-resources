@@ -68,7 +68,7 @@
     <value>Pour plus d'informations, cliquez ici.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Certains éléments contenus dans cette beatmap ont été supprimés après avoir été jugés inappropriés pour osu!.</value>
+    <value>Certains éléments contenus dans cette beatmap ont été supprimés après avoir été jugés inappropriés pour hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap supprimée</value>
@@ -101,7 +101,7 @@
     <value>télécharger sans la vidéo</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>ouvrir avec osu!direct</value>
+    <value>ouvrir avec hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Les Beatmap Nominators en probation ne peuvent pas nominer plusieurs modes de jeu.</value>
@@ -332,7 +332,7 @@
     <value>Cliquez &lt;a href="{0}"&gt;ici&lt;/a&gt; pour connaître toutes les supers fonctions que vous obtiendrez !</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Vous devez être un osu!supporter pour accéder aux classements par pays, amis et mods spécifiques !</value>
+    <value>Vous devez être un hotia!supporter pour accéder aux classements par pays, amis et mods spécifiques !</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Classement d'équipe</value>

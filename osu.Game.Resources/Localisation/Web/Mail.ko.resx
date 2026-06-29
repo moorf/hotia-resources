@@ -89,25 +89,25 @@
     <value>만약 질문이나 피드백이 있으시다면, 이 메일로 답장하는걸 주저하지 마세요. 최대한 빠르게 답해드리겠습니다!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>osu!가 광고나 결제 유도 없이 게임과 커뮤니티를 운영할 수 있는것은 당신같은 사람들 덕분입니다.</value>
+    <value>hotia!가 광고나 결제 유도 없이 게임과 커뮤니티를 운영할 수 있는것은 당신같은 사람들 덕분입니다.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>당신의 지원으로 osu!가 {0}분 동안 더 돌아갈 수 있게 되었습니다! 그렇게 길지 않을 수는 있지만, 티끌 모아 태산이죠 :)</value>
+    <value>당신의 지원으로 hotia!가 {0}분 동안 더 돌아갈 수 있게 되었습니다! 그렇게 길지 않을 수는 있지만, 티끌 모아 태산이죠 :)</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>감사합니다, osu!는 여러분을 ❤합니다</value>
+    <value>감사합니다, hotia!는 여러분을 ❤합니다</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>다음은 정보 제공을 위해 유저가 번역한 내용입니다:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>이제 수령인은 osu!direct를 비롯해 다른 서포터 혜택을 누리실 수 있습니다.</value>
+    <value>이제 수령인은 hotia!direct를 비롯해 다른 서포터 혜택을 누리실 수 있습니다.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>이제 {0}동안 osu!direct와 다른 서포터 혜택을 누리실 수 있습니다.</value>
+    <value>이제 {0}동안 hotia!direct와 다른 서포터 혜택을 누리실 수 있습니다.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>osu!를 향한 당신의 {0}에 감사드립니다!</value>
+    <value>hotia!를 향한 당신의 {0}에 감사드립니다!</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>지원</value>
@@ -119,7 +119,7 @@
     <value>지난 방문 이후로 "{0}" 게시글에 새로운 답글이 달렸다는 것을 알려드립니다.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] "{0}" 주제에 대한 새로운 답변이 달렸습니다</value>
+    <value>[hotia!] "{0}" 주제에 대한 새로운 답변이 달렸습니다</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>이 주제의 소식을 그만 받으시려면 위 페이지에 있는 "구독 해제" 링크를 클릭하거나, 다음 구독 관리 페이지에서 설정하실 수 있습니다:</value>
@@ -131,10 +131,10 @@
     <value>인증 코드:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>귀하 또는 귀하인 척 하는 다른 누군가가 귀하의 osu! 계정의 비밀번호 초기화를 요청했습니다.</value>
+    <value>귀하 또는 귀하인 척 하는 다른 누군가가 귀하의 hotia! 계정의 비밀번호 초기화를 요청했습니다.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>osu! 계정 복구</value>
+    <value>hotia! 계정 복구</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>결제 정보를 받았고, 현재 배송 준비 중입니다. 주문 수량에 따라 배송까지 수일이 걸릴 수 있습니다. 다음 링크를 통해 주문 진행 상황을 확인할 수 있으며, 준비되는 대로 배송 추적 정보도 확인할 수 있습니다:</value>
@@ -149,10 +149,10 @@
     <value>배송중</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>귀하의 osu!store 주문을 받았습니다!</value>
+    <value>귀하의 hotia!store 주문을 받았습니다!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>osu!store에서 주문해주셔서 감사합니다!</value>
+    <value>hotia!store에서 주문해주셔서 감사합니다!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>합계</value>
@@ -164,31 +164,31 @@
     <value>뭐... 이미 누군지 눈치챈 것 같기도 하네요^^</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>선물해주신 분 덕분에 {0}동안 osu!direct를 비롯한 다른 osu! 서포터 혜택을 누리실 수 있습니다.</value>
+    <value>선물해주신 분 덕분에 {0}동안 hotia!direct를 비롯한 다른 hotia! 서포터 혜택을 누리실 수 있습니다.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>자세한 기능은 다음 링크를 통해 확인하실 수 있습니다:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>누군가가 당신에게 osu! 서포터 태그를 선물했습니다!</value>
+    <value>누군가가 당신에게 hotia! 서포터 태그를 선물했습니다!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>이 태그를 선물하신 분께서 메시지를 남기셨어요:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>osu! 서포터 태그를 선물 받았습니다!</value>
+    <value>hotia! 서포터 태그를 선물 받았습니다!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>이는 귀하의 osu! 이메일 주소가 "{0}" 로 변경되었음을 알리기 위한 확인 이메일입니다.</value>
+    <value>이는 귀하의 hotia! 이메일 주소가 "{0}" 로 변경되었음을 알리기 위한 확인 이메일입니다.</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>향후 osu! 계정에 접근하지 못하는 사태를 막기 위해 새로운 이메일 계정으로 이 메일을 수신하셨다는 것을 확인해 주세요.</value>
+    <value>향후 hotia! 계정에 접근하지 못하는 사태를 막기 위해 새로운 이메일 계정으로 이 메일을 수신하셨다는 것을 확인해 주세요.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>이 이메일은 보안상의 이유로 새로운 이메일과 이전 이메일에 동일하게 전송되었습니다.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>osu! 이메일 주소 변경 확인</value>
+    <value>hotia! 이메일 주소 변경 확인</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>최근 수상한 활동이나 취약한 비밀번호로 인하여 계정 도용이 의심되는 상황입니다. 이로 인해 새로 비밀번호를 설정하셔야 하오니, 안전한 비밀번호로 설정해 주시길 바랍니다.</value>
@@ -200,7 +200,7 @@
     <value>사유:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>osu! 계정 재활성화가 필요합니다</value>
+    <value>hotia! 계정 재활성화가 필요합니다</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>구독 중인 항목에 새로운 업데이트가 있습니다.</value>
@@ -209,13 +209,13 @@
     <value>이메일 알림 설정 변경</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>새로운 osu! 알림</value>
+    <value>새로운 hotia! 알림</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>이는 귀하의 osu! 비밀번호 변경되었음을 알리기 위한 확인 이메일입니다.</value>
+    <value>이는 귀하의 hotia! 비밀번호 변경되었음을 알리기 위한 확인 이메일입니다.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>osu! 비밀번호 변경 확인</value>
+    <value>hotia! 비밀번호 변경 확인</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>인증 코드:</value>
@@ -230,7 +230,7 @@
     <value>본인의 활동이 아니라면, 계정 도용 가능성이 있으니 즉시 이 메일로 회신해주시기 바랍니다.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>osu! 계정 인증</value>
+    <value>hotia! 계정 인증</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>{0}에서 귀하의 계정을 사용한 활동이 있었으므로, 이에 관한 확인 절차가 필요합니다.</value>

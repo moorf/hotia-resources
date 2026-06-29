@@ -62,7 +62,7 @@
     <value>Afspil næste sang automatisk</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rytme er kun et *klik* væk!  Med Ouendan/EBA, Taiko og originale spil-modes, såvel som en fuld funktionel level-editor.</value>
+    <value>hotia! - Rytme er kun et *klik* væk!  Med Ouendan/EBA, Taiko og originale spil-modes, såvel som en fuld funktionel level-editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -191,7 +191,7 @@
     <value>Beatmap Lister</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Download osu!</value>
+    <value>Download hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Hjælp og Fællesskab</value>

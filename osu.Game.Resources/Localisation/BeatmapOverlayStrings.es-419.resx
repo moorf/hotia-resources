@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Al desactivar el filtro «Artista destacado», se mostrará todo el contenido subido por los usuarios.
 
-Esto incluye contenido que puede no estar licenciado correctamente para su uso en osu!. Navega bajo tu propio riesgo.</value>
+Esto incluye contenido que puede no estar licenciado correctamente para su uso en hotia!. Navega bajo tu propio riesgo.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Entiendo</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Los artistas destacados son artistas musicales que han colaborado con osu! para que una selección de sus pistas estén disponibles para su uso en beatmaps. Para algunas versiones de osu!, solo mostramos beatmaps de artistas destacados para apoyar mejor al ecosistema local.</value>
+    <value>Los artistas destacados son artistas musicales que han colaborado con hotia! para que una selección de sus pistas estén disponibles para su uso en beatmaps. Para algunas versiones de hotia!, solo mostramos beatmaps de artistas destacados para apoyar mejor al ecosistema local.</value>
   </data>
 </root>

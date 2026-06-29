@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Durch das Deaktivieren des Filters "Featured Artist" werden alle von Benutzern hochgeladenen Inhalte angezeigt.
 
-Dazu gehören auch Inhalte, die möglicherweise nicht korrekt für die Verwendung in osu! lizenziert sind. Stöbere auf eigene Gefahr.</value>
+Dazu gehören auch Inhalte, die möglicherweise nicht korrekt für die Verwendung in hotia! lizenziert sind. Stöbere auf eigene Gefahr.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Ich bin einverstanden</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Featured Artists sind Musikproduzenten, die mit osu! zusammengearbeitet haben, um eine Auswahl ihrer Tracks für die Verwendung in Beatmaps zur Verfügung zu stellen. Bei einigen osu! Updates stellen wir nur Beatmaps von Featured Artists vor, um das Ökosystem besser zu unterstützen.</value>
+    <value>Featured Artists sind Musikproduzenten, die mit hotia! zusammengearbeitet haben, um eine Auswahl ihrer Tracks für die Verwendung in Beatmaps zur Verfügung zu stellen. Bei einigen hotia! Updates stellen wir nur Beatmaps von Featured Artists vor, um das Ökosystem besser zu unterstützen.</value>
   </data>
 </root>

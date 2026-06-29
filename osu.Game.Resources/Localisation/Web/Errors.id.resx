@@ -71,7 +71,7 @@
     <value>Parameter {0} hanya bisa mengandung maksimal {1} item|Parameter {0} hanya bisa mengandung maksimal {1} item</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>Kamu harus menjadi osu!supporter untuk menggunakan fitur ini.</value>
+    <value>Kamu harus menjadi hotia!supporter untuk menggunakan fitur ini.</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>Terjadi kesalahan yang tidak diketahui.</value>

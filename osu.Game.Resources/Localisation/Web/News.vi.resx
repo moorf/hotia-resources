@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu!tin_mới</value>
+    <value>hotia!tin_mới</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>Bài đăng mới hơn</value>
@@ -98,7 +98,7 @@
     <value>Cuộc thi làm beatmap hàng tháng</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>vật phẩm lưu niệm của osu!</value>
+    <value>vật phẩm lưu niệm của hotia!</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>thông báo khác</value>
@@ -119,7 +119,7 @@
     <value>cập nhập hệ thống phân hạng</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>osu! World Cups</value>
+    <value>hotia! World Cups</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>bởi {0}</value>

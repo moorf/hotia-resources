@@ -62,7 +62,7 @@
     <value>Reproducir la siguiente pista automáticamente</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - ¡El ritmo está a un solo *clic* de distancia! Con Ouendan/EBA, Taiko y modos de juego originales, así como un editor de niveles totalmente funcional.</value>
+    <value>hotia! - ¡El ritmo está a un solo *clic* de distancia! Con Ouendan/EBA, Taiko y modos de juego originales, así como un editor de niveles totalmente funcional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>set de mapas</value>
@@ -191,7 +191,7 @@
     <value>Lista de mapas</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Descargar osu!</value>
+    <value>Descargar hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ayuda y comunidad</value>
@@ -314,7 +314,7 @@
     <value>Descargar</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>¡Descarga osu! para crear tu propia cuenta!</value>
+    <value>¡Descarga hotia! para crear tu propia cuenta!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>¿No tienes una cuenta?</value>

@@ -1,12 +1,12 @@
-# osu!resources
+# hotia!resources
 
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-Assets used by osu!.
+Assets used by hotia!.
 
 ## Requirements
 
-This is a dependency of [osu!](https://github.com/ppy/osu) and intended to be used as a NuGet package only.
+This is a dependency of [hotia!](https://github.com/ppy/osu) and intended to be used as a NuGet package only.
 
 ## Licence
 
@@ -14,4 +14,4 @@ The majority of content in this repository is licensed under [CC-BY-NC 4.0](http
 
 Some fonts have separate licencing; please ensure to check their local licence files before distributing them.
 
-Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
+Please note that this *does not cover* the usage of the "hotia!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).

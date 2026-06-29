@@ -215,7 +215,7 @@
     <value>Wachtwoord</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Heb je geen osu! account? Maak een nieuwe</value>
+    <value>Heb je geen hotia! account? Maak een nieuwe</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Onthoud deze computer</value>
@@ -230,7 +230,7 @@
     <value>Beta toegang is momenteel beperkt voor bepaalde gebruikers.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporters krijgen binnenkort in)</value>
+    <value>(hotia!supporters krijgen binnenkort in)</value>
   </data>
   <data name="ogp.modding_description" xml:space="preserve">
     <value>Beatmaps: {0}</value>
@@ -329,10 +329,10 @@
     <value>Hier sinds het begin</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Werd lid op {0}</value>
@@ -398,7 +398,7 @@
     <value>Upload beschikbaar alleen voor {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>standaard spelmode</value>
@@ -497,7 +497,7 @@
     <value>Recente Kudosu Geschiedenis</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Totaal Aantal Kudosu Verdiend</value>
@@ -713,7 +713,7 @@
     <value>U moet een {0} zijn om deze functie te ontgrendelen.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Plaatste {0}</value>
@@ -803,7 +803,7 @@
     <value>registreer je alsjeblieft via de game client!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>voltooi alsjeblieft de registratie via de osu! website</value>
+    <value>voltooi alsjeblieft de registratie via de hotia! website</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Door gebruiker gemaakt</value>

@@ -218,7 +218,7 @@
     <value>Kata Laluan</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Tiada akaun osu!? Cipta satu sekarang</value>
+    <value>Tiada akaun hotia!? Cipta satu sekarang</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Ingat komputer ini</value>
@@ -233,7 +233,7 @@
     <value>Akses beta kini dihadkan kepada pengguna istimewa.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporters akan masuk sebentar lagi)</value>
+    <value>(hotia!supporters akan masuk sebentar lagi)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Giat</value>
@@ -302,7 +302,7 @@
     <value>Sila laporkan pelanggaran hak cipta melalui aduan Akta Hak Cipta Alaf Digital (DMCA) ke {0} sesuai dengan {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>dasar hak cipta osu!</value>
+    <value>dasar hak cipta hotia!</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Hal ini diterapkan sekiranya runut audio, kandungan tampak atau kandungan tahap peta rentak digunakan tanpa izin yang betul.</value>
@@ -353,10 +353,10 @@
     <value>Di sini sejak permulaan</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>pembangun osu!</value>
+    <value>pembangun hotia!</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Sertai {0}</value>
@@ -464,7 +464,7 @@
     <value>Muat naik tersedia untuk {0} sahaja</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>mod mainan asal</value>
@@ -482,7 +482,7 @@
     <value>Tema warna tersuai tersedia untuk {0} sahaja</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>tiada</value>
@@ -575,7 +575,7 @@
     <value>Sejarah Kudosu Semasa</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Jumlah Kudosu Diperoleh</value>
@@ -584,7 +584,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Pengguna ini belum pernah menerima kudosu!</value>
+    <value>Pengguna ini belum pernah menerima kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Memperoleh {0} dari pemansuhan penolakan kudosu untuk hantaran penyelarasan {1}</value>
@@ -791,7 +791,7 @@
     <value>Anda perlu menjadi {0} untuk membuka kunci ciri ini.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Menyumbang {0}</value>
@@ -890,7 +890,7 @@
     <value>sila mendaftar dari pelanggan mainan!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>sila lengkapkan pendaftaran melalui laman sesawang osu!</value>
+    <value>sila lengkapkan pendaftaran melalui laman sesawang hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Pengguna dicipta</value>

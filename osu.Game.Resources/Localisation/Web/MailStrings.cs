@@ -60,19 +60,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString DonationThanksFeedback => new TranslatableString(getKey(@"donation_thanks.feedback"), @"If you have any questions or feedback, don't hesitate to reply to this mail; I'll get back to you as soon as possible!");
 
         /// <summary>
-        /// "It is thanks to people like you that osu! is able to keep the game and community running smoothly without any advertisements or forced payments."
+        /// "It is thanks to people like you that hotia! is able to keep the game and community running smoothly without any advertisements or forced payments."
         /// </summary>
-        public static LocalisableString DonationThanksKeepFree => new TranslatableString(getKey(@"donation_thanks.keep_free"), @"It is thanks to people like you that osu! is able to keep the game and community running smoothly without any advertisements or forced payments.");
+        public static LocalisableString DonationThanksKeepFree => new TranslatableString(getKey(@"donation_thanks.keep_free"), @"It is thanks to people like you that hotia! is able to keep the game and community running smoothly without any advertisements or forced payments.");
 
         /// <summary>
-        /// "Your support keeps osu! running for around {0}! It may not seem like much, but it all adds up :)."
+        /// "Your support keeps hotia! running for around {0}! It may not seem like much, but it all adds up :)."
         /// </summary>
-        public static LocalisableString DonationThanksKeepRunning(LocalisableString minutes) => new TranslatableString(getKey(@"donation_thanks.keep_running"), @"Your support keeps osu! running for around {0}! It may not seem like much, but it all adds up :).", minutes);
+        public static LocalisableString DonationThanksKeepRunning(LocalisableString minutes) => new TranslatableString(getKey(@"donation_thanks.keep_running"), @"Your support keeps hotia! running for around {0}! It may not seem like much, but it all adds up :).", minutes);
 
         /// <summary>
-        /// "Thanks, osu! &lt;3s you"
+        /// "Thanks, hotia! &lt;3s you"
         /// </summary>
-        public static LocalisableString DonationThanksSubject => new TranslatableString(getKey(@"donation_thanks.subject"), @"Thanks, osu! <3s you");
+        public static LocalisableString DonationThanksSubject => new TranslatableString(getKey(@"donation_thanks.subject"), @"Thanks, hotia! <3s you");
 
         /// <summary>
         /// "A community-provided translation for informational purposes follows:"
@@ -80,19 +80,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString DonationThanksTranslation => new TranslatableString(getKey(@"donation_thanks.translation"), @"A community-provided translation for informational purposes follows:");
 
         /// <summary>
-        /// "Your giftee(s) will now have access to osu!direct and many other supporter benefits."
+        /// "Your giftee(s) will now have access to hotia!direct and many other supporter benefits."
         /// </summary>
-        public static LocalisableString DonationThanksBenefitGift => new TranslatableString(getKey(@"donation_thanks.benefit.gift"), @"Your giftee(s) will now have access to osu!direct and many other supporter benefits.");
+        public static LocalisableString DonationThanksBenefitGift => new TranslatableString(getKey(@"donation_thanks.benefit.gift"), @"Your giftee(s) will now have access to hotia!direct and many other supporter benefits.");
 
         /// <summary>
-        /// "You will now have access to osu!direct and many other supporter benefits for {0}."
+        /// "You will now have access to hotia!direct and many other supporter benefits for {0}."
         /// </summary>
-        public static LocalisableString DonationThanksBenefitSelf(LocalisableString duration) => new TranslatableString(getKey(@"donation_thanks.benefit.self"), @"You will now have access to osu!direct and many other supporter benefits for {0}.", duration);
+        public static LocalisableString DonationThanksBenefitSelf(LocalisableString duration) => new TranslatableString(getKey(@"donation_thanks.benefit.self"), @"You will now have access to hotia!direct and many other supporter benefits for {0}.", duration);
 
         /// <summary>
-        /// "Thanks a lot for your {0} towards osu!."
+        /// "Thanks a lot for your {0} towards hotia!."
         /// </summary>
-        public static LocalisableString DonationThanksSupportDefault(LocalisableString support) => new TranslatableString(getKey(@"donation_thanks.support._"), @"Thanks a lot for your {0} towards osu!.", support);
+        public static LocalisableString DonationThanksSupportDefault(LocalisableString support) => new TranslatableString(getKey(@"donation_thanks.support._"), @"Thanks a lot for your {0} towards hotia!.", support);
 
         /// <summary>
         /// "support"
@@ -110,9 +110,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ForumNewReplyNew(LocalisableString title) => new TranslatableString(getKey(@"forum_new_reply.new"), @"Just letting you know that there has been a new reply in ""{0}"" since your last visit.", title);
 
         /// <summary>
-        /// "[osu!] New reply for topic &quot;{0}&quot;"
+        /// "[hotia!] New reply for topic &quot;{0}&quot;"
         /// </summary>
-        public static LocalisableString ForumNewReplySubject(LocalisableString title) => new TranslatableString(getKey(@"forum_new_reply.subject"), @"[osu!] New reply for topic ""{0}""", title);
+        public static LocalisableString ForumNewReplySubject(LocalisableString title) => new TranslatableString(getKey(@"forum_new_reply.subject"), @"[hotia!] New reply for topic ""{0}""", title);
 
         /// <summary>
         /// "If you no longer wish to watch this topic, you can either click the &quot;Unsubscribe topic&quot; link found at the bottom of the topic above, or from topic subscriptions management page:"
@@ -130,14 +130,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PasswordResetCode => new TranslatableString(getKey(@"password_reset.code"), @"Your verification code is:");
 
         /// <summary>
-        /// "Either you or someone pretending to be you has requested a password reset on your osu! account."
+        /// "Either you or someone pretending to be you has requested a password reset on your hotia! account."
         /// </summary>
-        public static LocalisableString PasswordResetRequested => new TranslatableString(getKey(@"password_reset.requested"), @"Either you or someone pretending to be you has requested a password reset on your osu! account.");
+        public static LocalisableString PasswordResetRequested => new TranslatableString(getKey(@"password_reset.requested"), @"Either you or someone pretending to be you has requested a password reset on your hotia! account.");
 
         /// <summary>
-        /// "osu! account recovery"
+        /// "hotia! account recovery"
         /// </summary>
-        public static LocalisableString PasswordResetSubject => new TranslatableString(getKey(@"password_reset.subject"), @"osu! account recovery");
+        public static LocalisableString PasswordResetSubject => new TranslatableString(getKey(@"password_reset.subject"), @"hotia! account recovery");
 
         /// <summary>
         /// "We have received your payment and are preparing your order for shipping. It may take a few days for us to send it out, depending on the quantity of orders. You can follow the progress of your order here, including tracking details where available:"
@@ -160,14 +160,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString StorePaymentCompletedShipping => new TranslatableString(getKey(@"store_payment_completed.shipping"), @"Shipping");
 
         /// <summary>
-        /// "We received your osu!store order!"
+        /// "We received your hotia!store order!"
         /// </summary>
-        public static LocalisableString StorePaymentCompletedSubject => new TranslatableString(getKey(@"store_payment_completed.subject"), @"We received your osu!store order!");
+        public static LocalisableString StorePaymentCompletedSubject => new TranslatableString(getKey(@"store_payment_completed.subject"), @"We received your hotia!store order!");
 
         /// <summary>
-        /// "Thanks for your osu!store order!"
+        /// "Thanks for your hotia!store order!"
         /// </summary>
-        public static LocalisableString StorePaymentCompletedThankYou => new TranslatableString(getKey(@"store_payment_completed.thank_you"), @"Thanks for your osu!store order!");
+        public static LocalisableString StorePaymentCompletedThankYou => new TranslatableString(getKey(@"store_payment_completed.thank_you"), @"Thanks for your hotia!store order!");
 
         /// <summary>
         /// "Total"
@@ -185,9 +185,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupporterGiftAnonymousGiftMaybeNot => new TranslatableString(getKey(@"supporter_gift.anonymous_gift_maybe_not"), @"But you likely already know who it is ;).");
 
         /// <summary>
-        /// "Thanks to them, you have access to osu!direct and other osu!supporter benefits for the next {0}."
+        /// "Thanks to them, you have access to hotia!direct and other hotia!supporter benefits for the next {0}."
         /// </summary>
-        public static LocalisableString SupporterGiftDuration(LocalisableString duration) => new TranslatableString(getKey(@"supporter_gift.duration"), @"Thanks to them, you have access to osu!direct and other osu!supporter benefits for the next {0}.", duration);
+        public static LocalisableString SupporterGiftDuration(LocalisableString duration) => new TranslatableString(getKey(@"supporter_gift.duration"), @"Thanks to them, you have access to hotia!direct and other hotia!supporter benefits for the next {0}.", duration);
 
         /// <summary>
         /// "You can find out more details on these features here:"
@@ -195,9 +195,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupporterGiftFeatures => new TranslatableString(getKey(@"supporter_gift.features"), @"You can find out more details on these features here:");
 
         /// <summary>
-        /// "Someone has just gifted you an osu!supporter tag!"
+        /// "Someone has just gifted you an hotia!supporter tag!"
         /// </summary>
-        public static LocalisableString SupporterGiftGifted => new TranslatableString(getKey(@"supporter_gift.gifted"), @"Someone has just gifted you an osu!supporter tag!");
+        public static LocalisableString SupporterGiftGifted => new TranslatableString(getKey(@"supporter_gift.gifted"), @"Someone has just gifted you an hotia!supporter tag!");
 
         /// <summary>
         /// "The person who gifted you this tag left you a message:"
@@ -205,19 +205,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupporterGiftGiftMessage => new TranslatableString(getKey(@"supporter_gift.gift_message"), @"The person who gifted you this tag left you a message:");
 
         /// <summary>
-        /// "You have been gifted an osu!supporter tag!"
+        /// "You have been gifted an hotia!supporter tag!"
         /// </summary>
-        public static LocalisableString SupporterGiftSubject => new TranslatableString(getKey(@"supporter_gift.subject"), @"You have been gifted an osu!supporter tag!");
+        public static LocalisableString SupporterGiftSubject => new TranslatableString(getKey(@"supporter_gift.subject"), @"You have been gifted an hotia!supporter tag!");
 
         /// <summary>
-        /// "This is a confirmation email to inform you that your osu! email address has been changed to: &quot;{0}&quot;."
+        /// "This is a confirmation email to inform you that your hotia! email address has been changed to: &quot;{0}&quot;."
         /// </summary>
-        public static LocalisableString UserEmailUpdatedChangedTo(LocalisableString email) => new TranslatableString(getKey(@"user_email_updated.changed_to"), @"This is a confirmation email to inform you that your osu! email address has been changed to: ""{0}"".", email);
+        public static LocalisableString UserEmailUpdatedChangedTo(LocalisableString email) => new TranslatableString(getKey(@"user_email_updated.changed_to"), @"This is a confirmation email to inform you that your hotia! email address has been changed to: ""{0}"".", email);
 
         /// <summary>
-        /// "Please ensure that you received this email at your new address to prevent losing access your osu! account in the future."
+        /// "Please ensure that you received this email at your new address to prevent losing access your hotia! account in the future."
         /// </summary>
-        public static LocalisableString UserEmailUpdatedCheck => new TranslatableString(getKey(@"user_email_updated.check"), @"Please ensure that you received this email at your new address to prevent losing access your osu! account in the future.");
+        public static LocalisableString UserEmailUpdatedCheck => new TranslatableString(getKey(@"user_email_updated.check"), @"Please ensure that you received this email at your new address to prevent losing access your hotia! account in the future.");
 
         /// <summary>
         /// "For security reasons, this email has been sent both to your new and old email address."
@@ -225,9 +225,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserEmailUpdatedSent => new TranslatableString(getKey(@"user_email_updated.sent"), @"For security reasons, this email has been sent both to your new and old email address.");
 
         /// <summary>
-        /// "osu! email change confirmation"
+        /// "hotia! email change confirmation"
         /// </summary>
-        public static LocalisableString UserEmailUpdatedSubject => new TranslatableString(getKey(@"user_email_updated.subject"), @"osu! email change confirmation");
+        public static LocalisableString UserEmailUpdatedSubject => new TranslatableString(getKey(@"user_email_updated.subject"), @"hotia! email change confirmation");
 
         /// <summary>
         /// "Your account is suspected to have been compromised, has recent suspicious activity or a VERY weak password. As a result, we require you to set a new password. Please make sure to choose a SECURE password."
@@ -245,9 +245,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserForceReactivationReason => new TranslatableString(getKey(@"user_force_reactivation.reason"), @"Reason:");
 
         /// <summary>
-        /// "osu! Account Reactivation Required"
+        /// "hotia! Account Reactivation Required"
         /// </summary>
-        public static LocalisableString UserForceReactivationSubject => new TranslatableString(getKey(@"user_force_reactivation.subject"), @"osu! Account Reactivation Required");
+        public static LocalisableString UserForceReactivationSubject => new TranslatableString(getKey(@"user_force_reactivation.subject"), @"hotia! Account Reactivation Required");
 
         /// <summary>
         /// "Just letting you know that there have been new updates on items you are watching."
@@ -260,19 +260,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserNotificationDigestSettings => new TranslatableString(getKey(@"user_notification_digest.settings"), @"Change email notification preferences:");
 
         /// <summary>
-        /// "New osu! notifications"
+        /// "New hotia! notifications"
         /// </summary>
-        public static LocalisableString UserNotificationDigestSubject => new TranslatableString(getKey(@"user_notification_digest.subject"), @"New osu! notifications");
+        public static LocalisableString UserNotificationDigestSubject => new TranslatableString(getKey(@"user_notification_digest.subject"), @"New hotia! notifications");
 
         /// <summary>
-        /// "This is just a confirmation that your osu! password has been changed."
+        /// "This is just a confirmation that your hotia! password has been changed."
         /// </summary>
-        public static LocalisableString UserPasswordUpdatedConfirmation => new TranslatableString(getKey(@"user_password_updated.confirmation"), @"This is just a confirmation that your osu! password has been changed.");
+        public static LocalisableString UserPasswordUpdatedConfirmation => new TranslatableString(getKey(@"user_password_updated.confirmation"), @"This is just a confirmation that your hotia! password has been changed.");
 
         /// <summary>
-        /// "osu! password change confirmation"
+        /// "hotia! password change confirmation"
         /// </summary>
-        public static LocalisableString UserPasswordUpdatedSubject => new TranslatableString(getKey(@"user_password_updated.subject"), @"osu! password change confirmation");
+        public static LocalisableString UserPasswordUpdatedSubject => new TranslatableString(getKey(@"user_password_updated.subject"), @"hotia! password change confirmation");
 
         /// <summary>
         /// "Your verification code is:"
@@ -295,9 +295,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserVerificationReport => new TranslatableString(getKey(@"user_verification.report"), @"If you did not request this, please REPLY IMMEDIATELY as your account may be in danger.");
 
         /// <summary>
-        /// "osu! account verification"
+        /// "hotia! account verification"
         /// </summary>
-        public static LocalisableString UserVerificationSubject => new TranslatableString(getKey(@"user_verification.subject"), @"osu! account verification");
+        public static LocalisableString UserVerificationSubject => new TranslatableString(getKey(@"user_verification.subject"), @"hotia! account verification");
 
         /// <summary>
         /// "An action performed on your account from {0} requires verification."

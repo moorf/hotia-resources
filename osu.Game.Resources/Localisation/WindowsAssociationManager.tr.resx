@@ -59,18 +59,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="osu_beatmap" xml:space="preserve">
-    <value>osu! Harita</value>
+    <value>hotia! Harita</value>
   </data>
   <data name="osu_replay" xml:space="preserve">
-    <value>osu! Maç tekrarı</value>
+    <value>hotia! Maç tekrarı</value>
   </data>
   <data name="osu_skin" xml:space="preserve">
-    <value>osu! Görünümü</value>
+    <value>hotia! Görünümü</value>
   </data>
   <data name="osu_protocol" xml:space="preserve">
-    <value>osu!</value>
+    <value>hotia!</value>
   </data>
   <data name="osu_multiplayer" xml:space="preserve">
-    <value>osu! Çok Oyunculu</value>
+    <value>hotia! Çok Oyunculu</value>
   </data>
 </root>

@@ -83,7 +83,7 @@
     <value>Käyttöliittymän äänet</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu!-musiikin teema</value>
+    <value>hotia!-musiikin teema</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Alkuanimaatio</value>
@@ -95,7 +95,7 @@
     <value>Kausittaiset taustat</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Tämä asetus tulee voimaan silloin, kun sinulla on voimassa oleva osu!tukijamerkki.</value>
+    <value>Tämä asetus tulee voimaan silloin, kun sinulla on voimassa oleva hotia!tukijamerkki.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Kappalevalikko</value>

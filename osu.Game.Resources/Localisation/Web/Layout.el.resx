@@ -62,7 +62,7 @@
     <value>Αυτόματη αναπαραγωγή επόμενου κομματιού</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ο ρυθμός είναι μόνο ένα *κλικ* μακριά! Με Ouendan/EBA, Taiko και αυθεντικά gameplay modes, καθώς και έναν πλήρως λειτουργικό level editor.</value>
+    <value>hotia! - Ο ρυθμός είναι μόνο ένα *κλικ* μακριά! Με Ouendan/EBA, Taiko και αυθεντικά gameplay modes, καθώς και έναν πλήρως λειτουργικό level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Λίστα Beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Κατεβάστε το osu!</value>
+    <value>Κατεβάστε το hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Βοήθεια &amp; Κοινότητα</value>

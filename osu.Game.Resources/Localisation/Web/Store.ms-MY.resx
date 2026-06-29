@@ -107,7 +107,7 @@
     <value>Kami kini dilandai banyak pesanan! Anda dialu-alukan meletak pesanan anda tetapi sila jangkakan **kelewatan 1-2 minggu** sambil kami mengurus pesanan yang ada.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Sorok semua tag osu!supporter dalam pesanan ini dari aktivitiku</value>
+    <value>Sorok semua tag hotia!supporter dalam pesanan ini dari aktivitiku</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Troli anda nampaknya usang dan sudah dimuat semula, sila cuba lagi.</value>
@@ -149,7 +149,7 @@
     <value>Bayaran eCheck ditolak oleh PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>Tag osu!supporter dalam urutan ini tidak dipaparkan dalam aktiviti terkini anda.</value>
+    <value>Tag hotia!supporter dalam urutan ini tidak dipaparkan dalam aktiviti terkini anda.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Dihantar Melalui:</value>
@@ -170,7 +170,7 @@
     <value>Sekiranya anda tidak meminta pembatalan, sila hubungi {0} dan sebutkan angka pesanan anda (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>sokongan osu!store</value>
+    <value>sokongan hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Pesanan anda telah dihantar! Semoga anda menikmatinya!</value>
@@ -179,7 +179,7 @@
     <value>Sekiranya anda mempunyai isu dengan pembelian anda, sila hubungi {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>sokongan osu!store</value>
+    <value>sokongan hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Pesanan anda kini disiapkan!</value>
@@ -359,7 +359,7 @@
     <value>tambahkan pesanan pilihan pada hadiah anda! (hingga {0} characters)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Anda perlu {0} untuk mendapat tag osu!supporter!</value>
+    <value>Anda perlu {0} untuk mendapat tag hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>mendaftar masuk</value>

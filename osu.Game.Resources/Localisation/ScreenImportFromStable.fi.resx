@@ -62,13 +62,13 @@
     <value>Tuo sisältöä</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Jos sinulla on aiemman osu!-version asennus, voit halutessasi siirtää olemassa olevan sisältösi. Huomaa, ettei tämä vaikuta aiemman asennuksen tiedostoihin millään tavalla.</value>
+    <value>Jos sinulla on aiemman hotia!-version asennus, voit halutessasi siirtää olemassa olevan sisältösi. Huomaa, ettei tämä vaikuta aiemman asennuksen tiedostoihin millään tavalla.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>aiempi osu!n asennus</value>
+    <value>aiempi hotia!n asennus</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Etsi aiempi osu!n asennus napsauttamalla</value>
+    <value>Etsi aiempi hotia!n asennus napsauttamalla</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Tuo sisältöä aiemmasta versiosta</value>
@@ -92,9 +92,9 @@
     <value>Kevyitä linkityksiä ei vielä tueta käyttöjärjestelmässäsi, joten kaikista tiedostoista luodaan kopio tuonnin aikana.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Toinen kopio kaikista tiedostoista luodaan tuonnin aikana. Välttääksesi tämän, varmista, että lazerin datakansio on samalla levyllä kuin aiempi osu! -asennuksesi (ja, että tiedostojärjestelmä on NTFS-muotoa).</value>
+    <value>Toinen kopio kaikista tiedostoista luodaan tuonnin aikana. Välttääksesi tämän, varmista, että lazerin datakansio on samalla levyllä kuin aiempi hotia! -asennuksesi (ja, että tiedostojärjestelmä on NTFS-muotoa).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Toinen kopio kaikista tiedostoista luodaan tuonnin aikana. Välttääksesi tämän, varmista, että lazerin datakansio on samalla levyllä kuin aiempi osu! -asennuksesi (ja, että tiedostojärjestelmä tukee kovia linkkejä).</value>
+    <value>Toinen kopio kaikista tiedostoista luodaan tuonnin aikana. Välttääksesi tämän, varmista, että lazerin datakansio on samalla levyllä kuin aiempi hotia! -asennuksesi (ja, että tiedostojärjestelmä tukee kovia linkkejä).</value>
   </data>
 </root>

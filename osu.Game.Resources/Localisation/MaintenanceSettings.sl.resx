@@ -80,10 +80,10 @@
     <value>Prosimo izberi novo lokacijo</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>Zdi se, da je v ciljni mapi že nameščen osu! Uporabimo te podatke?</value>
+    <value>Zdi se, da je v ciljni mapi že nameščen hotia! Uporabimo te podatke?</value>
   </data>
   <data name="restart_and_re_open_required_for_completion" xml:space="preserve">
-    <value>Za dokončanje te operacije se bo osu! zaprl. Ponovno ga odpri in uporabi novo lokacijo za podatke.</value>
+    <value>Za dokončanje te operacije se bo hotia! zaprl. Ponovno ga odpri in uporabi novo lokacijo za podatke.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Odstrani VSE beatmape</value>
@@ -122,6 +122,6 @@
     <value>Vse odstranjene prednastavitve modifikatorjev so bile povrnjene!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Prosimo izberi lokacijo namestitve osu!stable</value>
+    <value>Prosimo izberi lokacijo namestitve hotia!stable</value>
   </data>
 </root>

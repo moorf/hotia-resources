@@ -62,22 +62,22 @@
     <value>Jeg er overbevist! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>støtt osu!</value>
+    <value>støtt hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>eller gi support i gave til andre spillere</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>klikk på hjerteknappen for å fortsette til osu!store</value>
+    <value>klikk på hjerteknappen for å fortsette til hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Hvorfor bør jeg støtte osu!? Hvor går pengene hen?</value>
+    <value>Hvorfor bør jeg støtte hotia!? Hvor går pengene hen?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Støtt skaperene</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>En liten gruppe mennesker utvikler osu! Din støtte hjelper dem med å, du vet.... overleve.</value>
+    <value>En liten gruppe mennesker utvikler hotia! Din støtte hjelper dem med å, du vet.... overleve.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infrastruktur til servere</value>
@@ -89,13 +89,13 @@
     <value>Utvalgte artister</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Med din støtte kan vi oppsøke sende enda flere fantastiske artister og lisensiere mer utrolig musikk for bruk i osu!</value>
+    <value>Med din støtte kan vi oppsøke sende enda flere fantastiske artister og lisensiere mer utrolig musikk for bruk i hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Vis gjeldene artister &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Hold osu! selvstendig</value>
+    <value>Hold hotia! selvstendig</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Bidragene dine hjelper med å holde spillet uavhengig og helt uten annonser og sponsorer.</value>
@@ -104,7 +104,7 @@
     <value>Offisielle Turneringer</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Hjelp til med å finansiere arrangeringen (og premienepotten) til de offisielle verdensmesterskapsturneringene i osu!</value>
+    <value>Hjelp til med å finansiere arrangeringen (og premienepotten) til de offisielle verdensmesterskapsturneringene i hotia!</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Se turneringer &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Program for åpen kildekode</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Støtt samfunnets bidragsytere som har gitt tid og krefter til å gjøre osu! bedre.</value>
+    <value>Støtt samfunnets bidragsytere som har gitt tid og krefter til å gjøre hotia! bedre.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Les mer &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Å? Hva får jeg?!</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>rask og enkel tilgang til beatmaps uten å forlate spillet.</value>
@@ -185,7 +185,7 @@
     <value>Raske nedlastinger</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Mildere restriksjoner på nedlastinger, særlig når du benytter deg av osu!direct.</value>
+    <value>Mildere restriksjoner på nedlastinger, særlig når du benytter deg av hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Bytt brukernavn</value>
@@ -236,12 +236,12 @@
     <value>Konkurrer med vennene dine og se hvordan du rangerer opp mot dem!</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Du har ikke en osu!supporter tag ennå :(</value>
+    <value>Du har ikke en hotia!supporter tag ennå :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Din gjeldende osu!supporter tag gjelder inntil {0}!</value>
+    <value>Din gjeldende hotia!supporter tag gjelder inntil {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Din osu!supporter tag gjaldt inntil {0}.</value>
+    <value>Din hotia!supporter tag gjaldt inntil {0}.</value>
   </data>
 </root>

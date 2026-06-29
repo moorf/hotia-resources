@@ -170,7 +170,7 @@
     <value>如果并不是您本人取消，请联系 {0} 并提供您的订单号（#{1}）。</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store 支持</value>
+    <value>hotia!store 支持</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>您的订单已经送达！享受这一刻吧！</value>
@@ -179,7 +179,7 @@
     <value>如果您对此次购买有任何疑问，请联系 {0}。</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store 支持</value>
+    <value>hotia!store 支持</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>正在准备您的订单！</value>
@@ -359,7 +359,7 @@
     <value>给礼物留下附言吧！（可选，至多 {0} 个字符）</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>您需要 {0} 以获得 osu! 支持者标签！</value>
+    <value>您需要 {0} 以获得 hotia! 支持者标签！</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>登录</value>

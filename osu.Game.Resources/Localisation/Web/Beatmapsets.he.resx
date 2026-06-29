@@ -89,7 +89,7 @@
     <value>להוריד בלי סירטון</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>פתח ב- osu!direct</value>
+    <value>פתח ב- hotia!direct</value>
   </data>
   <data name="nominate.hybrid_requires_modes" xml:space="preserve">
     <value>הכלאת קבוצה של מפות מתבקש ממך לבחור לפחות מצב אחד בשביל לדרג את המפה.</value>
@@ -233,7 +233,7 @@
     <value>לחץ &lt;a href="{0}"&gt;כאן&lt;/a&gt; כדי לראות את כל הפיצ'רים המגניבים שאתה מקבל!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>אתה צריך להיות osu!supporter כדי לגשת לדירוג חברים ומדינה!</value>
+    <value>אתה צריך להיות hotia!supporter כדי לגשת לדירוג חברים ומדינה!</value>
   </data>
   <data name="show.scoreboard.title" xml:space="preserve">
     <value>לוח תוצאות</value>

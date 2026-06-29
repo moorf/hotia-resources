@@ -62,14 +62,14 @@
     <value>Преузимање Мапе</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>„Мапе“ су оно што називамо нивоима који се могу играти. osu! не долази са унапред учитаним мапом. Овај корак ће вам помоћи да почнете са својом колекцијом мапа.
+    <value>„Мапе“ су оно што називамо нивоима који се могу играти. hotia! не долази са унапред учитаним мапом. Овај корак ће вам помоћи да почнете са својом колекцијом мапа.
 </value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Ако сте нови играч, препоручујемо вам да играте кроз туторијал да бисте се навикли на игру.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Узми osu! туторијал</value>
+    <value>Узми hotia! туторијал</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Да бисте започели, можемо вам препоручити неке мапе.</value>

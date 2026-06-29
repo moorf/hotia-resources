@@ -62,7 +62,7 @@
     <value>Sıradaki parçayı otomatik oynat</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ritim sadece bir *tık* uzakta! Ouendan/EBA, Taiko ve orijinal oyun modlarıyla, hem de tamamiyle işlevsel seviye editörüyle beraber.</value>
+    <value>hotia! - Ritim sadece bir *tık* uzakta! Ouendan/EBA, Taiko ve orijinal oyun modlarıyla, hem de tamamiyle işlevsel seviye editörüyle beraber.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmap seti</value>
@@ -188,7 +188,7 @@
     <value>Beatmap Kataloğu</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>osu!'yu indir!</value>
+    <value>hotia!'yu indir!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Yardım &amp; Topluluk</value>
@@ -308,7 +308,7 @@
     <value>İndir</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Hesabınızı oluşturmak için osu!'yu indirin!</value>
+    <value>Hesabınızı oluşturmak için hotia!'yu indirin!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Hesabın yok mu?</value>

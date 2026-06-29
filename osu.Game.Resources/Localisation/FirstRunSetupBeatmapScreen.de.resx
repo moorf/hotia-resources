@@ -62,13 +62,13 @@
     <value>Beatmaps erhalten</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Spielbare Level nennen wir "Beatmaps". osu! enthält keine vorinstallierten Beatmaps. Dieser Schritt wird dir helfen, deine Beatmapsammlung zu eröffnen.</value>
+    <value>Spielbare Level nennen wir "Beatmaps". hotia! enthält keine vorinstallierten Beatmaps. Dieser Schritt wird dir helfen, deine Beatmapsammlung zu eröffnen.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Falls du ein neuer Spieler bist, empfehlen wir dir das Tutorial durchzuspielen, um dich an das Gameplay zu gewöhnen.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>osu!-Tutorial herunterladen</value>
+    <value>hotia!-Tutorial herunterladen</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Für den Einstieg haben wir hier einige empfohlene Beatmaps.</value>

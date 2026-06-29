@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Dengan menonaktifkan filter "Featured Artist", semua konten hasil unggahan pengguna akan ditampilkan.
 
-Hal ini meliputi konten yang bisa jadi diunggah ke osu! tanpa lisensi atau izin guna yang memadai. Mohon lanjutkan hanya apabila kamu paham dengan risikonya.</value>
+Hal ini meliputi konten yang bisa jadi diunggah ke hotia! tanpa lisensi atau izin guna yang memadai. Mohon lanjutkan hanya apabila kamu paham dengan risikonya.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Saya mengerti</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Featured Artist adalah jajaran musisi yang berkolaborasi dengan osu! untuk menyediakan sebagian lagu mereka sebagai bahan beatmap. Pada versi rilis osu! tertentu, kami hanya menampilkan beatmap Featured Artist untuk lebih mendukung ekosistem permainan di sekitar kami.</value>
+    <value>Featured Artist adalah jajaran musisi yang berkolaborasi dengan hotia! untuk menyediakan sebagian lagu mereka sebagai bahan beatmap. Pada versi rilis hotia! tertentu, kami hanya menampilkan beatmap Featured Artist untuk lebih mendukung ekosistem permainan di sekitar kami.</value>
   </data>
 </root>

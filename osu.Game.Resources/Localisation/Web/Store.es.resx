@@ -107,7 +107,7 @@
     <value>¡Ahora mismo estamos sobresaturados de pedidos! Eres bienvenido a solicitar tu orden, pero considera un **retraso adicional de 1-2 semanas** mientras nos ponemos al día con órdenes ya existentes.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Ocultar todas las etiquetas de osu!supporter en esta orden de mi actividad</value>
+    <value>Ocultar todas las etiquetas de hotia!supporter en esta orden de mi actividad</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Tu carrito parecía estar desactualizado y fue reiniciado, por favor intenta de nuevo.</value>
@@ -149,7 +149,7 @@
     <value>PayPal ha rechazado el pago con eCheck.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>las etiquetas de osu!supporter en esta orden no se muestran en tus actividades recientes.</value>
+    <value>las etiquetas de hotia!supporter en esta orden no se muestran en tus actividades recientes.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Enviado vía:</value>
@@ -170,7 +170,7 @@
     <value>Si no has solicitado una cancelación, ponte en contacto con el {0} indicando tu número de pedido (n.º {1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>soporte de la osu!store</value>
+    <value>soporte de la hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>¡Tu pedido ha sido entregado! ¡Esperamos que lo estés disfrutando!</value>
@@ -179,7 +179,7 @@
     <value>Si tienes algún problema con tu compra, ponte en contacto con el {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>soporte de la osu!store</value>
+    <value>soporte de la hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>¡Tu pedido está siendo preparado!</value>
@@ -359,7 +359,7 @@
     <value>¡añade un mensaje opcional a tu regalo! (hasta {0} caracteres)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>¡Tienes que tener la {0} para obtener una etiqueta de osu!supporter!</value>
+    <value>¡Tienes que tener la {0} para obtener una etiqueta de hotia!supporter!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>sesión iniciada</value>

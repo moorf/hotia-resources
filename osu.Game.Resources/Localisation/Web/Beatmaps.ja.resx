@@ -503,7 +503,7 @@
     <value>このページに表示されているプロフィールのトップランク数および実績は、各譜面におけるあなたの最高「標準化」（別名 "lazer"）スコアに基づいています。</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>{0} による絞り込みにはosu!サポータータグが必要です</value>
+    <value>{0} による絞り込みにはhotia!サポータータグが必要です</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>該当結果なし</value>
@@ -572,7 +572,7 @@
     <value>{0} による絞り込みには有効な{1} が必要です</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!サポータータグ</value>
+    <value>hotia!サポータータグ</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>ユーザータグで検索する</value>

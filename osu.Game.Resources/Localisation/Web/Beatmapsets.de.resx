@@ -68,7 +68,7 @@
     <value>Siehe hier für mehr Informationen.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Einige in dieser Beatmap enthaltene Assets wurden entfernt, nachdem sie als nicht für die Verwendung in osu! geeignet eingestuft worden waren.</value>
+    <value>Einige in dieser Beatmap enthaltene Assets wurden entfernt, nachdem sie als nicht für die Verwendung in hotia! geeignet eingestuft worden waren.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Gelöschte Beatmap</value>
@@ -101,7 +101,7 @@
     <value>ohne Video herunterladen</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>in osu!direct öffnen</value>
+    <value>in hotia!direct öffnen</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Probationäre Ernenner können nicht mehrere Regelsätze nominieren.</value>
@@ -332,7 +332,7 @@
     <value>&lt;a href="{0}"&gt;Hier&lt;/a&gt; klicken, um all die tollen Features zu entdecken!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Du musst osu!supporter sein, um Freundes-, Länder-, oder Mod-Ranglisten zu sehen!</value>
+    <value>Du musst hotia!supporter sein, um Freundes-, Länder-, oder Mod-Ranglisten zu sehen!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Team-Rangliste</value>

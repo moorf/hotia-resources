@@ -233,7 +233,7 @@
     <value>L'accés a la fase beta està restringit a usuaris privilegiats.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(els osu!supporters tindran accés aviat)</value>
+    <value>(els hotia!supporters tindran accés aviat)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Actiu</value>
@@ -302,7 +302,7 @@
     <value>Informeu de la infracció dels drets d'autor a través d'una reclamació DMCA a {0} segons {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>la política de drets d'autor d'osu!</value>
+    <value>la política de drets d'autor d'hotia!</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Això s'aplica en casos on es fan servir pistes d'àudio, contingut visual o contingut de mapes sense els permisos apropiats.</value>
@@ -353,10 +353,10 @@
     <value>Aquí des del principi</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Membre des de {0}</value>
@@ -464,7 +464,7 @@
     <value>Càrrega disponible només per a {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>mode de joc per defecte</value>
@@ -482,7 +482,7 @@
     <value>Els temes de colors personalitzats només estan disponibles per a {0}.</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>cap</value>
@@ -578,7 +578,7 @@
     <value>Historial de Kudosu recent</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kudosu total obtingut</value>
@@ -587,7 +587,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Aquest usuari no ha rebut cap kudosu!</value>
+    <value>Aquest usuari no ha rebut cap kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Ha rebut {0} de revocació de negació de kudosu per la publicació de modding {1}</value>
@@ -800,7 +800,7 @@
     <value>Has de ser {0} per a desbloquejar aquesta funció.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Ha contribuït amb {0}</value>
@@ -899,7 +899,7 @@
     <value>si us plau, registreu-vos a través del client del joc!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>si us plau, completeu el registre mitjançant el lloc web d'osu!</value>
+    <value>si us plau, completeu el registre mitjançant el lloc web d'hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Usuari creat</value>

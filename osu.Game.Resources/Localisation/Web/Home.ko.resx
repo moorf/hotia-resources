@@ -308,13 +308,13 @@
     <value>{0} 후에 초기화</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu! 다운로드</value>
+    <value>hotia! 다운로드</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu! 지원하기</value>
+    <value>hotia! 지원하기</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>추천 라이브 스트림</value>

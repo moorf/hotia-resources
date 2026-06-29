@@ -244,7 +244,7 @@
     <value>pokloni igraču</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Moraš biti {0} da dobiješ osu!supporter oznaku!</value>
+    <value>Moraš biti {0} da dobiješ hotia!supporter oznaku!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>prijavljen</value>

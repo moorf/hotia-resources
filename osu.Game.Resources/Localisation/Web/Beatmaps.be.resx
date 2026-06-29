@@ -500,7 +500,7 @@
     <value>Больш параметраў пошуку</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Фільтрацыя па {0} патрабуе наяўнасці актыўнага тэга osu!supporter</value>
+    <value>Фільтрацыя па {0} патрабуе наяўнасці актыўнага тэга hotia!supporter</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>няма вынікаў</value>
@@ -569,7 +569,7 @@
     <value>Фільтрацыі па {0} патрабуецца {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>тэг osu!supporter</value>
+    <value>тэг hotia!supporter</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Уключыць канвертаваныя бітмапы</value>

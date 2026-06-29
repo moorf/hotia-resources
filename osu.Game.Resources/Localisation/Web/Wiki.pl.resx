@@ -74,7 +74,7 @@
     <value>Poszukiwana strona nie została odnaleziona dla aktualnie wybranego języka.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Ta strona nie spełnia standardów wiki osu! i wymaga poprawek. Jeżeli chcesz pomóc, zaktualizuj informacje w artykule!</value>
+    <value>Ta strona nie spełnia standardów wiki hotia! i wymaga poprawek. Jeżeli chcesz pomóc, zaktualizuj informacje w artykule!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Przeszukaj istniejące strony, używając frazy {0}.</value>

@@ -218,7 +218,7 @@
     <value>密码</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>没有 osu! 账户？现在就注册一个！</value>
+    <value>没有 hotia! 账户？现在就注册一个！</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>在这台电脑上记住我</value>
@@ -233,7 +233,7 @@
     <value>Beta 仅限于特定用户访问</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>（在不久后将对 osu! 支持者开放）</value>
+    <value>（在不久后将对 hotia! 支持者开放）</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>正在进行</value>
@@ -302,7 +302,7 @@
     <value>请根据 {0} 向 {1} 以 DMCA 的形式报告侵权行为。</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu! 版权政策</value>
+    <value>hotia! 版权政策</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>这适用于在没有正确权限的情况下使用音轨、视觉内容或谱面内容的情况。</value>
@@ -353,10 +353,10 @@
     <value>元老玩家</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu! 开发者</value>
+    <value>hotia! 开发者</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>hotia! 支持者</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>注册于 {0}</value>
@@ -464,7 +464,7 @@
     <value>自定义头图只有 {0} 可用</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>hotia! 支持者</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>默认游戏模式</value>
@@ -482,7 +482,7 @@
     <value>自定义色彩主题只有 {0} 可用</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>hotia! 支持者</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>无</value>
@@ -578,7 +578,7 @@
     <value>最近 Kudosu 记录</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kudosu 总数</value>
@@ -800,7 +800,7 @@
     <value>需要成为 {0} 才能使用此功能。</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu! 支持者</value>
+    <value>hotia! 支持者</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>发表了 {0}</value>

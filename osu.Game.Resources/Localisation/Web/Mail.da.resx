@@ -89,25 +89,25 @@
     <value>Hvis du har nogen spørgsmål så tøv ikke med at svare på denne mail; Jeg vil vende tilbage til dem snarest muligt!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Det er takket være folk som dig at osu! kan blive ved med at holde spillet og fællesskabet kørende uden problemer eller nogen former for betaling.</value>
+    <value>Det er takket være folk som dig at hotia! kan blive ved med at holde spillet og fællesskabet kørende uden problemer eller nogen former for betaling.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Din støtte holder osu! kørende for omtrent {0}! Det ser måske ikke ud af meget, men hver en krone hjælper :).</value>
+    <value>Din støtte holder hotia! kørende for omtrent {0}! Det ser måske ikke ud af meget, men hver en krone hjælper :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Tak, osu! elsker dig! &lt;3</value>
+    <value>Tak, hotia! elsker dig! &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>En oversættelse lavet af frivillige følger:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Personen/personerne som du har givet supporter til har nu adgang til osu!direct samt mange andre supporter fordele.</value>
+    <value>Personen/personerne som du har givet supporter til har nu adgang til hotia!direct samt mange andre supporter fordele.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Du har nu adgang til osu!direct samt mange andre supporter fordele i {0}.</value>
+    <value>Du har nu adgang til hotia!direct samt mange andre supporter fordele i {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Mange tak for din {0} til osu!.</value>
+    <value>Mange tak for din {0} til hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>support</value>
@@ -119,7 +119,7 @@
     <value>Der har været et nyt svar i "{0}" siden dit sidste besøg.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nyt svar for emne "{0}"</value>
+    <value>[hotia!] Nyt svar for emne "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Hvis du ikke længere ønsker at følge dette emne kan du enten klikke på "Følg ikke emne" linket fundet nederst på ovenstående emner, eller fra emne følgesiden:</value>
@@ -131,10 +131,10 @@
     <value>Din bekræftelseskode er:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Enten dig eller nogen som lader til at være dig har anmodet om adgang til et nyt kodeord på din osu! account.</value>
+    <value>Enten dig eller nogen som lader til at være dig har anmodet om adgang til et nyt kodeord på din hotia! account.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>osu! konto genoprettelse</value>
+    <value>hotia! konto genoprettelse</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Vi har modtaget din betaling og er i gang med at klargøre din ordre til shipping. Det kan tage et par dage for os at sende den afsted afhængigt af mængden af ordrer. Du kan følge processen her, inklusiv tracking detaljer hvor det er tilgængeligt:</value>
@@ -149,10 +149,10 @@
     <value>Forsendelse</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Vi har modtaget din osu!store bestilling!</value>
+    <value>Vi har modtaget din hotia!store bestilling!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Tak for din osu!store ordre!</value>
+    <value>Tak for din hotia!store ordre!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>I alt</value>
@@ -164,31 +164,31 @@
     <value>Men du ved sikkert allerede hvem det er ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Takket være dem har du nu adgang til osu!direct og andre osu!supporter goder i de næste {0}.</value>
+    <value>Takket være dem har du nu adgang til hotia!direct og andre hotia!supporter goder i de næste {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Du kan finde flere detaljer omkring disse goder her:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Nogen har givet dig et osu!supporter tag!</value>
+    <value>Nogen har givet dig et hotia!supporter tag!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Den person, der gav dig dette tag, efterlod en besked til dig:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Du er blevet givet et osu!supporter tag!</value>
+    <value>Du er blevet givet et hotia!supporter tag!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Dette er en bekræftelses-mail for at informere dig om at din osu! mail-adresse er blevet ændret til: "{0}".</value>
+    <value>Dette er en bekræftelses-mail for at informere dig om at din hotia! mail-adresse er blevet ændret til: "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Sikr dig venligst at du modtog denne mail ved din nye addresse for at forhindre at du mister adgangen til din osu! account i fremtiden.</value>
+    <value>Sikr dig venligst at du modtog denne mail ved din nye addresse for at forhindre at du mister adgangen til din hotia! account i fremtiden.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Af sikkerhedsgrunde blev denne mail sendt til både din nye og gamle mail-addresse.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>Bekræftelse for opdatering af osu! email-adresse</value>
+    <value>Bekræftelse for opdatering af hotia! email-adresse</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Din account er formodet at være blevet infiltreret, har nylig mistænksom aktivitet eller et MEGET svagt kodeord. Som et resultat af dette, har vi brug for at du sætter et nyt kodeord. Sikr dig venligst at du vælger et stærk kodeord.</value>
@@ -200,7 +200,7 @@
     <value>Begrundelse:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>osu! Account Genaktivering Påkrævet</value>
+    <value>hotia! Account Genaktivering Påkrævet</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Bare for at du ved det, der har været nye opdateringer om emner, du ser.</value>
@@ -209,13 +209,13 @@
     <value>Skift e-mail notifikationer præferencer:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nye osu! notifikationer</value>
+    <value>Nye hotia! notifikationer</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Dette er en bekræftekse på, at din osu! adgangskode er blevet ændret.</value>
+    <value>Dette er en bekræftekse på, at din hotia! adgangskode er blevet ændret.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>Bekræftelse for opdatering af osu! adgangskode</value>
+    <value>Bekræftelse for opdatering af hotia! adgangskode</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Din bekræftelseskode er:</value>
@@ -230,7 +230,7 @@
     <value>Hvis du ikke anmodede om dette, bedes du venligst svare på denne mail MED DET SAMME, da din konto muligvis er i fare.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>osu!-kontobekræftelse</value>
+    <value>hotia!-kontobekræftelse</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>En handling udført på din account fra {0} behøver verifikation.</value>

@@ -62,22 +62,22 @@
     <value>Presvedčili ste ma! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>podpor osu!</value>
+    <value>podpor hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>alebo daruj supporter tag iným hráčom</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>klikni na srdiečko pre presunutie do osu!store</value>
+    <value>klikni na srdiečko pre presunutie do hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Prečo by som mal podporovať osu!? Kam peniaze idú?</value>
+    <value>Prečo by som mal podporovať hotia!? Kam peniaze idú?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Podpor tím</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Malý tým vývojárov vyvíja osu!. Vaša podpora im pomáha... vieš... žiť.</value>
+    <value>Malý tým vývojárov vyvíja hotia!. Vaša podpora im pomáha... vieš... žiť.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infraštruktúra Servera</value>
@@ -89,13 +89,13 @@
     <value>Významní umelci</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>S vašou podporou sa môžeme priblížiť k ešte viac úžasným umelcom a licencovať ešte viac skvelé hudby pre použitie v osu!</value>
+    <value>S vašou podporou sa môžeme priblížiť k ešte viac úžasným umelcom a licencovať ešte viac skvelé hudby pre použitie v hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Zobraziť aktuálny zoznam &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Pomôž osu!, aby zostalo sebestačné</value>
+    <value>Pomôž hotia!, aby zostalo sebestačné</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Vaša pomoc pomáha udržiavať túto hru nezávislú, kompletne bez reklám a bez externých sponzorov.</value>
@@ -104,7 +104,7 @@
     <value>Oficiálne turnaje</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Pomôž financovať prevádzkovanie (a zaisťovanie cien) oficiálnych osu! World Cup turnajov.</value>
+    <value>Pomôž financovať prevádzkovanie (a zaisťovanie cien) oficiálnych hotia! World Cup turnajov.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Prechádzať turnaje &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Podpora komunitných vývojárov </value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Podpor komunitnych vývojárov, ktorí venovali svoj voľný čas a úsilie, aby urobili osu! lepšie.</value>
+    <value>Podpor komunitnych vývojárov, ktorí venovali svoj voľný čas a úsilie, aby urobili hotia! lepšie.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Zistiť viac o &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Oh? Čo dostanem?!</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>rýchly a jednoduchý prístup k vyhľadaniu beatmap bez opúšťania hry.</value>
@@ -176,7 +176,7 @@
     <value>Rýchle sťahovanie</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Menej obmedzené sťahovanie, obzvlášť keď používate osu!direct.</value>
+    <value>Menej obmedzené sťahovanie, obzvlášť keď používate hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Zmeniť užívateľské meno</value>

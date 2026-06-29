@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Шта кажеш на то да играш мало osu! уместо тога?</value>
+    <value>Шта кажеш на то да играш мало hotia! уместо тога?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Молимо Вас да се пријавите да би сте наставили.</value>
@@ -293,7 +293,7 @@
     <value>Можете променити само вашу корисничку страницу.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>морате да имате osu!supporter статус.</value>
+    <value>морате да имате hotia!supporter статус.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>адреса е-поште је закључана</value>

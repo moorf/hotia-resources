@@ -62,13 +62,13 @@
     <value>Importazione</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Se hai un'installazione di una versione precedente di osu!, puoi scegliere di migrare i tuoi contenuti esistenti. Ricorda che questo non andrà a toccare la tua installazione esistente.</value>
+    <value>Se hai un'installazione di una versione precedente di hotia!, puoi scegliere di migrare i tuoi contenuti esistenti. Ricorda che questo non andrà a toccare la tua installazione esistente.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>installazione di osu! precedente</value>
+    <value>installazione di hotia! precedente</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Clicca per individuare un'installazione di osu! precedente</value>
+    <value>Clicca per individuare un'installazione di hotia! precedente</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Importa contenuti dalla versione precedente</value>
@@ -92,9 +92,9 @@
     <value>Il tuo sistema operativo non supporta ancora un collegamento alleggerito dei file, quindi una copia di tutti i file sarà fatta durante l'importazione.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di lazer si trovi sulla stessa unità dell'installazione precedente di osu! (e che il file system sia NTFS).</value>
+    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di lazer si trovi sulla stessa unità dell'installazione precedente di hotia! (e che il file system sia NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di lazer si trovi sulla stessa unità dell'installazione precedente di osu! (e che il file system supporti gli hard link).</value>
+    <value>Una seconda copia di tutti i file sarà fatta durante l'importazione. Per evitare ciò, assicurati che la cartella dei dati di lazer si trovi sulla stessa unità dell'installazione precedente di hotia! (e che il file system supporti gli hard link).</value>
   </data>
 </root>

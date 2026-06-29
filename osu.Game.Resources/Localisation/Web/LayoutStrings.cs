@@ -15,9 +15,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString AudioAutoplay => new TranslatableString(getKey(@"audio.autoplay"), @"Play next track automatically");
 
         /// <summary>
-        /// "osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor."
+        /// "hotia! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor."
         /// </summary>
-        public static LocalisableString DefaultsPageDescription => new TranslatableString(getKey(@"defaults.page_description"), @"osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.");
+        public static LocalisableString DefaultsPageDescription => new TranslatableString(getKey(@"defaults.page_description"), @"hotia! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.");
 
         /// <summary>
         /// "beatmapset"
@@ -230,9 +230,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString FooterGeneralBeatmaps => new TranslatableString(getKey(@"footer.general.beatmaps"), @"Beatmap Listing");
 
         /// <summary>
-        /// "Download osu!"
+        /// "Download hotia!"
         /// </summary>
-        public static LocalisableString FooterGeneralDownload => new TranslatableString(getKey(@"footer.general.download"), @"Download osu!");
+        public static LocalisableString FooterGeneralDownload => new TranslatableString(getKey(@"footer.general.download"), @"Download hotia!");
 
         /// <summary>
         /// "Help &amp; Community"
@@ -460,9 +460,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PopupLoginRegisterDownload => new TranslatableString(getKey(@"popup_login.register.download"), @"Download");
 
         /// <summary>
-        /// "Download osu! to create your own account!"
+        /// "Download hotia! to create your own account!"
         /// </summary>
-        public static LocalisableString PopupLoginRegisterInfo => new TranslatableString(getKey(@"popup_login.register.info"), @"Download osu! to create your own account!");
+        public static LocalisableString PopupLoginRegisterInfo => new TranslatableString(getKey(@"popup_login.register.info"), @"Download hotia! to create your own account!");
 
         /// <summary>
         /// "Don&#39;t have an account?"

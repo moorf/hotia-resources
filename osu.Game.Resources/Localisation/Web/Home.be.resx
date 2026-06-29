@@ -293,12 +293,12 @@
     <value>ад {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Спампаваць osu!</value>
+    <value>Спампаваць hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Падтрымаць osu!</value>
+    <value>Падтрымаць hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>Крама osu!</value>
+    <value>Крама hotia!</value>
   </data>
 </root>

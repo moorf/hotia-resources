@@ -425,19 +425,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserBeatmapsResets(LocalisableString ends) => new TranslatableString(getKey(@"user.beatmaps.resets"), @"resets {0}", ends);
 
         /// <summary>
-        /// "Download osu!"
+        /// "Download hotia!"
         /// </summary>
-        public static LocalisableString UserButtonsDownload => new TranslatableString(getKey(@"user.buttons.download"), @"Download osu!");
+        public static LocalisableString UserButtonsDownload => new TranslatableString(getKey(@"user.buttons.download"), @"Download hotia!");
 
         /// <summary>
-        /// "Support osu!"
+        /// "Support hotia!"
         /// </summary>
-        public static LocalisableString UserButtonsSupport => new TranslatableString(getKey(@"user.buttons.support"), @"Support osu!");
+        public static LocalisableString UserButtonsSupport => new TranslatableString(getKey(@"user.buttons.support"), @"Support hotia!");
 
         /// <summary>
-        /// "osu!store"
+        /// "hotia!store"
         /// </summary>
-        public static LocalisableString UserButtonsStore => new TranslatableString(getKey(@"user.buttons.store"), @"osu!store");
+        public static LocalisableString UserButtonsStore => new TranslatableString(getKey(@"user.buttons.store"), @"hotia!store");
 
         /// <summary>
         /// "Featured Livestream"

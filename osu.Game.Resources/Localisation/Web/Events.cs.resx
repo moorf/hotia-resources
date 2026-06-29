@@ -89,13 +89,13 @@
     <value>{0} ztratil první místo na mapě {1} ({2})</value>
   </data>
   <data name="user_support_again" xml:space="preserve">
-    <value>{0} se opět rozhodl podpořit osu! - díky za tvou štědrost!</value>
+    <value>{0} se opět rozhodl podpořit hotia! - díky za tvou štědrost!</value>
   </data>
   <data name="user_support_first" xml:space="preserve">
-    <value>{0} podpořil osu! - díky za tvou štědrost!</value>
+    <value>{0} podpořil hotia! - díky za tvou štědrost!</value>
   </data>
   <data name="user_support_gift" xml:space="preserve">
-    <value>{0} obdržel dar osu!supporteru!</value>
+    <value>{0} obdržel dar hotia!supporteru!</value>
   </data>
   <data name="username_change" xml:space="preserve">
     <value>{0} se přejmenoval na {1}!</value>

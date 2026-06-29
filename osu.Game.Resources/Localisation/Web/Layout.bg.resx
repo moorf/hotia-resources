@@ -62,7 +62,7 @@
     <value>Автоматично изпълняване на следващата песен</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ритъмът е само на *клик* от вас! Със специални режими на игра като Ouendan/EBA и Taiko, както и напълно фунциониращ редактор на бийтмапове.</value>
+    <value>hotia! - Ритъмът е само на *клик* от вас! Със специални режими на игра като Ouendan/EBA и Taiko, както и напълно фунциониращ редактор на бийтмапове.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>бийтмап сет</value>
@@ -92,7 +92,7 @@
     <value>списък</value>
   </data>
   <data name="header.help.index" xml:space="preserve">
-    <value>osu! wiki</value>
+    <value>hotia! wiki</value>
   </data>
   <data name="header.help.sitemap" xml:space="preserve">
     <value>Карта на сайта</value>
@@ -185,7 +185,7 @@
     <value>Списък с бийтмапове</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Изтегли osu!</value>
+    <value>Изтегли hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Помощ &amp; Общност</value>
@@ -203,7 +203,7 @@
     <value>Докладване за проблем</value>
   </data>
   <data name="footer.help.wiki" xml:space="preserve">
-    <value>osu! wiki</value>
+    <value>hotia! wiki</value>
   </data>
   <data name="footer.legal._" xml:space="preserve">
     <value>Правила &amp; Състояние</value>
@@ -305,7 +305,7 @@
     <value>Изтегли</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Изтеглете osu! за да си създадете един!</value>
+    <value>Изтеглете hotia! за да си създадете един!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Нямате профил?</value>

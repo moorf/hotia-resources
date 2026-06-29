@@ -80,7 +80,7 @@
     <value>Ruleset-ul actual nu are un mod de redare automată valabil!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Se pare că osu! nu poate reda audio corect.\n\nVă rugăm să încercați să schimbați dispozitivul audio într-unul funcțional din setări.</value>
+    <value>Se pare că hotia! nu poate reda audio corect.\n\nVă rugăm să încercați să schimbați dispozitivul audio într-unul funcțional din setări.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Overlay-ul pentru scor este momentan inactiv. Puteți comuta acest lucru apăsând {0}.</value>
@@ -113,7 +113,7 @@
     <value>Versiunea ta locală a beatmap-ului pentru această reluare pare să fie diferită. S-ar putea să fie nevoie să o actualizezi sau să o redescarci.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Acum rulezi osu! {0}.
+    <value>Acum rulezi hotia! {0}.
 Click pentru a vedea ce este nou!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

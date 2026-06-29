@@ -90,9 +90,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString CheckoutDelayedShipping => new TranslatableString(getKey(@"checkout.delayed_shipping"), @"We are currently overwhelmed with orders! You are welcome to place your order, but please expect an **additional 1-2 week delay** while we catch up with existing orders.");
 
         /// <summary>
-        /// "Hide all osu!supporter tags in this order from my activity"
+        /// "Hide all hotia!supporter tags in this order from my activity"
         /// </summary>
-        public static LocalisableString CheckoutHideFromActivity => new TranslatableString(getKey(@"checkout.hide_from_activity"), @"Hide all osu!supporter tags in this order from my activity");
+        public static LocalisableString CheckoutHideFromActivity => new TranslatableString(getKey(@"checkout.hide_from_activity"), @"Hide all hotia!supporter tags in this order from my activity");
 
         /// <summary>
         /// "Your cart appears to be out of date and has been reloaded, please try again."
@@ -160,9 +160,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString InvoiceEcheckDenied => new TranslatableString(getKey(@"invoice.echeck_denied"), @"The eCheck payment was rejected by PayPal.");
 
         /// <summary>
-        /// "osu!supporter tags in this order are not displayed in your recent activities."
+        /// "hotia!supporter tags in this order are not displayed in your recent activities."
         /// </summary>
-        public static LocalisableString InvoiceHideFromActivity => new TranslatableString(getKey(@"invoice.hide_from_activity"), @"osu!supporter tags in this order are not displayed in your recent activities.");
+        public static LocalisableString InvoiceHideFromActivity => new TranslatableString(getKey(@"invoice.hide_from_activity"), @"hotia!supporter tags in this order are not displayed in your recent activities.");
 
         /// <summary>
         /// "Sent Via:"
@@ -195,9 +195,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString InvoiceStatusCancelledLine1Default(LocalisableString link, LocalisableString orderNumber) => new TranslatableString(getKey(@"invoice.status.cancelled.line_1._"), @"If you didn't request a cancellation please contact {0} quoting your order number (#{1}).", link, orderNumber);
 
         /// <summary>
-        /// "osu!store support"
+        /// "hotia!store support"
         /// </summary>
-        public static LocalisableString InvoiceStatusCancelledLine1LinkText => new TranslatableString(getKey(@"invoice.status.cancelled.line_1.link_text"), @"osu!store support");
+        public static LocalisableString InvoiceStatusCancelledLine1LinkText => new TranslatableString(getKey(@"invoice.status.cancelled.line_1.link_text"), @"hotia!store support");
 
         /// <summary>
         /// "Your order has been delivered! We hope you are enjoying it!"
@@ -210,9 +210,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString InvoiceStatusDeliveredLine1Default(LocalisableString link) => new TranslatableString(getKey(@"invoice.status.delivered.line_1._"), @"If you have any issues with your purchase, please contact the {0}.", link);
 
         /// <summary>
-        /// "osu!store support"
+        /// "hotia!store support"
         /// </summary>
-        public static LocalisableString InvoiceStatusDeliveredLine1LinkText => new TranslatableString(getKey(@"invoice.status.delivered.line_1.link_text"), @"osu!store support");
+        public static LocalisableString InvoiceStatusDeliveredLine1LinkText => new TranslatableString(getKey(@"invoice.status.delivered.line_1.link_text"), @"hotia!store support");
 
         /// <summary>
         /// "Your order is being prepared!"
@@ -510,9 +510,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupporterTagGiftMessage(LocalisableString length) => new TranslatableString(getKey(@"supporter_tag.gift_message"), @"add an optional message to your gift! (up to {0} characters)", length);
 
         /// <summary>
-        /// "You need to be {0} to get an osu!supporter tag!"
+        /// "You need to be {0} to get an hotia!supporter tag!"
         /// </summary>
-        public static LocalisableString SupporterTagRequireLoginDefault(LocalisableString link) => new TranslatableString(getKey(@"supporter_tag.require_login._"), @"You need to be {0} to get an osu!supporter tag!", link);
+        public static LocalisableString SupporterTagRequireLoginDefault(LocalisableString link) => new TranslatableString(getKey(@"supporter_tag.require_login._"), @"You need to be {0} to get an hotia!supporter tag!", link);
 
         /// <summary>
         /// "signed in"
@@ -555,9 +555,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UsernameChangeRequireLoginLinkText => new TranslatableString(getKey(@"username_change.require_login.link_text"), @"signed in");
 
         /// <summary>
-        /// "Xsolla is an authorised&lt;br&gt;global distributor of osu!"
+        /// "Xsolla is an authorised&lt;br&gt;global distributor of hotia!"
         /// </summary>
-        public static LocalisableString XsollaDistributor => new TranslatableString(getKey(@"xsolla.distributor"), @"Xsolla is an authorised<br>global distributor of osu!");
+        public static LocalisableString XsollaDistributor => new TranslatableString(getKey(@"xsolla.distributor"), @"Xsolla is an authorised<br>global distributor of hotia!");
 
         private static string getKey(string key) => $@"{prefix}:{key}";
     }

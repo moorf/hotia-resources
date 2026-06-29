@@ -137,7 +137,7 @@
     <value>Ielādēt pārlūkā pēc iesūtīšanas</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Piezīme: Lai visu osu! versijas lietotāji varētu izbaudīt tavu ritma-karti, tā tiks eksportēta atgriezeniski saderīgā formātā. Kamēr mēs esam centušies ar šo procesu, uzturēt ritma-karti spēlējamu tās nodomātajā formā, dati, kuri ir saistīti ar jaunām spēles funkcijām, kuras iepriekšējās osu! versijas neatbalsta, varētu tikt pazaudēti.</value>
+    <value>Piezīme: Lai visu hotia! versijas lietotāji varētu izbaudīt tavu ritma-karti, tā tiks eksportēta atgriezeniski saderīgā formātā. Kamēr mēs esam centušies ar šo procesu, uzturēt ritma-karti spēlējamu tās nodomātajā formā, dati, kuri ir saistīti ar jaunām spēles funkcijām, kuras iepriekšējās hotia! versijas neatbalsta, varētu tikt pazaudēti.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Tukšas ritma-kartes nevar tikt iesūtītas.</value>

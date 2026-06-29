@@ -62,7 +62,7 @@
     <value>Riproduci in automatico la traccia successiva</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Il ritmo è a distanza di un *clic*!  Con Ouendan/EBA, Taiko e modalità di gioco originali con un editor di livelli dotato di ogni funzionalità.</value>
+    <value>hotia! - Il ritmo è a distanza di un *clic*!  Con Ouendan/EBA, Taiko e modalità di gioco originali con un editor di livelli dotato di ogni funzionalità.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>set di beatmap</value>
@@ -191,7 +191,7 @@
     <value>Lista Beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Scarica osu!</value>
+    <value>Scarica hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Aiuto e Comunità</value>
@@ -311,7 +311,7 @@
     <value>Scarica</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Scarica osu! per creare il tuo account!</value>
+    <value>Scarica hotia! per creare il tuo account!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Non hai un account?</value>

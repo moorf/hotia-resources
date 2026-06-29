@@ -119,7 +119,7 @@
     <value>адблакаваць</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Падарыць тэг osu!supporter</value>
+    <value>Падарыць тэг hotia!supporter</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Загрузка...</value>
@@ -218,7 +218,7 @@
     <value>Пароль</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Вы яшчэ не маеце акаўнту osu!? Стварыце новы</value>
+    <value>Вы яшчэ не маеце акаўнту hotia!? Стварыце новы</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Запомніць гэта камп'ютар</value>
@@ -233,7 +233,7 @@
     <value>Доступ да бэта-версіі абмежаваны.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporters хутка атрымаць доступ)</value>
+    <value>(hotia!supporters хутка атрымаць доступ)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Актыўны</value>
@@ -302,7 +302,7 @@
     <value>Калі ласка, паведамліце пра парушэнне аўтарскіх правоў праз заяву DMCA на адрас эл. пошты {0} як указана в {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>палітыка аўтарскіх правоў osu!</value>
+    <value>палітыка аўтарскіх правоў hotia!</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Гэта тычыцца выпадкаў, дзе трэкі аўдыё, візуальны кантэнт або змест узроўня бітмапы выкарыстоўваецца без карэктнага дазволю.</value>
@@ -353,10 +353,10 @@
     <value>Тут з самага пачатку</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Далучыўся {0}</value>
@@ -464,7 +464,7 @@
     <value>Запампоўка даступна толькі для {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>прадвызначаны рэжым гульні</value>
@@ -473,7 +473,7 @@
     <value>усталяваць {0} як прадвызначаны рэжым гульні</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>Вы ўпэўненыя, што хочаце скінуць колер профілю да стандартнага? Змяняць колер можна толькі з тэгам osu!supporter.</value>
+    <value>Вы ўпэўненыя, што хочаце скінуць колер профілю да стандартнага? Змяняць колер можна толькі з тэгам hotia!supporter.</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>Колер</value>
@@ -482,7 +482,7 @@
     <value>Змяненне колеру профілю даступна толькі з тэгам {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>няма</value>
@@ -800,7 +800,7 @@
     <value>Каб разблакаваць гэту функцыю патрэбны: {0}.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Размясціў {0}</value>
@@ -899,7 +899,7 @@
     <value>калі ласка, зарэгіструйцеся праз гульнявой кліент!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>калі ласка, завершыце рэгістрацыю праз сайт osu!</value>
+    <value>калі ласка, завершыце рэгістрацыю праз сайт hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Карыстальнік створаны</value>

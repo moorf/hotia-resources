@@ -137,7 +137,7 @@
     <value>Atidaryti naršyklėje po įkėlimo</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Pastaba: Siekiant padaryti beatmap'ą prieinama visų osu! versijų vartotojams, beatmap'as bus eksportuojamas atgalinai suderinamu formatu. Nors mes pasistengėme, kad šis procesas išlaikytu beatmap'ą žaidžiama numatytoje formoje, dalis duomenų susijusiu su funkcijomis, kuriu nepalaiko ankstesnės osu! versijos, gali būti prarasta.</value>
+    <value>Pastaba: Siekiant padaryti beatmap'ą prieinama visų hotia! versijų vartotojams, beatmap'as bus eksportuojamas atgalinai suderinamu formatu. Nors mes pasistengėme, kad šis procesas išlaikytu beatmap'ą žaidžiama numatytoje formoje, dalis duomenų susijusiu su funkcijomis, kuriu nepalaiko ankstesnės hotia! versijos, gali būti prarasta.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Tuščių beatmap'ų negalima pateikti.</value>

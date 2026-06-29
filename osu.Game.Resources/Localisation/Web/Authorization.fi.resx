@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Mitä jos pelaisit vähän osu!a sen sijaan?</value>
+    <value>Mitä jos pelaisit vähän hotia!a sen sijaan?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Kirjaudu sisään jatkaaksesi.</value>
@@ -323,7 +323,7 @@
     <value>Ei ole tiimin jäsen.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>osu!supporter tagia tarvitaan tiimin luomiseen.</value>
+    <value>hotia!supporter tagia tarvitaan tiimin luomiseen.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Käyttäjäsivu on lukittu.</value>
@@ -332,7 +332,7 @@
     <value>Voit muokata vain omaa käyttäjäsivuasi.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>osu!tukijamerkki vaaditaan.</value>
+    <value>hotia!tukijamerkki vaaditaan.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>sähköpostiosoite on lukittu</value>

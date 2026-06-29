@@ -107,7 +107,7 @@
     <value>Nous sommes actuellement submergés de commandes ! Vous pouvez tout de même commander, mais attendez-vous à **une à deux semaines de délai supplémentaire** le temps que nous puissions traiter toutes ces commandes.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Masquer tous les tags osu!supporter de mon activité dans cette commande</value>
+    <value>Masquer tous les tags hotia!supporter de mon activité dans cette commande</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Votre panier semble être obsolète et a donc été actualisé, merci de réessayer.</value>
@@ -149,7 +149,7 @@
     <value>Le paiement eCheck a été rejeté par PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>Les tags osu!supporter achetés dans cette commande ne sont pas affichés dans vos activités récentes.</value>
+    <value>Les tags hotia!supporter achetés dans cette commande ne sont pas affichés dans vos activités récentes.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Envoyé via :</value>
@@ -170,7 +170,7 @@
     <value>Si vous n'avez pas demandé d'annulation, veuillez contacter le {0} en citant votre numéro de commande (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>support de l'osu!store</value>
+    <value>support de l'hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Votre commande a été livrée ! Nous espérons que vous l'appréciez !</value>
@@ -179,7 +179,7 @@
     <value>Si vous avez un problème avec votre achat, veuillez contacter le {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>support de l'osu!store</value>
+    <value>support de l'hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Votre commande est en cours de préparation !</value>
@@ -359,7 +359,7 @@
     <value>ajoutez un message optionnel à votre cadeau ! (jusqu'à {0} caractères)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Vous devez être {0} pour obtenir un tag osu!supporter !</value>
+    <value>Vous devez être {0} pour obtenir un tag hotia!supporter !</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>connecté</value>

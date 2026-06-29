@@ -107,7 +107,7 @@
     <value>Προσωρινά μας έχουν κατακλύσει οι παραγγελίες! Μπορείτε να παραγγείλετε, αλλά παρακαλούμε να περιμένετε **1-2 εβδομάδες επιπλέον** ενώ προσπαθούμε να προλάβουμε τις υπάρχουσες παραγγελίες.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Απόκρυψη όλων των ετικετών osu!supporter σε αυτή τη σειρά από την δραστηριότητά μου</value>
+    <value>Απόκρυψη όλων των ετικετών hotia!supporter σε αυτή τη σειρά από την δραστηριότητά μου</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Το καλάθι σας φαίνεται να έχει ξεπερασμένα πράγματα και έχει ανανεωθεί, παρακαλώ προσπαθήστε ξανά.</value>
@@ -149,7 +149,7 @@
     <value>Η πληρωμή eCheck απορρίφθηκε από την PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter ετικέτες με αυτή τη σειρά δεν εμφανίζονται στις πρόσφατες δραστηριότητές σας.</value>
+    <value>hotia!supporter ετικέτες με αυτή τη σειρά δεν εμφανίζονται στις πρόσφατες δραστηριότητές σας.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Στάλθηκε Με:</value>
@@ -170,7 +170,7 @@
     <value>Αν δεν ζήτησες για ακύρωση παρακαλούμε να επικοινωνήσεις με το {0} αναφέροντας τον αριθμό παραγγελίας σου (#{1})</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>υποστήριξη osu!store</value>
+    <value>υποστήριξη hotia!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Η παραγγελία σου έχει παραδοθεί! Ελπίζουμε να την απολαμβάνεις!</value>
@@ -179,7 +179,7 @@
     <value>Αν έχεις οποιαδήποτε προβλήματα με την αγορά σου, παρακαλούμε επικοινωνήστε με το {0}</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>υποστήριξη osu!store</value>
+    <value>υποστήριξη hotia!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Η παραγγελία σου προετοιμάζεται!</value>

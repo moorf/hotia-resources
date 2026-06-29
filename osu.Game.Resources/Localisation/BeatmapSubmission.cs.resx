@@ -137,7 +137,7 @@
     <value>Načíst v prohlížeči po odeslání</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Poznámka: Aby bylo možné pro uživatele všech verzí osu! tvoji beatmapu hrát, bude vyexportována ve zpětně kompatibilním formátu. Ačkoli jsme se snažili zajistit, aby tento proces zachoval beatmapu hratelnou v zamýšlené podobě, některá data související s funkcemi, které starší verze osu! nepodporují, mohou být ztracena.</value>
+    <value>Poznámka: Aby bylo možné pro uživatele všech verzí hotia! tvoji beatmapu hrát, bude vyexportována ve zpětně kompatibilním formátu. Ačkoli jsme se snažili zajistit, aby tento proces zachoval beatmapu hratelnou v zamýšlené podobě, některá data související s funkcemi, které starší verze hotia! nepodporují, mohou být ztracena.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Prázdné beatmapy nelze odeslat.</value>

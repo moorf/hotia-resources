@@ -68,7 +68,7 @@
     <value>Žiūrėk čia dėl papildomos informacijos.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Kai kurie elementai buvo pašalinti iš šio bitmapo, įvertinus juos kaip netinkamus naudojimui tarp osu!.</value>
+    <value>Kai kurie elementai buvo pašalinti iš šio bitmapo, įvertinus juos kaip netinkamus naudojimui tarp hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Ištrintas beatmap'as</value>
@@ -101,7 +101,7 @@
     <value>atsisiųsti be vaizdo įrašo</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>atidaryti per osu!direct</value>
+    <value>atidaryti per hotia!direct</value>
   </data>
   <data name="nominate.hybrid_requires_modes" xml:space="preserve">
     <value>Mišriame beatmap'e reikia pasirinkti bent vieną rėžimą nominavimui.</value>
@@ -311,7 +311,7 @@
     <value>Spausk &lt;a href="{0}"&gt;čia&lt;/a&gt;, kad pamatytum visus privalomus, kuriuos gausi!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Tu turi būti osu!rėmėjas, kad pasiektum draugų, šalių ar konkrečių modų rezultatus!</value>
+    <value>Tu turi būti hotia!rėmėjas, kad pasiektum draugų, šalių ar konkrečių modų rezultatus!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Komandos Rezultatai</value>

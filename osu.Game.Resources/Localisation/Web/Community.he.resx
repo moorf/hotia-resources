@@ -62,13 +62,13 @@
     <value>אני משוכנע! D:</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>תמוך ב- osu!</value>
+    <value>תמוך ב- hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>או תרום מתנה לשחקנים אחרים</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>לחץ על כפתור הלב כדי להמשיך לחנות osu!</value>
+    <value>לחץ על כפתור הלב כדי להמשיך לחנות hotia!</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
     <value>למה כדאי לנו לתמוך באוסו?! לאן כל הכסף שלנו הולך?</value>
@@ -122,7 +122,7 @@
     <value>אה? מה אני מקבל?!</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>גישה מהירה וקלה לחיפוש מפות ללא יציאה מהמשחק.</value>
@@ -185,7 +185,7 @@
     <value>הורדות מהירות</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>הגבלות הורדה מקלות יותר, במיוחד בשימוש ב- osu!direct.</value>
+    <value>הגבלות הורדה מקלות יותר, במיוחד בשימוש ב- hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>שנה שם משתמש</value>
@@ -238,12 +238,12 @@
     <value>התחרה עם חבריך וראה עד כמה אתה טוב מהם!</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>אין לך תג osu!supporter עדיין :(</value>
+    <value>אין לך תג hotia!supporter עדיין :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>תג osu!supporter נוכחי תקף עד {0}!</value>
+    <value>תג hotia!supporter נוכחי תקף עד {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>תג osu!supporter היה תקף עד{0}.</value>
+    <value>תג hotia!supporter היה תקף עד{0}.</value>
   </data>
 </root>

@@ -119,7 +119,7 @@
     <value>Bỏ chặn</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Tặng osu!supporter</value>
+    <value>Tặng hotia!supporter</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Đang tải...</value>
@@ -218,7 +218,7 @@
     <value>Mật khẩu</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Không có tài khoản osu!? Tạo một tài khoản mới</value>
+    <value>Không có tài khoản hotia!? Tạo một tài khoản mới</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Nhớ máy tính này</value>
@@ -302,7 +302,7 @@
     <value>Vui lòng gửi mọi khiếu nại về vi phạm bản quyền bằng cách gửi yêu cầu DMCA đến {0} theo {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>chính sách bản quyền của osu!</value>
+    <value>chính sách bản quyền của hotia!</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Đây áp dụng cho các trường hợp bài hát, hình ảnh hoặc beatmap bị sử dụng mà không có quyền cho phép.</value>
@@ -353,10 +353,10 @@
     <value>Ở đây kể từ khi bắt đầu</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Đã tham gia vào {0}</value>
@@ -464,7 +464,7 @@
     <value>Tải lên chỉ có sẵn cho {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>chế độ chơi mặc định</value>
@@ -482,7 +482,7 @@
     <value>Tùy chọn màu chủ đề chỉ dành cho {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>không có</value>
@@ -578,7 +578,7 @@
     <value>Lịch Sử Kudosu Gần Đây</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Tông Số Kudosu Nhận Được</value>
@@ -800,7 +800,7 @@
     <value>Bạn cần trở thành một {0} để mở khoá tính năng này.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Đã đóng góp {0}</value>
@@ -899,7 +899,7 @@
     <value>vui lòng đăng kí thông qua game!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>vui lòng hoàn tất đăng kí thông qua trang web osu!</value>
+    <value>vui lòng hoàn tất đăng kí thông qua trang web hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Đã tạo người dùng</value>

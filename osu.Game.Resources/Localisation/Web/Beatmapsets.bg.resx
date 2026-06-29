@@ -68,7 +68,7 @@
     <value>Кликни тук, за повече информация.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Някои части от бийтмапа са премахнати, тъй като бяха определени като неподходящи за използване в osu!.</value>
+    <value>Някои части от бийтмапа са премахнати, тъй като бяха определени като неподходящи за използване в hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Изтрит бийтмап</value>
@@ -101,7 +101,7 @@
     <value>изтегляне без видео</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>отваряне в osu!direct</value>
+    <value>отваряне в hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Номинаторите в изпитателен срок не могат да номинират множество видове игра.</value>
@@ -326,7 +326,7 @@
     <value>Кликнете &lt;a href="{0}"&gt;тук&lt;/a&gt; за разглеждане на всички хубави екстри, които ще получите!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Трябва да сте osu!supporter за достъп до държавно, приятелско и мод-специфично класиране!</value>
+    <value>Трябва да сте hotia!supporter за достъп до държавно, приятелско и мод-специфично класиране!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Класация на отбора</value>

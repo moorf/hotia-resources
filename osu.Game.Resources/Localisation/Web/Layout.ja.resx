@@ -62,7 +62,7 @@
     <value>次のトラックを自動的に再生</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - リズムはもう、その指先に！応援団や太鼓をモチーフにしたゲームモード、オリジナルのゲームモード、そしてレベルエディタも備えています。</value>
+    <value>hotia! - リズムはもう、その指先に！応援団や太鼓をモチーフにしたゲームモード、オリジナルのゲームモード、そしてレベルエディタも備えています。</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>ビートマップセット</value>
@@ -170,7 +170,7 @@
     <value>ホーム</value>
   </data>
   <data name="menu.home.team" xml:space="preserve">
-    <value>osu!team</value>
+    <value>hotia!team</value>
   </data>
   <data name="menu.rankings._" xml:space="preserve">
     <value>ランキング</value>
@@ -191,7 +191,7 @@
     <value>ビートマップリスト</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>osu!をダウンロード</value>
+    <value>hotia!をダウンロード</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>ヘルプ＆コミュニティ</value>

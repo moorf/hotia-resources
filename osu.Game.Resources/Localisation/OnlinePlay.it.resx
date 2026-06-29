@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="supporter_only_duration_notice" xml:space="preserve">
-    <value>Le playlist più lunghe di 2 settimane richiedono un tag osu!supporter attivo.</value>
+    <value>Le playlist più lunghe di 2 settimane richiedono un tag hotia!supporter attivo.</value>
   </data>
   <data name="cant_invite_this_user_as" xml:space="preserve">
     <value>Non puoi invitare questo utente perché lo hai bloccato oppure ti ha bloccato lui.</value>

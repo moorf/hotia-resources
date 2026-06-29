@@ -98,10 +98,10 @@
     <value>Vous aimez cette mise à jour ?</value>
   </data>
   <data name="support.text_1" xml:space="preserve">
-    <value>Soutenez le développement d'osu! et {0} dès maintenant !</value>
+    <value>Soutenez le développement d'hotia! et {0} dès maintenant !</value>
   </data>
   <data name="support.text_1_link" xml:space="preserve">
-    <value>devenez un osu!supporter</value>
+    <value>devenez un hotia!supporter</value>
   </data>
   <data name="support.text_2" xml:space="preserve">
     <value>En plus de contribuer à accélérer le développement, vous recevrez des fonctionnalités supplémentaires et des personnalisations diverses !</value>

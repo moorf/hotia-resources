@@ -500,7 +500,7 @@
     <value>Περισσότερες Επιλογές Αναζήτησης</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Το φιλτράρισμα βάσει {0} απαιτεί ένα ενεργό osu!supporter tag</value>
+    <value>Το φιλτράρισμα βάσει {0} απαιτεί ένα ενεργό hotia!supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>κανένα αποτέλεσμα</value>
@@ -569,7 +569,7 @@
     <value>Το φιλτράρισμα κατά {0} απαιτεί ένα ενεργό {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Συμπεριλάμβανε beatmaps που έχουν μετατραπεί</value>

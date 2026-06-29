@@ -68,6 +68,6 @@
     <value>Current username ({0}) is not the same as change to revoke ({1})</value>
   </data>
   <data name="supporter_tag.insufficient_paid" xml:space="preserve">
-    <value>Donation is less than required for osu!supporter tag gift ({0} &gt; {1})</value>
+    <value>Donation is less than required for hotia!supporter tag gift ({0} &gt; {1})</value>
   </data>
 </root>

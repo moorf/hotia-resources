@@ -275,12 +275,12 @@
     <value>{0} által</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>osu! letöltése</value>
+    <value>hotia! letöltése</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>osu! támogatása</value>
+    <value>hotia! támogatása</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!bolt</value>
+    <value>hotia!bolt</value>
   </data>
 </root>

@@ -74,7 +74,7 @@
     <value>ΔΙΑΒΑΣΤΕ ΠΡΙΝ ΑΠΟ ΤΗ ΛΗΨΗ</value>
   </data>
   <data name="index.blurb.install_instruction" xml:space="preserve">
-    <value>Εγκατάσταση: Μόλις κατέβει ένα πακέτο, εξαγάγετε τα περιεχόμενα του πακέτου στο osu! Ο κατάλογος τραγουδιών και το osu! θα κάνει τα υπόλοιπα.</value>
+    <value>Εγκατάσταση: Μόλις κατέβει ένα πακέτο, εξαγάγετε τα περιεχόμενα του πακέτου στο hotia! Ο κατάλογος τραγουδιών και το hotia! θα κάνει τα υπόλοιπα.</value>
   </data>
   <data name="show.created_by" xml:space="preserve">
     <value>από {0}</value>

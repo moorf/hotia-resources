@@ -62,22 +62,22 @@
     <value>Saya tertarik! ^w^</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>sokong osu!</value>
+    <value>sokong hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>atau hadiahkan tag penyokong kepada pemain lain</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>klik butang hati untuk terus ke osu!store</value>
+    <value>klik butang hati untuk terus ke hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Mengapa saya patut menyokong osu!? Duit saya akan ke mana?</value>
+    <value>Mengapa saya patut menyokong hotia!? Duit saya akan ke mana?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Sokong Pasukan</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Pasukan yang kecil membangunkan dan mengurus osu!. Sokongan anda membantu mereka untuk, err... hiduplah.</value>
+    <value>Pasukan yang kecil membangunkan dan mengurus hotia!. Sokongan anda membantu mereka untuk, err... hiduplah.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Prasarana Pelayan</value>
@@ -89,13 +89,13 @@
     <value>Artis Sorotan</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Dengan sokongan anda, kami boleh mendekati lebih ramai artis yang mengagumkan dan melesenkan lebih banyak muzik hebat untuk digunakan dalam osu!</value>
+    <value>Dengan sokongan anda, kami boleh mendekati lebih ramai artis yang mengagumkan dan melesenkan lebih banyak muzik hebat untuk digunakan dalam hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Lihat jadual semasa &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Bantu osu! kekal selenggara diri</value>
+    <value>Bantu hotia! kekal selenggara diri</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Sumbangan anda membantu mainan ini kekal tak bersandar dan bebas sepenuhnya dari iklan dan penaja luar.</value>
@@ -104,7 +104,7 @@
     <value>Kejohanan Rasmi</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Anda akan membantu pendanaan pelaksanaan (dan pengelolaan hadiah) kejohanan Piala Dunia osu! rasmi.</value>
+    <value>Anda akan membantu pendanaan pelaksanaan (dan pengelolaan hadiah) kejohanan Piala Dunia hotia! rasmi.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Terokai kejohanan &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Atur Cara Ganjaran Sumber Terbuka</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Sokong penyumbang komuniti yang telah memberi usaha dan masa mereka untuk memperbaik osu!.</value>
+    <value>Sokong penyumbang komuniti yang telah memberi usaha dan masa mereka untuk memperbaik hotia!.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Ketahui lebih lanjut &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Menarik! Faedah istimewa apa yang saya dapat?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Peroleh capaian mudah dan cepat untuk mencari dan memuat turun peta rentak tanpa perlu meninggalkan mainan.</value>
@@ -185,7 +185,7 @@
     <value>Muat Turun Laju</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Sekatan muat turun lebih longgar, terutamanya ketika menggunakan osu!direct.</value>
+    <value>Sekatan muat turun lebih longgar, terutamanya ketika menggunakan hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Ubah Nama Pengguna</value>
@@ -239,13 +239,13 @@
     <value>Terima kasih atas sokongan anda! Setakat ini, anda telah menyumbang sejumlah {0} jadi anda memperoleh tag "Supporter" selama {1}.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Anda tidak pernah mempunyai tag osu!supporter :(</value>
+    <value>Anda tidak pernah mempunyai tag hotia!supporter :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Tag osu!supporter semasa anda sah hingga {0}!</value>
+    <value>Tag hotia!supporter semasa anda sah hingga {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Tag osu!supporter anda sebelumnya sah hingga {0}!</value>
+    <value>Tag hotia!supporter anda sebelumnya sah hingga {0}!</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>Dari jumlah sumbangan anda, anda telah menghadiahkan sejumlah {0} tag kepada {1} yang mencakupi {2}. Berbudinya!</value>

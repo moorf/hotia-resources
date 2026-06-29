@@ -209,7 +209,7 @@
     <value>видеомен, бар болған жағдайда</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>osu!direct-те ашу</value>
+    <value>hotia!direct-те ашу</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>видеосыз</value>

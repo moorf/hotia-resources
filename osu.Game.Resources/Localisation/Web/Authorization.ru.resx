@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>Может, лучше в osu! поиграете?</value>
+    <value>Может, лучше в hotia! поиграете?</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>Войдите, чтобы продолжить.</value>
@@ -215,10 +215,10 @@
     <value>Нельзя редактировать пост в закрытой теме.</value>
   </data>
   <data name="forum.post.store.play_more" xml:space="preserve">
-    <value>Пожалуйста, поиграйте в osu!, прежде чем начать создавать темы! Если у вас возникли проблемы, попробуйте сообщить об этом уже в существующей теме "Вопросы и проблемы" на форуме "Русский".</value>
+    <value>Пожалуйста, поиграйте в hotia!, прежде чем начать создавать темы! Если у вас возникли проблемы, попробуйте сообщить об этом уже в существующей теме "Вопросы и проблемы" на форуме "Русский".</value>
   </data>
   <data name="forum.post.store.too_many_help_posts" xml:space="preserve">
-    <value>Поиграйте в osu! ещё немного, прежде чем снова публиковать посты. Если вы всё еще испытываете проблемы с игрой, напишите на почту support@ppy.sh</value>
+    <value>Поиграйте в hotia! ещё немного, прежде чем снова публиковать посты. Если вы всё еще испытываете проблемы с игрой, напишите на почту support@ppy.sh</value>
   </data>
   <data name="forum.topic.reply.double_post" xml:space="preserve">
     <value>Пожалуйста, отредактируйте ваш последний пост, не создавайте новый.</value>
@@ -323,7 +323,7 @@
     <value>Вы не являетесь участником команды.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>Для создания команды необходим тег osu!supporter.</value>
+    <value>Для создания команды необходим тег hotia!supporter.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Страница пользователя заблокирована.</value>
@@ -332,7 +332,7 @@
     <value>Вы можете редактировать только собственную страницу.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>Необходим osu!supporter.</value>
+    <value>Необходим hotia!supporter.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>адрес электронной почты заблокирован от изменений</value>

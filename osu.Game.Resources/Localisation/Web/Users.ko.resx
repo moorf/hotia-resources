@@ -218,7 +218,7 @@
     <value>Password</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>osu!계정이 없으신가요? 새로 하나 만들어보세요</value>
+    <value>hotia!계정이 없으신가요? 새로 하나 만들어보세요</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>이 컴퓨터에서 계정 정보 기억하기</value>
@@ -233,7 +233,7 @@
     <value>베타 엑세스는 현재 권한이 있는 사용자로 제한되어 있습니다.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu! 서포터들도 곧 받게 될 거에요)</value>
+    <value>(hotia! 서포터들도 곧 받게 될 거에요)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>진행 중</value>
@@ -302,7 +302,7 @@
     <value>저작권 침해 신고는 {0} 당 한 건씩 DMCA 요청을 통해 {1} 로 발신해 주세요.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu! 저작권 정책</value>
+    <value>hotia! 저작권 정책</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>본 약관은 적절한 권한 없이 사용되는 오디오 트랙, 시각적 콘텐츠 또는 비트맵 레벨 콘텐츠에 적용됩니다.</value>
@@ -350,13 +350,13 @@
     <value>아바타를 바꾸세요!</value>
   </data>
   <data name="show.first_members" xml:space="preserve">
-    <value>osu!의 초창기부터 함께한 유저</value>
+    <value>hotia!의 초창기부터 함께한 유저</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu! 서포터</value>
+    <value>hotia! 서포터</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>{0}에 가입</value>
@@ -465,7 +465,7 @@
     <value>업로드는 {0}만 가능합니다.</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu! 서포터</value>
+    <value>hotia! 서포터</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>메인 게임 모드</value>
@@ -474,7 +474,7 @@
     <value>{0}를 메인 게임 모드로 설정</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>기본 색상으로 초기화할까요? 다른 색상으로 바꾸려면 osu! 서포터가 되어야 합니다.</value>
+    <value>기본 색상으로 초기화할까요? 다른 색상으로 바꾸려면 hotia! 서포터가 되어야 합니다.</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>색상</value>
@@ -483,7 +483,7 @@
     <value>커스텀 색상 테마는 {0}만 사용할 수 있습니다.</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu! 서포터</value>
+    <value>hotia! 서포터</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>없음</value>
@@ -579,7 +579,7 @@
     <value>최근 Kudosu 기록</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>총 획득한 Kudosu 수</value>
@@ -801,7 +801,7 @@
     <value>이 기능을 사용하기 위해서는 {0}가 되어야합니다.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu! 서포터</value>
+    <value>hotia! 서포터</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>게시글 수 {0}</value>
@@ -900,7 +900,7 @@
     <value>게임 클라이언트에서 가입해주세요!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>osu! 웹사이트를 통해 가입해주세요!</value>
+    <value>hotia! 웹사이트를 통해 가입해주세요!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>계정 생성됨</value>

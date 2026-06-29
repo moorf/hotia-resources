@@ -77,7 +77,7 @@
     <value>Vær venlig at vælge en ny placering</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>Dette sted har allerede en version af osu! installeret. Brug disse data i stedet?</value>
+    <value>Dette sted har allerede en version af hotia! installeret. Brug disse data i stedet?</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Slet ALLE beatmaps</value>
@@ -128,6 +128,6 @@
     <value>Ingen modifikations-forudindstillinger fundet til gendannelse!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Vælg venligst installationsplaceringen for osu!stable</value>
+    <value>Vælg venligst installationsplaceringen for hotia!stable</value>
   </data>
 </root>

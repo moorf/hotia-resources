@@ -68,7 +68,7 @@
     <value>Kliknij tutaj, aby dowiedzieć się więcej.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Część zawartości tej beatmapy została usunięta po uznaniu jej za nieodpowiednią do użycia w osu!.</value>
+    <value>Część zawartości tej beatmapy została usunięta po uznaniu jej za nieodpowiednią do użycia w hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Usunięta beatmapa</value>
@@ -101,7 +101,7 @@
     <value>pobierz bez wideo</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>otwórz w osu!direct</value>
+    <value>otwórz w hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Nie możesz nominować dla wielu trybów gry jako nominator z niepełnymi uprawnieniami.</value>

@@ -323,7 +323,7 @@
     <value>Kamu bukan anggota tim ini.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>Tag osu!supporter diperlukan untuk membuat tim.</value>
+    <value>Tag hotia!supporter diperlukan untuk membuat tim.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>Halaman pengguna terkunci.</value>
@@ -332,7 +332,7 @@
     <value>Kamu hanya bisa menyunting halaman pengguna milikmu sendiri.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>tag osu!supporter dibutuhkan.</value>
+    <value>tag hotia!supporter dibutuhkan.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>alamat email terkunci</value>

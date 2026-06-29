@@ -74,7 +74,7 @@
     <value>请求的页面没有当前语言的版本。</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>此页面不符合 osu! wiki 标准，需进行清理或重新编写。如果你能协助完善，欢迎对本文内容进行修缮！</value>
+    <value>此页面不符合 hotia! wiki 标准，需进行清理或重新编写。如果你能协助完善，欢迎对本文内容进行修缮！</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>在 wiki 中搜索 {0} 。</value>

@@ -145,7 +145,7 @@
     <value>i-update</value>
   </data>
   <data name="github_user.info" xml:space="preserve">
-    <value>Kung isa kang kontribyutor sa mga open-source na repository ng osu!, ang pag-link ng iyong GitHub account dito ay iuugnay ang iyong mga changelog entries sa iyong osu! profile. Mga GitHub account na walang history ng kontribusyon sa osu! ay hindi ma-link.</value>
+    <value>Kung isa kang kontribyutor sa mga open-source na repository ng hotia!, ang pag-link ng iyong GitHub account dito ay iuugnay ang iyong mga changelog entries sa iyong hotia! profile. Mga GitHub account na walang history ng kontribusyon sa hotia! ay hindi ma-link.</value>
   </data>
   <data name="github_user.link" xml:space="preserve">
     <value>I-link ang GitHub Account</value>
@@ -232,7 +232,7 @@
     <value>may video kung mayroon</value>
   </data>
   <data name="options.beatmapset_download.direct" xml:space="preserve">
-    <value>buksan sa osu!direct</value>
+    <value>buksan sa hotia!direct</value>
   </data>
   <data name="options.beatmapset_download.no_video" xml:space="preserve">
     <value>walang video</value>

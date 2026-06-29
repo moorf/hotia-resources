@@ -62,7 +62,7 @@
     <value>I-play agad ang sumusunod na mga track</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Ang ritmo ay isang *click* na lang! Mayroong Oudendan/EBA, Taiko at orihinal na mga gameplay mode, pati na rin ang gumaganang level editor.</value>
+    <value>hotia! - Ang ritmo ay isang *click* na lang! Mayroong Oudendan/EBA, Taiko at orihinal na mga gameplay mode, pati na rin ang gumaganang level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>beatmapset</value>
@@ -185,7 +185,7 @@
     <value>Listahan ng mga Beatmap</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>I-download ang osu!</value>
+    <value>I-download ang hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Tulong &amp; Komunidad</value>

@@ -89,25 +89,25 @@
     <value>إذا كان لديك أي أسئلة أو ملاحظات، لا تتردد في الرد على هذا البريد الإلكتروني؛ سأعود إليك في أقرب وقت ممكن!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>بفضل أشخاص مثلك، يستطيع osu! الحفاظ على تشغيل اللعبة والمجتمع بسلاسة دون أي إعلانات أو مدفوعات إجبارية.</value>
+    <value>بفضل أشخاص مثلك، يستطيع hotia! الحفاظ على تشغيل اللعبة والمجتمع بسلاسة دون أي إعلانات أو مدفوعات إجبارية.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>دعمك يساعد في استمرار تشغيل osu! لمدة حوالي {0}! قد لا يبدو ذلك كثيرًا، لكنه يتراكم مع الوقت :).</value>
+    <value>دعمك يساعد في استمرار تشغيل hotia! لمدة حوالي {0}! قد لا يبدو ذلك كثيرًا، لكنه يتراكم مع الوقت :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>شكراً, osu! تحبك &lt;3</value>
+    <value>شكراً, hotia! تحبك &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>نُقدّم فيما يلي ترجمة تطوعية مُخصصة لأغراض معلوماتية (للاطلاع العام): </value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>سيتمكن متلقي هديتك الآن من الوصول إلى osu!direct والعديد من مزايا الداعمين الأخرى.</value>
+    <value>سيتمكن متلقي هديتك الآن من الوصول إلى hotia!direct والعديد من مزايا الداعمين الأخرى.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>ستتمكن الآن من الوصول إلى osu!direct والعديد من مزايا الداعمين الأخرى لمدة {0}.</value>
+    <value>ستتمكن الآن من الوصول إلى hotia!direct والعديد من مزايا الداعمين الأخرى لمدة {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>شكرا جزيلاََ لـ{0} تجاه osu!.</value>
+    <value>شكرا جزيلاََ لـ{0} تجاه hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>دَعمِك</value>
@@ -119,7 +119,7 @@
     <value>نود اِعلامَك ان هنالك رداََ جديداََ على "{0}" منذ اخر زيارة لك.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] رد جديد للموضوع "{0}"</value>
+    <value>[hotia!] رد جديد للموضوع "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>إذا لم تعد ترغب في متابعة هذا الموضوع، يمكنك إما النقر على رابط "إلغاء الاشتراك في الموضوع" الموجود أسفل الموضوع أعلاه، أو من صفحة إدارة اشتراكات المواضيع:</value>
@@ -134,7 +134,7 @@
     <value>إما أنك أنت أو شخص يدّعي أنه أنت قد طلب إعادة تعيين كلمة المرور لحسابك في !osu.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>استعادة حساب osu!</value>
+    <value>استعادة حساب hotia!</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>لقد استلمنا دفعتك ونقوم حالياً بتجهيز طلبك للشحن. قد يستغرق الأمر بضعة أيام لإرساله، وذلك حسب كمية الطلبات لدينا. يمكنك متابعة حالة طلبك من هنا، بما في ذلك تفاصيل التتبع حين توفرها:</value>
@@ -149,10 +149,10 @@
     <value>الشحن</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>تلقينا طلب osu!store الخاص بك!</value>
+    <value>تلقينا طلب hotia!store الخاص بك!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>شكرا لطلبك من osu!store!</value>
+    <value>شكرا لطلبك من hotia!store!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>المجموع</value>
@@ -164,33 +164,33 @@
     <value>لكن من المحتمل أنك تعرف من هو بالفعل ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>بفضلهم، أصبح لديك وصول إلى osu!direct ومزايا الداعم الأخرى لمدة {0} القادمة.
+    <value>بفضلهم، أصبح لديك وصول إلى hotia!direct ومزايا الداعم الأخرى لمدة {0} القادمة.
 </value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>يمكنك معرفة مزيد من التفاصيل عن هذهِ المميزات هنا:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>قام شخص ما بإهدائك شارة osu!supporter للتو!
+    <value>قام شخص ما بإهدائك شارة hotia!supporter للتو!
 </value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>لقد ترك لك الشخص الذي أهداك هذا الوسام رسالة:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>لقد حصلت على شارة osu!supporter كهدية!</value>
+    <value>لقد حصلت على شارة hotia!supporter كهدية!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>هذا بريد إلكتروني للتأكيد يُعلمك بأنه تم تغيير عنوان بريدك الإلكتروني في osu! إلى: "{0}".</value>
+    <value>هذا بريد إلكتروني للتأكيد يُعلمك بأنه تم تغيير عنوان بريدك الإلكتروني في hotia! إلى: "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>يرجى التأكد من أنك تلقيت هذا البريد الإلكتروني على عنوانك الجديد لتجنب فقدان الوصول إلى حسابك في osu! في المستقبل.</value>
+    <value>يرجى التأكد من أنك تلقيت هذا البريد الإلكتروني على عنوانك الجديد لتجنب فقدان الوصول إلى حسابك في hotia! في المستقبل.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>لأسباب أمنية، تم إرسال هذه الرسالة إلى عنوان بريدك الإلكتروني الجديد والقديم معاً.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>تأكيد تغيير البريد الإلكتروني لـosu!</value>
+    <value>تأكيد تغيير البريد الإلكتروني لـhotia!</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>يُشتبه بأن حسابك قد تم اختراقه، أو أنه يحتوي على نشاط مشبوه حديث، أو أن كلمة المرور الخاصة به ضعيفة جدًا. ونتيجةً لذلك، نطلب منك تعيين كلمة مرور جديدة. يُرجى التأكد من اختيار كلمة مرور قوية.</value>
@@ -202,7 +202,7 @@
     <value>السبب:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>إعادة تفعيل حساب osu! مطلوبة</value>
+    <value>إعادة تفعيل حساب hotia! مطلوبة</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>لإعلامك فقط، هناك تحديثات جديدة على العناصر التي تتابعها.</value>
@@ -211,13 +211,13 @@
     <value>تغيير تفضيلات إشعار البريد الإلكتروني:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>إشعارات جديدة في osu!</value>
+    <value>إشعارات جديدة في hotia!</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>هذا مجرد تأكيد على أنه قد تم تغيير كلمة مرور حسابك في osu!.</value>
+    <value>هذا مجرد تأكيد على أنه قد تم تغيير كلمة مرور حسابك في hotia!.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>تأكيد تغيير كلمة المرور لـosu!</value>
+    <value>تأكيد تغيير كلمة المرور لـhotia!</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>رمز التحقق الخاص بك هو:</value>
@@ -232,7 +232,7 @@
     <value>إذا لم تكن أنت من طلب ذلك، فيرجى الرد فوراً لأن حسابك قد يكون في خطر.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>التحقق من حساب osu!</value>
+    <value>التحقق من حساب hotia!</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>يتطلب إجراءٌ تم تنفيذه على حسابك من {0} التحقق.</value>

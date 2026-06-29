@@ -74,7 +74,7 @@
     <value>Prašomas puslapis nebuvo rastas dabartinėje pasirinktoje kalboje.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Šis puslapis neatitinka osu! wiki standartų ir turėtu būti sutvarkytas arba perrašytas. Jei galite padėti, prašom pasvarstyti apie straipsnio atnaujinimą!</value>
+    <value>Šis puslapis neatitinka hotia! wiki standartų ir turėtu būti sutvarkytas arba perrašytas. Jei galite padėti, prašom pasvarstyti apie straipsnio atnaujinimą!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Ieškoti egzistuojančius puslapius dėl {0}.</value>

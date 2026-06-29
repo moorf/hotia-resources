@@ -62,13 +62,13 @@
     <value>Importér</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Hvis du har en installation af en tidligere osu! version, kan du vælge at migrere dit eksisterende indhold. Bemærk, at dette ikke vil påvirke dine eksisterende installations filer på nogen måde.</value>
+    <value>Hvis du har en installation af en tidligere hotia! version, kan du vælge at migrere dit eksisterende indhold. Bemærk, at dette ikke vil påvirke dine eksisterende installations filer på nogen måde.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>tidligere osu! install</value>
+    <value>tidligere hotia! install</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Klik for at lokalisere et tidligere osu! install</value>
+    <value>Klik for at lokalisere et tidligere hotia! install</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Importér indhold fra tidligere version</value>
@@ -92,9 +92,9 @@
     <value>Let linking af filer understøttes ikke i dit operativsystem endnu, så en kopi af filerne oprettes under import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at lazer datamappen er på det samme drev som din tidligere osu!-installation (og at filsystemet er NTFS).</value>
+    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at lazer datamappen er på det samme drev som din tidligere hotia!-installation (og at filsystemet er NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at lazer datamappen er på det samme drev som din tidligere osu!-installation (og at filsystemet understøtter hårde links).</value>
+    <value>En anden kopi af alle filerne vil blive lavet under importen. For at undgå dette, skal du sørge for, at lazer datamappen er på det samme drev som din tidligere hotia!-installation (og at filsystemet understøtter hårde links).</value>
   </data>
 </root>

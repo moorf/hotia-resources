@@ -68,7 +68,7 @@
     <value>Check here for more information.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Some assets contained within this map have been removed after being judged as not being suitable for use in osu!.</value>
+    <value>Some assets contained within this map have been removed after being judged as not being suitable for use in hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Deleted beatmap</value>
@@ -101,7 +101,7 @@
     <value>download without video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>open in osu!direct</value>
+    <value>open in hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Probationary nominators cannot nominate multiple rulesets.</value>
@@ -191,7 +191,7 @@
     <value>Download</value>
   </data>
   <data name="show.details.download.direct" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="show.details.download.no-video" xml:space="preserve">
     <value>without Video</value>
@@ -335,7 +335,7 @@
     <value>Click &lt;a href="{0}"&gt;here&lt;/a&gt; to see all the fancy features that you get!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>You need to be an osu!supporter to access the friend, country, or mod-specific rankings!</value>
+    <value>You need to be an hotia!supporter to access the friend, country, or mod-specific rankings!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Team Ranking</value>

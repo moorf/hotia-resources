@@ -68,12 +68,12 @@
     <value>Tagad varat aizvērt šo cilni/logu</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! klienta verifikācija ir pabeigta</value>
+    <value>hotia! klienta verifikācija ir pabeigta</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Noklikšķiniet uz autorizācijas pogas, lai pabeigtu klienta verifikāciju.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! klienta verifikācija</value>
+    <value>hotia! klienta verifikācija</value>
   </data>
 </root>

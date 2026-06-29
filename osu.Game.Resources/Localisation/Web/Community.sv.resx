@@ -62,22 +62,22 @@
     <value>Jag är övertygad! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>stötta osu!</value>
+    <value>stötta hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>eller ge supporter till en annan spelare i present</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>klicka på hjärtat för att gå till osu!store</value>
+    <value>klicka på hjärtat för att gå till hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Varför ska jag stödja osu!? Vart går pengarna?</value>
+    <value>Varför ska jag stödja hotia!? Vart går pengarna?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Stödja teamet</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Ett litet team utvecklar och driver osu!. Ditt stöd hjälper dem att, du vet... leva.</value>
+    <value>Ett litet team utvecklar och driver hotia!. Ditt stöd hjälper dem att, du vet... leva.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Server-infrastruktur</value>
@@ -89,13 +89,13 @@
     <value>Utvalda artister</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Med ditt stöd kan vi få tag i ännu fler grymma artister och licensiera mer bra musik för användning i osu!</value>
+    <value>Med ditt stöd kan vi få tag i ännu fler grymma artister och licensiera mer bra musik för användning i hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Visa den aktuella deltagarlistan &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Behåll osu! självförsörjande</value>
+    <value>Behåll hotia! självförsörjande</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Dina bidrag hjälper till att hålla spelet oberoende och helt fritt från reklam och externa sponsorer.</value>
@@ -104,7 +104,7 @@
     <value>Officiella turneringar</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Hjälp till att finansiera driften av (och priserna för) de officiella osu! VM-turneringarna.</value>
+    <value>Hjälp till att finansiera driften av (och priserna för) de officiella hotia! VM-turneringarna.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Utforska turneringar &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Bounty-program för öppen källkod</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Stöd de bidragsgivare som har gett sin tid och ansträngning för att hjälpa till att göra osu! bättre.</value>
+    <value>Stöd de bidragsgivare som har gett sin tid och ansträngning för att hjälpa till att göra hotia! bättre.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Läs mer &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Coolt! Vilka förmåner får jag?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Få tillgång till att snabbt och enkelt söka efter och ladda ner beatmaps utan att lämna spelet.</value>
@@ -185,7 +185,7 @@
     <value>Snabbare nedladdningar</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Mindre nedladdningsrestriktioner, speciellt när du använder osu!direct.</value>
+    <value>Mindre nedladdningsrestriktioner, speciellt när du använder hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Ändra användarnamn</value>

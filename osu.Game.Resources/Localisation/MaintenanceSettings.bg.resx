@@ -77,7 +77,7 @@
     <value>Изберете ново местоположение</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>Избраното местоположение съдържа osu! инсталация. Да бъде ли заменена с тази?</value>
+    <value>Избраното местоположение съдържа hotia! инсталация. Да бъде ли заменена с тази?</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Изтриване на ВСИЧКИ бийтмапове</value>
@@ -128,6 +128,6 @@
     <value>Не са намерени модови предстройки за възстановяване!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Изберете местоположението на вашия osu!stable клиент</value>
+    <value>Изберете местоположението на вашия hotia!stable клиент</value>
   </data>
 </root>

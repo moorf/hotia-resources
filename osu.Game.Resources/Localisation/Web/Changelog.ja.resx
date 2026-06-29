@@ -98,10 +98,10 @@
     <value>このアップデートは良かったですか？</value>
   </data>
   <data name="support.text_1" xml:space="preserve">
-    <value>osu!の開発をサポートするために{0}！</value>
+    <value>hotia!の開発をサポートするために{0}！</value>
   </data>
   <data name="support.text_1_link" xml:space="preserve">
-    <value>osu!サポーターになりましょう</value>
+    <value>hotia!サポーターになりましょう</value>
   </data>
   <data name="support.text_2" xml:space="preserve">
     <value>開発の手助けにだけでなく、色々な機能が利用できるようになります！</value>

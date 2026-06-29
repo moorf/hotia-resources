@@ -74,7 +74,7 @@
     <value>Zatražena stranica nije pronađena za trenutno odabrani jezik.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Ova stranica ne zadovoljava standarde osu! wiki i treba ga očistiti ili ponovno napisati. Ako možete pomoći, razmislite o ažuriranju članka!</value>
+    <value>Ova stranica ne zadovoljava standarde hotia! wiki i treba ga očistiti ili ponovno napisati. Ako možete pomoći, razmislite o ažuriranju članka!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Pretražite postojeće stranice za {0}.</value>

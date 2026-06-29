@@ -68,7 +68,7 @@
     <value>Прво покретање</value>
   </data>
   <data name="first_run_setup_description" xml:space="preserve">
-    <value>Конфигуриши osu! према вашим жељама</value>
+    <value>Конфигуриши hotia! према вашим жељама</value>
   </data>
   <data name="welcome_title" xml:space="preserve">
     <value>Добродошли</value>
@@ -76,10 +76,10 @@
   <data name="welcome_description" xml:space="preserve">
     <value>Добродошли у водич за прво покретање!
 
-osu! је игра која се може конфигурисати, и зарон директно у подешавања понекад може бити неодољив. Овај водич ће вам помоћи да добијете важне изборе са пута како бисте осигурали одлично прво искуство!</value>
+hotia! је игра која се може конфигурисати, и зарон директно у подешавања понекад може бити неодољив. Овај водич ће вам помоћи да добијете важне изборе са пута како бисте осигурали одлично прво искуство!</value>
   </data>
   <data name="ui_scale_description" xml:space="preserve">
-    <value>Величина интерфејса у osu! може се прилагодити вашим жељама.</value>
+    <value>Величина интерфејса у hotia! може се прилагодити вашим жељама.</value>
   </data>
   <data name="behaviour" xml:space="preserve">
     <value>Понашање</value>

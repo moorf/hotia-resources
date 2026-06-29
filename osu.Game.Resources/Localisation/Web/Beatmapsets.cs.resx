@@ -68,7 +68,7 @@
     <value>Pro více informací klikněte zde.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Některé assety obsažené v této mapě byly odstraněny poté, co byly posouzeny jako nevhodné pro použití v osu!.</value>
+    <value>Některé assety obsažené v této mapě byly odstraněny poté, co byly posouzeny jako nevhodné pro použití v hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Vymazaná beatmapa</value>
@@ -101,7 +101,7 @@
     <value>stáhnout bez videa</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>otevřít v osu!direct</value>
+    <value>otevřít v hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Zkušební nominátoři nemohou nominovat více rulesetů.</value>

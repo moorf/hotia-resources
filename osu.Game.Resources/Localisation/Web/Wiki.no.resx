@@ -74,7 +74,7 @@
     <value>Forespurt side kunne ikke bli funnet med gjeldende valgt språk.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Denne siden oppfyller ikke standardene til osu!-wikien og må ryddes opp eller skrives om. Hvis du kan hjelpe til, vurder å oppdatere artikkelen!</value>
+    <value>Denne siden oppfyller ikke standardene til hotia!-wikien og må ryddes opp eller skrives om. Hvis du kan hjelpe til, vurder å oppdatere artikkelen!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Søk på eksisterende sider for {0}.</value>

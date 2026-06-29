@@ -98,10 +98,10 @@
     <value>Жаңарту ұнады ма?</value>
   </data>
   <data name="support.text_1" xml:space="preserve">
-    <value>osu!-дың алдағы дамуын қолдаңыз және бүгін {0}!</value>
+    <value>hotia!-дың алдағы дамуын қолдаңыз және бүгін {0}!</value>
   </data>
   <data name="support.text_1_link" xml:space="preserve">
-    <value>osu!supporter атаныңыз</value>
+    <value>hotia!supporter атаныңыз</value>
   </data>
   <data name="support.text_2" xml:space="preserve">
     <value>Сіз ойынның жылдам дамуына көмектесіп қана қоймайсыз, сонымен қатар қосымша мүмкіндіктерге ие боласыз!</value>

@@ -83,7 +83,7 @@
     <value>تحديثات العميل والموقع الإلكتروني</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>منتجات osu!</value>
+    <value>منتجات hotia!</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>إعلانات متنوعة</value>
@@ -104,7 +104,7 @@
     <value>تحديثات نظام التصنيف</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>كأس العالم لـ osu!</value>
+    <value>كأس العالم لـ hotia!</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>بواسطة {0}</value>

@@ -15,9 +15,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportConvincedTitle(LocalisableString d) => new TranslatableString(getKey(@"support.convinced.title"), @"I'm convinced! {0}", d);
 
         /// <summary>
-        /// "support osu!"
+        /// "support hotia!"
         /// </summary>
-        public static LocalisableString SupportConvincedSupport => new TranslatableString(getKey(@"support.convinced.support"), @"support osu!");
+        public static LocalisableString SupportConvincedSupport => new TranslatableString(getKey(@"support.convinced.support"), @"support hotia!");
 
         /// <summary>
         /// "or gift supporter to other players"
@@ -25,14 +25,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportConvincedGift => new TranslatableString(getKey(@"support.convinced.gift"), @"or gift supporter to other players");
 
         /// <summary>
-        /// "click the heart button to proceed to the osu!store"
+        /// "click the heart button to proceed to the hotia!store"
         /// </summary>
-        public static LocalisableString SupportConvincedInstructions => new TranslatableString(getKey(@"support.convinced.instructions"), @"click the heart button to proceed to the osu!store");
+        public static LocalisableString SupportConvincedInstructions => new TranslatableString(getKey(@"support.convinced.instructions"), @"click the heart button to proceed to the hotia!store");
 
         /// <summary>
-        /// "Why should I support osu!? Where does the money go?"
+        /// "Why should I support hotia!? Where does the money go?"
         /// </summary>
-        public static LocalisableString SupportWhySupportTitle => new TranslatableString(getKey(@"support.why-support.title"), @"Why should I support osu!? Where does the money go?");
+        public static LocalisableString SupportWhySupportTitle => new TranslatableString(getKey(@"support.why-support.title"), @"Why should I support hotia!? Where does the money go?");
 
         /// <summary>
         /// "Support the Team"
@@ -40,9 +40,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportTeamTitle => new TranslatableString(getKey(@"support.why-support.team.title"), @"Support the Team");
 
         /// <summary>
-        /// "A small team develops and runs osu!. Your support helps them to, you know... live."
+        /// "A small team develops and runs hotia!. Your support helps them to, you know... live."
         /// </summary>
-        public static LocalisableString SupportWhySupportTeamDescription => new TranslatableString(getKey(@"support.why-support.team.description"), @"A small team develops and runs osu!. Your support helps them to, you know... live.");
+        public static LocalisableString SupportWhySupportTeamDescription => new TranslatableString(getKey(@"support.why-support.team.description"), @"A small team develops and runs hotia!. Your support helps them to, you know... live.");
 
         /// <summary>
         /// "Server Infrastructure"
@@ -60,9 +60,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportFeaturedArtistsTitle => new TranslatableString(getKey(@"support.why-support.featured-artists.title"), @"Featured Artists");
 
         /// <summary>
-        /// "With your support, we can approach even more awesome artists and license more great music for use in osu!"
+        /// "With your support, we can approach even more awesome artists and license more great music for use in hotia!"
         /// </summary>
-        public static LocalisableString SupportWhySupportFeaturedArtistsDescription => new TranslatableString(getKey(@"support.why-support.featured-artists.description"), @"With your support, we can approach even more awesome artists and license more great music for use in osu!");
+        public static LocalisableString SupportWhySupportFeaturedArtistsDescription => new TranslatableString(getKey(@"support.why-support.featured-artists.description"), @"With your support, we can approach even more awesome artists and license more great music for use in hotia!");
 
         /// <summary>
         /// "View the current roster &amp;raquo;"
@@ -70,9 +70,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportFeaturedArtistsLinkText => new TranslatableString(getKey(@"support.why-support.featured-artists.link_text"), @"View the current roster &raquo;");
 
         /// <summary>
-        /// "Keep osu! self-sustaining"
+        /// "Keep hotia! self-sustaining"
         /// </summary>
-        public static LocalisableString SupportWhySupportAdsTitle => new TranslatableString(getKey(@"support.why-support.ads.title"), @"Keep osu! self-sustaining");
+        public static LocalisableString SupportWhySupportAdsTitle => new TranslatableString(getKey(@"support.why-support.ads.title"), @"Keep hotia! self-sustaining");
 
         /// <summary>
         /// "Your contributions help keep the game independent and completely free from ads and outside sponsors."
@@ -85,9 +85,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportTournamentsTitle => new TranslatableString(getKey(@"support.why-support.tournaments.title"), @"Official Tournaments");
 
         /// <summary>
-        /// "Help fund the running of (and the prizes for) the official osu! World Cup tournaments."
+        /// "Help fund the running of (and the prizes for) the official hotia! World Cup tournaments."
         /// </summary>
-        public static LocalisableString SupportWhySupportTournamentsDescription => new TranslatableString(getKey(@"support.why-support.tournaments.description"), @"Help fund the running of (and the prizes for) the official osu! World Cup tournaments.");
+        public static LocalisableString SupportWhySupportTournamentsDescription => new TranslatableString(getKey(@"support.why-support.tournaments.description"), @"Help fund the running of (and the prizes for) the official hotia! World Cup tournaments.");
 
         /// <summary>
         /// "Explore tournaments &amp;raquo;"
@@ -100,9 +100,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportWhySupportBountyProgramTitle => new TranslatableString(getKey(@"support.why-support.bounty-program.title"), @"Open Source Bounty Program");
 
         /// <summary>
-        /// "Support the community contributors that have given their time and effort to help make osu! better."
+        /// "Support the community contributors that have given their time and effort to help make hotia! better."
         /// </summary>
-        public static LocalisableString SupportWhySupportBountyProgramDescription => new TranslatableString(getKey(@"support.why-support.bounty-program.description"), @"Support the community contributors that have given their time and effort to help make osu! better.");
+        public static LocalisableString SupportWhySupportBountyProgramDescription => new TranslatableString(getKey(@"support.why-support.bounty-program.description"), @"Support the community contributors that have given their time and effort to help make hotia! better.");
 
         /// <summary>
         /// "Find out more &amp;raquo;"
@@ -115,9 +115,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportPerksTitle => new TranslatableString(getKey(@"support.perks.title"), @"Cool! What perks do I get?");
 
         /// <summary>
-        /// "osu!direct"
+        /// "hotia!direct"
         /// </summary>
-        public static LocalisableString SupportPerksOsuDirectTitle => new TranslatableString(getKey(@"support.perks.osu_direct.title"), @"osu!direct");
+        public static LocalisableString SupportPerksOsuDirectTitle => new TranslatableString(getKey(@"support.perks.osu_direct.title"), @"hotia!direct");
 
         /// <summary>
         /// "Gain quick and easy access to search for and download beatmaps without having to leave the game."
@@ -220,9 +220,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportPerksSpeedyDownloadsTitle => new TranslatableString(getKey(@"support.perks.speedy_downloads.title"), @"Speedy Downloads");
 
         /// <summary>
-        /// "More lenient download restrictions, especially when using osu!direct."
+        /// "More lenient download restrictions, especially when using hotia!direct."
         /// </summary>
-        public static LocalisableString SupportPerksSpeedyDownloadsDescription => new TranslatableString(getKey(@"support.perks.speedy_downloads.description"), @"More lenient download restrictions, especially when using osu!direct.");
+        public static LocalisableString SupportPerksSpeedyDownloadsDescription => new TranslatableString(getKey(@"support.perks.speedy_downloads.description"), @"More lenient download restrictions, especially when using hotia!direct.");
 
         /// <summary>
         /// "Change Username"
@@ -310,19 +310,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportSupporterStatusContributionWithDuration(LocalisableString dollars, LocalisableString duration) => new TranslatableString(getKey(@"support.supporter_status.contribution_with_duration"), @"Thank you for your ongoing support! So far, you've contributed a total of {0}, earning you the ""Supporter"" tag for {1}.", dollars, duration);
 
         /// <summary>
-        /// "You haven&#39;t ever had an osu!supporter tag :("
+        /// "You haven&#39;t ever had an hotia!supporter tag :("
         /// </summary>
-        public static LocalisableString SupportSupporterStatusNotYet => new TranslatableString(getKey(@"support.supporter_status.not_yet"), @"You haven't ever had an osu!supporter tag :(");
+        public static LocalisableString SupportSupporterStatusNotYet => new TranslatableString(getKey(@"support.supporter_status.not_yet"), @"You haven't ever had an hotia!supporter tag :(");
 
         /// <summary>
-        /// "Your current osu!supporter tag is valid until {0}!"
+        /// "Your current hotia!supporter tag is valid until {0}!"
         /// </summary>
-        public static LocalisableString SupportSupporterStatusValidUntil(LocalisableString date) => new TranslatableString(getKey(@"support.supporter_status.valid_until"), @"Your current osu!supporter tag is valid until {0}!", date);
+        public static LocalisableString SupportSupporterStatusValidUntil(LocalisableString date) => new TranslatableString(getKey(@"support.supporter_status.valid_until"), @"Your current hotia!supporter tag is valid until {0}!", date);
 
         /// <summary>
-        /// "Your osu!supporter tag was valid until {0}."
+        /// "Your hotia!supporter tag was valid until {0}."
         /// </summary>
-        public static LocalisableString SupportSupporterStatusWasValidUntil(LocalisableString date) => new TranslatableString(getKey(@"support.supporter_status.was_valid_until"), @"Your osu!supporter tag was valid until {0}.", date);
+        public static LocalisableString SupportSupporterStatusWasValidUntil(LocalisableString date) => new TranslatableString(getKey(@"support.supporter_status.was_valid_until"), @"Your hotia!supporter tag was valid until {0}.", date);
 
         /// <summary>
         /// "Out of your total contributions, you’ve gifted {0} worth of tags to {1} covering {2}. That’s incredibly generous!"

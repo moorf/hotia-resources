@@ -308,13 +308,13 @@
     <value>reinicia a {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Transfira o osu!</value>
+    <value>Transfira o hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Apoie o osu!</value>
+    <value>Apoie o hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Transmissão Destacada</value>

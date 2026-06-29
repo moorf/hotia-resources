@@ -71,7 +71,7 @@
     <value>Der Parameter {0} darf maximal {1} Item enthalten|Der Parameter {0} darf maximal {1} Items enthalten</value>
   </data>
   <data name="supporter_only" xml:space="preserve">
-    <value>Du musst ein osu!supporter sein, um dieses Feature zu nutzen.</value>
+    <value>Du musst ein hotia!supporter sein, um dieses Feature zu nutzen.</value>
   </data>
   <data name="unknown" xml:space="preserve">
     <value>Unbekannter Fehler aufgetreten.</value>

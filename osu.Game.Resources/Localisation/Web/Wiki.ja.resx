@@ -74,7 +74,7 @@
     <value>要求されたページは選択している言語に翻訳されていません。</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>このページはosu!の基準を満たしていません！ wikiをクリーンアップまたは書き換える必要があります。あなたが助けることができる場合は、記事の更新を検討してください！</value>
+    <value>このページはhotia!の基準を満たしていません！ wikiをクリーンアップまたは書き換える必要があります。あなたが助けることができる場合は、記事の更新を検討してください！</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>既存のページで{0}を検索する</value>

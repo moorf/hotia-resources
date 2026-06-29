@@ -80,7 +80,7 @@
     <value>Vennligst velg ny mappe</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>Det ser ut som at den velgte mappen allerede har en osu!-installasjon. Vil du bruke denne dataen istedet?</value>
+    <value>Det ser ut som at den velgte mappen allerede har en hotia!-installasjon. Vil du bruke denne dataen istedet?</value>
   </data>
   <data name="restart_and_re_open_required_for_completion" xml:space="preserve">
     <value>For å fullføre denne operasjonen, så vil osu lukke. Vennligst åpne spillet igjen for å bruke din nye filmappe.</value>
@@ -122,6 +122,6 @@
     <value>Gjenopprettet alle mod-forholdsinnstillinger!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Vennligst velg din osu!stable installasjonsmappe</value>
+    <value>Vennligst velg din hotia!stable installasjonsmappe</value>
   </data>
 </root>

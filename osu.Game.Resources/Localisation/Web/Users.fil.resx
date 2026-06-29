@@ -215,7 +215,7 @@
     <value>Password</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Wala kang osu! account? Gumawa ka ng bago</value>
+    <value>Wala kang hotia! account? Gumawa ka ng bago</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Tandaan ako sa kompyuter na ito</value>
@@ -230,7 +230,7 @@
     <value>Ang beta access ay para lang sa mga users na may pribilehiyo.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(Makakapasok rin ang mga osu!supporter)</value>
+    <value>(Makakapasok rin ang mga hotia!supporter)</value>
   </data>
   <data name="ogp.modding_description" xml:space="preserve">
     <value>Mga beatmap {0}</value>
@@ -329,10 +329,10 @@
     <value>Nandito galing sa simula</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Sumali noong {0}</value>
@@ -398,7 +398,7 @@
     <value>Available lamang ang upload sa mga {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>default na game mode</value>
@@ -500,7 +500,7 @@
     <value>Kamakailang Kaganapan sa Kudosu</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Suma total ng Nakamit na Kudosu</value>
@@ -509,7 +509,7 @@
     <value>{0} na kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Ang user na ito ay hindi pa nakatatanggap ng kudosu!</value>
+    <value>Ang user na ito ay hindi pa nakatatanggap ng kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Nakatanggap ng {0} na kudosu mula sa pagpapawalang-bisa ng pagkakabawi ng kudosu sa modding post sa {1}</value>
@@ -716,7 +716,7 @@
     <value>Kailangan mo maging {0} para magamit ang tampok na ito.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Nag-kontribute sa {0}</value>
@@ -806,7 +806,7 @@
     <value>pakirehistro sa pamamagitan ng game client sa halip!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>pakikumpleto ang pagpaparehistro gamit ang osu! website</value>
+    <value>pakikumpleto ang pagpaparehistro gamit ang hotia! website</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Ginawa ng user</value>

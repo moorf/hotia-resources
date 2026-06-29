@@ -137,7 +137,7 @@
     <value>Avaa selaimessa lähetyksen jälkeen</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Huomautus: Jotta kaikkien osu!-versioiden käyttäjät voisivat nauttia rytmikartastasi, se viedään taaksepäin yhteensopivassa muodossa. Olemme pyrkineet varmistamaan, että rytmikartta pysyy pelattavana alkuperäisessä muodossaan, mutta osa tiedoista saattaa kadota sellaisten ominaisuuksien kohdalla, joita vanhemmat versiot eivät tue.</value>
+    <value>Huomautus: Jotta kaikkien hotia!-versioiden käyttäjät voisivat nauttia rytmikartastasi, se viedään taaksepäin yhteensopivassa muodossa. Olemme pyrkineet varmistamaan, että rytmikartta pysyy pelattavana alkuperäisessä muodossaan, mutta osa tiedoista saattaa kadota sellaisten ominaisuuksien kohdalla, joita vanhemmat versiot eivät tue.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Tyhjiä rytmikarttoja ei pysty lähettää.</value>

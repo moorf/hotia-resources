@@ -84,7 +84,7 @@
     <value>Valdiklio balsai</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! teminė muzika</value>
+    <value>hotia! teminė muzika</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Įvado seka</value>
@@ -97,7 +97,7 @@
   </data>
   <data name="not_supporter_note" xml:space="preserve">
     <value>
-Šio nustatymo pakeitimai bus taikomi tik su aktyvia osu!supporter žyma.</value>
+Šio nustatymo pakeitimai bus taikomi tik su aktyvia hotia!supporter žyma.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Dainų Pasirinkimas</value>

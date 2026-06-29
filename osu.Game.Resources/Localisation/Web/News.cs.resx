@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu!novinky</value>
+    <value>hotia!novinky</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>Novější příspěvky</value>
@@ -98,7 +98,7 @@
     <value>Měsíční mapovací soutěž</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>osu! merchandise</value>
+    <value>hotia! merchandise</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>různá oznámení</value>
@@ -119,7 +119,7 @@
     <value>aktualizace systému hodnocení</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>Mistrovství světa v osu!</value>
+    <value>Mistrovství světa v hotia!</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>od {0}</value>

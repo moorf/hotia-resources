@@ -62,7 +62,7 @@
     <value>自動播放下一首曲目</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.</value>
+    <value>hotia! - Rhythm is just a *click* away!  With Ouendan/EBA, Taiko and original gameplay modes, as well as a fully functional level editor.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>圖譜</value>
@@ -191,7 +191,7 @@
     <value>圖譜清單</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>下載 osu!</value>
+    <value>下載 hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>說明與社群</value>
@@ -311,7 +311,7 @@
     <value>下載</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>立即下載 osu! 並註冊帳號吧！</value>
+    <value>立即下載 hotia! 並註冊帳號吧！</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>沒有帳號？</value>

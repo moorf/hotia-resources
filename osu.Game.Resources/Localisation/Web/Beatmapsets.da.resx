@@ -68,7 +68,7 @@
     <value>Klik her for mere information.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Nogle aktiver på dette kort er blevet fjernet efter at være blevet bedømt som ikke egnet til brug i osu!.</value>
+    <value>Nogle aktiver på dette kort er blevet fjernet efter at være blevet bedømt som ikke egnet til brug i hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Slettet beatmap</value>
@@ -101,7 +101,7 @@
     <value>download uden video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>open med osu!direct</value>
+    <value>open med hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Nye nominatorer kanikke nominere adskillige regelsæt.</value>

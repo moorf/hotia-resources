@@ -308,13 +308,13 @@
     <value>nollautuu {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Lataa osu!</value>
+    <value>Lataa hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Tue osu!a</value>
+    <value>Tue hotia!a</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!kauppa</value>
+    <value>hotia!kauppa</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Suositeltu Livelähetys</value>

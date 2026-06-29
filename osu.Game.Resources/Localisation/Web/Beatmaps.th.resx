@@ -572,7 +572,7 @@
     <value>กรองโดย {0} ต้องมี {1} ทำงานอยู่</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>แท็กผู้สนับสนุน osu!</value>
+    <value>แท็กผู้สนับสนุน hotia!</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>รวมบีทแมพที่แปลงแล้ว</value>

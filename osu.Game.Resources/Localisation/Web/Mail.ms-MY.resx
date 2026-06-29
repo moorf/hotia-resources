@@ -89,7 +89,7 @@
     <value>Sekiranya anda mempunyai soalan atau maklum balas, janganlah teragak-agak untuk membalas e-mel ini. Saya akan membalas secepat mungkin!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Orang seperti anda ialah sebab osu! dapat mengekalkan penjalanan lancar mainan dan komuniti tanpa apa-apa iklan atau bayaran paksaan.</value>
+    <value>Orang seperti anda ialah sebab hotia! dapat mengekalkan penjalanan lancar mainan dan komuniti tanpa apa-apa iklan atau bayaran paksaan.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
     <value>Sokongan anda </value>
@@ -101,13 +101,13 @@
     <value>Berikut terjemahan yang disediakan oleh komuniti untuk tujuan makluman:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Penerima hadiah anda kini mempunyai capaian ke osu!direct dan pelbagai manfaat penyokong lain.</value>
+    <value>Penerima hadiah anda kini mempunyai capaian ke hotia!direct dan pelbagai manfaat penyokong lain.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Anda kini mempunyai capaian ke osu!direct dan pelbagai manfaat penyokong lain selama {0}.</value>
+    <value>Anda kini mempunyai capaian ke hotia!direct dan pelbagai manfaat penyokong lain selama {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Terima kasih atas {0} anda kepada osu!.</value>
+    <value>Terima kasih atas {0} anda kepada hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>sokongan</value>
@@ -119,7 +119,7 @@
     <value>Saja nak beritahu, ada balasan baru pada "{0}" sejak lawatan terkinimu.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Balasan baru untuk tajuk "{0}"</value>
+    <value>[hotia!] Balasan baru untuk tajuk "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Sekiranya anda tidak ingin mengikut tajuk ini lagi, anda boleh klik pautan "Nyahikut tajuk" pada bahagian bawah tajuk di atas atau dari halaman pengurusan tajuk ikutan:</value>
@@ -131,10 +131,10 @@
     <value>Kod pengesahan anda ialah:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Sama ada anda atau seseorang yang menyamar menjadi anda telah meminta penetapan semula kata laluan pada akaun osu! anda.</value>
+    <value>Sama ada anda atau seseorang yang menyamar menjadi anda telah meminta penetapan semula kata laluan pada akaun hotia! anda.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>pemulihan akaun osu!</value>
+    <value>pemulihan akaun hotia!</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Kami telah menerima bayaran anda dan kini menyiapkan pesanan anda untuk dihantar. Bergantung kepada kuantiti, pesanan anda mungkin akan mengambil masa beberapa hari sebelum dikirim. Anda boleh mengikuti kemajuan pesanan anda di sini termasuk butiran penjejakan sekiranya tersedia:</value>
@@ -149,10 +149,10 @@
     <value>Penghantaran</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Kami telah menerima pesanan osu!store anda!</value>
+    <value>Kami telah menerima pesanan hotia!store anda!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Terima kasih atas pesanan osu!store anda!</value>
+    <value>Terima kasih atas pesanan hotia!store anda!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Jumlah</value>
@@ -164,31 +164,31 @@
     <value>Tapi rasanya kamu dah tau siapa ;3.</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Dengan pertolongan mereka, anda mempunyai capaian ke osu!direct dan manfaat osu!supporter lain selama {0}.</value>
+    <value>Dengan pertolongan mereka, anda mempunyai capaian ke hotia!direct dan manfaat hotia!supporter lain selama {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Anda boleh menemui lebih butiran tentang ciri-ciri ini di sini:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Seseorang baru sahaja menghadiahi anda tag osu!supporter!</value>
+    <value>Seseorang baru sahaja menghadiahi anda tag hotia!supporter!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Penghadiah tag ini meninggalkan pesanan untuk anda:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Anda telah dihadiahi tag osu!supporter!</value>
+    <value>Anda telah dihadiahi tag hotia!supporter!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Ini ialah e-mel pengesahan untuk memaklumkan bahawa alamat emel osu! anda telah diubah ke "{0}".</value>
+    <value>Ini ialah e-mel pengesahan untuk memaklumkan bahawa alamat emel hotia! anda telah diubah ke "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Sila pastikan bahawa anda menerima e-mel ini pada alamat baharu anda untuk mengelakkan kehilangan capaian ke akaun osu! anda kelak.</value>
+    <value>Sila pastikan bahawa anda menerima e-mel ini pada alamat baharu anda untuk mengelakkan kehilangan capaian ke akaun hotia! anda kelak.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Untuk sebab keselamatan, e-mel ini telah dihantar ke alamat e-mel lama dan baharu anda masing-masing.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>pengesahan pengubahan e-mel osu!</value>
+    <value>pengesahan pengubahan e-mel hotia!</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Akaun anda diragui telah terjejas atau mempunyai kegiatan ragu baru-baru ini mahupun kata laluan yang AMAT lemah. Hasilnya, kami memerlukan anda agar menetapkan kata laluan baharu. Sila pastikan anda memilih kata laluan yang SELAMAT.</value>
@@ -200,7 +200,7 @@
     <value>Sebab:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>Pengupayaan Semula Akaun osu! Diperlukan</value>
+    <value>Pengupayaan Semula Akaun hotia! Diperlukan</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Saja nak beritahu, ada pengemaskinian baru pada butir-butir ikutanmu.</value>
@@ -209,13 +209,13 @@
     <value>Ubah keutamaan pemberitahuan e-mel:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Pemberitahuan osu! baharu</value>
+    <value>Pemberitahuan hotia! baharu</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Pengesahan ini hanya sekadar memberitahu bahawa kata laluan osu! anda telah diubah.</value>
+    <value>Pengesahan ini hanya sekadar memberitahu bahawa kata laluan hotia! anda telah diubah.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>Pengesahan pengubahan kata laluan osu!</value>
+    <value>Pengesahan pengubahan kata laluan hotia!</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Kod pengesahan anda:</value>
@@ -227,10 +227,10 @@
     <value>Anda juga boleh melawat pautan ini untuk selesaikan pengesahan:</value>
   </data>
   <data name="user_verification.report" xml:space="preserve">
-    <value>pengesahan akaun osu!</value>
+    <value>pengesahan akaun hotia!</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>pengesahan akaun osu!</value>
+    <value>pengesahan akaun hotia!</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Sebuah tindakan yang dijalankan pada akaun anda dari {0} memerlukan pengesahan.</value>

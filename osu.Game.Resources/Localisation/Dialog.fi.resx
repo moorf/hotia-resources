@@ -71,7 +71,7 @@
     <value>Ei! Peruuta</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>osu!stable-asennusta ei löytynyt automaattisesti.</value>
+    <value>hotia!stable-asennusta ei löytynyt automaattisesti.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Aiempaa asennusta ei löytynyt. Jos tiedät sen sijainnin, voit auttaa sen paikantamisessa.</value>
@@ -80,7 +80,7 @@
     <value>Toki! Tiedän, missä se sijaitsee!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Itse asiassa minulla ei ole osu!stablea asennettuna.</value>
+    <value>Itse asiassa minulla ei ole hotia!stablea asennettuna.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Kaikki paikalliset tulokset {0}</value>
@@ -92,7 +92,7 @@
     <value>Oletko varma, että haluat keskeyttää pelin?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Haluatko varmasti sulkea osu!:n?</value>
+    <value>Haluatko varmasti sulkea hotia!:n?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Viimeinen tilaisuus kääntyä takaisin</value>

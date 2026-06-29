@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu!ข่าวสาร</value>
+    <value>hotia!ข่าวสาร</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>โพสต์ใหม่กว่า</value>
@@ -98,7 +98,7 @@
     <value>คอนเทสต์บีทแมพประจำเดือน</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>osu! merchandise</value>
+    <value>hotia! merchandise</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>ประกาศอื่นๆ</value>
@@ -119,7 +119,7 @@
     <value>อัปเดตระบบแรงกิ้ง</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>osu! เวิลด์คัพ</value>
+    <value>hotia! เวิลด์คัพ</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>โดย {0}</value>

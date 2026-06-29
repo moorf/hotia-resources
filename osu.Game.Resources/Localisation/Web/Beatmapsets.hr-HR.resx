@@ -68,7 +68,7 @@
     <value>Klikni ovdje za više informacija.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Neka sredstva sadržana u ovoj mapi su uklonjena nakon što su ocijenjena kao neprikladna za korištenje u osu!.</value>
+    <value>Neka sredstva sadržana u ovoj mapi su uklonjena nakon što su ocijenjena kao neprikladna za korištenje u hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Izbrisana beatmapa,</value>
@@ -101,7 +101,7 @@
     <value>preuzmi bez videa</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>otvori u osu!direct</value>
+    <value>otvori u hotia!direct</value>
   </data>
   <data name="nominate.hybrid_requires_modes" xml:space="preserve">
     <value>Hibridne beatmape zahtijevaju da odabereš barem jedan način igranja za nominaciju.</value>
@@ -296,7 +296,7 @@
     <value>Klikni &lt;a href="{0}"&gt;ovdje&lt;/a&gt; da vidiš sve otmjene značajke koje dobivaš!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Moraš biti osu!supporter da bi pristupio/la ljestvicama specifičnim za prijatelje, državu ili mod!</value>
+    <value>Moraš biti hotia!supporter da bi pristupio/la ljestvicama specifičnim za prijatelje, državu ili mod!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Timski Rang</value>

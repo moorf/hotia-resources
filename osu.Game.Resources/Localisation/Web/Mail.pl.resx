@@ -89,25 +89,25 @@
     <value>Jeżeli masz jakieś pytania lub chcesz przekazać nam swoją opinię, odpowiedz na ten e-mail. Odpiszemy jak to najszybciej możliwe!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Dzięki Tobie osu! jest w stanie utrzymać się bez żadnych reklam czy wymuszanych płatności.</value>
+    <value>Dzięki Tobie hotia! jest w stanie utrzymać się bez żadnych reklam czy wymuszanych płatności.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Twoje wsparcie utrzymuje osu! przez około {0}! Może nie wydaje się to zbyt wiele, ale to wszystko się dodaje. :)</value>
+    <value>Twoje wsparcie utrzymuje hotia! przez około {0}! Może nie wydaje się to zbyt wiele, ale to wszystko się dodaje. :)</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Dziękujemy, osu! cię &lt;3</value>
+    <value>Dziękujemy, hotia! cię &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Poniżej zawarliśmy tłumaczenie dla celów informacyjnych:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Odbiorca(-y) Twojego zakupu otrzymają dostęp do osu!direct i innych korzyści wynikających z posiadania statusu donatora osu!.</value>
+    <value>Odbiorca(-y) Twojego zakupu otrzymają dostęp do hotia!direct i innych korzyści wynikających z posiadania statusu donatora hotia!.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Otrzymasz dostęp do osu!direct i innych korzyści wynikających z posiadania statusu donatora osu! na {0}.</value>
+    <value>Otrzymasz dostęp do hotia!direct i innych korzyści wynikających z posiadania statusu donatora hotia! na {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Dziękujemy za {0} osu!.</value>
+    <value>Dziękujemy za {0} hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>wsparcie</value>
@@ -119,7 +119,7 @@
     <value>W obserwowanym przez ciebie wątku („{0}”) pojawiła się nowa odpowiedź.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nowa odpowiedź dla wątku „{0}”</value>
+    <value>[hotia!] Nowa odpowiedź dla wątku „{0}”</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Jeżeli nie chcesz już obserwować tego wątku, możesz kliknąć przycisk „Nie subskrybuj” w dolnej części strony wątku lub zrobić to z poziomu strony subskrybcji wątków:</value>
@@ -131,10 +131,10 @@
     <value>Twój kod weryfikacyjny to:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Otrzymaliśmy żądanie zmiany hasła na Twoim koncie osu!.</value>
+    <value>Otrzymaliśmy żądanie zmiany hasła na Twoim koncie hotia!.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>Odzyskiwanie konta osu!</value>
+    <value>Odzyskiwanie konta hotia!</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Otrzymaliśmy Twoją płatność i przygotowujemy Twoje zamówienie do wysyłki. Może nam to zająć kilka dni, w zależności od liczby zamówień. Stan swojego zamówienia możesz sprawdzić tutaj (wraz ze śledzeniem przesyłki):</value>
@@ -149,10 +149,10 @@
     <value>Wysyłka</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Otrzymaliśmy Twoje zamówienie ze sklepu osu!</value>
+    <value>Otrzymaliśmy Twoje zamówienie ze sklepu hotia!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Dziękujemy za Twoje zamówienie w sklepie osu!</value>
+    <value>Dziękujemy za Twoje zamówienie w sklepie hotia!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Suma</value>
@@ -164,31 +164,31 @@
     <value>Chociaż najpewniej wiesz, kto to był. ;)</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Dzięki tej osobie otrzymasz dostęp do osu!direct i innych korzyści przeznaczonych dla donatorów osu! przez następne {0}.</value>
+    <value>Dzięki tej osobie otrzymasz dostęp do hotia!direct i innych korzyści przeznaczonych dla donatorów hotia! przez następne {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
-    <value>Więcej informacji na temat korzyści wynikających z posiadania statusu donatora osu! znajdziesz tutaj:</value>
+    <value>Więcej informacji na temat korzyści wynikających z posiadania statusu donatora hotia! znajdziesz tutaj:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Ktoś podarował Ci status donatora osu!</value>
+    <value>Ktoś podarował Ci status donatora hotia!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Użytkownik, który podarował Ci ten status donatora, pozostawił następującą wiadomość:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Otrzymujesz status donatora osu!</value>
+    <value>Otrzymujesz status donatora hotia!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Ten e-mail jest tylko potwierdzeniem, że Twój adres e-mail w osu! został zmieniony na „{0}”.</value>
+    <value>Ten e-mail jest tylko potwierdzeniem, że Twój adres e-mail w hotia! został zmieniony na „{0}”.</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Upewnij się, że tę wiadomość wysłano również na Twój nowy adres e-mail, aby uniknąć utraty konta osu!.</value>
+    <value>Upewnij się, że tę wiadomość wysłano również na Twój nowy adres e-mail, aby uniknąć utraty konta hotia!.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Ze względów bezpieczeństwa ta wiadomość została wysłana zarówno na stary, jak i nowy adres e-mail.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>Potwierdzenie zmiany adresu e-mail w osu!</value>
+    <value>Potwierdzenie zmiany adresu e-mail w hotia!</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Bezpieczeństwo Twojego konta zostało uznane za naruszone. Wykryto podejrzaną aktywność lub BARDZO słabe hasło. W związku z tym wymagamy ustawienia nowego hasła. Upewnij się, by było ono BEZPIECZNE.</value>
@@ -200,7 +200,7 @@
     <value>Powód:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>Wymagana ponowna aktywacja konta osu!</value>
+    <value>Wymagana ponowna aktywacja konta hotia!</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>W obserwowanych przez Ciebie pozycjach pojawiły się nowe aktualizacje.</value>
@@ -212,10 +212,10 @@
     <value>Nowe powiadomienia</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Ten e-mail jest tylko potwierdzeniem, że Twoje hasło w osu! zostało zmienione.</value>
+    <value>Ten e-mail jest tylko potwierdzeniem, że Twoje hasło w hotia! zostało zmienione.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>Potwierdzenie zmiany hasła w osu!</value>
+    <value>Potwierdzenie zmiany hasła w hotia!</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Twój kod weryfikacyjny to:</value>
@@ -230,7 +230,7 @@
     <value>Jeżeli to nie Ty, odpowiedz na tę wiadomość NATYCHMIAST, gdyż Twoje konto może być zagrożone.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>Weryfikacja konta osu!</value>
+    <value>Weryfikacja konta hotia!</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Działanie podjęte na twoim koncie z {0} wymaga weryfikacji.</value>

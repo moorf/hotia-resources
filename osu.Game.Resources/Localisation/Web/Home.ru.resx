@@ -308,13 +308,13 @@
     <value>закончится {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Скачать osu!</value>
+    <value>Скачать hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Поддержать osu!</value>
+    <value>Поддержать hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>Магазин osu!store</value>
+    <value>Магазин hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Прямой эфир</value>

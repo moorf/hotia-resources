@@ -80,7 +80,7 @@
     <value>Glasovi vmesnika</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! music theme</value>
+    <value>hotia! music theme</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Uvodno zaporedje</value>
@@ -92,7 +92,7 @@
     <value>Sezonska ozadja</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Spremembe te nastavitve bodo veljale samo z aktivno oznako osu!supporter.</value>
+    <value>Spremembe te nastavitve bodo veljale samo z aktivno oznako hotia!supporter.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Izberi pesem</value>

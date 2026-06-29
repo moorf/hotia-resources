@@ -71,7 +71,7 @@
     <value>No! Cambio di programma</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Impossibile individuare automaticamente un'installazione osu!stable.</value>
+    <value>Impossibile individuare automaticamente un'installazione hotia!stable.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Non è stato possibile localizzare un'installazione esistente. Se sai dove si trova, puoi aiutarmi a individuarla.</value>
@@ -80,7 +80,7 @@
     <value>Certo! So dove si trova!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>In realtà non ho osu!stable installato.</value>
+    <value>In realtà non ho hotia!stable installato.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Tutti i punteggi locali su {0}</value>
@@ -92,7 +92,7 @@
     <value>Sei sicuro che vuoi abbandonare la partita?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Sei sicuro di voler uscire da osu!?</value>
+    <value>Sei sicuro di voler uscire da hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Ultima possibilità di tornare indietro</value>

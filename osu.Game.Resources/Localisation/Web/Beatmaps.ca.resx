@@ -503,7 +503,7 @@
     <value>Els recomptes de primers classificats de perfil i els resultats mostrats en aquesta pàgina es basen en les puntuacions més altes «normalitzades» (també conegudes com a «lazer») en els mapes.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrar per {0} requereix d'una etiqueta osu!patrocinador activa</value>
+    <value>Filtrar per {0} requereix d'una etiqueta hotia!patrocinador activa</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>sense resultats</value>
@@ -572,7 +572,7 @@
     <value>Filtrar per {0} requereix d'un {1} actiu</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>Etiqueta osu!supporter</value>
+    <value>Etiqueta hotia!supporter</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>cerca etiquetes d'usuari</value>

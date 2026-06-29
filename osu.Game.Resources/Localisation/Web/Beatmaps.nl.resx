@@ -488,7 +488,7 @@
     <value>Meer Zoekopties</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filteren met {0} vereist een actieve osu!supporter tag</value>
+    <value>Filteren met {0} vereist een actieve hotia!supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>geen resultaten</value>
@@ -557,7 +557,7 @@
     <value>Filteren met {0} vereist een {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>Tel geconverteerde beatmaps mee</value>

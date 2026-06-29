@@ -62,13 +62,13 @@
     <value>أنا مقتنع! D:</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>ادعم osu!</value>
+    <value>ادعم hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>او قدم الشارة للاعب اخر</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>انقر زر القلب للمضي قدما الى osu!store</value>
+    <value>انقر زر القلب للمضي قدما الى hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
     <value>لماذا يجب ان أدعم !osu؟ إلى أين يذهب مالي؟</value>
@@ -77,7 +77,7 @@
     <value>إدعم الفريق</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>فريق صغير يطوّر ويُدير osu!. دعمك يساعدهم على أن، كما تعلم… يستمروا في الحياة.</value>
+    <value>فريق صغير يطوّر ويُدير hotia!. دعمك يساعدهم على أن، كما تعلم… يستمروا في الحياة.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>بنية الخادم</value>
@@ -89,13 +89,13 @@
     <value>الفنانين المميزين</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>بدعمك، يمكننا التواصل مع المزيد من الفنانين الرائعين والحصول على تراخيص لمزيد من الموسيقى المميزة لاستخدامها في osu!</value>
+    <value>بدعمك، يمكننا التواصل مع المزيد من الفنانين الرائعين والحصول على تراخيص لمزيد من الموسيقى المميزة لاستخدامها في hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>عرض الجدول الحالي &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>أبقِ osu! مكتفية ذاتيًا</value>
+    <value>أبقِ hotia! مكتفية ذاتيًا</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>تساعد مساهماتك في إبقاء اللعبة مستقلة ومجانية تمامًا من الإعلانات والرعاة الخارجيين.</value>
@@ -104,7 +104,7 @@
     <value>المباريات الرسمية</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>ساعد في تمويل تشغيل بطولات كأس العالم الرسمية لـ osu! (وجوائزها).</value>
+    <value>ساعد في تمويل تشغيل بطولات كأس العالم الرسمية لـ hotia! (وجوائزها).</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>تصفح المباريات &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>برنامج مكافأة مفتوح المصدر</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>ادعم مساهمي المجتمع الذين قدّموا وقتهم وجهدهم للمساعدة في جعل osu! أفضل.</value>
+    <value>ادعم مساهمي المجتمع الذين قدّموا وقتهم وجهدهم للمساعدة في جعل hotia! أفضل.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>اكتشف المزيد &amp;raquo;</value>
@@ -123,7 +123,7 @@
 </value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>احصل على وصول سريع وسهل للبحث عن وتنزيل خرائط الإيقاع دون الحاجة إلى مغادرة اللعبة.</value>
@@ -186,7 +186,7 @@
     <value>تنزيل سريع</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>قيود تحميل أكثر تساهلاََ، خاصة عند استخدام osu!direct.</value>
+    <value>قيود تحميل أكثر تساهلاََ، خاصة عند استخدام hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>تغيير اسم المستخدم</value>
@@ -241,13 +241,13 @@
     <value>شكرًا لدعمك المستمر! حتى الآن، لقد ساهمت بإجمالي {0}، مما أكسبك وسام "Supporter" لمدة {1}.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>ليس لديك شارة osu!supporter حتى الان :(</value>
+    <value>ليس لديك شارة hotia!supporter حتى الان :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>شارة osu!supporter خاصتك نافذة لغاية {0}!</value>
+    <value>شارة hotia!supporter خاصتك نافذة لغاية {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>شارة osu!supporter خاصتك كانت نافذة لغاية {0}.</value>
+    <value>شارة hotia!supporter خاصتك كانت نافذة لغاية {0}.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>من إجمالي مساهماتك، لقد أهديت ما قيمته {0} من الأوسمة إلى {1} لمدة {2}. هذا كرمٌ مذهل للغاية!</value>

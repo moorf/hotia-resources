@@ -68,7 +68,7 @@
     <value>Klikk her for mer informasjon.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Enkelte ressurser i dette kartet har blitt fjernet, etter som at det ikke kan brukes i osu!.</value>
+    <value>Enkelte ressurser i dette kartet har blitt fjernet, etter som at det ikke kan brukes i hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Slettet beatmap</value>
@@ -98,7 +98,7 @@
     <value>last ned med video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>åpne i osu!direct</value>
+    <value>åpne i hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Probasjonære nominatorer kan ikke nominere flere regler.</value>
@@ -299,7 +299,7 @@
     <value>Klikk &lt;a href="{0}"&gt;her&lt;/a&gt; for å se alle de fancy funskjonene du får tildelt!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Du må være en osu!supporter for å ha tilgang til venne- og landsrangering!</value>
+    <value>Du må være en hotia!supporter for å ha tilgang til venne- og landsrangering!</value>
   </data>
   <data name="show.scoreboard.title" xml:space="preserve">
     <value>Poengliste</value>

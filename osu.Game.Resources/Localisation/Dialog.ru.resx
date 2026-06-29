@@ -71,7 +71,7 @@
     <value>Нет! Прервать миссию</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Не удалось найти клиент osu!stable автоматически.</value>
+    <value>Не удалось найти клиент hotia!stable автоматически.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Установленный клиент не обнаружен. Если Вы знаете, где он — помогите найти его.</value>
@@ -80,7 +80,7 @@
     <value>Конечно! Я знаю его местоположение!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Вообще-то у меня нет установленного osu!stable.</value>
+    <value>Вообще-то у меня нет установленного hotia!stable.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Все локальные рекорды на карте {0}</value>
@@ -92,7 +92,7 @@
     <value>Вы действительно хотите прервать текущую игру?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Вы действительно хотите выйти из osu!?</value>
+    <value>Вы действительно хотите выйти из hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Последний шанс вернуться назад</value>

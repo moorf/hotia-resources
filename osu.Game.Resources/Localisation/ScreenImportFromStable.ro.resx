@@ -62,13 +62,13 @@
     <value>Importă</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Dacă aveți o instalare a unei versiuni osu! anterioare, puteți alege să migrați conținutul existent. Țineți cont că acest lucru nu vă va afecta instalarea existentă.</value>
+    <value>Dacă aveți o instalare a unei versiuni hotia! anterioare, puteți alege să migrați conținutul existent. Țineți cont că acest lucru nu vă va afecta instalarea existentă.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>instalare anterioară osu!</value>
+    <value>instalare anterioară hotia!</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Faceți clic pentru a localiza o instalare osu! anterioară</value>
+    <value>Faceți clic pentru a localiza o instalare hotia! anterioară</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Importă conținut din versiunea anterioară</value>
@@ -92,9 +92,9 @@
     <value>Legarea simplă a fișierelor nu este disponibilă încă pe sistemul dvs. de operare, astfel încât se va crea o copie a tuturor fișierelor pentru import.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>O copie a tuturor fișierelor va fi făcută în timpul importului. Pentru a evita acest lucru, vă rugăm să vă asigurați că folderul de date este pe același disc ca instalarea anterioara osu! (și că sistemul de fișiere este de tip NTFS).</value>
+    <value>O copie a tuturor fișierelor va fi făcută în timpul importului. Pentru a evita acest lucru, vă rugăm să vă asigurați că folderul de date este pe același disc ca instalarea anterioara hotia! (și că sistemul de fișiere este de tip NTFS).</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>O copie a tuturor fișierelor va fi făcută în timpul importului. Pentru a evita acest lucru, vă rugăm să vă asigurați că folderul de date este pe același disc ca instalarea anterioara osu! (și că sistemul de fișiere poate folosi „hard link”-uri).</value>
+    <value>O copie a tuturor fișierelor va fi făcută în timpul importului. Pentru a evita acest lucru, vă rugăm să vă asigurați că folderul de date este pe același disc ca instalarea anterioara hotia! (și că sistemul de fișiere poate folosi „hard link”-uri).</value>
   </data>
 </root>

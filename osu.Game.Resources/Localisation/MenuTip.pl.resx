@@ -77,7 +77,7 @@
     <value>Dostosuj opcję „Skalowanie ekranu”, aby zmienić obszar rozgrywki lub interfejsu użytkownika, nawet w trybie pełnoekranowym!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>Funkcja znana niegdyś jako „osu!direct” jest teraz dostępna dla wszystkich użytkowników. Naciśnij {0}, aby uzyskać do niej dostęp w dowolnym miejscu w grze!</value>
+    <value>Funkcja znana niegdyś jako „hotia!direct” jest teraz dostępna dla wszystkich użytkowników. Naciśnij {0}, aby uzyskać do niej dostęp w dowolnym miejscu w grze!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>Możesz dowolnie przewijać powtórki, przeciągając pasek postępu u dołu ekranu lub korzystając ze strzałek!</value>

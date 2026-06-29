@@ -59,18 +59,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="osu_beatmap" xml:space="preserve">
-    <value>osu! Бітмап</value>
+    <value>hotia! Бітмап</value>
   </data>
   <data name="osu_replay" xml:space="preserve">
-    <value>osu! Паўтор</value>
+    <value>hotia! Паўтор</value>
   </data>
   <data name="osu_skin" xml:space="preserve">
-    <value>osu! Скін</value>
+    <value>hotia! Скін</value>
   </data>
   <data name="osu_protocol" xml:space="preserve">
-    <value>osu!</value>
+    <value>hotia!</value>
   </data>
   <data name="osu_multiplayer" xml:space="preserve">
-    <value>osu! Мультыплэер</value>
+    <value>hotia! Мультыплэер</value>
   </data>
 </root>

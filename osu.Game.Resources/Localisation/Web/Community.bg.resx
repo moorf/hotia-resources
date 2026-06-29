@@ -62,22 +62,22 @@
     <value>Убеден съм! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>подкрепи osu!</value>
+    <value>подкрепи hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
-    <value>или подари osu!support на друг играч</value>
+    <value>или подари hotia!support на друг играч</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>кликни върху сърцето за продължаване към osu!store</value>
+    <value>кликни върху сърцето за продължаване към hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Защо да подкрепя osu!? Къде отиват парите?</value>
+    <value>Защо да подкрепя hotia!? Къде отиват парите?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Подкрепяте нашия екип</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Малък екип от разработчици развиват и поддържат osu!. Вашата подкрепа им помага, нали знаете... да живеят.</value>
+    <value>Малък екип от разработчици развиват и поддържат hotia!. Вашата подкрепа им помага, нали знаете... да живеят.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Сървърна инфраструктура</value>
@@ -89,13 +89,13 @@
     <value>Представени автори</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>С ваша подкрепа, може да се обърнем към страхотни изпълнители и лицензираме уникална музика за използване в osu!</value>
+    <value>С ваша подкрепа, може да се обърнем към страхотни изпълнители и лицензираме уникална музика за използване в hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Вижте текущия списък &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Вие издържате osu!</value>
+    <value>Вие издържате hotia!</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Приносите помагат да запазим играта независима, без никакви реклами и външни спонсори.</value>
@@ -104,7 +104,7 @@
     <value>Официални турнири</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Финансово помагате за официалните osu! World Cup турнири (тяхното организиране и награди).</value>
+    <value>Финансово помагате за официалните hotia! World Cup турнири (тяхното организиране и награди).</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Разгледайте турнирите &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Open Source Bounty Program</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Подкрепяте сътрудниците на общността, които отделят своето време и усилия, да направят osu! по-добър.</value>
+    <value>Подкрепяте сътрудниците на общността, които отделят своето време и усилия, да направят hotia! по-добър.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Разберете повече &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Чудесно! А какво получавам?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Бърз и лесен достъп за търсене и сваляне на бийтмапове, без да излизате от играта.</value>
@@ -161,7 +161,7 @@
     <value>Ранен достъп</value>
   </data>
   <data name="support.perks.early_access.description" xml:space="preserve">
-    <value>Получи ранен достъп до нови osu! версии, с нови функции преди да станат публични!&lt;br/&gt;&lt;br/&gt;Това включва и нови функции в уебсайта!</value>
+    <value>Получи ранен достъп до нови hotia! версии, с нови функции преди да станат публични!&lt;br/&gt;&lt;br/&gt;Това включва и нови функции в уебсайта!</value>
   </data>
   <data name="support.perks.customisation.title" xml:space="preserve">
     <value>Персонализация</value>
@@ -185,13 +185,13 @@
     <value>Бързо изтегляне</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>По-леки ограничения за бързината на изтегляне, особено при използване на osu!direct.</value>
+    <value>По-леки ограничения за бързината на изтегляне, особено при използване на hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Промяна на име</value>
   </data>
   <data name="support.perks.change_username.description" xml:space="preserve">
-    <value>Една безплатна промяна на име при първото закупуване на osu!supporter.</value>
+    <value>Една безплатна промяна на име при първото закупуване на hotia!supporter.</value>
   </data>
   <data name="support.perks.skinnables.title" xml:space="preserve">
     <value>Персонализиране</value>
@@ -227,7 +227,7 @@
     <value>Качване на повече бийтмапове</value>
   </data>
   <data name="support.perks.more_beatmaps.description" xml:space="preserve">
-    <value>Максималният брой изчакващи бийтмапове, които може да имате, се изчислява от обичайната стойност плюс допълнителен бонус за всеки в момента класиран бийтмап (до определен лимит).&lt;br/&gt;&lt;br/&gt;Обикновено, това е {0} плюс {1} за класиран бийтмап (до максимум {2}). С osu!supporter, това се увеличава до {3} плюс {4} за класиран бийтмап (до максимум {5}).</value>
+    <value>Максималният брой изчакващи бийтмапове, които може да имате, се изчислява от обичайната стойност плюс допълнителен бонус за всеки в момента класиран бийтмап (до определен лимит).&lt;br/&gt;&lt;br/&gt;Обикновено, това е {0} плюс {1} за класиран бийтмап (до максимум {2}). С hotia!supporter, това се увеличава до {3} плюс {4} за класиран бийтмап (до максимум {5}).</value>
   </data>
   <data name="support.perks.friend_filtering.title" xml:space="preserve">
     <value>Приятелски класации</value>
@@ -239,13 +239,13 @@
     <value>Благодарим Ви за продължителната подкрепа. Досега сте подпомогнали със {0}, с което сте получили "Supporter' за общо {1}.</value>
   </data>
   <data name="support.supporter_status.not_yet" xml:space="preserve">
-    <value>Никога не сте имали osu!supporter :(</value>
+    <value>Никога не сте имали hotia!supporter :(</value>
   </data>
   <data name="support.supporter_status.valid_until" xml:space="preserve">
-    <value>Вашият osu!supporter е валиден до {0}!</value>
+    <value>Вашият hotia!supporter е валиден до {0}!</value>
   </data>
   <data name="support.supporter_status.was_valid_until" xml:space="preserve">
-    <value>Вашият osu!supporter беше валиден преди {0}.</value>
+    <value>Вашият hotia!supporter беше валиден преди {0}.</value>
   </data>
   <data name="support.supporter_status.gifted._" xml:space="preserve">
     <value>От общия Ви принос, Вие сте дарили тагове на стойност {0} на {1}, обхващащи {2}. Това е невероятно щедро!</value>

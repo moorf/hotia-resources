@@ -80,7 +80,7 @@
     <value>Glasovi sučelja</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! muzička tema</value>
+    <value>hotia! muzička tema</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Uvodni slijed</value>
@@ -92,7 +92,7 @@
     <value>Sezonske pozadine</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Promjene ove postavke primjenjivat će se samo uz aktivni osu!supporter tag.</value>
+    <value>Promjene ove postavke primjenjivat će se samo uz aktivni hotia!supporter tag.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Izbor pjesama</value>

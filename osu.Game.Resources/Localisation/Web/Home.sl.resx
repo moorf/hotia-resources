@@ -275,12 +275,12 @@
     <value>od {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Prenesi osu!</value>
+    <value>Prenesi hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Podpri osu!</value>
+    <value>Podpri hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
 </root>

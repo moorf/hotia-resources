@@ -89,25 +89,25 @@
     <value>Eğer herhangi bir sorunuz veya geribildiriminiz varsa, bu postaya cevap yazmaktan çekinmeyin; Size en kısa zamanda geri döneceğim!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>Sizin gibi insanlar sayesinde osu!, oyunu ve topluluğu akıcı bir şekilde hiçbir reklam veya zorla ödeme olmadan oyunu devam ettirebiliyor.</value>
+    <value>Sizin gibi insanlar sayesinde hotia!, oyunu ve topluluğu akıcı bir şekilde hiçbir reklam veya zorla ödeme olmadan oyunu devam ettirebiliyor.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Senin katkın osu!'yu {0} kadardır ayakta tutuyor. Fazla görünmüyor olabilir ama damlaya damlaya göl olur :).</value>
+    <value>Senin katkın hotia!'yu {0} kadardır ayakta tutuyor. Fazla görünmüyor olabilir ama damlaya damlaya göl olur :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Teşekkürler, osu! sizi seviyor &lt;3</value>
+    <value>Teşekkürler, hotia! sizi seviyor &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Metnin topluluk tarafından sağlanan bilgi amaçlı çevirisi aşağıdaki gibidir:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Hediye ettikleriniz artık osu!direct ve diğer pek çok destekçi avantajlarından faydalanabilecek.</value>
+    <value>Hediye ettikleriniz artık hotia!direct ve diğer pek çok destekçi avantajlarından faydalanabilecek.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Şu andan itibaren osu!direct ve diğer başka destekçi avantajlarına {0} kadar erişim hakkın vardır.</value>
+    <value>Şu andan itibaren hotia!direct ve diğer başka destekçi avantajlarına {0} kadar erişim hakkın vardır.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>osu!'ya vermiş olduğun {0} için çok teşekkür ederiz!</value>
+    <value>hotia!'ya vermiş olduğun {0} için çok teşekkür ederiz!</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>destek</value>
@@ -119,7 +119,7 @@
     <value>Sadece sana son girdiğinden beri "{0}" sayfasında yeni bir cevap geldiğini bildiriyoruz.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] "{0}" başlığına yeni cevap</value>
+    <value>[hotia!] "{0}" başlığına yeni cevap</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Eğer bu konuyu daha fazla gözlemlemek istemiyorsanız, üstteki konunun en alt kısmındaki linkten, ya da forum abonelikleri yönetme sayfasında bulunan "Abonelikten Çık" butonuna tıklayabilirsiniz:</value>
@@ -131,10 +131,10 @@
     <value>Doğrulama kodun:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Sen veya seni taklit eden biri osu! hesabın için bir şifre sıfırlama isteğinde bulundu.</value>
+    <value>Sen veya seni taklit eden biri hotia! hesabın için bir şifre sıfırlama isteğinde bulundu.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>osu! hesap kurtarma</value>
+    <value>hotia! hesap kurtarma</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Ödemeniz tarafımıza ulaştı ve siparişinizi kargo için hazırlıyoruz. Gönderilmesi, sipariş adedine bağlı olarak, birkaç günü bulabilir. Siparişinizin sürecini, mevcut olduğunda takip detaylarıyla birlikte, buradan takip edebilirsiniz:</value>
@@ -149,10 +149,10 @@
     <value>Teslimat</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>osu!store siparişinizi aldık!</value>
+    <value>hotia!store siparişinizi aldık!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>osu!store siparişin için teşekkürler!</value>
+    <value>hotia!store siparişin için teşekkürler!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Toplam</value>
@@ -164,31 +164,31 @@
     <value>Ama muhtemelen kim olduğunu biliyorsun ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>Onun sayesinde, sonraki {0} boyunca osu!direct'e ve diğer osu!supporter ayrıcalıklarına sahip olacaksın.</value>
+    <value>Onun sayesinde, sonraki {0} boyunca hotia!direct'e ve diğer hotia!supporter ayrıcalıklarına sahip olacaksın.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Bu avantajlar hakkında daha fazla detaylı bilgiye buradan ulaşabilirsiniz:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Birisi size az önce bir osu!supporter etiketi hediye etti!</value>
+    <value>Birisi size az önce bir hotia!supporter etiketi hediye etti!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Bu etiketi hediye eden kişi size bir mesaj bıraktı:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Size bir osu! Destekçisi etiketi verildi!</value>
+    <value>Size bir hotia! Destekçisi etiketi verildi!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>Bu, osu! e-posta adresinin "{0}" olarak değiştiğini bildiren bir doğrulama e-postasıdır.</value>
+    <value>Bu, hotia! e-posta adresinin "{0}" olarak değiştiğini bildiren bir doğrulama e-postasıdır.</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Lütfen gelecekte osu! hesabınıza olan erişimin kaybolmasını önlemek için bu e-postayı yeni adresinizden aldığınıza emin olun.</value>
+    <value>Lütfen gelecekte hotia! hesabınıza olan erişimin kaybolmasını önlemek için bu e-postayı yeni adresinizden aldığınıza emin olun.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Güvenlik sebeplerinden ötürü, bu e-posta hem yeni hem de eski e-posta adresinde gönderildi.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>osu! e-posta değişikliği onayı</value>
+    <value>hotia! e-posta değişikliği onayı</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Son zamanlardaki şüpheli aktivitelerden ya da ÇOK zayıf bir şifresi olduğundan, hesabınızın ele geçirildiği şüpheleniliyor. Sonuç olarak, yeni bir şifre belirlemeniz gerekmektedir. Lütfen GÜVENLİ bir şifre seçtiğinizden emin olun. </value>
@@ -200,7 +200,7 @@
     <value>Sebep:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>osu! Hesabının Yeniden Doğrulanması Gerekli</value>
+    <value>hotia! Hesabının Yeniden Doğrulanması Gerekli</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>Sadece sana son girdiğinden beri izlediğin ögelerde yeni güncellemeler olduğunu bildiriyoruz.</value>
@@ -209,13 +209,13 @@
     <value>E-posta bildirim tercihlerini değiştirin:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Yeni osu! bildirimleri</value>
+    <value>Yeni hotia! bildirimleri</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>Bu sadece osu! şifrenin değiştiğine dair bir doğrulamadır.</value>
+    <value>Bu sadece hotia! şifrenin değiştiğine dair bir doğrulamadır.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>osu! şifre değişikliği onayı</value>
+    <value>hotia! şifre değişikliği onayı</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Doğrulama kodun:</value>
@@ -230,7 +230,7 @@
     <value>Eğer siz böyle bir istemde bulunmadıysanız, hesabınız tehlikede olabileceğinden lütfen HEMEN YANITLAYIN. </value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>osu! hesap doğrulama</value>
+    <value>hotia! hesap doğrulama</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Hesabında {0} bölgesinden gerçekleştirilen bir eylem için doğrulama gerekiyor.</value>

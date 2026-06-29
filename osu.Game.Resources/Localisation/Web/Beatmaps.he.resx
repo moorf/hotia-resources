@@ -443,7 +443,7 @@
     <value>אפשרויות חיפוש נוספות</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>סינון לפי {0} דורש תג osu!supporter פעיל</value>
+    <value>סינון לפי {0} דורש תג hotia!supporter פעיל</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>אין תוצאות</value>
@@ -512,7 +512,7 @@
     <value>סינון לפי {0} דורש {1} פעיל</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>תג osu!supporter</value>
+    <value>תג hotia!supporter</value>
   </data>
   <data name="general.converts" xml:space="preserve">
     <value>כלול מפות מומרות</value>

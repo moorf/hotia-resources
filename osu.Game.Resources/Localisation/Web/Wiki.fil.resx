@@ -74,7 +74,7 @@
     <value>Ang hinihiling na pahina ay hindi mahanap para kasalukuyang piniling wika.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Ang pahina na ito ay hindi natutugunan ang pamantayan ng osu! wiki at kailangang ayusin o isulat muli. Kung nais mo na tumulong, mangyari lamang na i-update ang artikulo!</value>
+    <value>Ang pahina na ito ay hindi natutugunan ang pamantayan ng hotia! wiki at kailangang ayusin o isulat muli. Kung nais mo na tumulong, mangyari lamang na i-update ang artikulo!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Hinahanap ang mga kasalukuyang mga pahina para sa {0}.</value>

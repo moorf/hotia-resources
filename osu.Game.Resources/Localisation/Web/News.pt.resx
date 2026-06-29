@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="index.title_page" xml:space="preserve">
-    <value>osu!news</value>
+    <value>hotia!news</value>
   </data>
   <data name="index.nav.newer" xml:space="preserve">
     <value>Publicações mais recentes</value>
@@ -98,7 +98,7 @@
     <value>Concurso Mensal de Criação de Mapas</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>produtos oficiais do osu!</value>
+    <value>produtos oficiais do hotia!</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>anúncios diversos</value>
@@ -119,7 +119,7 @@
     <value>atualizações do sistema de classificação</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>Campeonatos Mundiais do osu!</value>
+    <value>Campeonatos Mundiais do hotia!</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>por {0}</value>

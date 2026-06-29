@@ -218,7 +218,7 @@
     <value>Heslo</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Nemáš osu! účet? Vytvoř si ho</value>
+    <value>Nemáš hotia! účet? Vytvoř si ho</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Pamatovat si tento počítač</value>
@@ -302,7 +302,7 @@
     <value>Prosím nahlaste porušení autorských práv prostřednictvím DMCA požadavku na {0} podle {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu! pravidla autorských práv</value>
+    <value>hotia! pravidla autorských práv</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>To platí pro případy, kdy jsou zvukové stopy, vizuální obsah nebo obsah úrovně beatmapy použity bez správného oprávnění.</value>
@@ -353,10 +353,10 @@
     <value>Zde od počátku</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!vývojář</value>
+    <value>hotia!vývojář</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Členem od {0}</value>
@@ -464,7 +464,7 @@
     <value>Nahrávání je dostupné pouze pro {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supportery</value>
+    <value>hotia!supportery</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>výchozí herní mód</value>
@@ -482,7 +482,7 @@
     <value>Vlastní barevné motivy dostupné pouze pro {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supportery</value>
+    <value>hotia!supportery</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>nic</value>
@@ -578,7 +578,7 @@
     <value>Nedávná Kudosu historie</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Celkově získané Kudosu</value>
@@ -587,7 +587,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Tento uživatel zatím neobdržel žádné kudosu!</value>
+    <value>Tento uživatel zatím neobdržel žádné kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Obdržel jsi {0} kudosu z kudosu odmítnutí, z módding příspěvku {1}</value>
@@ -800,7 +800,7 @@
     <value>Pro odemknutí této funkce musíte být {0}.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Přispěl {0}</value>
@@ -899,7 +899,7 @@
     <value>prosím, zaregistruj se přes herního klienta!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>prosím dokonči registraci na webové stránce osu!</value>
+    <value>prosím dokonči registraci na webové stránce hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Uživatelem vytvořen</value>

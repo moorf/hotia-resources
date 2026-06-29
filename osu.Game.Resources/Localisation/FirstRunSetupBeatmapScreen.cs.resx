@@ -62,13 +62,13 @@
     <value>Získávání Beatmap</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Sadám hratelných úrovní říkáme "Beatmapy". osu! nemá v základu žádné předinstalované beatmapy. Tento krok ti pomůže založit si vlastní kolekci beatmap.</value>
+    <value>Sadám hratelných úrovní říkáme "Beatmapy". hotia! nemá v základu žádné předinstalované beatmapy. Tento krok ti pomůže založit si vlastní kolekci beatmap.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Pokud jsi nový hráč, doporučujeme si nejprve zahrát tutoriál, aby sis zvykl na hru a její ovládání.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Stáhnout osu! tutoriál</value>
+    <value>Stáhnout hotia! tutoriál</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Na rozjezd jsme pro tebe připravili několik doporučených beatmap.</value>

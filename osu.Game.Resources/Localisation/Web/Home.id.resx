@@ -206,7 +206,7 @@
     <value>untuk {0}</value>
   </data>
   <data name="download.macos-fallback" xml:space="preserve">
-    <value>osu! versi macOS</value>
+    <value>hotia! versi macOS</value>
   </data>
   <data name="download.mirror" xml:space="preserve">
     <value>tautan alternatif</value>
@@ -224,7 +224,7 @@
     <value>panduan singkat</value>
   </data>
   <data name="download.stable_text" xml:space="preserve">
-    <value>atau apabila kamu mencari versi osu! yang lebih lawas</value>
+    <value>atau apabila kamu mencari versi hotia! yang lebih lawas</value>
   </data>
   <data name="download.tagline_1" xml:space="preserve">
     <value>mari persiapkan</value>
@@ -308,13 +308,13 @@
     <value>berakhir {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Unduh osu!</value>
+    <value>Unduh hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Dukung osu!</value>
+    <value>Dukung hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!store</value>
+    <value>hotia!store</value>
   </data>
   <data name="user.livestream.title" xml:space="preserve">
     <value>Tayangan Ulang Unggulan</value>

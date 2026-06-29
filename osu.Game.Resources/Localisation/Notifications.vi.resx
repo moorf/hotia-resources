@@ -80,7 +80,7 @@
     <value>Ruleset hiện tại không có mod tự động!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>osu! không thể phát âm thanh.
+    <value>hotia! không thể phát âm thanh.
 
 Vui lòng đổi thiết bị âm thanh của bạn.</value>
   </data>
@@ -121,7 +121,7 @@ Vui lòng đổi thiết bị âm thanh của bạn.</value>
     <value>Bản sao beatmap cục bộ của bạn cho phát lại này có vẻ khác với mong đợi. Bạn có thể cần phải cập nhật hoặc tải lại nó.</value>
   </data>
   <data name="game_version_after_update" xml:space="preserve">
-    <value>Bạn đang chạy phiên bản osu! {0}.
+    <value>Bạn đang chạy phiên bản hotia! {0}.
 Bấm vào đây để thay đổi!</value>
   </data>
   <data name="update_ready_to_install" xml:space="preserve">

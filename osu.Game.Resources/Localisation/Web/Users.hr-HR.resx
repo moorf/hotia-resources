@@ -119,7 +119,7 @@
     <value>Odblokiraj</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Daruj osu!supporter oznaku</value>
+    <value>Daruj hotia!supporter oznaku</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Učitavanje...</value>
@@ -215,7 +215,7 @@
     <value>Lozinka</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Nemaš osu! račun? Napravi ga</value>
+    <value>Nemaš hotia! račun? Napravi ga</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Upamti ovo računalo</value>
@@ -230,7 +230,7 @@
     <value>Pristup beta verziji trenutno je ograničen na privilegirane korisnike.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporteri će ući uskoro)</value>
+    <value>(hotia!supporteri će ući uskoro)</value>
   </data>
   <data name="posts.title" xml:space="preserve">
     <value>Objave od {0}</value>
@@ -311,10 +311,10 @@
     <value>Ovdje od početka</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Pridružio se {0}</value>
@@ -380,7 +380,7 @@
     <value>Prijenos je dostupan samo za {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporterima</value>
+    <value>hotia!supporterima</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>zadani način igre</value>
@@ -479,7 +479,7 @@
     <value>Nedavna povijest Kudosua</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Ukupno zarađeno Kudosua</value>
@@ -488,7 +488,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Ovaj korisnik nema nijedan kudosu!</value>
+    <value>Ovaj korisnik nema nijedan kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Dobio/la {0} od kudosu ukidanja objave modificiranja {1}</value>
@@ -692,7 +692,7 @@
     <value>Moraš biti {0} da bi otključao/la ovu značajku.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Doprinio {0}</value>

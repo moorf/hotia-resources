@@ -71,7 +71,7 @@
     <value>Non ! Je ne voulais pas faire ça !</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>La détection automatique d'un emplacement d'installation de osu!stable a échoué.</value>
+    <value>La détection automatique d'un emplacement d'installation de hotia!stable a échoué.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Aucune installation existante n'a été trouvée. Si vous savez où elle se trouve, vous pouvez aider à la localiser.</value>
@@ -80,7 +80,7 @@
     <value>Bien sûr ! Je sais où elle se trouve !</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>En fait, je n'ai pas osu!stable installé.</value>
+    <value>En fait, je n'ai pas hotia!stable installé.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Tous les scores locaux sur {0}</value>
@@ -92,7 +92,7 @@
     <value>Êtes-vous sûr de vouloir interrompre le match?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Êtes-vous sûr de vouloir quitter osu! ?</value>
+    <value>Êtes-vous sûr de vouloir quitter hotia! ?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Dernière chance de revenir en arrière</value>

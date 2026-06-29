@@ -75,14 +75,14 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SupportHeading => new TranslatableString(getKey(@"support.heading"), @"Love this update?");
 
         /// <summary>
-        /// "Support further development of osu! and {0} today!"
+        /// "Support further development of hotia! and {0} today!"
         /// </summary>
-        public static LocalisableString SupportText1(LocalisableString link) => new TranslatableString(getKey(@"support.text_1"), @"Support further development of osu! and {0} today!", link);
+        public static LocalisableString SupportText1(LocalisableString link) => new TranslatableString(getKey(@"support.text_1"), @"Support further development of hotia! and {0} today!", link);
 
         /// <summary>
-        /// "become an osu!supporter"
+        /// "become an hotia!supporter"
         /// </summary>
-        public static LocalisableString SupportText1Link => new TranslatableString(getKey(@"support.text_1_link"), @"become an osu!supporter");
+        public static LocalisableString SupportText1Link => new TranslatableString(getKey(@"support.text_1_link"), @"become an hotia!supporter");
 
         /// <summary>
         /// "Not only will you help speed development, but you will also get some extra features and customisations!"

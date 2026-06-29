@@ -218,7 +218,7 @@
     <value>Parole</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>Nav osu! profila? Izveido jaunu</value>
+    <value>Nav hotia! profila? Izveido jaunu</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Atcerēties šo datoru</value>
@@ -233,7 +233,7 @@
     <value>Beta piekļuve šobrīd ir pieejama tikai privileģētiem profiliem.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!atbalstītāji drīz pienāks klāt)</value>
+    <value>(hotia!atbalstītāji drīz pienāks klāt)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktīvs</value>
@@ -302,7 +302,7 @@
     <value>Lūdzu pasūdzēties par autortiesību politiku pārkāpumu, nosūtot DMCA prasību uz {0} saskaņā ar {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu! autortiesību politika</value>
+    <value>hotia! autortiesību politika</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Šis tiek piemērots visiem gadijumiem, kad audioieraksta vizuālais saturs vai ritma-kartes līmeis tiek izmantots bez pareizajām atļaujām.</value>
@@ -353,10 +353,10 @@
     <value>Šeit kopš paša sākuma</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!izstrādātājs</value>
+    <value>hotia!izstrādātājs</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!atbalstītājs</value>
+    <value>hotia!atbalstītājs</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Pievienojās {0}</value>
@@ -464,7 +464,7 @@
     <value>Augšupielāde pieejama tikai priekš {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!atbalstītāji</value>
+    <value>hotia!atbalstītāji</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>noklusējuma spēles režīms</value>
@@ -482,7 +482,7 @@
     <value>Personalizējami krāsu dizaini ir pieejami tikai {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!atbalstītāji</value>
+    <value>hotia!atbalstītāji</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>neviens</value>
@@ -575,7 +575,7 @@
     <value>Beidzamo Kudosu Vēsture</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kopā Iegūtie Kudosu</value>
@@ -584,7 +584,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Šis lietotājs vēl nav saņēmis nevienu kudosu!</value>
+    <value>Šis lietotājs vēl nav saņēmis nevienu kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>Saņēma {0} no kudosu??????????????????</value>
@@ -791,7 +791,7 @@
     <value>Tev jābūt {0}, lai atvērtu šo iespēju.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Dotais ieguldījums {0}</value>
@@ -890,7 +890,7 @@
     <value>lūdzu tā vietā reğistrējies ar spēles klijentu!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>lūdzu pabeidz reğistrāciju izmantojot osu! mājaslapu</value>
+    <value>lūdzu pabeidz reğistrāciju izmantojot hotia! mājaslapu</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Lietotājs izveidots</value>

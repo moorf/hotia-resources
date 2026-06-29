@@ -503,7 +503,7 @@
     <value>I conteggi e i risultati migliori del profilo mostrati in questa pagina sono basati sui migliori punteggi "standardizzati" (noti come di "lazer") nelle beatmap.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Filtrare per {0} necessita di un tag osu!supporter attivo</value>
+    <value>Filtrare per {0} necessita di un tag hotia!supporter attivo</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>nessun risultato</value>
@@ -572,7 +572,7 @@
     <value>Filtrare tramite {0} necessita di un {1} attivo</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>tag osu!supporter</value>
+    <value>tag hotia!supporter</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>sfoglia etichette degli utenti</value>

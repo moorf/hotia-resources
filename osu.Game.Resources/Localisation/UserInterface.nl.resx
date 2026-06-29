@@ -83,7 +83,7 @@
     <value>Interface-stemmen</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu! generiek</value>
+    <value>hotia! generiek</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Intro-animatie</value>
@@ -95,7 +95,7 @@
     <value>Seizoensgebonden achtergronden</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Wijzigingen aan deze instelling worden enkel toepast met een actieve osu!supporter tag.</value>
+    <value>Wijzigingen aan deze instelling worden enkel toepast met een actieve hotia!supporter tag.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Song Select</value>

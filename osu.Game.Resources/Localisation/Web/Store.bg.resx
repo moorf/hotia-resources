@@ -107,7 +107,7 @@
     <value>В момента сме затрупани с поръчки! Добре дошли сте да пуснете вашата поръчка, но очаквайте **допълнително 1-2 седмици закъснение**, докато наваксаме с вече съществуващите поръчки.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Скриване на всички osu!supporter етикети в тази поръчка от моята активност</value>
+    <value>Скриване на всички hotia!supporter етикети в тази поръчка от моята активност</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Вашата количка изглежда е с изтекъл срок и бе възобновена, моля опитайте отново.</value>
@@ -149,7 +149,7 @@
     <value>Избраният метод за плащане беше отхвърлен от PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>osu!supporter етикетите от тази поръчка не са показани в активността ви.</value>
+    <value>hotia!supporter етикетите от тази поръчка не са показани в активността ви.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Изпращане чрез:</value>
@@ -170,7 +170,7 @@
     <value>Ако не сте заявили отмяна, молим да се свържете с {0} като съобщите вашия номер на поръчка (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>поддръжката на osu!магазин</value>
+    <value>поддръжката на hotia!магазин</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Поръчката ви беше доставена! Надяваме се че и се радвате!</value>
@@ -179,7 +179,7 @@
     <value>При затруднения с вашите поръчки, моля свържете се с {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>поддръжката на osu!магазин</value>
+    <value>поддръжката на hotia!магазин</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Поръчката ви се подготвя!</value>
@@ -359,7 +359,7 @@
     <value>съобщение по избор към подаръка! (до {0} символа)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Моля, {0}, за да закупите osu!supporter !</value>
+    <value>Моля, {0}, за да закупите hotia!supporter !</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>влез в профила си</value>

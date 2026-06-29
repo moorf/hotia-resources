@@ -68,7 +68,7 @@
     <value>Для більш детальної інформації натисніть тут.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Деякі об'єкти, що містяться на цій мапі були видалені після визнання їх непридатними для використання в osu!.</value>
+    <value>Деякі об'єкти, що містяться на цій мапі були видалені після визнання їх непридатними для використання в hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Видалена бітмапа</value>
@@ -101,7 +101,7 @@
     <value>завантажити без вiдео</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>відкрити в osu!direct</value>
+    <value>відкрити в hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Номінатори на випробному терміні не можуть номінувати декілька режимів.</value>
@@ -332,7 +332,7 @@
     <value>Натисніть &lt;a href="{0}"&gt;сюди&lt;/a&gt; для перегляду всіх можливостей які ви отримаєте!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Ви повинні мати osu!supporter для перегляду рейтингів по друзях, країні та модах!</value>
+    <value>Ви повинні мати hotia!supporter для перегляду рейтингів по друзях, країні та модах!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Рейтинг в команді</value>

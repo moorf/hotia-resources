@@ -25,9 +25,9 @@ namespace osu.Game.Resources.Localisation.Web.ModelValidation
         public static LocalisableString UsernameChangeRevertingUsernameMismatch(LocalisableString current, LocalisableString username) => new TranslatableString(getKey(@"username_change.reverting_username_mismatch"), @"Current username ({0}) is not the same as change to revoke ({1})", current, username);
 
         /// <summary>
-        /// "Donation is less than required for osu!supporter tag gift ({0} &gt; {1})"
+        /// "Donation is less than required for hotia!supporter tag gift ({0} &gt; {1})"
         /// </summary>
-        public static LocalisableString SupporterTagInsufficientPaid(LocalisableString actual, LocalisableString expected) => new TranslatableString(getKey(@"supporter_tag.insufficient_paid"), @"Donation is less than required for osu!supporter tag gift ({0} > {1})", actual, expected);
+        public static LocalisableString SupporterTagInsufficientPaid(LocalisableString actual, LocalisableString expected) => new TranslatableString(getKey(@"supporter_tag.insufficient_paid"), @"Donation is less than required for hotia!supporter tag gift ({0} > {1})", actual, expected);
 
         private static string getKey(string key) => $@"{prefix}:{key}";
     }

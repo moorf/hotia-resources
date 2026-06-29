@@ -107,7 +107,7 @@
     <value>Şu an siparişlere boğulmuş durumdayız! Siparişinizi vermekte özgürsünüz ancak biz mevcut siparişleri yetiştirmekle uğraşırken **ek olarak 1-2 hafta gecikme** bekleyebilirsiniz.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Bu siparişteki tüm osu!supporter etiketlerini etkinliğimden gizle</value>
+    <value>Bu siparişteki tüm hotia!supporter etiketlerini etkinliğimden gizle</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>Sepetiniz güncel görünmediği için tekrar yüklendi, lütfen tekrar deneyin.</value>
@@ -149,7 +149,7 @@
     <value>eCheck ödemesi PayPal tarafından reddedildi.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>Bu siparişteki osu!supporter etiketleri yakın zamandaki etkinliklerinizde gösterilmez.</value>
+    <value>Bu siparişteki hotia!supporter etiketleri yakın zamandaki etkinliklerinizde gösterilmez.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Kargo şirketi:</value>
@@ -170,7 +170,7 @@
     <value>Eğer iptal edilmesini talep etmediyseniz lütfen {0} yoluyla sipariş numaranızı bahsederek ulaşınız. (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>osu!store destek</value>
+    <value>hotia!store destek</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>Siparişiniz teslim edildi! İyi günlerde kullanmanız dileğiyle!</value>
@@ -179,7 +179,7 @@
     <value>Satın alımınızla ilgili bir problem yaşıyorsanız,lütfen {0} ile görüşün.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>osu!store destek</value>
+    <value>hotia!store destek</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>Siparişiniz hazılrlanıyor!</value>
@@ -359,7 +359,7 @@
     <value>isterseniz hediyenize bir mesaj ekleyin! (en fazla {0} karakter)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>osu!supporter etiketi almak için {0} !</value>
+    <value>hotia!supporter etiketi almak için {0} !</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>giriş yapmış</value>

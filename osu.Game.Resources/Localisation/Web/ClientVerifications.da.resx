@@ -68,12 +68,12 @@
     <value>Du kan nu lukke dette vindue</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu! kontobekræftelse færdiggjort</value>
+    <value>hotia! kontobekræftelse færdiggjort</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>Klik på 'autoriser' knappen for at færdiggøre kontobekræftelsen.</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu! kontobekræftelse</value>
+    <value>hotia! kontobekræftelse</value>
   </data>
 </root>

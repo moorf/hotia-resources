@@ -137,7 +137,7 @@
     <value>Abrir no navegador após a submissão</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Nota: Para garantir que utilizadores de todas as versões do osu! possam usufruir do seu mapa, este será exportado num formato compatível com versões anteriores. Embora tenhamos feito esforços para assegurar que este processo mantém o mapa funcional conforme pretendido, alguns dados relacionados com funcionalidades que versões anteriores do osu! não suportam poderão ser perdidos.</value>
+    <value>Nota: Para garantir que utilizadores de todas as versões do hotia! possam usufruir do seu mapa, este será exportado num formato compatível com versões anteriores. Embora tenhamos feito esforços para assegurar que este processo mantém o mapa funcional conforme pretendido, alguns dados relacionados com funcionalidades que versões anteriores do hotia! não suportam poderão ser perdidos.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Mapas vazios não podem ser submetidos.</value>

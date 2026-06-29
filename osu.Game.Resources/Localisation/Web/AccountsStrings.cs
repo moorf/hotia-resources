@@ -160,9 +160,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString EditSignatureUpdate => new TranslatableString(getKey(@"edit.signature.update"), @"update");
 
         /// <summary>
-        /// "If you&#39;re a contributor to osu!&#39;s open-source repositories, linking your GitHub account here will associate your changelog entries with your osu! profile. GitHub accounts with no contribution history to osu! cannot be linked."
+        /// "If you&#39;re a contributor to hotia!&#39;s open-source repositories, linking your GitHub account here will associate your changelog entries with your hotia! profile. GitHub accounts with no contribution history to hotia! cannot be linked."
         /// </summary>
-        public static LocalisableString GithubUserInfo => new TranslatableString(getKey(@"github_user.info"), @"If you're a contributor to osu!'s open-source repositories, linking your GitHub account here will associate your changelog entries with your osu! profile. GitHub accounts with no contribution history to osu! cannot be linked.");
+        public static LocalisableString GithubUserInfo => new TranslatableString(getKey(@"github_user.info"), @"If you're a contributor to hotia!'s open-source repositories, linking your GitHub account here will associate your changelog entries with your hotia! profile. GitHub accounts with no contribution history to hotia! cannot be linked.");
 
         /// <summary>
         /// "Link GitHub Account"
@@ -185,9 +185,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString GithubUserErrorAlreadyLinked => new TranslatableString(getKey(@"github_user.error.already_linked"), @"This GitHub account is already linked to a different user.");
 
         /// <summary>
-        /// "Cannot link GitHub account without any contribution history in osu! repositories."
+        /// "Cannot link GitHub account without any contribution history in hotia! repositories."
         /// </summary>
-        public static LocalisableString GithubUserErrorNoContribution => new TranslatableString(getKey(@"github_user.error.no_contribution"), @"Cannot link GitHub account without any contribution history in osu! repositories.");
+        public static LocalisableString GithubUserErrorNoContribution => new TranslatableString(getKey(@"github_user.error.no_contribution"), @"Cannot link GitHub account without any contribution history in hotia! repositories.");
 
         /// <summary>
         /// "Please verify your primary email on GitHub, then try linking your account again."
@@ -375,9 +375,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString OptionsBeatmapsetDownloadAll => new TranslatableString(getKey(@"options.beatmapset_download.all"), @"with video if available");
 
         /// <summary>
-        /// "open in osu!direct"
+        /// "open in hotia!direct"
         /// </summary>
-        public static LocalisableString OptionsBeatmapsetDownloadDirect => new TranslatableString(getKey(@"options.beatmapset_download.direct"), @"open in osu!direct");
+        public static LocalisableString OptionsBeatmapsetDownloadDirect => new TranslatableString(getKey(@"options.beatmapset_download.direct"), @"open in hotia!direct");
 
         /// <summary>
         /// "without video"
@@ -420,9 +420,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString PrivacyHideOnline => new TranslatableString(getKey(@"privacy.hide_online"), @"hide your online presence");
 
         /// <summary>
-        /// "this maps to the &quot;appear offline&quot; mode in osu!lazer"
+        /// "this maps to the &quot;appear offline&quot; mode in hotia!lazer"
         /// </summary>
-        public static LocalisableString PrivacyHideOnlineInfo => new TranslatableString(getKey(@"privacy.hide_online_info"), @"this maps to the ""appear offline"" mode in osu!lazer");
+        public static LocalisableString PrivacyHideOnlineInfo => new TranslatableString(getKey(@"privacy.hide_online_info"), @"this maps to the ""appear offline"" mode in hotia!lazer");
 
         /// <summary>
         /// "Privacy"

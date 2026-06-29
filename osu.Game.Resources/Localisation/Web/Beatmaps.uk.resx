@@ -503,7 +503,7 @@
     <value>Кількість бітмап та здобуті рейтинги, показані на цій сторінці, базуються на ваших найкращих "стандартизованих" (тобто "lazer") результатах бітмап.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Фільтрація по {0} потребує наявності тегу osu!supporter</value>
+    <value>Фільтрація по {0} потребує наявності тегу hotia!supporter</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>немає результатів</value>
@@ -572,7 +572,7 @@
     <value>Сортування за {0} вимагає {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>тег osu!supporter</value>
+    <value>тег hotia!supporter</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>перегляд тегів користувача</value>

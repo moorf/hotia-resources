@@ -503,7 +503,7 @@
     <value>Ang bilang ng pinakamataas na ranggo sa profile at mga resultang ipinapakita sa pahinang ito ay nakabatay sa iyong pinakamataas na "standardized" (tinataawag ding "lazer") na mga marka sa mga beatmap.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Ang pag fi-filter ng {0} ay nag re-require ng aktibong osu!supporter tag</value>
+    <value>Ang pag fi-filter ng {0} ay nag re-require ng aktibong hotia!supporter tag</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>walang resulta</value>
@@ -572,7 +572,7 @@
     <value>Ang pag fi-filter ng {0} ay nag re-require ng aktibong {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>osu!supporter tag</value>
+    <value>hotia!supporter tag</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>mag-browse ng user tags</value>

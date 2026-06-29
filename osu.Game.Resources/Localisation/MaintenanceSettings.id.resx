@@ -71,13 +71,13 @@
     <value>Proses ini bisa memakan waktu hingga beberapa menit tergantung dari kecepatan cakram penyimpanan yang kamu miliki.</value>
   </data>
   <data name="prohibited_interact_during_migration" xml:space="preserve">
-    <value>Mohon hindari untuk berinteraksi dengan osu! selama proses ini berlangsung!</value>
+    <value>Mohon hindari untuk berinteraksi dengan hotia! selama proses ini berlangsung!</value>
   </data>
   <data name="select_new_location" xml:space="preserve">
     <value>Silakan pilih lokasi baru</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>Direktori tujuan ini sepertinya sudah memiliki osu! yang terpasang. Gunakan data ini?</value>
+    <value>Direktori tujuan ini sepertinya sudah memiliki hotia! yang terpasang. Gunakan data ini?</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Hapus SEMUA beatmap</value>
@@ -128,6 +128,6 @@
     <value>Tidak ada preset mod yang ditemukan untuk dipulihkan!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Silakan pilih lokasi instalasi osu!stable milikmu</value>
+    <value>Silakan pilih lokasi instalasi hotia!stable milikmu</value>
   </data>
 </root>

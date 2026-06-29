@@ -77,7 +77,7 @@
     <value>Tente ajustar o modo "Escala da tela" para mudar a área de jogabilidade, mesmo em tela cheia!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>O que costumava ser "osu!direct", agora está disponível para todos os usuários assim como no site do osu. Você pode acessar a qualquer momento pressionando Ctrl-B!</value>
+    <value>O que costumava ser "hotia!direct", agora está disponível para todos os usuários assim como no site do osu. Você pode acessar a qualquer momento pressionando Ctrl-B!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>Ver as replays, agora está disponível apenas segurando na barra de progresso em baixo da tela ou  apenas segurando as teclas das setas esquerda e direta!</value>

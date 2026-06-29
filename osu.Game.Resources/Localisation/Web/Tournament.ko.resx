@@ -80,7 +80,7 @@
     <value>팀 응원하기</value>
   </data>
   <data name="show.entered" xml:space="preserve">
-    <value>이 토너먼트에 참가하셨습니다.&lt;br&gt;&lt;br&gt;이는 참가 '팀'을 등록했다는 뜻이 아닙니다.&lt;br&gt;&lt;br&gt;토너먼트 진행일자가 가까워지면, 이메일을 통해 지침이 보내질 것이므로 osu! 계정의 이메일 주소가 잘못되지는 않았는지 반드시 확인해주시기 바랍니다!</value>
+    <value>이 토너먼트에 참가하셨습니다.&lt;br&gt;&lt;br&gt;이는 참가 '팀'을 등록했다는 뜻이 아닙니다.&lt;br&gt;&lt;br&gt;토너먼트 진행일자가 가까워지면, 이메일을 통해 지침이 보내질 것이므로 hotia! 계정의 이메일 주소가 잘못되지는 않았는지 반드시 확인해주시기 바랍니다!</value>
   </data>
   <data name="show.info_page" xml:space="preserve">
     <value>정보 페이지</value>

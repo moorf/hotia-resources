@@ -119,7 +119,7 @@
     <value>Разблокировать</value>
   </data>
   <data name="card.gift_supporter" xml:space="preserve">
-    <value>Подарить тег osu!supporter</value>
+    <value>Подарить тег hotia!supporter</value>
   </data>
   <data name="card.loading" xml:space="preserve">
     <value>Загрузка...</value>
@@ -218,7 +218,7 @@
     <value>Пароль</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>У вас всё ещё нет аккаунта в osu!? Создайте новый</value>
+    <value>У вас всё ещё нет аккаунта в hotia!? Создайте новый</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Запомнить этот браузер</value>
@@ -233,7 +233,7 @@
     <value>Доступ к бета-версии ограничен.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(владельцы osu!supporter получат доступ позже)</value>
+    <value>(владельцы hotia!supporter получат доступ позже)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Активные</value>
@@ -302,7 +302,7 @@
     <value>Пожалуйста, сообщите о нарушении авторских прав, отправив DMCA-жалобу на адрес электронной почты {0} в соответствии с {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>политикой osu! в отношении авторского права</value>
+    <value>политикой hotia! в отношении авторского права</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Применимо к случаям, когда аудиотреки, визуальное содержимое или игровые уровни карты используются без надлежащего разрешения.</value>
@@ -353,10 +353,10 @@
     <value>Здесь с самого начала</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Дата регистрации: {0}</value>
@@ -464,7 +464,7 @@
     <value>Установить свою обложку можно только с {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>тегом osu!supporter</value>
+    <value>тегом hotia!supporter</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>основной режим игры</value>
@@ -473,7 +473,7 @@
     <value>установить {0} основным режимом игры</value>
   </data>
   <data name="show.edit.hue.reset_no_supporter" xml:space="preserve">
-    <value>Вы уверены, что хотите сбросить цвет профиля к стандартному? Изменять цвет можно только с тегом osu!supporter.</value>
+    <value>Вы уверены, что хотите сбросить цвет профиля к стандартному? Изменять цвет можно только с тегом hotia!supporter.</value>
   </data>
   <data name="show.edit.hue.title" xml:space="preserve">
     <value>Цвет</value>
@@ -482,7 +482,7 @@
     <value>Изменение цвета профиля доступно только с тегом {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>нет</value>
@@ -800,7 +800,7 @@
     <value>Разблокировать эту функцию можно с помощью {0}.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>тега osu!supporter</value>
+    <value>тега hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Всего {0} на форуме,</value>
@@ -899,7 +899,7 @@
     <value>Пожалуйста, зарегистрируйтесь через игровой клиент!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>Пожалуйста, завершите регистрацию через сайт osu!</value>
+    <value>Пожалуйста, завершите регистрацию через сайт hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Пользователь создан</value>

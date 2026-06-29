@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Ved å slå av "Utvalgt artist"-filteret vil all av brukergenerert innhold bli vist.
 
-Dette inkluderer innhold som kanskje ikke er korrekt lisensiert for bruk med osu! Bla igjennom på egen risiko.</value>
+Dette inkluderer innhold som kanskje ikke er korrekt lisensiert for bruk med hotia! Bla igjennom på egen risiko.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Jeg forstår</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Utvalgte Artister er musikkartister som har samarbeidet med osu! for å lage et utvalg av deres egne spor for bruk i beatmaps. For noen osu! utgivelser viser vi kun utvalgte artist beatmaps for å støtte økosystemet bedre.</value>
+    <value>Utvalgte Artister er musikkartister som har samarbeidet med hotia! for å lage et utvalg av deres egne spor for bruk i beatmaps. For noen hotia! utgivelser viser vi kun utvalgte artist beatmaps for å støtte økosystemet bedre.</value>
   </data>
 </root>

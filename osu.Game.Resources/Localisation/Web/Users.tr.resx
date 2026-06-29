@@ -218,7 +218,7 @@
     <value>Şifre</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>osu! hesabınız yok mu? Yeni bir tane oluşturun</value>
+    <value>hotia! hesabınız yok mu? Yeni bir tane oluşturun</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>Bu bilgisayarı hatırla</value>
@@ -233,7 +233,7 @@
     <value>Beta erişimi ayrıcalıklı üyelere kısıtlandırılmıştır.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(osu!supporterlar yakında erişebilecekler)</value>
+    <value>(hotia!supporterlar yakında erişebilecekler)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Aktif</value>
@@ -302,7 +302,7 @@
     <value>Lütfen telif hakkı ihlallerini {0}'ne göre {1} adresine DMCA talebi göndererek bildiriniz.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>osu! telif hakkı yönergesi</value>
+    <value>hotia! telif hakkı yönergesi</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Bu, ses parçalarının, görsel içeriklerin ve beatmap seviye içeriği doğru izin olmadan kullanıldığında geçerlidir.</value>
@@ -353,10 +353,10 @@
     <value>Başlangıçtan beri burada</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!geliştiricisi</value>
+    <value>hotia!geliştiricisi</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>{0} tarihinde katıldı</value>
@@ -464,7 +464,7 @@
     <value>Yükleme sadece {0} için mevcut</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporterlar</value>
+    <value>hotia!supporterlar</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>varsayılan oyun modu</value>
@@ -482,7 +482,7 @@
     <value>Özel renk temaları sadece {0}'ten ulaşılabilir.</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporterlar</value>
+    <value>hotia!supporterlar</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>hiçbiri</value>
@@ -578,7 +578,7 @@
     <value>Son Kudosu Geçmişi</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Kazanılan Toplam Kudosu</value>
@@ -797,7 +797,7 @@
     <value>Bu özelliğin kilidini açmak için bir {0} olman lazım.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>{0} kadar katkı</value>
@@ -896,7 +896,7 @@
     <value>lütfen bunun yerine oyun istemcisi ile kaydolun!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>lütfen kayıt işleminizi osu! web sitesinde tamamlayın</value>
+    <value>lütfen kayıt işleminizi hotia! web sitesinde tamamlayın</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>Kullanıcı oluşturuldu</value>

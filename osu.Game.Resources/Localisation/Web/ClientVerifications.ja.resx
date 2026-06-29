@@ -68,12 +68,12 @@
     <value>今すぐにこのウィンドウを閉じる事が出来ます。</value>
   </data>
   <data name="completed.title" xml:space="preserve">
-    <value>osu!クライアントの認証が完了しました。</value>
+    <value>hotia!クライアントの認証が完了しました。</value>
   </data>
   <data name="create.confirm" xml:space="preserve">
     <value>下の認証ボタンをクリックしてクライアントの確認を終了する。</value>
   </data>
   <data name="create.title" xml:space="preserve">
-    <value>osu!クライアントの認証</value>
+    <value>hotia!クライアントの認証</value>
   </data>
 </root>

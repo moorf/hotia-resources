@@ -74,7 +74,7 @@
     <value>A página solicitada não pôde ser encontrada para o idioma selecionado.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Esta página não cumpre os padrões da wiki do osu! e precisa de ser limpa ou rescrita. Se puder ajudar, considere atualizar o artigo!</value>
+    <value>Esta página não cumpre os padrões da wiki do hotia! e precisa de ser limpa ou rescrita. Se puder ajudar, considere atualizar o artigo!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Pesquisar páginas existentes para {0}.</value>

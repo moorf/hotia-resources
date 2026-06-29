@@ -98,10 +98,10 @@
     <value>Páči sa ti táto aktualizácia?</value>
   </data>
   <data name="support.text_1" xml:space="preserve">
-    <value>Podporte ďalší vývoj osu! a {0} ešte dnes!</value>
+    <value>Podporte ďalší vývoj hotia! a {0} ešte dnes!</value>
   </data>
   <data name="support.text_1_link" xml:space="preserve">
-    <value>staň sa osu!supporterom</value>
+    <value>staň sa hotia!supporterom</value>
   </data>
   <data name="support.text_2" xml:space="preserve">
     <value>Nie len že nám pomôžeťe urýchliť vývoj, ale získaťe aj funkcie a možnosti prispôsobenia naviac!</value>

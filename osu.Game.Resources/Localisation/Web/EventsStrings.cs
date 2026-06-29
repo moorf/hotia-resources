@@ -60,19 +60,19 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString RankLost(LocalisableString user, LocalisableString beatmap, LocalisableString mode) => new TranslatableString(getKey(@"rank_lost"), @"{0} has lost first place on {1} ({2})", user, beatmap, mode);
 
         /// <summary>
-        /// "{0} has once again chosen to support osu! - thanks for your generosity!"
+        /// "{0} has once again chosen to support hotia! - thanks for your generosity!"
         /// </summary>
-        public static LocalisableString UserSupportAgain(LocalisableString user) => new TranslatableString(getKey(@"user_support_again"), @"{0} has once again chosen to support osu! - thanks for your generosity!", user);
+        public static LocalisableString UserSupportAgain(LocalisableString user) => new TranslatableString(getKey(@"user_support_again"), @"{0} has once again chosen to support hotia! - thanks for your generosity!", user);
 
         /// <summary>
-        /// "{0} has supported osu! - thanks for your generosity!"
+        /// "{0} has supported hotia! - thanks for your generosity!"
         /// </summary>
-        public static LocalisableString UserSupportFirst(LocalisableString user) => new TranslatableString(getKey(@"user_support_first"), @"{0} has supported osu! - thanks for your generosity!", user);
+        public static LocalisableString UserSupportFirst(LocalisableString user) => new TranslatableString(getKey(@"user_support_first"), @"{0} has supported hotia! - thanks for your generosity!", user);
 
         /// <summary>
-        /// "{0} has received the gift of osu!supporter!"
+        /// "{0} has received the gift of hotia!supporter!"
         /// </summary>
-        public static LocalisableString UserSupportGift(LocalisableString user) => new TranslatableString(getKey(@"user_support_gift"), @"{0} has received the gift of osu!supporter!", user);
+        public static LocalisableString UserSupportGift(LocalisableString user) => new TranslatableString(getKey(@"user_support_gift"), @"{0} has received the gift of hotia!supporter!", user);
 
         /// <summary>
         /// "{0} has changed their username to {1}!"

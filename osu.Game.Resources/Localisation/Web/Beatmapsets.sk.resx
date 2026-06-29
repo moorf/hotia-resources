@@ -68,7 +68,7 @@
     <value>Klikni sem pre viac informácií.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Niektoré assety obsiahnuté v tejto mape boli odstránené potom, čo boli posúdené ako nevhodné na použitie v osu!.</value>
+    <value>Niektoré assety obsiahnuté v tejto mape boli odstránené potom, čo boli posúdené ako nevhodné na použitie v hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Odstránená beatmapa </value>
@@ -98,7 +98,7 @@
     <value>stiahnuť bez videa</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>otvoriť v osu!direct</value>
+    <value>otvoriť v hotia!direct</value>
   </data>
   <data name="nominate.hybrid_requires_modes" xml:space="preserve">
     <value>Hybridná beatmapa vyžaduje, aby ste vybrali aspoň jeden herný režim k nominovaní.</value>

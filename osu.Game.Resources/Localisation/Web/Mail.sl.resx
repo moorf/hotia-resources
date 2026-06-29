@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="beatmapset_update_notice.new" xml:space="preserve">
-    <value>V vednost, beatmapa "{0}" je pridobila novo posodobitev odkar si nazadnje obiskal osu!.</value>
+    <value>V vednost, beatmapa "{0}" je pridobila novo posodobitev odkar si nazadnje obiskal hotia!.</value>
   </data>
   <data name="beatmapset_update_notice.subject" xml:space="preserve">
     <value>Nova posodobitev beatmape "{0}"</value>
@@ -89,25 +89,25 @@
     <value>Če imaš kakšno vprašanje ali povratno informacijo, lahko to storiš z odgovorom na to e-pošto; Odgovoril bom v najkrajšem možnem času!</value>
   </data>
   <data name="donation_thanks.keep_free" xml:space="preserve">
-    <value>To je zahvala za osebe kot si ti, da lahko osu! in njegovo skupnost ohrani brez problemov in brez oglasov ali prisilnih plačil.</value>
+    <value>To je zahvala za osebe kot si ti, da lahko hotia! in njegovo skupnost ohrani brez problemov in brez oglasov ali prisilnih plačil.</value>
   </data>
   <data name="donation_thanks.keep_running" xml:space="preserve">
-    <value>Tvoja podpora ohranja osu! delovati za približno {0}! Ne zgleda ravno veliko, ampak se vse skupaj sešteje :).</value>
+    <value>Tvoja podpora ohranja hotia! delovati za približno {0}! Ne zgleda ravno veliko, ampak se vse skupaj sešteje :).</value>
   </data>
   <data name="donation_thanks.subject" xml:space="preserve">
-    <value>Hvala, osu! te ima rad &lt;3</value>
+    <value>Hvala, hotia! te ima rad &lt;3</value>
   </data>
   <data name="donation_thanks.translation" xml:space="preserve">
     <value>Skupnostni prevod za informacijske namene:</value>
   </data>
   <data name="donation_thanks.benefit.gift" xml:space="preserve">
-    <value>Tvoj obdarjenec (ali obdarjenci) bo sedaj imel dostop do osu!direct in veliko drugih podporniških ugodnosti.</value>
+    <value>Tvoj obdarjenec (ali obdarjenci) bo sedaj imel dostop do hotia!direct in veliko drugih podporniških ugodnosti.</value>
   </data>
   <data name="donation_thanks.benefit.self" xml:space="preserve">
-    <value>Sedaj boš imel dostop do osu!direct in veliko drugih podporniških ugodnosti za {0}.</value>
+    <value>Sedaj boš imel dostop do hotia!direct in veliko drugih podporniških ugodnosti za {0}.</value>
   </data>
   <data name="donation_thanks.support._" xml:space="preserve">
-    <value>Najlepša hvala za tvojo {0} usmerjeno osu!.</value>
+    <value>Najlepša hvala za tvojo {0} usmerjeno hotia!.</value>
   </data>
   <data name="donation_thanks.support.first" xml:space="preserve">
     <value>podporo</value>
@@ -116,10 +116,10 @@
     <value>nadaljevano podporo</value>
   </data>
   <data name="forum_new_reply.new" xml:space="preserve">
-    <value>V vednost, prejel si nov odgovor v "{0}", odkar si nazadnje obiskal osu!.</value>
+    <value>V vednost, prejel si nov odgovor v "{0}", odkar si nazadnje obiskal hotia!.</value>
   </data>
   <data name="forum_new_reply.subject" xml:space="preserve">
-    <value>[osu!] Nov odgovor za temo "{0}"</value>
+    <value>[hotia!] Nov odgovor za temo "{0}"</value>
   </data>
   <data name="forum_new_reply.unwatch" xml:space="preserve">
     <value>Če ne želiš več slediti tej temi, lahko klikneš na "Izpis od teme" v obliki povezave spodaj pod temo zgoraj ali preko strani za upravljanje naročenih tem:</value>
@@ -131,10 +131,10 @@
     <value>Tvoja verifikacijska koda je:</value>
   </data>
   <data name="password_reset.requested" xml:space="preserve">
-    <value>Ti ali nekdo drug, ki se pretvarja, da si ti je poslal zahtevo za ponastavitev gesla za tvoj osu! račun.</value>
+    <value>Ti ali nekdo drug, ki se pretvarja, da si ti je poslal zahtevo za ponastavitev gesla za tvoj hotia! račun.</value>
   </data>
   <data name="password_reset.subject" xml:space="preserve">
-    <value>Obnovitev osu! računa</value>
+    <value>Obnovitev hotia! računa</value>
   </data>
   <data name="store_payment_completed.prepare_shipping" xml:space="preserve">
     <value>Prejeli smo tvoje plačilo in pripravljamo tvoje naročilo za pošiljanje. To lahko traja par dni, da odpošljemo, odvisno na količino naročil. Stanje tvojega naročila lahko preveriš tukaj vred z sledilnimi podatki, ki so na voljo:</value>
@@ -149,10 +149,10 @@
     <value>Dostava</value>
   </data>
   <data name="store_payment_completed.subject" xml:space="preserve">
-    <value>Prejeli smo tvoje osu!store naročilo!</value>
+    <value>Prejeli smo tvoje hotia!store naročilo!</value>
   </data>
   <data name="store_payment_completed.thank_you" xml:space="preserve">
-    <value>Hvala za naročilo na osu!store!</value>
+    <value>Hvala za naročilo na hotia!store!</value>
   </data>
   <data name="store_payment_completed.total" xml:space="preserve">
     <value>Skupaj</value>
@@ -164,31 +164,31 @@
     <value>Ampak verjetno že veš kdo je to ;).</value>
   </data>
   <data name="supporter_gift.duration" xml:space="preserve">
-    <value>V zahvalo njemu imaš sedaj dostop do osu!direct in drugih osu!supporter ugodnosti za {0}.</value>
+    <value>V zahvalo njemu imaš sedaj dostop do hotia!direct in drugih hotia!supporter ugodnosti za {0}.</value>
   </data>
   <data name="supporter_gift.features" xml:space="preserve">
     <value>Več informacij o teh funkcijah lahko najdeš tukaj:</value>
   </data>
   <data name="supporter_gift.gifted" xml:space="preserve">
-    <value>Nekdo ti je pravkar podaril osu!supporter značko!</value>
+    <value>Nekdo ti je pravkar podaril hotia!supporter značko!</value>
   </data>
   <data name="supporter_gift.gift_message" xml:space="preserve">
     <value>Uporabnik, ki ti je podaril oznako, je pustil še sporočilo:</value>
   </data>
   <data name="supporter_gift.subject" xml:space="preserve">
-    <value>Obdarjen si bil z osu!supporter značko!</value>
+    <value>Obdarjen si bil z hotia!supporter značko!</value>
   </data>
   <data name="user_email_updated.changed_to" xml:space="preserve">
-    <value>To je potrditvena e-pošta z informacijo, da se je tvoj osu! e-poštni naslov spremenil v: "{0}".</value>
+    <value>To je potrditvena e-pošta z informacijo, da se je tvoj hotia! e-poštni naslov spremenil v: "{0}".</value>
   </data>
   <data name="user_email_updated.check" xml:space="preserve">
-    <value>Prosimo preveri, da si prejel e-pošto na svoj nov e-poštni naslov, s tem preprečiš izgubo svojega osu! računa v prihodnosti.</value>
+    <value>Prosimo preveri, da si prejel e-pošto na svoj nov e-poštni naslov, s tem preprečiš izgubo svojega hotia! računa v prihodnosti.</value>
   </data>
   <data name="user_email_updated.sent" xml:space="preserve">
     <value>Zaradi varnostnih razlogov je bila ta e-pošta poslana na stari in novi e-poštni naslov.</value>
   </data>
   <data name="user_email_updated.subject" xml:space="preserve">
-    <value>Potrditev menjave e-pošnega naslova za osu!</value>
+    <value>Potrditev menjave e-pošnega naslova za hotia!</value>
   </data>
   <data name="user_force_reactivation.main" xml:space="preserve">
     <value>Na tvojem računu obstaja sum, da je bil ogrožen, ima nedavno sumljivo aktivnost ali ZELO šibko geslo. Posledično te prosimo za nastavitev novega gesla. Prosimo tudi, da si izbereš VARNO geslo.</value>
@@ -200,7 +200,7 @@
     <value>Razlog:</value>
   </data>
   <data name="user_force_reactivation.subject" xml:space="preserve">
-    <value>Zahtevana ponovna aktivacija osu! računa</value>
+    <value>Zahtevana ponovna aktivacija hotia! računa</value>
   </data>
   <data name="user_notification_digest.new" xml:space="preserve">
     <value>V vednost, prišlo je do novih posodobitev stvari, ki jih imaš na seznamu gledanih.</value>
@@ -209,13 +209,13 @@
     <value>Spremenite nastavitve e-poštnih obvestil:</value>
   </data>
   <data name="user_notification_digest.subject" xml:space="preserve">
-    <value>Nova osu! obvestila</value>
+    <value>Nova hotia! obvestila</value>
   </data>
   <data name="user_password_updated.confirmation" xml:space="preserve">
-    <value>To je potrditvena e-pošta z informacijo, da se je tvoje osu! geslo spremenilo.</value>
+    <value>To je potrditvena e-pošta z informacijo, da se je tvoje hotia! geslo spremenilo.</value>
   </data>
   <data name="user_password_updated.subject" xml:space="preserve">
-    <value>Potrditev spremembe osu! gesla</value>
+    <value>Potrditev spremembe hotia! gesla</value>
   </data>
   <data name="user_verification.code" xml:space="preserve">
     <value>Tvoja verifikacijska koda je:</value>
@@ -230,7 +230,7 @@
     <value>Če nisi tega zahteval, te prosimo za TAKOJŠNJI ODGOVOR, možnost je lahko, da je tvoj račun v nevarnosti.</value>
   </data>
   <data name="user_verification.subject" xml:space="preserve">
-    <value>Verifikacija osu! računa</value>
+    <value>Verifikacija hotia! računa</value>
   </data>
   <data name="user_verification.action_from._" xml:space="preserve">
     <value>Dejanje, izvedeno na tvojem računu iz {0} zahteva verifikacijo.</value>

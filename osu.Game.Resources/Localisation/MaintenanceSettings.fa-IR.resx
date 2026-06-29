@@ -80,10 +80,10 @@
     <value>لطفاً یک مکان جدید انتخاب کنید</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>پوشه مقصد ظاهرا یک نصب osu! را در بر دارد. آیا از آن داده ها استفاده شود؟</value>
+    <value>پوشه مقصد ظاهرا یک نصب hotia! را در بر دارد. آیا از آن داده ها استفاده شود؟</value>
   </data>
   <data name="restart_and_re_open_required_for_completion" xml:space="preserve">
-    <value>برای اتمام عملیات osu! بسته می شود. لطفا آن را دوباره باز کنید تا از پوشه داده های جدید استفاده شود.</value>
+    <value>برای اتمام عملیات hotia! بسته می شود. لطفا آن را دوباره باز کنید تا از پوشه داده های جدید استفاده شود.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>حذف همه بیت مپ ها</value>
@@ -122,6 +122,6 @@
     <value>ماد پریست های پاک شده بازگردانی شدند!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>لطفا مکان نصب osu!stable (نسخه کلاسیک) خود را انتخاب کنید</value>
+    <value>لطفا مکان نصب hotia!stable (نسخه کلاسیک) خود را انتخاب کنید</value>
   </data>
 </root>

@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="play_more" xml:space="preserve">
-    <value>ماذا عن لعب بعضِِ من osu! بدلاً من ذلك؟</value>
+    <value>ماذا عن لعب بعضِِ من hotia! بدلاً من ذلك؟</value>
   </data>
   <data name="require_login" xml:space="preserve">
     <value>الرجاء تسجيل الدخول للمضي قدما.</value>
@@ -323,7 +323,7 @@
     <value>ليس عضوا في الفريق.</value>
   </data>
   <data name="team.store.require_supporter_tag" xml:space="preserve">
-    <value>يلزم وجود osu!supporter لإنشاء فريق.</value>
+    <value>يلزم وجود hotia!supporter لإنشاء فريق.</value>
   </data>
   <data name="user.page.edit.locked" xml:space="preserve">
     <value>صفحة المستخدم مقفلة.</value>
@@ -332,7 +332,7 @@
     <value>يمكن فقط تعديل الصفحة الخاصة بك.</value>
   </data>
   <data name="user.page.edit.require_supporter_tag" xml:space="preserve">
-    <value>تحتاج الى شارة osu!supporter.</value>
+    <value>تحتاج الى شارة hotia!supporter.</value>
   </data>
   <data name="user.update_email.locked" xml:space="preserve">
     <value>عنوان البريد الإلكتروني مقفل</value>

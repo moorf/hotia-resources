@@ -83,7 +83,7 @@
     <value>Gränssnittsröster</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>osu!-signaturmelodi</value>
+    <value>hotia!-signaturmelodi</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Introsekvens</value>
@@ -95,7 +95,7 @@
     <value>Säsongsbakgrunder</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>Ändringar i denna inställning fungerar endast med en aktiv osu!supporter-tagg.</value>
+    <value>Ändringar i denna inställning fungerar endast med en aktiv hotia!supporter-tagg.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Låtval</value>

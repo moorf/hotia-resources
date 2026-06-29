@@ -68,7 +68,7 @@
     <value>Lihat di sini untuk informasi lebih lanjut.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Sebagian aset yang terkandung dalam beatmap ini sudah dihapus setelah dinilai tidak layak untuk digunakan di osu!.</value>
+    <value>Sebagian aset yang terkandung dalam beatmap ini sudah dihapus setelah dinilai tidak layak untuk digunakan di hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap yang dihapus</value>
@@ -101,7 +101,7 @@
     <value>unduh tanpa video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>buka di osu!direct</value>
+    <value>buka di hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Nominator masa percobaan tidak bisa menominasikan lebih dari satu ruleset.</value>
@@ -332,7 +332,7 @@
     <value>Klik &lt;a href="{0}"&gt;di sini&lt;/a&gt; untuk melihat semua fitur kece yang kamu dapatkan!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Kamu harus menjadi osu!supporter untuk mengakses papan peringkat teman, negara, atau mod!</value>
+    <value>Kamu harus menjadi hotia!supporter untuk mengakses papan peringkat teman, negara, atau mod!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Peringkat Tim</value>

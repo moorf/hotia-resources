@@ -68,7 +68,7 @@
     <value>Itt találsz több információt.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Ennek a map-nek néhány elemét eltávolítottuk, mert nem találtuk őket megfelelőnek az osu!-ban történő használathoz.</value>
+    <value>Ennek a map-nek néhány elemét eltávolítottuk, mert nem találtuk őket megfelelőnek az hotia!-ban történő használathoz.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap törölve</value>
@@ -101,7 +101,7 @@
     <value>letöltés videó nélkül</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>megnyitás osu!direct-ben</value>
+    <value>megnyitás hotia!direct-ben</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>A próbaidős nominálók nem nominálhatnak több ruleszetet.</value>

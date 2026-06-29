@@ -503,7 +503,7 @@
     <value>Les meilleurs rangs sur votre profil ainsi que les résultats affichés sur cette page sont basés sur vos scores « standardisés »  les plus hauts (alias « lazer ») sur les beatmaps.</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>Le filtrage par {0} requiert un tag osu!supporter actif</value>
+    <value>Le filtrage par {0} requiert un tag hotia!supporter actif</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>aucun résultat</value>
@@ -572,7 +572,7 @@
     <value>Le filtrage par {0} requiert un {1} actif</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>tag osu!supporter</value>
+    <value>tag hotia!supporter</value>
   </data>
   <data name="listing.search.tag_picker.tooltip" xml:space="preserve">
     <value>parcourir les tags des joueurs</value>

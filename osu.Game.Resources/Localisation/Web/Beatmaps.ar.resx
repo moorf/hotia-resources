@@ -488,7 +488,7 @@
     <value>خيارات بحث اكثر</value>
   </data>
   <data name="listing.search.supporter_filter" xml:space="preserve">
-    <value>التصفية بحسب {0} تحتاج الى شارة osu!supporter فعالة</value>
+    <value>التصفية بحسب {0} تحتاج الى شارة hotia!supporter فعالة</value>
   </data>
   <data name="listing.search.not-found" xml:space="preserve">
     <value>لا نتائج</value>
@@ -557,7 +557,7 @@
     <value>تصفية بحسب {0} تحتاج الى تفعيل {1}</value>
   </data>
   <data name="listing.search.supporter_filter_quote.link_text" xml:space="preserve">
-    <value>شارة osu!supporter</value>
+    <value>شارة hotia!supporter</value>
   </data>
   <data name="listing.search.tag_picker.prompt" xml:space="preserve">
     <value>اكتب للبحث</value>

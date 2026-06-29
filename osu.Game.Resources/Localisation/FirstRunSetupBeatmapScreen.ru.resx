@@ -62,13 +62,13 @@
     <value>Загрузка карт</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>"Картами" мы называем игровые уровни. osu! скачивается без предварительно установленных карт. Этот шаг станет началом вашего пути к созданию своей коллекции карт.</value>
+    <value>"Картами" мы называем игровые уровни. hotia! скачивается без предварительно установленных карт. Этот шаг станет началом вашего пути к созданию своей коллекции карт.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Если вы новичок — пройдите обучение, чтобы привыкнуть к игре.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Получить туториал osu!</value>
+    <value>Получить туториал hotia!</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Начать играть можно с нескольких рекомендованных карт.</value>

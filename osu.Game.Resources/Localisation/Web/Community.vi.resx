@@ -62,22 +62,22 @@
     <value>Tôi đã tin! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>hỗ trợ osu!</value>
+    <value>hỗ trợ hotia!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>hay gửi support đến người chơi khác</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>nhấp vào nút trái tim để đi đến osu!store</value>
+    <value>nhấp vào nút trái tim để đi đến hotia!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Tại sao tôi nên hỗ trợ osu!? Tiền hỗ trợ sau này sẽ đi đâu?</value>
+    <value>Tại sao tôi nên hỗ trợ hotia!? Tiền hỗ trợ sau này sẽ đi đâu?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
     <value>Hỗ trợ đội ngũ</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Một nhóm nhỏ phát triển và điều hành osu!. Sự hỗ trợ của bạn giúp họ để, bạn biết rồi đấy... sống.</value>
+    <value>Một nhóm nhỏ phát triển và điều hành hotia!. Sự hỗ trợ của bạn giúp họ để, bạn biết rồi đấy... sống.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Cơ sở hạ tầng máy chủ</value>
@@ -89,13 +89,13 @@
     <value>Featured Artists</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Với sự hỗ trợ của bạn, chúng tôi có thể tiếp cận thêm nhiều nghệ sĩ tuyệt vời hơn nữa và cấp phép cho âm nhạc tuyệt vời hơn để dùng trong osu!</value>
+    <value>Với sự hỗ trợ của bạn, chúng tôi có thể tiếp cận thêm nhiều nghệ sĩ tuyệt vời hơn nữa và cấp phép cho âm nhạc tuyệt vời hơn để dùng trong hotia!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Xem danh sách hiện hành &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Giữ osu! tự duy trì</value>
+    <value>Giữ hotia! tự duy trì</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Đóng góp của bạn giúp giữ trò chơi độc lập và hoàn toàn miễn phí từ quảng cáo và các nhà tài trợ bên ngoài.</value>
@@ -104,7 +104,7 @@
     <value>Giải đấu chính thức</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Giúp tài trợ cho việc điều hành (và giải thưởng cho) Giải đấu World Cup osu! chính thức.</value>
+    <value>Giúp tài trợ cho việc điều hành (và giải thưởng cho) Giải đấu World Cup hotia! chính thức.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Khám phá giải đấu &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Chương trình thưởng mã nguồn mở</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Hỗ trợ những người đóng góp cộng đồng đã dành thời gian và nỗ lực để làm osu! tốt hơn.</value>
+    <value>Hỗ trợ những người đóng góp cộng đồng đã dành thời gian và nỗ lực để làm hotia! tốt hơn.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Tìm hiểu thêm &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Ồ, Vậy tôi sẽ nhận được gì?</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>osu!direct</value>
+    <value>hotia!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Truy cập nhanh và dễ dàng để tìm beatmap mà không cần thoát trò chơi.</value>
@@ -185,7 +185,7 @@
     <value>Tải Nhanh</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Tải ít bị giới hạn hơn, đặc biệt là khi dùng osu!direct.</value>
+    <value>Tải ít bị giới hạn hơn, đặc biệt là khi dùng hotia!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Đổi Tên Tài Khoản</value>

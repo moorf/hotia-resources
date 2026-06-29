@@ -74,7 +74,7 @@
     <value>Požadovaná stránka nebola nájdená vo zvolenom jazyku.</value>
   </data>
   <data name="show.needs_cleanup_or_rewrite" xml:space="preserve">
-    <value>Táto stránka nespĺňa štandardy osu! wiki a potrebuje byť vylepšená alebo prepísané. Ak chcete, môžete pomôcť s aktualizáciou článku!</value>
+    <value>Táto stránka nespĺňa štandardy hotia! wiki a potrebuje byť vylepšená alebo prepísané. Ak chcete, môžete pomôcť s aktualizáciou článku!</value>
   </data>
   <data name="show.search" xml:space="preserve">
     <value>Prehliadať existujúce stránky pre {0}.</value>

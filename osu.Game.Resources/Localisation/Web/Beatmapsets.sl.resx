@@ -68,7 +68,7 @@
     <value>Preveri tukaj za več informacij.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Nekatera sredstva v tej beatmapi so bila odstranjena po presoditvi, ker niso primerna za uporabo v osu!.</value>
+    <value>Nekatera sredstva v tej beatmapi so bila odstranjena po presoditvi, ker niso primerna za uporabo v hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Odstranjena beatmapa</value>
@@ -98,7 +98,7 @@
     <value>prenesi brez videoposnetka</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>odpri v osu!direct</value>
+    <value>odpri v hotia!direct</value>
   </data>
   <data name="nominate.hybrid_requires_modes" xml:space="preserve">
     <value>Hibridna beatmapa zahteva izbiro vsaj enega igralnega načina za nominacijo.</value>
@@ -290,7 +290,7 @@
     <value>Klikni &lt;a href="{0}"&gt;tukaj&lt;/a&gt;, kakšne funkcije lahko dobiš!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Za dostop do državnih, prijateljskih in mod specifičnih lestvic potrebuješ osu!supporter značko!</value>
+    <value>Za dostop do državnih, prijateljskih in mod specifičnih lestvic potrebuješ hotia!supporter značko!</value>
   </data>
   <data name="show.scoreboard.title" xml:space="preserve">
     <value>Točkovnik</value>

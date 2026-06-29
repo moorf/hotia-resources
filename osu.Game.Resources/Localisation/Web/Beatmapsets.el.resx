@@ -68,7 +68,7 @@
     <value>Κάντε κλικ εδώ για να δείτε περισσότερα.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Ορισμένα περιουσιακά στοιχεία που περιέχονται σε αυτόν τον χάρτη έχουν αφαιρεθεί αφού έχουν κριθεί ότι δεν είναι κατάλληλα για χρήση στο osu!.</value>
+    <value>Ορισμένα περιουσιακά στοιχεία που περιέχονται σε αυτόν τον χάρτη έχουν αφαιρεθεί αφού έχουν κριθεί ότι δεν είναι κατάλληλα για χρήση στο hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Διαγραμμένα beatmap</value>
@@ -101,7 +101,7 @@
     <value>λήψη χωρίς βίντεο</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>άνοιγμα με osu!direct</value>
+    <value>άνοιγμα με hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>Οι υποψήφιοι δεν μπορούν να προτείνουν πολλαπλούς κανόνες.</value>

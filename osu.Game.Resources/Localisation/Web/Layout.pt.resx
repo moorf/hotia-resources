@@ -62,7 +62,7 @@
     <value>Reproduzir automaticamente a faixa seguinte</value>
   </data>
   <data name="defaults.page_description" xml:space="preserve">
-    <value>osu! — O ritmo está apenas a um *clique* de distância! Com os modos de jogo Ouendan/EBA, Taiko e original, além de um editor de níveis totalmente funcional.</value>
+    <value>hotia! — O ritmo está apenas a um *clique* de distância! Com os modos de jogo Ouendan/EBA, Taiko e original, além de um editor de níveis totalmente funcional.</value>
   </data>
   <data name="header.admin.beatmapset" xml:space="preserve">
     <value>conjunto de mapas</value>
@@ -191,7 +191,7 @@
     <value>Listagem de mapas</value>
   </data>
   <data name="footer.general.download" xml:space="preserve">
-    <value>Transfira o osu!</value>
+    <value>Transfira o hotia!</value>
   </data>
   <data name="footer.help._" xml:space="preserve">
     <value>Ajuda e Comunidade</value>
@@ -311,7 +311,7 @@
     <value>Transferir</value>
   </data>
   <data name="popup_login.register.info" xml:space="preserve">
-    <value>Transfira o osu! para criar a sua própria conta!</value>
+    <value>Transfira o hotia! para criar a sua própria conta!</value>
   </data>
   <data name="popup_login.register.title" xml:space="preserve">
     <value>Não tem uma conta?</value>

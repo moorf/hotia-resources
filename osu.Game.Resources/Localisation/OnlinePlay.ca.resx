@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="supporter_only_duration_notice" xml:space="preserve">
-    <value>Les durades de les llistes de joc de més de 2 setmanes requereixen una etiqueta osu!supporter activa.</value>
+    <value>Les durades de les llistes de joc de més de 2 setmanes requereixen una etiqueta hotia!supporter activa.</value>
   </data>
   <data name="cant_invite_this_user_as" xml:space="preserve">
     <value>No pots convidar aquest usuari, ja que l'has bloquejat o t'ha bloquejat.</value>

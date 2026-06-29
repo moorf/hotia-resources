@@ -71,16 +71,16 @@
     <value>Tidak! Batalkan pilihan saya</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Lokasi pemasangan osu!stable gagal ditentukan secara otomatis.</value>
+    <value>Lokasi pemasangan hotia!stable gagal ditentukan secara otomatis.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
-    <value>Pemasangan osu! yang sudah ada tidak bisa ditemukan. Apabila kamu tahu di mana letak pemasangan ini, kamu bisa membantu untuk mengarahkan ke lokasi ini.</value>
+    <value>Pemasangan hotia! yang sudah ada tidak bisa ditemukan. Apabila kamu tahu di mana letak pemasangan ini, kamu bisa membantu untuk mengarahkan ke lokasi ini.</value>
   </data>
   <data name="stable_directory_location_ok_button" xml:space="preserve">
     <value>Tentu saja! Saya tahu di mana letak pemasangan ini!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Sebenarnya, saya tidak memiliki osu!stable yang terpasang.</value>
+    <value>Sebenarnya, saya tidak memiliki hotia!stable yang terpasang.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Semua skor lokal pada {0}</value>
@@ -92,7 +92,7 @@
     <value>Apakah kamu yakin ingin membatalkan pertandingan ini?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Apakah kamu yakin ingin keluar dari osu!?</value>
+    <value>Apakah kamu yakin ingin keluar dari hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Kesempatan terakhir untuk berubah pikiran</value>

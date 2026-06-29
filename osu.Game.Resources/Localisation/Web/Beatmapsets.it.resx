@@ -68,7 +68,7 @@
     <value>Controlla qui per maggiori dettagli.</value>
   </data>
   <data name="availability.rule_violation" xml:space="preserve">
-    <value>Alcuni elementi contenuti in questa mappa sono stati rimossi dopo che sono stati giudicati non idonei per l'uso in osu!.</value>
+    <value>Alcuni elementi contenuti in questa mappa sono stati rimossi dopo che sono stati giudicati non idonei per l'uso in hotia!.</value>
   </data>
   <data name="cover.deleted" xml:space="preserve">
     <value>Beatmap eliminata</value>
@@ -101,7 +101,7 @@
     <value>scarica senza il video</value>
   </data>
   <data name="panel.download.direct" xml:space="preserve">
-    <value>apri in osu!direct</value>
+    <value>apri in hotia!direct</value>
   </data>
   <data name="nominate.bng_limited_too_many_rulesets" xml:space="preserve">
     <value>I proponenti in prova non possono nominare più set di regole.</value>
@@ -332,7 +332,7 @@
     <value>Clicca &lt;a href="{0}"&gt;qui&lt;/a&gt; per vedere tutte le fantastiche funzionalità che otterrai!</value>
   </data>
   <data name="show.scoreboard.supporter-only" xml:space="preserve">
-    <value>Devi essere un osu!supporter per vedere le classifiche di amici e nazione, oppure con mod specifiche!</value>
+    <value>Devi essere un hotia!supporter per vedere le classifiche di amici e nazione, oppure con mod specifiche!</value>
   </data>
   <data name="show.scoreboard.team" xml:space="preserve">
     <value>Classifica Squadra</value>

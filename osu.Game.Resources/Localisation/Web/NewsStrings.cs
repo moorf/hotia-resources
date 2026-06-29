@@ -10,9 +10,9 @@ namespace osu.Game.Resources.Localisation.Web
         private const string prefix = @"osu.Game.Resources.Localisation.Web.News";
 
         /// <summary>
-        /// "osu!news"
+        /// "hotia!news"
         /// </summary>
-        public static LocalisableString IndexTitlePage => new TranslatableString(getKey(@"index.title_page"), @"osu!news");
+        public static LocalisableString IndexTitlePage => new TranslatableString(getKey(@"index.title_page"), @"hotia!news");
 
         /// <summary>
         /// "Newer posts"
@@ -75,9 +75,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SeriesMonthlyBeatmappingContest => new TranslatableString(getKey(@"series.monthly_beatmapping_contest"), @"Monthly Beatmapping Contest");
 
         /// <summary>
-        /// "osu! merchandise"
+        /// "hotia! merchandise"
         /// </summary>
-        public static LocalisableString SeriesMerchRuns => new TranslatableString(getKey(@"series.merch_runs"), @"osu! merchandise");
+        public static LocalisableString SeriesMerchRuns => new TranslatableString(getKey(@"series.merch_runs"), @"hotia! merchandise");
 
         /// <summary>
         /// "miscellaneous announcements"
@@ -110,9 +110,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString SeriesRankingSystemUpdates => new TranslatableString(getKey(@"series.ranking_system_updates"), @"ranking system updates");
 
         /// <summary>
-        /// "osu! World Cups"
+        /// "hotia! World Cups"
         /// </summary>
-        public static LocalisableString SeriesWorldCups => new TranslatableString(getKey(@"series.world_cups"), @"osu! World Cups");
+        public static LocalisableString SeriesWorldCups => new TranslatableString(getKey(@"series.world_cups"), @"hotia! World Cups");
 
         /// <summary>
         /// "by {0}"

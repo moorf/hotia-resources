@@ -137,7 +137,7 @@
     <value>Ladda i webbläsaren efter inlämning</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Obs: För att göra det möjligt för användare av alla osu!-versioner att njuta av din beatmap kommer den att exporteras i ett bakåtkompatibelt format. Även om vi har gjort vårt bästa för att säkerställa att denna process håller beatmapen spelbar i sin avsedda form, kan viss data relaterad till funktioner som tidigare versioner av osu! inte stöder gå förlorade.</value>
+    <value>Obs: För att göra det möjligt för användare av alla hotia!-versioner att njuta av din beatmap kommer den att exporteras i ett bakåtkompatibelt format. Även om vi har gjort vårt bästa för att säkerställa att denna process håller beatmapen spelbar i sin avsedda form, kan viss data relaterad till funktioner som tidigare versioner av hotia! inte stöder gå förlorade.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Tomma beatmaps kan inte skickas in.</value>

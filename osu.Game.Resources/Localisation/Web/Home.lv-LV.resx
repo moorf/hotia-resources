@@ -306,13 +306,13 @@
     <value>restartējās {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Lejupielādēt osu!</value>
+    <value>Lejupielādēt hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Atbalstīt osu!</value>
+    <value>Atbalstīt hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!veikals</value>
+    <value>hotia!veikals</value>
   </data>
   <data name="user.show.admin.page" xml:space="preserve">
     <value>Avērt adminu konsoli</value>

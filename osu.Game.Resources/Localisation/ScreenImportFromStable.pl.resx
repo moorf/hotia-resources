@@ -62,13 +62,13 @@
     <value>Importowanie</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>Jeżeli na swoim urządzeniu masz zainstalowaną poprzednią wersję osu!, możesz zaimportować z niej istniejącą zawartość. Nie będzie to miało żadnego wpływu na pliki obecnej instalacji.</value>
+    <value>Jeżeli na swoim urządzeniu masz zainstalowaną poprzednią wersję hotia!, możesz zaimportować z niej istniejącą zawartość. Nie będzie to miało żadnego wpływu na pliki obecnej instalacji.</value>
   </data>
   <data name="locate_directory_label" xml:space="preserve">
-    <value>poprzednia wersja osu!</value>
+    <value>poprzednia wersja hotia!</value>
   </data>
   <data name="locate_directory_placeholder" xml:space="preserve">
-    <value>Kliknij, by wybrać lokalizację poprzedniej wersji osu!</value>
+    <value>Kliknij, by wybrać lokalizację poprzedniej wersji hotia!</value>
   </data>
   <data name="import_button" xml:space="preserve">
     <value>Importuj zawartość z poprzedniej wersji gry</value>
@@ -92,9 +92,9 @@
     <value>Dowiązania lekkie plików nie są obsługiwane na Twoim systemie operacyjnym - podczas importu zostanie wykonana kopia wszystkich plików.</value>
   </data>
   <data name="second_copy_will_be_made_windows" xml:space="preserve">
-    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi osu!lazer znajduje się na tym samym dysku co poprzednia wersja osu!, a system plików na dysku to NTFS.</value>
+    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi hotia!lazer znajduje się na tym samym dysku co poprzednia wersja hotia!, a system plików na dysku to NTFS.</value>
   </data>
   <data name="second_copy_will_be_made_other_platforms" xml:space="preserve">
-    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi osu!lazer znajduje się na tym samym dysku co poprzednia wersja osu!, a system plików na dysku obsługuje dowiązania twarde.</value>
+    <value>Podczas migracji zostanie wykonana druga kopia wszystkich plików. Aby tego uniknąć, upewnij się, że folder z danymi hotia!lazer znajduje się na tym samym dysku co poprzednia wersja hotia!, a system plików na dysku obsługuje dowiązania twarde.</value>
   </data>
 </root>

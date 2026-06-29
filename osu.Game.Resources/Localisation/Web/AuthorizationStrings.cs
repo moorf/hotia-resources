@@ -10,9 +10,9 @@ namespace osu.Game.Resources.Localisation.Web
         private const string prefix = @"osu.Game.Resources.Localisation.Web.Authorization";
 
         /// <summary>
-        /// "How about playing some osu! instead?"
+        /// "How about playing some hotia! instead?"
         /// </summary>
-        public static LocalisableString PlayMore => new TranslatableString(getKey(@"play_more"), @"How about playing some osu! instead?");
+        public static LocalisableString PlayMore => new TranslatableString(getKey(@"play_more"), @"How about playing some hotia! instead?");
 
         /// <summary>
         /// "Please sign in to proceed."
@@ -450,9 +450,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString TeamPartNotMember => new TranslatableString(getKey(@"team.part.not_member"), @"Not a member of the team.");
 
         /// <summary>
-        /// "osu!supporter tag is required to create team."
+        /// "hotia!supporter tag is required to create team."
         /// </summary>
-        public static LocalisableString TeamStoreRequireSupporterTag => new TranslatableString(getKey(@"team.store.require_supporter_tag"), @"osu!supporter tag is required to create team.");
+        public static LocalisableString TeamStoreRequireSupporterTag => new TranslatableString(getKey(@"team.store.require_supporter_tag"), @"hotia!supporter tag is required to create team.");
 
         /// <summary>
         /// "User page is locked."
@@ -465,9 +465,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString UserPageEditNotOwner => new TranslatableString(getKey(@"user.page.edit.not_owner"), @"Can only edit own user page.");
 
         /// <summary>
-        /// "osu!supporter tag is required."
+        /// "hotia!supporter tag is required."
         /// </summary>
-        public static LocalisableString UserPageEditRequireSupporterTag => new TranslatableString(getKey(@"user.page.edit.require_supporter_tag"), @"osu!supporter tag is required.");
+        public static LocalisableString UserPageEditRequireSupporterTag => new TranslatableString(getKey(@"user.page.edit.require_supporter_tag"), @"hotia!supporter tag is required.");
 
         /// <summary>
         /// "email address is locked"

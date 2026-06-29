@@ -296,12 +296,12 @@
     <value>свършва след {0}</value>
   </data>
   <data name="user.buttons.download" xml:space="preserve">
-    <value>Изтегли osu!</value>
+    <value>Изтегли hotia!</value>
   </data>
   <data name="user.buttons.support" xml:space="preserve">
-    <value>Подкрепи osu!</value>
+    <value>Подкрепи hotia!</value>
   </data>
   <data name="user.buttons.store" xml:space="preserve">
-    <value>osu!магазин</value>
+    <value>hotia!магазин</value>
   </data>
 </root>

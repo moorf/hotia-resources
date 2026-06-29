@@ -99,10 +99,10 @@
     <value>T'agrada aquesta actualització?</value>
   </data>
   <data name="support.text_1" xml:space="preserve">
-    <value>Dóna suport al desenvolupament de l'osu! i {0} avui mateix!</value>
+    <value>Dóna suport al desenvolupament de l'hotia! i {0} avui mateix!</value>
   </data>
   <data name="support.text_1_link" xml:space="preserve">
-    <value>torna't un osu!supporter</value>
+    <value>torna't un hotia!supporter</value>
   </data>
   <data name="support.text_2" xml:space="preserve">
     <value>A banda d'accelerar el desenvolupament, també rebràs funcions addicionals i personalitzacions!</value>
