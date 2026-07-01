@@ -1,22 +1,22 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
     <Title>hotia!resources</Title>
     <Product>hotia!resources</Product>
-    <Company>ppy Pty Ltd</Company>
+    <Company>moorf</Company>
   </PropertyGroup>
   <PropertyGroup Label="Nuget">
     <Title>hotia!resources</Title>
-    <PackageId>ppy.osu.Game.Resources</PackageId>
-    <Authors>ppy Pty Ltd</Authors>
+    <PackageId>moorf.hotia.Game.Resources</PackageId>
+    <Authors>moorf</Authors>
     <PackageLicenseUrl>https://github.com/ppy/osu-resources/blob/master/LICENCE.md</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/ppy/osu-resources</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ppy/osu-resources</RepositoryUrl>
     <PackageReleaseNotes>Automated release.</PackageReleaseNotes>
     <copyright>Copyright (c) 2019 ppy Pty Ltd</copyright>
-    <PackageTags>osu game resources</PackageTags>
+    <PackageTags>hotia game resources</PackageTags>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="Beatmaps\**\*" />
@@ -29,8 +29,9 @@
   </ItemGroup>
   <ItemGroup>
     <!-- Resolves references to LocalisableString. -->
-    <PackageReference Include="ppy.osu.Framework" Version="2021.611.0">
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
+    <!-- <PackageReference Include="ppy.osu.Framework" Version="2021.611.0"> -->
+      <!-- <PrivateAssets>all</PrivateAssets> -->
+    <!-- </PackageReference> -->
+	<ProjectReference Include="..\..\hotia-framework\osu.Framework\osu.Framework.csproj" />
   </ItemGroup>
 </Project>
