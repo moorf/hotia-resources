@@ -62,22 +62,22 @@
     <value>Estou convencido! {0}</value>
   </data>
   <data name="support.convinced.support" xml:space="preserve">
-    <value>ajude o hotia!</value>
+    <value>ajude o osu!</value>
   </data>
   <data name="support.convinced.gift" xml:space="preserve">
     <value>ou envie de presente para outros jogadores</value>
   </data>
   <data name="support.convinced.instructions" xml:space="preserve">
-    <value>clique no coração para continuar para a hotia!store</value>
+    <value>clique no coração para continuar para a osu!store</value>
   </data>
   <data name="support.why-support.title" xml:space="preserve">
-    <value>Por que eu deveria apoiar hotia!? Para onde vai o dinheiro?</value>
+    <value>Por que eu deveria apoiar osu!? Para onde vai o dinheiro?</value>
   </data>
   <data name="support.why-support.team.title" xml:space="preserve">
-    <value>Apoie a Equipe</value>
+    <value>Apoie a equipe</value>
   </data>
   <data name="support.why-support.team.description" xml:space="preserve">
-    <value>Um pequeno time de desenvolvedores desenvolve e mantém o hotia! rodando. Seu apoio vai permitir que eles possam, você sabe... viver.</value>
+    <value>Uma pequena equipe desenvolve e mantém o osu! rodando. Seu apoio vai permitir que eles possam, você sabe... viver.</value>
   </data>
   <data name="support.why-support.infra.title" xml:space="preserve">
     <value>Infraestrutura do Servidor</value>
@@ -89,13 +89,13 @@
     <value>Artistas em Destaque</value>
   </data>
   <data name="support.why-support.featured-artists.description" xml:space="preserve">
-    <value>Com sua ajuda, podemos nos aproximar de ainda mais artistas talentosos e podemos licenciar ainda mais musicas incríveis para serem utilizadas no hotia!</value>
+    <value>Com sua ajuda, podemos nos aproximar de ainda mais artistas talentosos e podemos licenciar ainda mais musicas incríveis para serem utilizadas no osu!</value>
   </data>
   <data name="support.why-support.featured-artists.link_text" xml:space="preserve">
     <value>Veja a lista atual &amp;raquo;</value>
   </data>
   <data name="support.why-support.ads.title" xml:space="preserve">
-    <value>Mantenha o hotia! auto-sustentável</value>
+    <value>Mantenha o osu! auto-sustentável</value>
   </data>
   <data name="support.why-support.ads.description" xml:space="preserve">
     <value>Suas contribuições ajudam o jogo a se manter independente e completamente livre de anúncios ou de patrocinadores externos.</value>
@@ -104,7 +104,7 @@
     <value>Torneios Oficiais</value>
   </data>
   <data name="support.why-support.tournaments.description" xml:space="preserve">
-    <value>Ajude a financiar os torneios oficiais do hotia! e suas premiações.</value>
+    <value>Ajude a financiar os torneios oficiais do osu! e suas premiações.</value>
   </data>
   <data name="support.why-support.tournaments.link_text" xml:space="preserve">
     <value>Explore os torneios &amp;raquo;</value>
@@ -113,7 +113,7 @@
     <value>Programa de Recompensas Open Source</value>
   </data>
   <data name="support.why-support.bounty-program.description" xml:space="preserve">
-    <value>Apoie os contribuidores da comunidade que dedicaram seu tempo e esforço para tornar o hotia! melhor.</value>
+    <value>Apoie os contribuidores da comunidade que dedicaram seu tempo e esforço para tornar o osu! melhor.</value>
   </data>
   <data name="support.why-support.bounty-program.link_text" xml:space="preserve">
     <value>Entenda mais &amp;raquo;</value>
@@ -122,7 +122,7 @@
     <value>Hã? O que eu ganho?!</value>
   </data>
   <data name="support.perks.osu_direct.title" xml:space="preserve">
-    <value>hotia!direct</value>
+    <value>osu!direct</value>
   </data>
   <data name="support.perks.osu_direct.description" xml:space="preserve">
     <value>Acesso fácil e rápido a beatmaps sem sair do jogo.</value>
@@ -134,7 +134,7 @@
     <value>Veja como você se sai contra seus amigos nas classificações dos beatmaps, tanto in-game quanto pelo website.</value>
   </data>
   <data name="support.perks.country_ranking.title" xml:space="preserve">
-    <value>Ranking Nacional</value>
+    <value>Classificação nacional</value>
   </data>
   <data name="support.perks.country_ranking.description" xml:space="preserve">
     <value>Conquiste seu país antes de conquistar o mundo.</value>
@@ -185,7 +185,7 @@
     <value>Downloads Mais Rápidos</value>
   </data>
   <data name="support.perks.speedy_downloads.description" xml:space="preserve">
-    <value>Restrições de download mais leves, especialmente quando usando hotia!direct.</value>
+    <value>Restrições de download mais leves, especialmente quando usando osu!direct.</value>
   </data>
   <data name="support.perks.change_username.title" xml:space="preserve">
     <value>Alteração de Nome de Usuário</value>
@@ -227,7 +227,7 @@
     <value>Envie Mais Beatmaps</value>
   </data>
   <data name="support.perks.more_beatmaps.description" xml:space="preserve">
-    <value>A quantidade máxima de beatmaps não-ranqueados que você pode ter é calculado com base em um valor padrão (normalmente 4) +1 adicional para cada beatmap ranqueado que você possui (max. 2).&lt;br/&gt;&lt;br/&gt; Com hotia!supporter, esse limite é aumentado para 8 + 1 adicional para cada beatmap ranqueado (max. 12).</value>
+    <value>A quantidade máxima de beatmaps não-ranqueados que você pode ter é calculado com base em um valor padrão (normalmente 4) +1 adicional para cada beatmap ranqueado que você possui (max. 2).&lt;br/&gt;&lt;br/&gt; Com osu!supporter, esse limite é aumentado para 8 + 1 adicional para cada beatmap ranqueado (max. 12).</value>
   </data>
   <data name="support.perks.friend_filtering.title" xml:space="preserve">
     <value>Placar de amigos</value>

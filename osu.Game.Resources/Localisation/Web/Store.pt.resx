@@ -107,7 +107,7 @@
     <value>Estamos atualmente sobrecarregados com encomendas! Pode fazer a sua encomenda, mas deverá contar com um **atraso adicional de 1–2 semanas** enquanto tratamos das encomendas já existentes.</value>
   </data>
   <data name="checkout.hide_from_activity" xml:space="preserve">
-    <value>Ocultar todas as etiquetas de hotia!supporter nesta ordem da minha atividade</value>
+    <value>Ocultar todas as etiquetas de apoiante do osu! nesta ordem da minha atividade</value>
   </data>
   <data name="checkout.old_cart" xml:space="preserve">
     <value>O seu carrinho parece estar desatualizado e foi recarregado. Por favor, tente novamente.</value>
@@ -149,7 +149,7 @@
     <value>O pagamento por eCheck foi rejeitado pelo PayPal.</value>
   </data>
   <data name="invoice.hide_from_activity" xml:space="preserve">
-    <value>As etiquetas de hotia!supporter nesta ordem não são apresentadas nas suas atividades recentes.</value>
+    <value>As etiquetas de apoiante do osu! nesta ordem não são apresentadas nas suas atividades recentes.</value>
   </data>
   <data name="invoice.sent_via" xml:space="preserve">
     <value>Enviado através de:</value>
@@ -170,7 +170,7 @@
     <value>Se não pediu o cancelamento, contacte {0} indicando o número da sua encomenda (#{1}).</value>
   </data>
   <data name="invoice.status.cancelled.line_1.link_text" xml:space="preserve">
-    <value>Apoio da hotia!store</value>
+    <value>Apoio da osu!store</value>
   </data>
   <data name="invoice.status.delivered.title" xml:space="preserve">
     <value>A sua encomenda foi entregue! Esperamos que esteja a gostar!</value>
@@ -179,7 +179,7 @@
     <value>Se tiver algum problema com a sua compra, contacte o {0}.</value>
   </data>
   <data name="invoice.status.delivered.line_1.link_text" xml:space="preserve">
-    <value>Apoio da hotia!store</value>
+    <value>Apoio da osu!store</value>
   </data>
   <data name="invoice.status.prepared.title" xml:space="preserve">
     <value>A sua encomenda está a ser preparada!</value>
@@ -359,7 +359,7 @@
     <value>junte uma mensagem opcional ao seu presente! (até {0} caracteres)</value>
   </data>
   <data name="supporter_tag.require_login._" xml:space="preserve">
-    <value>Precisa de ter {0} para obter uma etiqueta hotia!supporter!</value>
+    <value>Precisa de ter {0} para obter uma etiqueta de apoiante do osu!</value>
   </data>
   <data name="supporter_tag.require_login.link_text" xml:space="preserve">
     <value>sessão iniciada</value>

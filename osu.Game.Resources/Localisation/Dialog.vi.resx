@@ -72,16 +72,16 @@
 </value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Không thể tự động tìm thấy bản cài đặt hotia!stable.</value>
+    <value>Không tìm thấy bản cài đặt osu!stable.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
-    <value>Không tìm thấy bản cài đặt hiện có. Nếu bạn biết vị trí của nó, bạn có thể giúp xác định nó.</value>
+    <value>Không thể xác định bản cài đặt hiện có. Nếu bạn biết vị trí của nó, bạn có thể giúp xác định nó.</value>
   </data>
   <data name="stable_directory_location_ok_button" xml:space="preserve">
     <value>Tôi biết vị trí của nó!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Thực ra tôi chưa cài hotia!stable.</value>
+    <value>Thực ra tôi chưa cài osu!stable.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Tất cả điểm cục bộ của {0}</value>
@@ -93,7 +93,7 @@
     <value>Bạn có chắc chắn muốn huỷ bỏ trận đấu này không?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Bạn có chắc chắn muốn thoát hotia!?</value>
+    <value>Bạn có chắc chắn muốn thoát osu!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Cơ hội cuối cùng để quay lại</value>
@@ -126,7 +126,7 @@ và {1} hoạt động khác.</value>
     <value>Không tôi không có ý đó</value>
   </data>
   <data name="external_link_body_text" xml:space="preserve">
-    <value>Bạn có chắc chắn muốn mở liên kết sau trong trình duyệt web không?
+    <value>Bạn có chắc chắn muốn mở liên kết sau bằng trình duyệt web không?
 
 {0}</value>
   </data>
@@ -137,6 +137,6 @@ và {1} hoạt động khác.</value>
     <value>Bạn có chắc chắn muốn xoá bình luận của bạn không?</value>
   </data>
   <data name="confirm_exit_multiplayer_match_body_text" xml:space="preserve">
-    <value>Bạn có chắc chắn muốn rời trận đấu nhiều người này không?</value>
+    <value>Bạn có chắc chắn muốn rời trận đấu này không?</value>
   </data>
 </root>

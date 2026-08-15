@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Ao desativar o filtro "Artista em destaque", todo o conteúdo carregado pelo jogador será exibido.
 
-Isto inclui conteúdo que pode não estar devidamente licenciado para utilização no hotia!. Navegue por sua própria conta e risco.</value>
+Isto inclui conteúdo que pode não estar devidamente licenciado para utilização no osu!. Navegue por sua própria conta e risco.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Compreendo</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Artistas em destaque são músicos que colaboraram com o hotia! para disponibilizar uma seleção das suas faixas para uso em mapas. Em algumas versões do hotia!, apresentamos apenas mapas de artistas em destaque para apoiar melhor o ecossistema envolvente.</value>
+    <value>Artistas em destaque são músicos que colaboraram com o osu! para disponibilizar uma seleção das suas músicas para uso em mapas. Em algumas versões do osu!, apresentamos apenas mapas de artistas em destaque para apoiar melhor o ecossistema envolvente.</value>
   </data>
 </root>

@@ -83,7 +83,7 @@
     <value>Vozes da interface</value>
   </data>
   <data name="osu_music_theme" xml:space="preserve">
-    <value>Tema musical do hotia!</value>
+    <value>Tema musical do osu!</value>
   </data>
   <data name="intro_sequence" xml:space="preserve">
     <value>Sequência introdutória</value>
@@ -98,7 +98,7 @@
     <value>Fundos sazonais</value>
   </data>
   <data name="not_supporter_note" xml:space="preserve">
-    <value>As alterações a esta definição só se aplicam com uma etiqueta hotia!supporter ativa.</value>
+    <value>As alterações a esta definição só se aplicarão com uma etiqueta de apoiante do osu! ativa.</value>
   </data>
   <data name="song_select_header" xml:space="preserve">
     <value>Seleção da música</value>

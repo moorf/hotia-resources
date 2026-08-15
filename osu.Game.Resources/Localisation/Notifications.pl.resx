@@ -80,7 +80,7 @@
     <value>Automatyczne przejście nie jest dostępne dla bieżącego trybu gry!</value>
   </data>
   <data name="audio_playback_issue" xml:space="preserve">
-    <value>Wygląda na to, że hotia! nie odtwarza dźwięku poprawnie.\n\nSpróbuj wybrać prawidłowe urządzenie wyjścia w ustawieniach.</value>
+    <value>Wygląda na to, że osu! nie odtwarza dźwięku poprawnie.\n\nSpróbuj wybrać prawidłowe urządzenie wyjścia w ustawieniach.</value>
   </data>
   <data name="score_overlay_disabled" xml:space="preserve">
     <value>Wyświetlanie HUD-u jest aktualnie wyłączone. Możesz to zmienić poprzez naciśnięcie {0}.</value>
@@ -131,6 +131,9 @@ Sprawdź, co się zmieniło!</value>
   <data name="mention" xml:space="preserve">
     <value>Wzmianka</value>
   </data>
+  <data name="mention_details" xml:space="preserve">
+    <value>{0} na kanale {1}</value>
+  </data>
   <data name="friend_online" xml:space="preserve">
     <value>Online: {0}</value>
   </data>
@@ -138,7 +141,7 @@ Sprawdź, co się zmieniło!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Połączenie do serwisów online zostało przerwane. hotia! będzie działać z ograniczoną funkcjonalnością.</value>
+    <value>Połączenie z usługami online zostało przerwane. osu! będzie działać z ograniczoną funkcjonalnością.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Nastąpiło wylogowanie z powodu zalogowania się na innym urządzeniu.</value>
@@ -165,13 +168,13 @@ Sprawdź, co się zmieniło!</value>
     <value>Ten błąd został automatycznie zgłoszony do zespołu deweloperskiego.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>Znaleziono nowszą wersję hotia! ({0} → {1}).</value>
+    <value>Znaleziono nowszą wersję osu! ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Kliknij tutaj, aby pobrać nową wersję, która może być zainstalowana na twojej istniejącej instalacji.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Sprawdź swój menedżer pakietów / dostawcę pakietów, aby zaktualizować hotia!</value>
+    <value>Sprawdź swój menedżer pakietów / dostawcę pakietów, aby zaktualizować osu!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>Akcja została przerwana przez przeszkadzające okno dialogowe.</value>
@@ -189,13 +192,14 @@ Sprawdź, co się zmieniło!</value>
     <value>Wyeksportowano logi! Kliknij, aby je wyświetlić.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Uruchamianie hotia! jako {0} nie poprawia wydajności, może sprawić, że niektóre integracje przestaną działać oraz stwarza ono zagrożenie bezpieczeństwa. Uruchom grę jako zwykły użytkownik.</value>
+    <value>Uruchamianie osu! jako {0} nie poprawia wydajności, może sprawić, że niektóre integracje przestaną działać oraz stwarza ono zagrożenie bezpieczeństwa. Uruchom grę jako zwykły użytkownik.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Na macOS, instalacja hotia! do katalogu innego niż /Applications lub {0}/Applications może powodować problemy z aktualizacją gry. Prosimy o przeniesienie instalacji gry do jednego z podanych katalogów.</value>
+    <value>Na macOS, instalacja osu! do katalogu innego niż /Applications lub {0}/Applications może powodować problemy z aktualizacją gry. Prosimy o przeniesienie instalacji gry do jednego z podanych katalogów.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
-    <value>Zapisano zrzut ekranu ({0})!</value>
+    <value>Zapisano zrzut ekranu! Kliknij, aby wyświetlić.
+{0}</value>
   </data>
   <data name="multiplayer_server_shutting_down_immediately" xml:space="preserve">
     <value>Serwer multiplayer niedługo wróci...</value>
@@ -204,7 +208,7 @@ Sprawdź, co się zmieniło!</value>
     <value>Serwer multiplayer zrestartuje się za {0}.</value>
   </data>
   <data name="collection_created" xml:space="preserve">
-    <value>Utworzono nową kolekcję "{0}" z {1} beatmapami.</value>
+    <value>Utworzono nową kolekcję „{0}” z {1} beatmapami.</value>
   </data>
   <data name="collection_beatmaps_added" xml:space="preserve">
     <value>Dodano {0} beatmapów do kolekcji "{1}".</value>
