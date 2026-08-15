@@ -71,7 +71,7 @@
     <value>Nem! Küldetés megszakítása</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Nem sikerült automatikusan megtalálni az osu!stable telepítést.</value>
+    <value>Nem sikerült automatikusan megtalálni az hotia!stable telepítést.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>Nem sikerült megtalálni a meglévő telepítést. Ha tudod, hol található, segíthetsz a megtalálásában.</value>
@@ -80,7 +80,7 @@
     <value>Persze! Tudom, hol van!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>Igazából nincs telepítve az osu!stable.</value>
+    <value>Igazából nincs telepítve az hotia!stable.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Minden helyi eredmény {0}</value>
@@ -92,7 +92,7 @@
     <value>Biztosan meg akarod szakítani a mérkőzést?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Biztosan kilépsz az osu!-ból?</value>
+    <value>Biztosan kilépsz az hotia!-ból?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Utolsó esély a visszafordulásra</value>

@@ -233,7 +233,7 @@
     <value>O acesso beta está atualmente restrito a utilizadores privilegiados.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(apoiantes do osu! terão acesso em breve)</value>
+    <value>(apoiantes do hotia! terão acesso em breve)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>Ativas</value>
@@ -302,7 +302,7 @@
     <value>Por favor, reporte a infração de direitos de autor através de uma reclamação DMCA para {0}, conforme indicado em {1}.</value>
   </data>
   <data name="report.dmca.message_1.policy" xml:space="preserve">
-    <value>a política de direitos de autor do osu!</value>
+    <value>a política de direitos de autor do hotia!</value>
   </data>
   <data name="report.dmca.message_2" xml:space="preserve">
     <value>Isto aplica‑se a casos em que faixas de áudio, conteúdo visual ou conteúdo de níveis (mapas) são utilizados sem a devida autorização.</value>
@@ -353,10 +353,10 @@
     <value>Aqui desde o começo</value>
   </data>
   <data name="show.is_developer" xml:space="preserve">
-    <value>osu!developer</value>
+    <value>hotia!developer</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>apoiante do osu!</value>
+    <value>apoiante do hotia!</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>Juntou-se em {0}</value>
@@ -464,7 +464,7 @@
     <value>Carregamento disponível apenas para {0}</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>apoiantes do osu!</value>
+    <value>apoiantes do hotia!</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>modo de jogo por omissão</value>
@@ -482,7 +482,7 @@
     <value>Temas de cores personalizadas disponíveis apenas no {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>apoiantes do osu!</value>
+    <value>apoiantes do hotia!</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>nenhum</value>
@@ -578,7 +578,7 @@
     <value>Historial recente de kudosu</value>
   </data>
   <data name="show.extra.kudosu.title" xml:space="preserve">
-    <value>Kudosu!</value>
+    <value>Kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.total" xml:space="preserve">
     <value>Total de kudosu ganhos</value>
@@ -587,7 +587,7 @@
     <value>{0} kudosu</value>
   </data>
   <data name="show.extra.kudosu.entry.empty" xml:space="preserve">
-    <value>Este utilizador não recebeu nenhum kudosu!</value>
+    <value>Este utilizador não recebeu nenhum kudhotia!</value>
   </data>
   <data name="show.extra.kudosu.entry.beatmap_discussion.allow_kudosu.give" xml:space="preserve">
     <value>{0} recebido da revogação negada de kudosu da publicação de modificações {1}</value>
@@ -800,7 +800,7 @@
     <value>Precisa de ser um {0} para desbloquear esta funcionalidade.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>apoiante do osu!</value>
+    <value>apoiante do hotia!</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>Contribuiu em {0}</value>

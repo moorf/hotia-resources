@@ -420,9 +420,9 @@ namespace osu.Game.Resources.Localisation.Web
         public static LocalisableString ShowLazerOnlyTitle => new TranslatableString(getKey(@"show.lazer_only.title"), @"Lazer Only");
 
         /// <summary>
-        /// "Due to specific mechanics, this beatmap can only be played on osu!lazer."
+        /// "Due to specific mechanics, this beatmap can only be played on hotia!lazer."
         /// </summary>
-        public static LocalisableString ShowLazerOnlyDescription => new TranslatableString(getKey(@"show.lazer_only.description"), @"Due to specific mechanics, this beatmap can only be played on osu!lazer.");
+        public static LocalisableString ShowLazerOnlyDescription => new TranslatableString(getKey(@"show.lazer_only.description"), @"Due to specific mechanics, this beatmap can only be played on hotia!lazer.");
 
         /// <summary>
         /// "{0} to view scores set on this beatmap."

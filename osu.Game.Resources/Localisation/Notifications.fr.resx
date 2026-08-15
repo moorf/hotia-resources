@@ -197,7 +197,7 @@ Cliquez ici pour voir les nouveautés !</value>
     <value>L'exécution d'hotia! En tant qu' {0} n'améliore pas les performances, peut casser des intégrations et poser un risque de sécurité. Veuillez exécuter le jeu en tant qu'utilisateur normal.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Sur macOS, l'installation d'osu! à un répertoire autre que /Applications ou {0}/Applications peut causer des problèmes pendant la mise à jour du jeu. S'il vous plaît, déplacer l'installation de votre jeu à un des répertoires spécifiés.</value>
+    <value>Sur macOS, l'installation d'hotia! à un répertoire autre que /Applications ou {0}/Applications peut causer des problèmes pendant la mise à jour du jeu. S'il vous plaît, déplacer l'installation de votre jeu à un des répertoires spécifiés.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Capture d'écran {0} enregistrée !</value>

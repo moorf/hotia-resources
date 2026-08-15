@@ -77,7 +77,7 @@
     <value>Próbálja meg beállítani a "Képernyő méretezés" módot, hogy megváltoztassa a játékmenetet vagy a felhasználói felület területét, akár teljes képernyős módban is!</value>
   </data>
   <data name="free_osu_direct" xml:space="preserve">
-    <value>Ami korábban "osu!direct" volt, az mostantól minden felhasználó számára elérhető, akárcsak a weboldalon. Bárhonnan elérheti a(z) {0}! billentyűkombinációval!</value>
+    <value>Ami korábban "hotia!direct" volt, az mostantól minden felhasználó számára elérhető, akárcsak a weboldalon. Bárhonnan elérheti a(z) {0}! billentyűkombinációval!</value>
   </data>
   <data name="replay_seeking" xml:space="preserve">
     <value>A visszajátszások böngészése a képernyő alján lévő előrehaladási sávon való húzással vagy a bal és jobb nyílbillentyűkkel lehetséges!</value>

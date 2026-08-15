@@ -71,7 +71,7 @@
     <value>Nu! Abandonează</value>
   </data>
   <data name="stable_directory_location_header_text" xml:space="preserve">
-    <value>Nu s-a putut localiza automat o instalare osu!stable.</value>
+    <value>Nu s-a putut localiza automat o instalare hotia!stable.</value>
   </data>
   <data name="stable_directory_location_body_text" xml:space="preserve">
     <value>O instalare existentă nu a putut fi localizată. Dacă știi unde se află, poți ajuta la localizarea ei.</value>
@@ -80,7 +80,7 @@
     <value>Sigur! Știu unde se află!</value>
   </data>
   <data name="stable_directory_location_cancel_button" xml:space="preserve">
-    <value>De fapt, nu am instalat osu!stable.</value>
+    <value>De fapt, nu am instalat hotia!stable.</value>
   </data>
   <data name="beatmap_clear_scores_body_text" xml:space="preserve">
     <value>Toate scorurile locale pe {0}</value>
@@ -92,7 +92,7 @@
     <value>Sigur vrei să anulezi meciul?</value>
   </data>
   <data name="confirm_exit_header_text" xml:space="preserve">
-    <value>Ești sigur că vrei să ieși din osu!?</value>
+    <value>Ești sigur că vrei să ieși din hotia!?</value>
   </data>
   <data name="confirm_exit_body_text" xml:space="preserve">
     <value>Ultima șansă de a te întoarce</value>

@@ -137,7 +137,7 @@
     <value>Betöltés böngészőben a beküldés után</value>
   </data>
   <data name="legacy_export_disclaimer" xml:space="preserve">
-    <value>Megjegyzés: Annak érdekében, hogy az osu! valamennyi verziójának felhasználói élvezhessék a beatmapodat, azt visszafelé kompatibilis formátumban exportáljuk. Bár igyekeztünk biztosítani, hogy a folyamat során a beatmap a tervezett formájában továbbra is lejátszható maradjon, előfordulhat, hogy az osu! korábbi verziói által nem támogatott funkciókhoz kapcsolódó egyes adatok elvesznek.</value>
+    <value>Megjegyzés: Annak érdekében, hogy az hotia! valamennyi verziójának felhasználói élvezhessék a beatmapodat, azt visszafelé kompatibilis formátumban exportáljuk. Bár igyekeztünk biztosítani, hogy a folyamat során a beatmap a tervezett formájában továbbra is lejátszható maradjon, előfordulhat, hogy az hotia! korábbi verziói által nem támogatott funkciókhoz kapcsolódó egyes adatok elvesznek.</value>
   </data>
   <data name="empty_beatmaps_cannot_be_submitted" xml:space="preserve">
     <value>Üres Beatmapokat nem lehet beküldeni.</value>

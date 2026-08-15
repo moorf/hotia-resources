@@ -299,7 +299,7 @@
     <value>Questa beatmap contiene video</value>
   </data>
   <data name="show.lazer_only.description" xml:space="preserve">
-    <value>A cause di meccaniche specifiche, questa beatmap può essere giocata solo su osu!lazer.</value>
+    <value>A cause di meccaniche specifiche, questa beatmap può essere giocata solo su hotia!lazer.</value>
   </data>
   <data name="show.nsfw_warning.details" xml:space="preserve">
     <value>Questa beatmap ha contenuti espliciti, offensivi o disturbanti. Vuoi vederla comunque?</value>

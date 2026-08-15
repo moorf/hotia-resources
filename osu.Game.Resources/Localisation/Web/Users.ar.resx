@@ -219,7 +219,7 @@
     <value>كلمة السر</value>
   </data>
   <data name="login.register" xml:space="preserve">
-    <value>لا تملك حسابًا في osu!؟ أنشئ حسابًا جديدًا</value>
+    <value>لا تملك حسابًا في hotia!؟ أنشئ حسابًا جديدًا</value>
   </data>
   <data name="login.remember" xml:space="preserve">
     <value>تذكر هذا الجهاز</value>
@@ -234,7 +234,7 @@
     <value>وصول البيتا مقيد حالياََ للمستخدمين ذوي الاِمتيازات فقط.</value>
   </data>
   <data name="login.beta.small" xml:space="preserve">
-    <value>(سوف يحصل عليه osu!supporters قريبا)</value>
+    <value>(سوف يحصل عليه hotia!supporters قريبا)</value>
   </data>
   <data name="multiplayer.index.active" xml:space="preserve">
     <value>نشطة</value>
@@ -357,7 +357,7 @@
     <value>مطور!osu</value>
   </data>
   <data name="show.is_supporter" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.joined_at" xml:space="preserve">
     <value>انضم في {0}</value>
@@ -465,7 +465,7 @@
     <value>الرفع متاح لـ {0} فقط</value>
   </data>
   <data name="show.edit.cover.upload.restriction_info.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.edit.default_playmode.is_default_tooltip" xml:space="preserve">
     <value>وضع اللعبة الافتراضي</value>
@@ -483,7 +483,7 @@
     <value>تتوفر سمات ألوان مخصصة فقط لـ {0}</value>
   </data>
   <data name="show.edit.hue.supporter.link" xml:space="preserve">
-    <value>osu!supporters</value>
+    <value>hotia!supporters</value>
   </data>
   <data name="show.extra.none" xml:space="preserve">
     <value>بلا</value>
@@ -801,7 +801,7 @@
     <value>تحتاج ان تكون {0} لفتح هذه الميزة.</value>
   </data>
   <data name="show.page.restriction_info.link" xml:space="preserve">
-    <value>osu!supporter</value>
+    <value>hotia!supporter</value>
   </data>
   <data name="show.post_count._" xml:space="preserve">
     <value>ساهم بـ {0}</value>
@@ -894,7 +894,7 @@
     <value>الرجاء التسجيل داخل اللعبة بدلاً من هنا!</value>
   </data>
   <data name="store.from_web" xml:space="preserve">
-    <value>يرجى إكمال التسجيل عبر موقع osu!</value>
+    <value>يرجى إكمال التسجيل عبر موقع hotia!</value>
   </data>
   <data name="store.saved" xml:space="preserve">
     <value>انشأ المستخدم</value>

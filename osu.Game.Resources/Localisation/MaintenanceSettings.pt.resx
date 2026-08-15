@@ -77,7 +77,7 @@
     <value>Por favor, selecione um novo local</value>
   </data>
   <data name="target_directory_already_installed_osu" xml:space="preserve">
-    <value>O diretório de destino já parece ter uma instalação do osu!. Usar esses dados em vez disso? O osu! será reiniciado.</value>
+    <value>O diretório de destino já parece ter uma instalação do hotia!. Usar esses dados em vez disso? O hotia! será reiniciado.</value>
   </data>
   <data name="delete_all_beatmaps" xml:space="preserve">
     <value>Eliminar TODOS os mapas</value>
@@ -128,7 +128,7 @@
     <value>Nenhuma predefinição de modificações encontrada para restaurar!</value>
   </data>
   <data name="stable_directory_select_header" xml:space="preserve">
-    <value>Por favor, selecione o local da instalação do osu!stable</value>
+    <value>Por favor, selecione o local da instalação do hotia!stable</value>
   </data>
   <data name="all_offsets_reset" xml:space="preserve">
     <value>Todos os desvios foram repostos!</value>

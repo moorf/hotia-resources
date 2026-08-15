@@ -59,9 +59,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="thank_you_for_supporting" xml:space="preserve">
-    <value>Eternal thanks to you for supporting osu!</value>
+    <value>Eternal thanks to you for supporting hotia!</value>
   </data>
   <data name="consider_becoming_a_supporter" xml:space="preserve">
-    <value>Consider becoming an [osu!supporter]({0}) to help support osu!'s development</value>
+    <value>Consider becoming an [hotia!supporter]({0}) to help support hotia!'s development</value>
   </data>
 </root>

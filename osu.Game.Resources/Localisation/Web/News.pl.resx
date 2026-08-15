@@ -98,7 +98,7 @@
     <value>Monthly Beatmapping Contest</value>
   </data>
   <data name="series.merch_runs" xml:space="preserve">
-    <value>produkty w sklepie osu!</value>
+    <value>produkty w sklepie hotia!</value>
   </data>
   <data name="series.miscellaneous" xml:space="preserve">
     <value>inne ogłoszenia</value>
@@ -119,7 +119,7 @@
     <value>zmiany w systemie rankingowym</value>
   </data>
   <data name="series.world_cups" xml:space="preserve">
-    <value>mistrzostwa świata w osu!</value>
+    <value>mistrzostwa świata w hotia!</value>
   </data>
   <data name="show.by" xml:space="preserve">
     <value>od {0}</value>

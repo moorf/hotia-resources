@@ -302,7 +302,7 @@
     <value>仅 Lazer</value>
   </data>
   <data name="show.lazer_only.description" xml:space="preserve">
-    <value>由于特殊机制，此谱面仅可在 osu!lazer 上游玩。</value>
+    <value>由于特殊机制，此谱面仅可在 hotia!lazer 上游玩。</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode._" xml:space="preserve">
     <value>{0} 以查看此谱面的成绩。</value>

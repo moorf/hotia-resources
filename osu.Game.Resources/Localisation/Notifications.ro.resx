@@ -141,7 +141,7 @@ Click pentru a vedea ce este nou!</value>
     <value>Offline: {0}</value>
   </data>
   <data name="api_connection_interrupted" xml:space="preserve">
-    <value>Conexiunea la serviciile online a fost întreruptă. osu! va funcționa cu funcționalitate limitată.</value>
+    <value>Conexiunea la serviciile online a fost întreruptă. hotia! va funcționa cu funcționalitate limitată.</value>
   </data>
   <data name="another_device_disconnect" xml:space="preserve">
     <value>Ați fost deconectat de pe acest dispozitiv din cauza unei autentificări pe contul dvs. de pe un alt dispozitiv.</value>
@@ -168,13 +168,13 @@ Click pentru a vedea ce este nou!</value>
     <value>Această eroare a fost raportată automat echipei de dezvoltatori.</value>
   </data>
   <data name="update_available" xml:space="preserve">
-    <value>O nouă versiune de osu! a fost găsită ({0} → {1}).</value>
+    <value>O nouă versiune de hotia! a fost găsită ({0} → {1}).</value>
   </data>
   <data name="update_available_manual_install" xml:space="preserve">
     <value>Click aici pentru a descărca noua versiune, care poate fi instalată peste instalarea existentă.</value>
   </data>
   <data name="update_available_package_managed" xml:space="preserve">
-    <value>Bifați cu managerul / furnizorul dvs. de pachete pentru a aduce osu! la zi!</value>
+    <value>Bifați cu managerul / furnizorul dvs. de pachete pentru a aduce hotia! la zi!</value>
   </data>
   <data name="action_interrupted_by_dialog" xml:space="preserve">
     <value>O acțiune a fost întreruptă din cauza unui dialog care a fost afișat.</value>
@@ -192,10 +192,10 @@ Click pentru a vedea ce este nou!</value>
     <value>Jurnale exportate! Click pentru a vizualiza.</value>
   </data>
   <data name="elevated_privileges" xml:space="preserve">
-    <value>Rularea osu! ca {0} nu îmbunătățește performanța, poate strica integrările și prezintă un risc de securitate. Vă rugăm să rulați jocul ca utilizator normal.</value>
+    <value>Rularea hotia! ca {0} nu îmbunătățește performanța, poate strica integrările și prezintă un risc de securitate. Vă rugăm să rulați jocul ca utilizator normal.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>Pe macOS, instalarea osu! într-un alt director decât /Applications sau {0}/Applications poate provoca probleme cu actualizarea jocului. Vă rugăm să mutați instalarea jocului în una dintre aceste locații.</value>
+    <value>Pe macOS, instalarea hotia! într-un alt director decât /Applications sau {0}/Applications poate provoca probleme cu actualizarea jocului. Vă rugăm să mutați instalarea jocului în una dintre aceste locații.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Captură de ecran salvată! Click pentru vizualizare.

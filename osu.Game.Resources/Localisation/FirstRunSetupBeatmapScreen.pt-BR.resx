@@ -62,13 +62,13 @@
     <value>Obter Beatmaps</value>
   </data>
   <data name="description" xml:space="preserve">
-    <value>"Beatmaps" são o que chamamos fases jogáveis. O osu! não vem com nenhum beatmap pré-instalado. Essa etapa irá lhe ajudar a começar a sua coleção de beatmaps.</value>
+    <value>"Beatmaps" são o que chamamos fases jogáveis. O hotia! não vem com nenhum beatmap pré-instalado. Essa etapa irá lhe ajudar a começar a sua coleção de beatmaps.</value>
   </data>
   <data name="tutorial_description" xml:space="preserve">
     <value>Se é a sua primeira vez jogando, recomendamos que jogue o tutorial para se familiarizar com o jogo.</value>
   </data>
   <data name="tutorial_button" xml:space="preserve">
-    <value>Baixe o tutorial do osu!</value>
+    <value>Baixe o tutorial do hotia!</value>
   </data>
   <data name="bundled_description" xml:space="preserve">
     <value>Para começar, temos algumas recomendações de beatmaps.</value>

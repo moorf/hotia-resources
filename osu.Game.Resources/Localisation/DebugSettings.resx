@@ -68,7 +68,7 @@
     <value>Import all files from directory</value>
   </data>
   <data name="import_all_files_from_directory_tooltip" xml:space="preserve">
-    <value>Imports all osu! files from selected directory</value>
+    <value>Imports all hotia! files from selected directory</value>
   </data>
   <data name="select_file" xml:space="preserve">
     <value>Select a file</value>

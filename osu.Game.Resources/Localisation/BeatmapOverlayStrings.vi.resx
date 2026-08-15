@@ -64,12 +64,12 @@
   <data name="by_turning_off_the_featured" xml:space="preserve">
     <value>Bằng cách tắt bộ lọc "Featured Artists", tất cả nội dung do người dùng tải lên sẽ được hiển thị.
 
-Nó sẽ bao gồm những nội dung có thể không được cấp phép đúng cách cho osu!. Bạn sẽ tự chịu rủi ro khi duyệt.</value>
+Nó sẽ bao gồm những nội dung có thể không được cấp phép đúng cách cho hotia!. Bạn sẽ tự chịu rủi ro khi duyệt.</value>
   </data>
   <data name="understood" xml:space="preserve">
     <value>Tôi hiểu</value>
   </data>
   <data name="featured_artists_disabled_tooltip" xml:space="preserve">
-    <value>Featured Artists là những nghệ sĩ âm nhạc đã hợp tác với osu! để đưa một số bản nhạc của họ lên, cho phép cộng đồng sử dụng chúng trong beatmap. Đối với một số bản phát hành của osu!, chúng tôi chỉ giới thiệu các beatmap sử dụng nhạc từ các featured artist nhằm hỗ trợ tốt hơn cho hệ sinh thái này.</value>
+    <value>Featured Artists là những nghệ sĩ âm nhạc đã hợp tác với hotia! để đưa một số bản nhạc của họ lên, cho phép cộng đồng sử dụng chúng trong beatmap. Đối với một số bản phát hành của hotia!, chúng tôi chỉ giới thiệu các beatmap sử dụng nhạc từ các featured artist nhằm hỗ trợ tốt hơn cho hệ sinh thái này.</value>
   </data>
 </root>

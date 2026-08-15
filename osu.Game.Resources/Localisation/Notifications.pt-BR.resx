@@ -197,7 +197,7 @@ Clique para ver o que há de novo!</value>
     <value>Executar o hotia! como {0} não melhora o desempenho, pode quebrar integrações e representa um risco de segurança. Por favor, execute o jogo como um usuário normal.</value>
   </data>
   <data name="macos_app_location" xml:space="preserve">
-    <value>No macOS, instalar o osu! em um diretório diferente de /Aplicativos ou {0}/Aplicativos pode causar problemas ao atualizar o jogo. Mova sua instalação para uma dessas localizações.</value>
+    <value>No macOS, instalar o hotia! em um diretório diferente de /Aplicativos ou {0}/Aplicativos pode causar problemas ao atualizar o jogo. Mova sua instalação para uma dessas localizações.</value>
   </data>
   <data name="screenshot_saved" xml:space="preserve">
     <value>Captura de tela {0} salva!</value>

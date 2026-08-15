@@ -305,7 +305,7 @@
     <value>Lazer Only</value>
   </data>
   <data name="show.lazer_only.description" xml:space="preserve">
-    <value>Due to specific mechanics, this beatmap can only be played on osu!lazer.</value>
+    <value>Due to specific mechanics, this beatmap can only be played on hotia!lazer.</value>
   </data>
   <data name="show.lazer_only.scoreboard_switch_mode._" xml:space="preserve">
     <value>{0} to view scores set on this beatmap.</value>
